@@ -1,0 +1,783 @@
+/* ============================================
+   Components CSS — 학습 모듈 스타일
+   ============================================ */
+
+/* ============================================
+   FlashCard
+   ============================================ */
+.flashcard-container {
+  perspective: 1000px;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.flashcard {
+  width: 100%;
+  aspect-ratio: 3/2;
+  position: relative;
+  cursor: pointer;
+  transform-style: preserve-3d;
+  transition: transform 0.6s cubic-bezier(0.4,0,0.2,1);
+}
+.flashcard.flipped { transform: rotateY(180deg); }
+
+.flashcard-face {
+  position: absolute; inset: 0;
+  backface-visibility: hidden;
+  border-radius: var(--r-xl);
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+  padding: var(--sp-xl);
+  text-align: center;
+}
+
+.flashcard-front {
+  background: linear-gradient(145deg, var(--c-surface2), var(--c-surface));
+  border: 1.5px solid var(--c-border);
+}
+.flashcard-front .fc-word {
+  font-size: 1.6rem; font-weight: 700; color: var(--c-text);
+  word-break: keep-all;
+}
+.flashcard-front .fc-pos {
+  font-size: 0.85rem; color: var(--c-text-muted); margin-top: var(--sp-xs);
+}
+.flashcard-front .fc-hint {
+  font-size: 0.8rem; color: var(--c-text-muted); margin-top: var(--sp-md);
+  opacity: 0.6;
+}
+
+.flashcard-back {
+  background: linear-gradient(145deg, #1a1f3a, #151a30);
+  border: 1.5px solid var(--c-primary);
+  transform: rotateY(180deg);
+}
+.flashcard-back .fc-meaning {
+  font-size: 1.4rem; font-weight: 700;
+  color: var(--c-primary);
+}
+.flashcard-back .fc-example {
+  font-size: 0.85rem; color: var(--c-text-dim); margin-top: var(--sp-md);
+  line-height: 1.5; font-style: italic;
+}
+
+.fc-actions {
+  display: flex; gap: var(--sp-md); justify-content: center; margin-top: var(--sp-lg);
+}
+.fc-btn-know, .fc-btn-dunno {
+  padding: 12px 28px; border-radius: var(--r-md);
+  font-weight: 600; font-size: 0.95rem; cursor: pointer;
+  border: none; transition: var(--t-fast);
+}
+.fc-btn-know { background: var(--c-success); color: white; }
+.fc-btn-know:hover { background: #16a34a; transform: scale(1.05); }
+.fc-btn-dunno { background: var(--c-danger); color: white; }
+.fc-btn-dunno:hover { background: #dc2626; transform: scale(1.05); }
+
+.fc-counter {
+  text-align: center; color: var(--c-text-dim); font-size: 0.85rem;
+  margin-bottom: var(--sp-md);
+}
+
+.fc-swipe-hint {
+  text-align: center; color: var(--c-text-muted); font-size: 0.75rem;
+  margin-top: var(--sp-sm);
+}
+
+/* ============================================
+   Quiz Container (공통)
+   ============================================ */
+.quiz-header {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-bottom: var(--sp-lg);
+}
+.quiz-progress {
+  font-size: 0.85rem; color: var(--c-text-dim);
+  font-weight: 600;
+}
+.quiz-score {
+  font-size: 0.85rem; color: var(--c-success);
+  font-weight: 600;
+}
+
+.quiz-question {
+  background: var(--c-surface);
+  border: 1px solid var(--c-border);
+  border-radius: var(--r-lg);
+  padding: var(--sp-xl);
+  margin-bottom: var(--sp-md);
+}
+
+.quiz-question .q-label {
+  font-size: 0.75rem; color: var(--c-text-muted);
+  text-transform: uppercase; letter-spacing: 1px;
+  margin-bottom: var(--sp-sm);
+}
+
+.quiz-question .q-text {
+  font-size: 1.15rem; font-weight: 600; line-height: 1.7;
+  color: var(--c-text);
+}
+
+.quiz-question .q-text .blank {
+  display: inline-block;
+  min-width: 100px;
+  border-bottom: 2px dashed var(--c-primary);
+  padding: 2px 8px;
+  margin: 0 4px;
+  color: var(--c-primary);
+  font-weight: 700;
+}
+
+/* ============================================
+   Options (MultiChoice / TrueFalse)
+   ============================================ */
+.options-list {
+  display: flex; flex-direction: column; gap: var(--sp-sm);
+  margin-top: var(--sp-md);
+}
+
+.option-btn {
+  display: flex; align-items: center; gap: var(--sp-md);
+  width: 100%;
+  padding: 14px 18px;
+  background: var(--c-surface2);
+  border: 1.5px solid var(--c-border);
+  border-radius: var(--r-md);
+  color: var(--c-text);
+  font-size: 1rem;
+  cursor: pointer;
+  transition: var(--t-fast);
+  text-align: left;
+}
+.option-btn:hover { border-color: var(--c-primary); background: var(--c-primary-glow); }
+
+.option-btn.correct {
+  border-color: var(--c-success); background: var(--c-success-glow);
+  color: var(--c-success);
+}
+.option-btn.wrong {
+  border-color: var(--c-danger); background: var(--c-danger-glow);
+  color: var(--c-danger);
+}
+
+.option-label {
+  width: 28px; height: 28px;
+  border-radius: 50%;
+  background: var(--c-surface3);
+  display: flex; align-items: center; justify-content: center;
+  font-weight: 700; font-size: 0.8rem;
+  flex-shrink: 0;
+}
+
+/* ============================================
+   Fill Blank Input
+   ============================================ */
+.fill-input-area {
+  display: flex; gap: var(--sp-sm); margin-top: var(--sp-md);
+  flex-wrap: wrap;
+}
+.fill-input {
+  flex: 1; min-width: 150px;
+  padding: 12px 16px;
+  background: var(--c-surface2);
+  border: 1.5px solid var(--c-border);
+  border-radius: var(--r-md);
+  color: var(--c-text);
+  font-size: 1rem;
+  outline: none;
+  transition: var(--t-fast);
+  font-family: inherit;
+}
+.fill-input:focus { border-color: var(--c-primary); box-shadow: 0 0 0 3px var(--c-primary-glow); }
+.fill-input.correct { border-color: var(--c-success); }
+.fill-input.wrong { border-color: var(--c-danger); }
+
+.fill-submit {
+  padding: 12px 24px;
+  background: var(--c-primary);
+  color: white;
+  border: none;
+  border-radius: var(--r-md);
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--t-fast);
+}
+.fill-submit:hover { background: var(--c-accent1); }
+.fill-submit:disabled { opacity: 0.5; cursor: not-allowed; }
+
+/* ============================================
+   Word Order (Tap to Select)
+   ============================================ */
+.word-bank {
+  display: flex; flex-wrap: wrap; gap: var(--sp-sm);
+  justify-content: center;
+  margin-top: var(--sp-md);
+}
+
+.word-chip {
+  padding: 10px 18px;
+  background: var(--c-surface2);
+  border: 1.5px solid var(--c-border);
+  border-radius: var(--r-full);
+  color: var(--c-text);
+  font-size: 0.95rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: var(--t-fast);
+  user-select: none;
+}
+.word-chip:hover { border-color: var(--c-primary); transform: scale(1.05); }
+.word-chip.selected {
+  background: var(--c-primary);
+  border-color: var(--c-primary);
+  color: white;
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.word-answer-area {
+  min-height: 56px;
+  background: var(--c-surface2);
+  border: 2px dashed var(--c-border);
+  border-radius: var(--r-lg);
+  padding: var(--sp-md);
+  display: flex; flex-wrap: wrap; gap: var(--sp-sm);
+  align-items: center;
+  margin-top: var(--sp-md);
+  transition: var(--t-fast);
+}
+.word-answer-area.active { border-color: var(--c-primary); }
+
+.placed-word {
+  padding: 8px 16px;
+  background: var(--c-primary);
+  border-radius: var(--r-full);
+  color: white;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  animation: popIn 0.25s ease;
+}
+.placed-word:hover { opacity: 0.7; }
+
+/* ============================================
+   Error Correction
+   ============================================ */
+.error-sentence {
+  font-size: 1.15rem; line-height: 2;
+  padding: var(--sp-lg);
+  background: var(--c-surface);
+  border: 1px solid var(--c-border);
+  border-radius: var(--r-lg);
+}
+.error-word {
+  color: var(--c-danger);
+  text-decoration: underline wavy var(--c-danger);
+  cursor: pointer;
+  font-weight: 600;
+  padding: 2px 4px;
+  border-radius: 4px;
+  transition: var(--t-fast);
+}
+.error-word:hover { background: var(--c-danger-glow); }
+.error-word.corrected {
+  color: var(--c-success);
+  text-decoration: line-through;
+}
+
+/* ============================================
+   Feedback
+   ============================================ */
+.feedback {
+  padding: var(--sp-md) var(--sp-lg);
+  border-radius: var(--r-md);
+  margin-top: var(--sp-md);
+  animation: slideUp 0.3s ease;
+}
+.feedback.correct {
+  background: var(--c-success-glow);
+  border: 1px solid var(--c-success);
+  color: var(--c-success);
+}
+.feedback.wrong {
+  background: var(--c-danger-glow);
+  border: 1px solid var(--c-danger);
+  color: #fca5a5;
+}
+.feedback .fb-icon { font-size: 1.3rem; margin-right: var(--sp-sm); }
+.feedback .fb-exp {
+  display: block; margin-top: var(--sp-sm);
+  font-size: 0.85rem; color: var(--c-text-dim);
+  line-height: 1.5;
+}
+
+/* ============================================
+   Result Page
+   ============================================ */
+.result-card {
+  text-align: center;
+  padding: var(--sp-2xl);
+}
+.result-emoji { font-size: 4rem; margin-bottom: var(--sp-md); }
+.result-score {
+  font-size: 3rem; font-weight: 800;
+  background: linear-gradient(135deg, var(--c-primary), var(--c-accent2));
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+}
+.result-label { color: var(--c-text-dim); font-size: 1rem; margin-top: var(--sp-xs); }
+.result-xp {
+  margin-top: var(--sp-lg);
+  font-size: 1.2rem; font-weight: 700;
+  color: var(--c-gold);
+  animation: celebrate 0.5s ease;
+}
+.result-actions {
+  display: flex; gap: var(--sp-md); justify-content: center; margin-top: var(--sp-xl);
+  flex-wrap: wrap;
+}
+
+/* ============================================
+   Report Button
+   ============================================ */
+.report-btn {
+  position: fixed; bottom: 20px; right: 20px;
+  width: 44px; height: 44px;
+  border-radius: 50%;
+  background: var(--c-surface2);
+  border: 1px solid var(--c-border);
+  color: var(--c-text-muted);
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: var(--t-fast);
+  z-index: 50;
+  display: flex; align-items: center; justify-content: center;
+}
+.report-btn:hover { border-color: var(--c-warning); color: var(--c-warning); }
+
+.report-modal {
+  position: fixed; inset: 0; z-index: 200;
+  background: rgba(0,0,0,0.7);
+  display: flex; align-items: center; justify-content: center;
+  padding: var(--sp-md);
+}
+.report-modal-content {
+  background: var(--c-surface);
+  border: 1px solid var(--c-border);
+  border-radius: var(--r-xl);
+  padding: var(--sp-xl);
+  width: 100%; max-width: 420px;
+}
+.report-textarea {
+  width: 100%;
+  min-height: 100px;
+  padding: var(--sp-md);
+  background: var(--c-surface2);
+  border: 1px solid var(--c-border);
+  border-radius: var(--r-md);
+  color: var(--c-text);
+  font-family: inherit;
+  font-size: 0.95rem;
+  resize: vertical;
+  outline: none;
+  margin-top: var(--sp-md);
+}
+.report-textarea:focus { border-color: var(--c-primary); }
+
+/* ============================================
+   Spelling Quiz
+   ============================================ */
+.spelling-area {
+  margin-top: var(--sp-md);
+}
+.spelling-hint {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  font-family: monospace;
+  letter-spacing: 4px;
+  color: var(--c-text-muted);
+  margin-bottom: var(--sp-md);
+  padding: var(--sp-md);
+  background: var(--c-surface2);
+  border-radius: var(--r-md);
+}
+.spelling-input {
+  width: 100%;
+  padding: 14px 16px;
+  background: var(--c-surface2);
+  border: 2px solid var(--c-border);
+  border-radius: var(--r-md);
+  color: var(--c-text);
+  font-size: 1.2rem;
+  font-family: inherit;
+  text-align: center;
+  letter-spacing: 2px;
+  outline: none;
+  transition: var(--t-fast);
+}
+.spelling-input:focus { border-color: var(--c-primary); box-shadow: 0 0 0 3px var(--c-primary-glow); }
+.spelling-input.correct { border-color: var(--c-success); background: var(--c-success-glow); }
+.spelling-input.wrong { border-color: var(--c-danger); background: var(--c-danger-glow); }
+
+.spelling-btns {
+  display: flex; gap: var(--sp-sm); margin-top: var(--sp-sm);
+  justify-content: flex-end;
+}
+.spelling-example {
+  margin-top: var(--sp-md);
+  padding: var(--sp-md);
+  background: var(--c-surface2);
+  border-radius: var(--r-md);
+  border-left: 3px solid var(--c-info);
+}
+
+/* ============================================
+   True/False Buttons
+   ============================================ */
+.tf-buttons {
+  display: flex; gap: var(--sp-md); margin-top: var(--sp-lg);
+}
+.tf-btn {
+  flex: 1;
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+  gap: var(--sp-sm);
+  padding: 24px;
+  background: var(--c-surface2);
+  border: 2px solid var(--c-border);
+  border-radius: var(--r-xl);
+  color: var(--c-text);
+  font-size: 1rem; font-weight: 600;
+  cursor: pointer;
+  transition: var(--t-normal);
+}
+.tf-btn:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); }
+.tf-true:hover { border-color: var(--c-success); }
+.tf-false:hover { border-color: var(--c-danger); }
+.tf-icon { font-size: 2rem; }
+.tf-btn.tf-correct { border-color: var(--c-success); background: var(--c-success-glow); color: var(--c-success); }
+.tf-btn.tf-wrong { border-color: var(--c-danger); background: var(--c-danger-glow); color: var(--c-danger); }
+
+/* ============================================
+   Error Correction Input
+   ============================================ */
+.error-input-area { margin-top: var(--sp-md); }
+.error-arrow {
+  display: flex; align-items: center; gap: var(--sp-sm);
+  flex-wrap: wrap;
+}
+.error-from {
+  padding: 8px 16px;
+  background: var(--c-danger-glow);
+  border: 1px solid var(--c-danger);
+  border-radius: var(--r-md);
+  color: var(--c-danger);
+  font-weight: 600;
+  text-decoration: line-through;
+}
+.error-input {
+  flex: 1; min-width: 150px;
+  padding: 10px 16px;
+  background: var(--c-surface2);
+  border: 2px solid var(--c-border);
+  border-radius: var(--r-md);
+  color: var(--c-text);
+  font-size: 1rem;
+  outline: none;
+  transition: var(--t-fast);
+  font-family: inherit;
+}
+.error-input:focus { border-color: var(--c-primary); box-shadow: 0 0 0 3px var(--c-primary-glow); }
+.error-input.correct { border-color: var(--c-success); }
+.error-input.wrong { border-color: var(--c-danger); }
+
+/* ============================================
+   Writing Mode
+   ============================================ */
+.writing-area { margin-top: var(--sp-md); }
+.writing-input {
+  width: 100%;
+  padding: var(--sp-md);
+  background: var(--c-surface2);
+  border: 2px solid var(--c-border);
+  border-radius: var(--r-md);
+  color: var(--c-text);
+  font-size: 1rem;
+  font-family: inherit;
+  line-height: 1.7;
+  outline: none;
+  resize: vertical;
+  transition: var(--t-fast);
+}
+.writing-input:focus { border-color: var(--c-primary); box-shadow: 0 0 0 3px var(--c-primary-glow); }
+.writing-tools {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-top: var(--sp-sm);
+}
+.char-count { color: var(--c-text-muted); font-size: 0.8rem; }
+.writing-model {
+  margin-top: var(--sp-md);
+  padding: var(--sp-md);
+  background: var(--c-surface2);
+  border-radius: var(--r-md);
+  border-left: 3px solid var(--c-info);
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+/* ============================================
+   Match Game
+   ============================================ */
+.match-stats {
+  display: flex; justify-content: center; gap: var(--sp-xl);
+  color: var(--c-text-dim); font-size: 0.9rem; font-weight: 600;
+  margin-bottom: var(--sp-md);
+}
+.match-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--sp-sm);
+}
+.match-card {
+  aspect-ratio: 1;
+  perspective: 600px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+.match-card-inner {
+  position: relative;
+  width: 100%; height: 100%;
+  transition: transform 0.4s ease;
+  transform-style: preserve-3d;
+  display: block;
+}
+.match-card.match-flipped .match-card-inner,
+.match-card.match-done .match-card-inner { transform: rotateY(180deg); }
+
+.match-card-front, .match-card-back {
+  position: absolute; inset: 0;
+  backface-visibility: hidden;
+  border-radius: var(--r-md);
+  display: flex; align-items: center; justify-content: center;
+  font-weight: 600; font-size: 0.85rem;
+  padding: 4px;
+  text-align: center;
+  word-break: keep-all;
+}
+.match-card-front {
+  background: linear-gradient(135deg, var(--c-surface2), var(--c-surface3));
+  border: 1.5px solid var(--c-border);
+  color: var(--c-text-muted);
+  font-size: 1.5rem;
+}
+.match-card-back {
+  transform: rotateY(180deg);
+  border: 1.5px solid var(--c-border);
+}
+.match-card-back.match-en {
+  background: linear-gradient(135deg, #1a1f3a, #151a30);
+  border-color: var(--c-primary);
+  color: var(--c-primary);
+}
+.match-card-back.match-ko {
+  background: linear-gradient(135deg, #1a2a1f, #152015);
+  border-color: var(--c-success);
+  color: var(--c-success);
+}
+.match-card.match-done { opacity: 0.4; pointer-events: none; }
+.match-card.match-done .match-card-inner { transform: rotateY(180deg) scale(0.9); }
+
+@media (max-width: 480px) {
+  .match-grid { grid-template-columns: repeat(4, 1fr); gap: 4px; }
+  .match-card-back { font-size: 0.7rem; }
+}
+
+/* ============================================
+   Sentence Builder
+   ============================================ */
+.sb-hints {
+  display: flex; flex-wrap: wrap; gap: var(--sp-xs); align-items: center;
+  margin-top: var(--sp-md);
+  padding: var(--sp-sm) var(--sp-md);
+  background: var(--c-surface2);
+  border-radius: var(--r-md);
+}
+.sb-hint-word {
+  padding: 4px 10px;
+  background: var(--c-primary-glow);
+  border: 1px solid var(--c-primary);
+  border-radius: var(--r-full);
+  color: var(--c-primary);
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+/* ============================================
+   Word Order Controls
+   ============================================ */
+.wo-controls {
+  display: flex; gap: var(--sp-sm); margin-top: var(--sp-md);
+}
+.wo-placeholder {
+  color: var(--c-text-muted); font-size: 0.85rem;
+}
+
+/* ============================================
+   XP Popup & Results extras
+   ============================================ */
+.xp-popup {
+  position: fixed;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 1.5rem; font-weight: 800;
+  color: var(--c-gold);
+  pointer-events: none;
+  z-index: 300;
+  animation: xpFloat 1.2s ease forwards;
+}
+@keyframes xpFloat {
+  0% { opacity: 1; transform: translate(-50%, -50%) scale(0.5); }
+  50% { opacity: 1; transform: translate(-50%, -80%) scale(1.3); }
+  100% { opacity: 0; transform: translate(-50%, -120%) scale(1); }
+}
+
+.result-time {
+  color: var(--c-text-dim); font-size: 0.9rem; margin-top: var(--sp-xs);
+}
+
+.wrong-words-list {
+  margin-top: var(--sp-lg); text-align: left;
+  padding: var(--sp-md); background: var(--c-surface2); border-radius: var(--r-md);
+}
+.wrong-words-list strong { color: var(--c-danger); }
+.wrong-words-list ul { list-style: none; padding: 0; margin-top: var(--sp-sm); }
+.wrong-words-list li {
+  padding: 4px 0; color: var(--c-text-dim); font-size: 0.9rem;
+}
+
+/* ============================================
+   Light Theme Overrides
+   ============================================ */
+[data-theme="light"] .flashcard-front {
+  background: linear-gradient(145deg, var(--c-surface), var(--c-surface2));
+}
+[data-theme="light"] .flashcard-back {
+  background: linear-gradient(145deg, #eef2ff, #e0e7ff);
+  border-color: var(--c-primary);
+}
+[data-theme="light"] .match-card-back.match-en {
+  background: linear-gradient(135deg, #eef2ff, #e0e7ff);
+}
+[data-theme="light"] .match-card-back.match-ko {
+  background: linear-gradient(135deg, #ecfdf5, #d1fae5);
+}
+[data-theme="light"] .match-card-front {
+  background: linear-gradient(135deg, var(--c-surface2), var(--c-surface3));
+}
+[data-theme="light"] .google-btn {
+  background: white; color: #333;
+  border: 1px solid #d1d5db;
+}
+[data-theme="light"] .error-from {
+  background: rgba(220,38,38,0.08);
+}
+
+/* ============================================
+   Mobile Responsive — Quiz Components
+   ============================================ */
+@media (max-width: 430px) {
+  /* Flashcard */
+  .flashcard-container { max-width: 100%; }
+  .flashcard { aspect-ratio: 5/3; }
+  .flashcard-front .fc-word { font-size: 1.3rem; }
+  .flashcard-back .fc-meaning { font-size: 1.2rem; }
+  .flashcard-back .fc-example { font-size: 0.8rem; }
+  .fc-actions { gap: var(--sp-sm); }
+  .fc-btn-know, .fc-btn-dunno { padding: 10px 20px; font-size: 0.85rem; }
+  .fc-swipe-hint { font-size: 0.7rem; }
+
+  /* Quiz */
+  .quiz-question { padding: var(--sp-md); }
+  .quiz-question .q-text { font-size: 1rem; }
+  .quiz-question .q-label { font-size: 0.7rem; }
+  .option-btn { padding: 12px 14px; font-size: 0.9rem; }
+  .option-label { width: 26px; height: 26px; font-size: 0.75rem; }
+
+  /* Spelling */
+  .spelling-hint { font-size: 1.2rem; letter-spacing: 3px; padding: var(--sp-sm); }
+  .spelling-input { font-size: 1rem; padding: 12px; }
+  .spelling-btns { flex-wrap: wrap; }
+
+  /* TF */
+  .tf-btn { padding: 18px 12px; }
+  .tf-icon { font-size: 1.6rem; }
+  .tf-btn span:last-child { font-size: 0.9rem; }
+
+  /* Fill Blank */
+  .fill-input-area { flex-direction: column; }
+  .fill-input { min-width: 100%; }
+  .fill-submit { width: 100%; }
+
+  /* Word Order */
+  .word-chip { padding: 8px 14px; font-size: 0.85rem; }
+  .placed-word { padding: 6px 12px; font-size: 0.8rem; }
+  .word-answer-area { min-height: 48px; padding: var(--sp-sm); }
+  .wo-controls { flex-wrap: wrap; }
+  .wo-controls button { flex: 1; min-width: 80px; font-size: 0.85rem; }
+
+  /* Error Correction */
+  .error-arrow { flex-direction: column; align-items: stretch; }
+  .error-from { text-align: center; }
+  .error-input { min-width: 100%; }
+
+  /* Writing */
+  .writing-input { font-size: 0.9rem; }
+  .writing-tools { flex-wrap: wrap; gap: var(--sp-sm); }
+
+  /* Match Game */
+  .match-grid { gap: 4px; }
+  .match-card-front { font-size: 1.2rem; }
+  .match-card-back { font-size: 0.7rem; padding: 2px; }
+
+  /* Sentence Builder */
+  .sb-hints { padding: var(--sp-xs) var(--sp-sm); }
+  .sb-hint-word { font-size: 0.7rem; padding: 3px 8px; }
+
+  /* Feedback */
+  .feedback { padding: var(--sp-sm) var(--sp-md); font-size: 0.9rem; }
+  .feedback .fb-icon { font-size: 1.1rem; }
+  .feedback .fb-exp { font-size: 0.8rem; }
+
+  /* Result */
+  .result-actions { flex-direction: column; gap: var(--sp-sm); }
+  .result-actions button { width: 100%; }
+  .result-xp { font-size: 1rem; }
+
+  /* Report */
+  .report-btn { bottom: 16px; right: 12px; width: 40px; height: 40px; font-size: 1rem; }
+  .report-modal-content { padding: var(--sp-md); }
+}
+
+@media (max-width: 380px) {
+  .flashcard { aspect-ratio: 4/3; }
+  .flashcard-front .fc-word { font-size: 1.1rem; }
+  .flashcard-back .fc-meaning { font-size: 1rem; }
+  .fc-btn-know, .fc-btn-dunno { padding: 8px 16px; font-size: 0.8rem; }
+
+  .quiz-question { padding: var(--sp-sm); }
+  .quiz-question .q-text { font-size: 0.9rem; line-height: 1.6; }
+  .option-btn { padding: 10px 12px; font-size: 0.85rem; gap: var(--sp-sm); }
+
+  .tf-btn { padding: 14px 8px; }
+  .tf-icon { font-size: 1.4rem; }
+
+  .match-card-back { font-size: 0.6rem; }
+
+  .word-chip { padding: 7px 12px; font-size: 0.8rem; }
+  .placed-word { padding: 5px 10px; font-size: 0.75rem; }
+}
+

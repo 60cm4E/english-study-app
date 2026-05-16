@@ -1,0 +1,142 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-yoon-22",
+    "lesson": 1,
+    "title": "Lesson 1"
+  },
+  "communication": {
+    "keyExpressions": [
+      {"en": "I hope you have a good time.", "ko": "좋은 시간을 보내기를 바랄게.", "category": "희망 표현"},
+      {"en": "I hope you will pass the test.", "ko": "시험에 합격하길 바랄게.", "category": "희망 표현"},
+      {"en": "I wish I could speak English well.", "ko": "영어를 잘 말할 수 있으면 좋겠어.", "category": "희망 표현"},
+      {"en": "Don't worry. You'll do great.", "ko": "걱정하지 마. 잘할 거야.", "category": "안심시키기"},
+      {"en": "Don't get nervous. Everything will be fine.", "ko": "긴장하지 마. 다 괜찮을 거야.", "category": "안심시키기"},
+      {"en": "Relax. You'll be fine.", "ko": "편하게 해. 괜찮을 거야.", "category": "안심시키기"},
+      {"en": "Take it easy. You'll do well.", "ko": "부담 갖지 마. 잘할 거야.", "category": "안심시키기"},
+      {"en": "No worries. You're going to be fine.", "ko": "걱정 마. 괜찮을 거야.", "category": "안심시키기"},
+      {"en": "It's not a big deal. It will work out.", "ko": "큰일 아니야. 잘 풀릴 거야.", "category": "안심시키기"}
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "I ___ you have a good time here.", "a": "hope", "opts": ["hope", "wish", "want"], "hint": "~바라다"},
+      {"type": "fill-blank", "q": "___ ___. You'll do great.", "a": "Don't worry", "opts": ["Don't worry", "Don't forget", "Don't stop"], "hint": "안심시키기"},
+      {"type": "fill-blank", "q": "I hope you ___ ___ to my party.", "a": "can come", "hint": "올 수 있길"},
+      {"type": "fill-blank", "q": "I ___ I could speak English well.", "a": "wish", "opts": ["wish", "hope", "want"], "hint": "~이면 좋겠어 (비현실적 바람)"},
+      {"type": "fill-blank", "q": "Don't get ___. Everything will be fine.", "a": "nervous", "opts": ["nervous", "worried", "angry"]},
+      {"type": "fill-blank", "q": "Take it ___. You'll do ___.", "a": "easy, well", "hint": "부담 갖지 마"},
+      {"type": "fill-blank", "q": "It's not a big ___. It will work out.", "a": "deal"},
+      {"type": "multi-choice", "q": "You look a little (worrying / worried), Somi.", "a": "worried", "opts": ["worrying", "worried"], "exp": "사람이 걱정을 느끼는 주체이므로 과거분사형 worried가 적절"},
+      {"type": "multi-choice", "q": "Its main goal is (introduce / to introduce) Korea to the world.", "a": "to introduce", "opts": ["introduce", "to introduce"], "exp": "be동사의 보어로 to부정사(명사적 용법) 사용"},
+      {"type": "multi-choice", "q": "I'm (interesting / interested) in Korean history.", "a": "interested", "opts": ["interesting", "interested"], "exp": "사람이 관심을 느끼는 주체이므로 interested"},
+      {"type": "multi-choice", "q": "My English is not (good enough / enough good).", "a": "good enough", "opts": ["good enough", "enough good"], "exp": "enough는 형용사 뒤에 위치"},
+      {"type": "multi-choice", "q": "I just (hope / wish) you have a chance (learning / to learn) more.", "a": "hope, to learn", "opts": ["hope", "wish"], "exp": "hope+현재 가능한 바람, chance+to부정사(형용사적 용법)"},
+      {"type": "true-false", "q": "The boy has run several marathons before.", "a": false, "exp": "처음(for the first time)이라고 했으므로 거짓"},
+      {"type": "true-false", "q": "The girl hopes that the boy will finish the marathon.", "a": true, "exp": "I hope you finish the race.라고 말함"},
+      {"type": "true-false", "q": "Minsu thinks he is well prepared for the test.", "a": false, "exp": "I don't think I'm well prepared.라고 말함"}
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문❶ - 십 대 청소년의 NGO 활동",
+        "en": "You can work with NGOs as a teenager. It is a great way to learn about social issues and make the world better. Are you interested? Then, read Inho's blog below.",
+        "ko": "십 대 청소년으로서 NGO와 함께 활동할 수 있다. 이것은 사회적 문제를 배우고 세상을 더 좋게 만드는 좋은 방법이다. 관심이 있나요? 그렇다면 아래 인호의 블로그를 읽어 보세요."
+      },
+      {
+        "id": "r2",
+        "title": "본문❷ - 1월 5일",
+        "en": "I grew up in Jeju-do, so I had many chances to see dolphins. Then, I learned that many dolphins are in danger. Some are even endangered. I thought I should do something. So, I searched the Internet and found an NGO, Dolphin Lovers. It does various activities such as cleaning up beaches and helping dolphins. After some thought, I joined it today.",
+        "ko": "나는 제주도에서 자라서 돌고래를 볼 기회가 많았다. 그러다 많은 돌고래들이 위험에 처해 있다는 것을 알았다. 일부는 심지어 멸종 위기에 처해 있었다. 나는 무언가 해야겠다고 생각해서 인터넷을 검색하다가 NGO인 Dolphin Lovers를 찾았다. 이 단체는 해변 청소하기와 돌고래 돕기 같은 다양한 활동을 한다. 고민 끝에 오늘 이곳에 가입했다."
+      },
+      {
+        "id": "r3",
+        "title": "본문❸ - 1월 20일",
+        "en": "Many dolphins get sick or even die because of plastic waste and fishing nets, so cleaning up the beach is important. Today, there was a beach cleanup party, and I took part in it. Cleaning up the beach was not easy, but I enjoyed it. Oh, I saw Aunt Sumi there. She is also a member of Dolphin Lovers. What a small world!",
+        "ko": "많은 돌고래들이 플라스틱 쓰레기와 어망 때문에 병에 걸리거나 심지어 죽기도 하므로 해변을 청소하는 것은 중요하다. 오늘 해변 청소 모임이 있었고, 나는 그 모임에 참가했다. 해변을 청소하는 일이 쉽지는 않았지만 즐거웠다. 아, 그곳에서 수미 이모를 만났다. 그녀도 Dolphin Lovers 회원이다. 세상이 참 좁다!"
+      },
+      {
+        "id": "r4",
+        "title": "본문❹ - 2월 14일",
+        "en": "This afternoon, I took part in a training class for Halla and Olle, two dolphins in an aquarium in Jeju-do. The latest project of Dolphin Lovers is to return them to the sea. For this, Halla and Olle first need to learn some skills. They will need them to survive in the wild. I really wanted to be part of the project. Luckily, I got the chance. I just ran some errands in the training class today, but the experience made me so excited.",
+        "ko": "오늘 오후에 나는 제주도의 한 수족관에 있는 돌고래 두 마리, 한라와 올레의 훈련 수업에 참여했다. Dolphin Lovers의 최근 프로젝트는 그들을 바다로 돌려보내는 것이다. 이를 위해 한라와 올레는 먼저 몇 가지 기술을 배워야 한다. 그들은 야생에서 살아남기 위해 이 기술들이 필요할 것이다. 나는 그 프로젝트에 정말 참여하고 싶었다. 다행히 나는 기회를 얻었다. 나는 오늘 훈련 수업에서 그저 몇 가지 심부름을 했을 뿐이지만, 그 경험은 나를 매우 설레게 했다."
+      },
+      {
+        "id": "r5",
+        "title": "본문❺ - 4월 22일",
+        "en": "Today, Halla and Olle went back to the sea. There was a small ceremony, and all the members of Dolphin Lovers were there. The ceremony made us quite emotional. In fact, I cried a little. Now I cannot see Halla and Olle anymore! However, I was very happy at the same time. After 10 years of hard life in an aquarium, now all the sea is their home. \"Live freely and happily ever after!\" I shouted and waved goodbye to them.",
+        "ko": "오늘 한라와 올레가 바다로 돌아갔다. 작은 기념식이 있었고, Dolphin Lovers의 모든 회원들이 참석했다. 그 기념식은 우리를 매우 울컥하게 했다. 사실, 나는 조금 울었다. 이제 한라와 올레를 더는 볼 수 없다니! 하지만 나는 동시에 매우 행복했다. 수족관에서 10년간의 힘든 삶을 마치고, 이제 온 바다가 그들의 집이다. \"자유롭게 그리고 행복하게 살아!\" 나는 소리치며 그들에게 손을 흔들어 작별 인사를 했다."
+      }
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "You can work with NGOs as a ___.", "a": "teenager", "passage": "r1"},
+      {"type": "fill-blank", "q": "I grew up in ___, so I had many ___ to see dolphins.", "a": "Jeju-do, chances", "passage": "r2"},
+      {"type": "fill-blank", "q": "Many dolphins get sick or even die because of ___ ___ and ___ ___.", "a": "plastic waste, fishing nets", "passage": "r3"},
+      {"type": "fill-blank", "q": "The latest project of Dolphin Lovers is to ___ them to the ___.", "a": "return, sea", "passage": "r4"},
+      {"type": "fill-blank", "q": "\"Live ___ and ___ ever after!\"", "a": "freely, happily", "passage": "r5"},
+      {"type": "true-false", "q": "인호는 서울에서 자라서 돌고래를 볼 기회가 많았다.", "a": false, "exp": "제주도에서 자랐다"},
+      {"type": "true-false", "q": "Dolphin Lovers는 해변 청소와 돌고래 돕기 활동을 한다.", "a": true},
+      {"type": "true-false", "q": "해변 청소는 쉬웠고 인호는 즐거웠다.", "a": false, "exp": "쉽지 않았지만(not easy) 즐거웠다"},
+      {"type": "true-false", "q": "한라와 올레는 수족관에서 5년을 살았다.", "a": false, "exp": "10년(10 years)이다"},
+      {"type": "error-correction", "q": "Are you interesting?", "a": "interested", "wrong": "interesting", "exp": "사람이 관심을 느끼는 주체이므로 interested"},
+      {"type": "error-correction", "q": "I had many chances see dolphins.", "a": "to see", "wrong": "see", "exp": "명사 chances를 수식하는 to부정사(형용사적 용법)"},
+      {"type": "error-correction", "q": "Some is even endangered.", "a": "are", "wrong": "is", "exp": "Some = Some dolphins (복수)이므로 are"},
+      {"type": "error-correction", "q": "Live freely and happy ever after!", "a": "happily", "wrong": "happy", "exp": "freely와 and로 연결되어 동사 Live를 수식해야 하므로 부사 happily"}
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사의 형용사적 용법",
+        "explanation": "to부정사(to+동사원형)가 앞의 명사를 꾸며주는 형용사 역할을 합니다. '~할, ~하는'으로 해석합니다.",
+        "examples": [
+          {"en": "I had many chances to see dolphins.", "ko": "나는 돌고래를 볼 기회가 많았다."},
+          {"en": "There is no food to eat.", "ko": "먹을 음식이 없다."},
+          {"en": "Give me a chair to sit on.", "ko": "앉을 의자 하나만 주세요."},
+          {"en": "Do you have a pen to write with?", "ko": "쓸 펜 있니?"}
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "동명사 주어",
+        "explanation": "동명사(~ing)가 문장의 주어로 쓰이면 '~하는 것은'으로 해석합니다. 단수 취급합니다.",
+        "examples": [
+          {"en": "Cleaning up the beach was not easy.", "ko": "해변을 청소하는 것은 쉽지 않았다."},
+          {"en": "Playing soccer is fun.", "ko": "축구를 하는 것은 재미있다."}
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "make + 목적어 + 형용사",
+        "explanation": "'make+목적어+형용사'는 '~를 …하게 만들다'라는 뜻입니다.",
+        "examples": [
+          {"en": "The experience made me so excited.", "ko": "그 경험은 나를 매우 설레게 했다."},
+          {"en": "The ceremony made us quite emotional.", "ko": "그 기념식은 우리를 꽤 울컥하게 했다."}
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "감탄문 (What ~!)",
+        "explanation": "'What + a(n) + 형용사 + 명사!'로 감탄을 표현합니다. '정말 ~하구나!'",
+        "examples": [
+          {"en": "What a small world!", "ko": "세상이 참 좁다!"},
+          {"en": "What a nice market!", "ko": "정말 멋진 시장이구나!"}
+        ]
+      }
+    ],
+    "exercises": [
+      {"type": "word-order", "words": ["to", "chances", "had", "I", "many", "dolphins", "see"], "a": "I had many chances to see dolphins."},
+      {"type": "word-order", "words": ["is", "the beach", "cleaning up", "important"], "a": "Cleaning up the beach is important."},
+      {"type": "word-order", "words": ["made", "the experience", "excited", "me", "so"], "a": "The experience made me so excited."},
+      {"type": "word-order", "words": ["a", "what", "world", "small"], "a": "What a small world!"},
+      {"type": "multi-choice", "q": "I have a lot of books ___ read.", "a": "to", "opts": ["to", "for", "of"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "___ the guitar is not easy.", "a": "Playing", "opts": ["Play", "Playing", "To playing"], "grammar": "g2"},
+      {"type": "multi-choice", "q": "The news made her ___.", "a": "happy", "opts": ["happy", "happily", "happiness"], "grammar": "g3"},
+      {"type": "fill-blank", "q": "She needs a chair to sit ___.", "a": "on", "grammar": "g1", "exp": "의자 위에 앉으므로 전치사 on 필요"},
+      {"type": "fill-blank", "q": "Do you have a pen to write ___?", "a": "with", "grammar": "g1", "exp": "펜으로 쓰므로 전치사 with 필요"},
+      {"type": "fill-blank", "q": "___ a beautiful day!", "a": "What", "grammar": "g4"},
+      {"type": "error-correction", "q": "I have something to say special about her.", "a": "something special to say", "wrong": "something to say special", "exp": "-thing 대명사는 형용사가 뒤에서 수식: something special"},
+      {"type": "error-correction", "q": "I need some food to eating.", "a": "to eat", "wrong": "to eating", "exp": "to부정사는 to+동사원형"}
+    ]
+  }
+}

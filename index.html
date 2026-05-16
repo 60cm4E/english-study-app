@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="theme-color" content="#0a0e1a" id="meta-theme-color">
+  <title>📚 영어 자기학습</title>
+  <meta name="description" content="중학생을 위한 인터랙티브 영어 자기학습 웹 앱">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/components.css">
+</head>
+<body>
+  <div id="app">
+    <nav id="navbar">
+      <div class="nav-left">
+        <button id="nav-back" class="nav-btn hidden" onclick="history.back()">← 뒤로</button>
+        <span id="nav-title" class="nav-title">📚 영어 자기학습</span>
+      </div>
+      <div class="nav-right">
+        <div id="xp-display" class="xp-badge hidden">⚡ <span id="xp-count">0</span> XP</div>
+        <button id="theme-btn" class="theme-toggle" onclick="toggleTheme()" title="다크/라이트 모드 전환">🌙</button>
+        <div id="user-info" class="hidden">
+          <img id="user-avatar" class="avatar" src="" alt="">
+          <button id="logout-btn" class="btn-sm nav-btn" onclick="handleLogout()">로그아웃</button>
+        </div>
+        <button id="login-btn" class="btn-primary btn-sm" onclick="handleLogin()">로그인</button>
+      </div>
+    </nav>
+    <main id="content"></main>
+  </div>
+
+  <!-- Theme Toggle Script (inline for instant FOUC prevention) -->
+  <script>
+    (function() {
+      const saved = localStorage.getItem('eng-theme') || 'dark';
+      document.documentElement.setAttribute('data-theme', saved);
+      const metaColor = document.getElementById('meta-theme-color');
+      if (metaColor) metaColor.content = saved === 'dark' ? '#0a0e1a' : '#f0f2f5';
+    })();
+
+    function toggleTheme() {
+      const html = document.documentElement;
+      const current = html.getAttribute('data-theme');
+      const next = current === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('eng-theme', next);
+      document.getElementById('theme-btn').textContent = next === 'dark' ? '🌙' : '☀️';
+      document.getElementById('meta-theme-color').content = next === 'dark' ? '#0a0e1a' : '#f0f2f5';
+    }
+
+    // Set initial icon
+    document.addEventListener('DOMContentLoaded', () => {
+      const t = localStorage.getItem('eng-theme') || 'dark';
+      document.getElementById('theme-btn').textContent = t === 'dark' ? '🌙' : '☀️';
+    });
+  </script>
+
+  <!-- Firebase SDK -->
+  <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-auth-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore-compat.js"></script>
+
+  <!-- Core -->
+  <script src="js/firebase-config.js"></script>
+  <script src="js/schoolMap.js"></script>
+  <script src="js/storage.js"></script>
+  <script src="js/auth.js"></script>
+  <script src="js/contentLoader.js"></script>
+
+  <!-- Quiz Base -->
+  <script src="js/QuizBase.js"></script>
+
+  <!-- 10 Modules -->
+  <script src="js/modules/FlashCard.js"></script>
+  <script src="js/modules/SpellingQuiz.js"></script>
+  <script src="js/modules/FillBlank.js"></script>
+  <script src="js/modules/MultiChoice.js"></script>
+  <script src="js/modules/TrueFalse.js"></script>
+  <script src="js/modules/WordOrder.js"></script>
+  <script src="js/modules/ErrorCorrection.js"></script>
+  <script src="js/modules/WritingMode.js"></script>
+  <script src="js/modules/MatchGame.js"></script>
+  <script src="js/modules/SentenceBuilder.js"></script>
+
+  <!-- App -->
+  <script src="js/app.js"></script>
+</body>
+</html>
