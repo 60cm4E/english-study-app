@@ -1,0 +1,61 @@
+{
+  "textbooks": {
+    "donga-yoon-22": {
+      "name": "동아(윤정미) 22개정",
+      "publisher": "동아출판",
+      "author": "윤정미",
+      "revision": "2022",
+      "grades": [1, 2],
+      "totalLessons": 8,
+      "keywords": ["동아", "윤정미", "donga", "yoon"]
+    },
+    "ybm-park-22": {
+      "name": "YBM(박준언) 22개정",
+      "publisher": "YBM",
+      "author": "박준언",
+      "revision": "2022",
+      "grades": [1, 2],
+      "totalLessons": 8,
+      "keywords": ["ybm", "박준언", "park"]
+    },
+    "donga-yoon-15": {
+      "name": "동아(윤정미) 15개정",
+      "publisher": "동아출판",
+      "author": "윤정미",
+      "revision": "2015",
+      "grades": [3],
+      "totalLessons": 8,
+      "keywords": ["동아", "윤정미", "중3", "15"]
+    },
+    "donga-lee-15": {
+      "name": "동아(이병민) 15개정",
+      "publisher": "동아출판",
+      "author": "이병민",
+      "revision": "2015",
+      "grades": [3],
+      "totalLessons": 8,
+      "keywords": ["동아", "이병민", "lee", "15"]
+    },
+    "neungyul-kim-15": {
+      "name": "능률(김성곤) 15개정",
+      "publisher": "능률교육",
+      "author": "김성곤",
+      "revision": "2015",
+      "grades": [3],
+      "totalLessons": 8,
+      "keywords": ["능률", "김성곤", "neungyul", "kim"]
+    }
+  },
+  "exerciseTypes": {
+    "fill-blank":        { "icon": "✏️", "label": "빈칸 채우기",  "source": ["words", "communication", "reading", "grammar"] },
+    "multi-choice":      { "icon": "📝", "label": "객관식",       "source": ["communication", "reading", "grammar"] },
+    "true-false":        { "icon": "⭕", "label": "참/거짓",      "source": ["reading", "communication"] },
+    "word-order":        { "icon": "🔀", "label": "어순 배열",    "source": ["grammar", "reading"] },
+    "error-correction":  { "icon": "🔍", "label": "오류 수정",    "source": ["grammar"] }
+  },
+  "wordSchema": {
+    "required": ["en", "ko"],
+    "optional": ["pos", "ex"]
+  },
+  "contentSections": ["communication", "reading", "grammar"]
+}

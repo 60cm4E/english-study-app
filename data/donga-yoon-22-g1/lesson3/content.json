@@ -1,0 +1,124 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-yoon-22-g1",
+    "lesson": 3,
+    "title": "Lesson 3 - Let's Be Positive"
+  },
+  "communication": {
+    "keyExpressions": [
+      {"en": "I got a new bike. I'm excited.", "ko": "나는 새 자전거가 생겼어. 나는 신나.", "category": "감정 표현"},
+      {"en": "I'm very upset.", "ko": "나는 너무 속상해.", "category": "감정 표현"},
+      {"en": "I'm so tired.", "ko": "나는 너무 피곤해.", "category": "감정 표현"},
+      {"en": "What should I do? I'm so worried.", "ko": "난 어떻게 해야 하지? 너무 걱정돼.", "category": "걱정 표현"},
+      {"en": "I'm happy for you.", "ko": "잘됐다.", "category": "공감·축하"},
+      {"en": "That's great. Good for you.", "ko": "잘됐다.", "category": "공감·축하"},
+      {"en": "Congratulations!", "ko": "축하해!", "category": "축하"},
+      {"en": "I'm sorry to hear that.", "ko": "그 말을 들으니 안됐다.", "category": "위로"},
+      {"en": "That's too bad.", "ko": "안됐다.", "category": "위로"},
+      {"en": "Cheer up.", "ko": "힘내.", "category": "격려"}
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "I'm ___ to hear that.", "a": "sorry", "opts": ["sorry", "happy", "glad"], "hint": "유감 표현"},
+      {"type": "fill-blank", "q": "___ up! You can do it.", "a": "Cheer", "opts": ["Cheer", "Clean", "Check"], "hint": "격려하기"},
+      {"type": "fill-blank", "q": "I won first prize! - ___!", "a": "Congratulations", "hint": "축하하기"},
+      {"type": "fill-blank", "q": "My robot is not working. - That's too ___.", "a": "bad", "hint": "위로하기"},
+      {"type": "multi-choice", "q": "I lost my wallet. I'm so ___.", "a": "upset", "opts": ["excited", "upset", "happy"], "exp": "지갑을 잃어서 속상한 감정"},
+      {"type": "multi-choice", "q": "I got an A on my test! - I'm ___ for you.", "a": "happy", "opts": ["sorry", "happy", "worried"], "exp": "상대의 좋은 소식에 공감"},
+      {"type": "true-false", "q": "'That's too bad.'는 축하할 때 쓰는 표현이다.", "a": false, "exp": "위로할 때 쓰는 표현"},
+      {"type": "true-false", "q": "'Congratulations!'는 축하할 때 쓰는 표현이다.", "a": true}
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "도입 - 대회 참가 결정",
+        "en": "Yuna: Let's make a team and enter the contest.\nSuho: Are you kidding? We're all terrible dancers.\nBora: I know, but I'm interested.\nMinsu: Me, too. It'll be fun.\nYuna: Let's do it. Sounds good, Suho?\nSuho: I guess so.",
+        "ko": "유나: 팀을 만들어서 대회에 참가하자.\n수호: 농담하는 거지? 우리는 모두 춤을 정말 못 추잖아.\n보라: 알아, 하지만 나는 관심 있어.\n민수: 나도. 재미있을 거야.\n유나: 해 보자. 괜찮지, 수호야?\n수호: 그러지 뭐."
+      },
+      {
+        "id": "r2",
+        "title": "상황 1 - 부정적 태도",
+        "en": "Suho: We're making too many mistakes.\nBora: Yeah. We're hopeless.\nYuna: Well, Minsu is sick. He texted me.\nBora: He's so selfish.\nSuho: I don't want to practice anymore.\nThe night before the contest, they quit practicing. They were unhappy with their team. They finally gave up.",
+        "ko": "수호: 우리는 실수를 너무 많이 하고 있어.\n보라: 그래. 우리는 가망이 없어.\n유나: 음, 민수는 아프대. 나한테 문자했어.\n보라: 그는 정말 이기적이야.\n수호: 나는 더 이상 연습하고 싶지 않아.\n대회 전날 밤, 그들은 연습을 그만두었다. 그들은 팀에 불만이 있었다. 결국 그들은 포기했다."
+      },
+      {
+        "id": "r3",
+        "title": "상황 2 - 긍정적 태도",
+        "en": "Suho: I made a mistake again. I'm sorry.\nYuna: Cheer up! You can do it.\nMinsu: Yes. Don't worry, Suho. We all make mistakes.\nBora: Come on. Let's do it one more time! We're almost there.\nOn the day of the contest, they danced without any big mistakes. They didn't win a prize. But they were happy. They finished the dance!\nYuna: We all did our best. That's enough for us. I'm so proud of our team. Thank you for your support!",
+        "ko": "수호: 내가 또 실수했어. 미안해.\n유나: 힘내! 너는 할 수 있어.\n민수: 맞아. 걱정 마, 수호야. 누구나 실수해.\n보라: 자. 한 번 더 해 보자! 거의 다 왔어.\n대회 당일, 그들은 큰 실수 없이 춤을 췄다. 그들은 상을 받지 못했다. 하지만 그들은 행복했다. 그들은 춤을 마쳤다!\n유나: 우리 모두 최선을 다했어. 그것으로 충분해. 나는 우리 팀이 자랑스러워. 응원해 줘서 고마워!"
+      }
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "Let's make a team and ___ the contest.", "a": "enter", "passage": "r1"},
+      {"type": "fill-blank", "q": "We're making too many ___.", "a": "mistakes", "passage": "r2"},
+      {"type": "fill-blank", "q": "They danced ___ any big mistakes.", "a": "without", "passage": "r3"},
+      {"type": "fill-blank", "q": "We all did our ___. That's ___ for us.", "a": "best, enough", "passage": "r3"},
+      {"type": "fill-blank", "q": "I'm so ___ of our team.", "a": "proud", "passage": "r3"},
+      {"type": "true-false", "q": "상황 1에서 팀원들은 대회에서 상을 받았다.", "a": false, "exp": "포기하여 대회에 출전하지 못했다."},
+      {"type": "true-false", "q": "상황 2에서 팀원들은 상을 받지 못했지만 행복했다.", "a": true, "exp": "They didn't win a prize. But they were happy."},
+      {"type": "true-false", "q": "수호는 처음에 대회 참가에 적극적이었다.", "a": false, "exp": "Are you kidding? 이라고 반대했다."},
+      {"type": "error-correction", "q": "She look worried.", "a": "looks", "wrong": "look", "exp": "She는 3인칭 단수이므로 looks"},
+      {"type": "error-correction", "q": "We all make mistake.", "a": "mistakes", "wrong": "mistake", "exp": "셀 수 있는 명사 복수형: mistakes"},
+      {"type": "error-correction", "q": "I maked a mistake.", "a": "made", "wrong": "maked", "exp": "make의 과거형은 불규칙: made"}
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "과거 시제 (Past Tense)",
+        "explanation": "과거에 한 일을 말할 때 씁니다. be동사: am/is → was, are → were. 일반동사: 규칙(-ed, -d, -ied) 또는 불규칙(win→won, make→made, see→saw, do→did, give→gave)",
+        "examples": [
+          {"en": "I was happy yesterday.", "ko": "나는 어제 행복했다."},
+          {"en": "They were unhappy with their team.", "ko": "그들은 팀에 불만이었다."},
+          {"en": "She practiced every day.", "ko": "그녀는 매일 연습했다."},
+          {"en": "I made a mistake.", "ko": "나는 실수를 했다."},
+          {"en": "He won first prize.", "ko": "그가 1등상을 탔다."}
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "감각동사 + 형용사",
+        "explanation": "look(~해 보이다), sound(~하게 들리다), smell(~한 냄새가 나다), taste(~한 맛이 나다), feel(~하게 느껴지다) 뒤에는 '형용사'가 옵니다. 부사(X)",
+        "examples": [
+          {"en": "You look worried.", "ko": "너 걱정돼 보여."},
+          {"en": "It sounds good.", "ko": "그것 좋게 들려."},
+          {"en": "The soup smells delicious.", "ko": "그 국은 맛있는 냄새가 나."},
+          {"en": "This tastes sweet.", "ko": "이것은 달콤한 맛이 나."},
+          {"en": "I feel tired.", "ko": "나는 피곤해."}
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "명령문과 Let's",
+        "explanation": "명령문: 동사원형으로 시작 (Cheer up!). 부정 명령: Don't + 동사원형 (Don't worry.). 제안: Let's + 동사원형 (Let's make a team.)",
+        "examples": [
+          {"en": "Cheer up!", "ko": "힘내!"},
+          {"en": "Don't worry.", "ko": "걱정하지 마."},
+          {"en": "Let's do it one more time!", "ko": "한 번 더 해 보자!"},
+          {"en": "Don't give up.", "ko": "포기하지 마."}
+        ]
+      }
+    ],
+    "exercises": [
+      {"type": "multi-choice", "q": "She ___ happy yesterday.", "a": "was", "opts": ["is", "was", "were"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "They ___ the contest last year.", "a": "won", "opts": ["win", "won", "winned"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "You look ___.", "a": "worried", "opts": ["worried", "worriedly", "worrying"], "grammar": "g2"},
+      {"type": "multi-choice", "q": "The cake ___ sweet.", "a": "tastes", "opts": ["taste", "tastes", "tasting"], "grammar": "g2"},
+      {"type": "multi-choice", "q": "___ give up.", "a": "Don't", "opts": ["Don't", "Doesn't", "Not"], "grammar": "g3"},
+      {"type": "fill-blank", "q": "I ___ a mistake yesterday.", "a": "made", "grammar": "g1"},
+      {"type": "fill-blank", "q": "It ___ good. (좋게 들린다)", "a": "sounds", "grammar": "g2"},
+      {"type": "fill-blank", "q": "___ practice together!", "a": "Let's", "grammar": "g3"},
+      {"type": "fill-blank", "q": "We ___ unhappy with the result.", "a": "were", "grammar": "g1"},
+      {"type": "word-order", "words": ["was", "she", "yesterday", "happy"], "a": "She was happy yesterday.", "grammar": "g1"},
+      {"type": "word-order", "words": ["look", "you", "tired"], "a": "You look tired.", "grammar": "g2"},
+      {"type": "word-order", "words": ["let's", "a", "team", "make"], "a": "Let's make a team.", "grammar": "g3"},
+      {"type": "word-order", "words": ["won", "he", "first", "prize"], "a": "He won first prize.", "grammar": "g1"},
+      {"type": "error-correction", "q": "You look worriedly.", "a": "worried", "wrong": "worriedly", "exp": "감각동사 뒤에는 형용사 (worried)"},
+      {"type": "error-correction", "q": "I maked a mistake.", "a": "made", "wrong": "maked", "exp": "make의 과거형은 불규칙: made"},
+      {"type": "error-correction", "q": "They was unhappy.", "a": "were", "wrong": "was", "exp": "They는 복수 → were"},
+      {"type": "error-correction", "q": "It sound good.", "a": "sounds", "wrong": "sound", "exp": "It은 3인칭 단수 → sounds"}
+    ]
+  }
+}

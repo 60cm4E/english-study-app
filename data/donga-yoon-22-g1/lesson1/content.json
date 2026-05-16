@@ -1,0 +1,147 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-yoon-22-g1",
+    "lesson": 1,
+    "title": "Lesson 1 - My Favorite Things"
+  },
+  "communication": {
+    "keyExpressions": [
+      {"en": "I like science.", "ko": "나는 과학을 좋아해.", "category": "좋아하는 것 표현"},
+      {"en": "I read books.", "ko": "나는 책을 읽어.", "category": "좋아하는 것 표현"},
+      {"en": "It is my favorite subject.", "ko": "그것은 내가 가장 좋아하는 과목이야.", "category": "좋아하는 것 표현"},
+      {"en": "These flowers smell good.", "ko": "이 꽃들은 좋은 냄새가 나.", "category": "감각동사 표현"},
+      {"en": "The cake is so delicious!", "ko": "그 케이크 정말 맛있어!", "category": "감각 표현"},
+      {"en": "Let's practice soccer.", "ko": "축구 연습하자.", "category": "제안하기"},
+      {"en": "She is a great listener.", "ko": "그녀는 훌륭한 청취자야.", "category": "사람 묘사"},
+      {"en": "My dog is my dear friend.", "ko": "내 강아지는 소중한 친구야.", "category": "사람/동물 묘사"},
+      {"en": "I feel at home.", "ko": "마음이 편안해.", "category": "감정 표현"},
+      {"en": "He always stays by my side.", "ko": "그는 항상 내 옆에 있어.", "category": "관계 표현"}
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "I ___ science.", "a": "like", "opts": ["like", "likes", "liking"], "hint": "나는 과학을 좋아해"},
+      {"type": "fill-blank", "q": "It is my ___ subject.", "a": "favorite", "opts": ["favorite", "famous", "free"], "hint": "가장 좋아하는"},
+      {"type": "fill-blank", "q": "These flowers ___ good.", "a": "smell", "opts": ["smell", "smells", "smelling"], "hint": "감각동사 + 형용사"},
+      {"type": "fill-blank", "q": "She ___ a great listener.", "a": "is", "opts": ["is", "are", "am"], "hint": "be동사 선택"},
+      {"type": "fill-blank", "q": "I ___ at home here.", "a": "feel", "hint": "마음이 편안하다"},
+      {"type": "multi-choice", "q": "The tulips ___ beautiful.", "a": "are", "opts": ["is", "are", "am"], "exp": "tulips는 복수이므로 are"},
+      {"type": "multi-choice", "q": "My uncle ___ muffins on weekends.", "a": "bakes", "opts": ["bake", "bakes", "baking"], "exp": "3인칭 단수 주어(My uncle)이므로 동사에 -s"},
+      {"type": "multi-choice", "q": "He ___ the guitar very well.", "a": "plays", "opts": ["play", "plays", "playing"], "exp": "3인칭 단수 주어이므로 plays"},
+      {"type": "true-false", "q": "감각동사(smell, feel 등) 뒤에는 부사가 온다.", "a": false, "exp": "감각동사 뒤에는 형용사가 온다 (smell good, feel happy)"},
+      {"type": "true-false", "q": "I am의 축약형은 I'm이다.", "a": true, "exp": "am의 축약형: I'm"}
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 ① - My Special Heart",
+        "en": "Hi, everyone. My name is Soyun. I love rock music. I am a member of a band. I play the guitar, and Hojin plays the drums. We are great players.",
+        "ko": "안녕, 여러분. 내 이름은 소윤이야. 나는 록 음악을 정말 좋아해. 나는 밴드의 멤버야. 나는 기타를 치고, 호진이는 드럼을 연주해. 우리는 훌륭한 연주자들이야."
+      },
+      {
+        "id": "r2",
+        "title": "본문 ② - Music is Fun",
+        "en": "Music is so much fun. We practice together all the time. It makes me very happy.",
+        "ko": "음악은 정말 재미있어. 우리는 항상 함께 연습해. 그것은 나를 매우 행복하게 만들어."
+      },
+      {
+        "id": "r3",
+        "title": "본문 ③ - My Neighbor Bobi",
+        "en": "My neighbor Bobi is my dear friend. He is a great listener. I often talk to him. He just nods and smiles. Sometimes he doesn't say much, but I feel all right. I like him. He is like magic. I feel at home with him.",
+        "ko": "내 이웃 보비는 내 소중한 친구야. 그는 훌륭한 청취자야. 나는 종종 그에게 말을 해. 그는 그냥 끄덕이고 웃어. 때때로 그는 많이 말하지 않지만 나는 괜찮다고 느껴. 나는 그를 좋아해. 그는 마법 같아. 그와 함께 있으면 마음이 편해."
+      },
+      {
+        "id": "r4",
+        "title": "본문 ④ - My Guide Dog",
+        "en": "Bobi is my guide dog. He is always by my side. Even at school, he sits next to me. He mostly sleeps in class, but I don't mind.",
+        "ko": "보비는 내 안내견이야. 그는 항상 내 옆에 있어. 학교에서도 그는 내 옆에 앉아. 그는 주로 수업 중에 자지만, 나는 신경 쓰지 않아."
+      }
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "My name ___ Soyun.", "a": "is", "passage": "r1"},
+      {"type": "fill-blank", "q": "I ___ the guitar, and Hojin ___ the drums.", "a": "play, plays", "passage": "r1"},
+      {"type": "fill-blank", "q": "My neighbor Bobi is my ___ friend.", "a": "dear", "passage": "r3"},
+      {"type": "fill-blank", "q": "He is a great ___.", "a": "listener", "passage": "r3"},
+      {"type": "fill-blank", "q": "Bobi is my ___ dog.", "a": "guide", "passage": "r4"},
+      {"type": "true-false", "q": "소윤이는 밴드에서 드럼을 연주한다.", "a": false, "exp": "기타를 연주한다 (I play the guitar)"},
+      {"type": "true-false", "q": "보비는 소윤이의 안내견이다.", "a": true, "exp": "Bobi is my guide dog."},
+      {"type": "true-false", "q": "보비는 수업 시간에 항상 깨어 있다.", "a": false, "exp": "He mostly sleeps in class."},
+      {"type": "true-false", "q": "소윤이는 보비와 함께 있으면 마음이 편하다.", "a": true, "exp": "I feel at home with him."},
+      {"type": "error-correction", "q": "We is great players.", "a": "are", "wrong": "is", "exp": "We는 복수 주어이므로 are"},
+      {"type": "error-correction", "q": "He play the drums.", "a": "plays", "wrong": "play", "exp": "3인칭 단수 주어이므로 plays"},
+      {"type": "error-correction", "q": "The flowers smells good.", "a": "smell", "wrong": "smells", "exp": "The flowers는 복수이므로 smell"}
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "be동사 (am, are, is)",
+        "explanation": "be동사는 '~이다', '(~에) 있다'라는 뜻입니다. 주어에 따라 am(I), are(you/복수), is(3인칭 단수)를 씁니다. 축약형: I'm, You're, He's, She's, It's, We're, They're",
+        "examples": [
+          {"en": "I am a student.", "ko": "나는 학생이다."},
+          {"en": "You are my friend.", "ko": "너는 내 친구야."},
+          {"en": "He is a clever boy.", "ko": "그는 영리한 소년이다."},
+          {"en": "We are great players.", "ko": "우리는 훌륭한 연주자들이다."},
+          {"en": "The weather is nice.", "ko": "날씨가 좋다."}
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "be동사 부정문과 의문문",
+        "explanation": "부정문: be동사 + not (isn't, aren't). 의문문: be동사를 주어 앞으로 (Is he ~? / Are you ~?). 대답: Yes, 주어 + be. / No, 주어 + be + not.",
+        "examples": [
+          {"en": "I am not tired.", "ko": "나는 피곤하지 않다."},
+          {"en": "She is not a teacher.", "ko": "그녀는 선생님이 아니다."},
+          {"en": "Is Peter strong?", "ko": "피터는 힘이 센가요?"},
+          {"en": "Are you a student? - Yes, I am.", "ko": "너는 학생이니? - 응, 그래."}
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "일반동사 현재형",
+        "explanation": "일반동사는 동작이나 상태를 나타냅니다. 3인칭 단수 주어(he, she, it)일 때 동사에 -(e)s를 붙입니다. 규칙: 대부분 +s, -s/-x/-ch/-sh/-o → +es, 자음+y → y를 i로 고치고 +es, have → has",
+        "examples": [
+          {"en": "I like science.", "ko": "나는 과학을 좋아한다."},
+          {"en": "She plays the guitar.", "ko": "그녀는 기타를 연주한다."},
+          {"en": "He watches TV every day.", "ko": "그는 매일 TV를 본다."},
+          {"en": "My mom studies English.", "ko": "엄마는 영어를 공부한다."},
+          {"en": "Anne has a cat.", "ko": "앤은 고양이를 가지고 있다."}
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "일반동사 부정문과 의문문",
+        "explanation": "부정문: don't/doesn't + 동사원형. 의문문: Do/Does + 주어 + 동사원형 ~? 3인칭 단수에는 does를 쓰고 동사는 반드시 원형으로!",
+        "examples": [
+          {"en": "I don't like iguanas.", "ko": "나는 이구아나를 좋아하지 않는다."},
+          {"en": "She doesn't eat meat.", "ko": "그녀는 고기를 먹지 않는다."},
+          {"en": "Do you play soccer?", "ko": "너는 축구를 하니?"},
+          {"en": "Does he like strawberries?", "ko": "그는 딸기를 좋아하니?"}
+        ]
+      }
+    ],
+    "exercises": [
+      {"type": "multi-choice", "q": "I ___ a student.", "a": "am", "opts": ["am", "is", "are"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "My grandma ___ us every Sunday.", "a": "visits", "opts": ["visit", "visits", "visiting"], "grammar": "g3"},
+      {"type": "multi-choice", "q": "She ___ garlic.", "a": "hates", "opts": ["hate", "hates", "hating"], "grammar": "g3"},
+      {"type": "multi-choice", "q": "___ they your friends?", "a": "Are", "opts": ["Is", "Are", "Do"], "grammar": "g2"},
+      {"type": "multi-choice", "q": "He ___ have a pet.", "a": "doesn't", "opts": ["don't", "doesn't", "isn't"], "grammar": "g4"},
+      {"type": "multi-choice", "q": "___ Yuri like strawberries?", "a": "Does", "opts": ["Do", "Does", "Is"], "grammar": "g4"},
+      {"type": "fill-blank", "q": "The weather ___ nice today.", "a": "is", "grammar": "g1"},
+      {"type": "fill-blank", "q": "My uncle ___ muffins on weekends.", "a": "bakes", "grammar": "g3", "exp": "3인칭 단수 → bakes"},
+      {"type": "fill-blank", "q": "I ___ ___ like rainy days.", "a": "do not", "grammar": "g4", "exp": "1인칭 부정문 → do not(don't)"},
+      {"type": "fill-blank", "q": "___ she a teacher? - No, she ___.", "a": "Is, isn't", "grammar": "g2"},
+      {"type": "word-order", "words": ["am", "I", "a", "student"], "a": "I am a student.", "grammar": "g1"},
+      {"type": "word-order", "words": ["plays", "she", "the", "guitar"], "a": "She plays the guitar.", "grammar": "g3"},
+      {"type": "word-order", "words": ["doesn't", "he", "like", "iguanas"], "a": "He doesn't like iguanas.", "grammar": "g4"},
+      {"type": "word-order", "words": ["is", "Peter", "strong"], "a": "Is Peter strong?", "grammar": "g2"},
+      {"type": "word-order", "words": ["do", "you", "play", "soccer"], "a": "Do you play soccer?", "grammar": "g4"},
+      {"type": "error-correction", "q": "He are a doctor.", "a": "is", "wrong": "are", "exp": "He는 3인칭 단수이므로 is"},
+      {"type": "error-correction", "q": "She don't like cats.", "a": "doesn't", "wrong": "don't", "exp": "She는 3인칭 단수이므로 doesn't"},
+      {"type": "error-correction", "q": "My sister studys English.", "a": "studies", "wrong": "studys", "exp": "자음+y → y를 i로 바꾸고 es"},
+      {"type": "error-correction", "q": "Does he likes music?", "a": "like", "wrong": "likes", "exp": "Does 뒤에는 동사원형"},
+      {"type": "error-correction", "q": "They is my friends.", "a": "are", "wrong": "is", "exp": "They는 복수이므로 are"}
+    ]
+  }
+}

@@ -67,6 +67,7 @@ function renderSchoolSelect(el) {
           <div class="school-name">${s.name}</div>
           <div class="school-sub">${s.examType === 'writing' ? '서술형 10문제' : '객관식20+서술형2'}</div>
           <div class="grade-pills">
+            <button class="grade-pill" onclick="selectSchool('${id}',1)">1학년</button>
             <button class="grade-pill" onclick="selectSchool('${id}',2)">2학년</button>
             <button class="grade-pill" onclick="selectSchool('${id}',3)">3학년</button>
           </div>
