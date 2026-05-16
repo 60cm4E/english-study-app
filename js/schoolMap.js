@@ -20,7 +20,7 @@ const TEXTBOOK_NAMES = {
 const AVAILABLE_LESSONS = {
   'donga-yoon-22-g1': [1, 2, 3, 4, 5, 6, 7, 8],
   'donga-yoon-22': [1],
-  'ybm-park-22-g1': [1],
+  'ybm-park-22-g1': [1, 2, 3, 4],
   'ybm-park-22': [],
   'donga-lee-15': [],
   'donga-yoon-15': [],

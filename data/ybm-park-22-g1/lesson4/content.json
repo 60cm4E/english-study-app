@@ -1,0 +1,75 @@
+{
+  "lessonInfo": {"textbook": "ybm-park-22-g1", "lesson": 4, "title": "Lesson 4 - Home Sweet Home"},
+  "communication": {
+    "keyExpressions": [
+      {"en": "Can you cut the potatoes?", "ko": "감자 좀 잘라줄 수 있어?", "category": "도움 요청"},
+      {"en": "Sure.", "ko": "물론이지.", "category": "수락"},
+      {"en": "Thank you for the card.", "ko": "카드 고마워.", "category": "감사"},
+      {"en": "You're welcome.", "ko": "천만에.", "category": "답례"},
+      {"en": "Can you help me?", "ko": "나를 도와줄 수 있어?", "category": "도움 요청"}
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "___ you cut the potatoes?", "a": "Can", "opts": ["Can", "Do", "Are"], "hint": "도움 요청"},
+      {"type": "fill-blank", "q": "Thank you ___ the card.", "a": "for", "hint": "감사하기"},
+      {"type": "multi-choice", "q": "Thank you for your help. - ___", "a": "You're welcome.", "opts": ["You're welcome.", "I'm fine.", "Nice to meet you."], "exp": "감사에 답하기"}
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - A Curry Day (유빈이의 가족 이야기)",
+        "en": "My name is Yubin. My father and mother are computer engineers. They fell in love at work. My father is Indian. We're a family of three. We have two family traditions.\n\nEvery spring, we visit the city's baseball park on the KBO's opening day. It's an exciting day. We wear our team's uniform and cheer for them loudly. We like to take pictures at the gates. When we visited the park for the first time, I was four years old.\n\nFor my birthday in the fall, we also do something special. In the evening, my father cooks curry for us. It is our favorite dish. My father gets the curry powder from my grandmother in India. So it has a real Indian taste. I love its warm and tasty smell. I eat two bowls of curry.\n\nAfter dinner, we play a traditional Indian board game. I'm young, so I lose sometimes. Then I do the dishes. I don't want to do the dishes. So I want to win this year! We create wonderful memories together. I hope we keep our family traditions for a long time.",
+        "ko": "내 이름은 유빈이야. 엄마와 아빠는 컴퓨터 엔지니어이셔. 직장에서 사랑에 빠지셨어. 아빠는 인도인이셔. 우리는 세 식구야. 두 가지 가족 전통이 있어.\n\n매년 봄, KBO 개막날에 시 야구장을 방문해. 신나는 날이야. 우리 팀 유니폼을 입고 큰 소리로 응원해. 입구에서 사진 찍는 걸 좋아해. 우리가 야구장을 처음 방문했을 때 나는 네 살이었어.\n\n가을에 있는 내 생일을 위해 특별한 일을 해. 저녁에 아빠가 카레를 요리하셔. 우리가 가장 좋아하는 요리야. 아빠가 인도 할머니한테 카레 가루를 받으셔. 그래서 진짜 인도 맛이 나. 따뜻하고 맛있는 냄새가 정말 좋아. 카레를 두 그릇 먹어.\n\n저녁 식사 후에 전통 인도 보드게임을 해. 어려서 가끔 져. 그러면 내가 설거지를 해. 설거지를 하기 싫어. 그래서 올해는 이기고 싶어! 함께 훌륭한 추억을 만들어. 가족 전통이 오래 유지되길 바라."
+      }
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "My father and mother ___ in love at work.", "a": "fell", "passage": "r1"},
+      {"type": "fill-blank", "q": "We ___ our team's uniform.", "a": "wear", "passage": "r1"},
+      {"type": "fill-blank", "q": "It has a ___ Indian taste.", "a": "real", "passage": "r1"},
+      {"type": "fill-blank", "q": "We ___ wonderful memories together.", "a": "create", "passage": "r1"},
+      {"type": "fill-blank", "q": "I ___ we keep our family traditions.", "a": "hope", "passage": "r1"},
+      {"type": "true-false", "q": "유빈이의 아버지는 한국인이다.", "a": false, "exp": "인도인(Indian)이다"},
+      {"type": "true-false", "q": "유빈이의 가족은 매년 봄 야구장에 간다.", "a": true},
+      {"type": "true-false", "q": "유빈이는 카레를 한 그릇 먹는다.", "a": false, "exp": "두 그릇(two bowls) 먹는다"},
+      {"type": "true-false", "q": "보드게임에서 지면 설거지를 한다.", "a": true},
+      {"type": "error-correction", "q": "When I visit the park, I was 4.", "a": "visited", "wrong": "visit", "exp": "과거 이야기이므로 visited"}
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "접속사 when (~할 때)",
+        "explanation": "when은 '~할 때'라는 뜻으로 두 문장을 연결합니다. When절은 문장 앞 또는 뒤에 올 수 있습니다.",
+        "examples": [
+          {"en": "When we visited the park, I was four.", "ko": "우리가 야구장을 방문했을 때, 나는 네 살이었다."},
+          {"en": "When I lose, I do the dishes.", "ko": "내가 질 때, 나는 설거지를 한다."},
+          {"en": "I was happy when I saw the movie.", "ko": "영화를 봤을 때 행복했다."}
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "시간 전치사 (in / on / at)",
+        "explanation": "in: 계절, 월, 연도, 아침/오후/저녁 (in spring, in May, in the evening). on: 특정 날, 요일 (on Sunday, on my birthday). at: 시각 (at 3 o'clock, at night)",
+        "examples": [
+          {"en": "Every spring, we visit the park.", "ko": "매년 봄, 우리는 야구장을 방문한다."},
+          {"en": "In the evening, my father cooks curry.", "ko": "저녁에 아빠가 카레를 요리하신다."},
+          {"en": "For my birthday in the fall, we do something special.", "ko": "가을에 있는 생일에 특별한 일을 한다."}
+        ]
+      }
+    ],
+    "exercises": [
+      {"type": "multi-choice", "q": "___ we visited the park, I was four.", "a": "When", "opts": ["When", "Where", "What"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "We visit the park ___ spring.", "a": "in", "opts": ["in", "on", "at"], "grammar": "g2"},
+      {"type": "multi-choice", "q": "I eat breakfast ___ 7 o'clock.", "a": "at", "opts": ["in", "on", "at"], "grammar": "g2"},
+      {"type": "multi-choice", "q": "I play soccer ___ Sundays.", "a": "on", "opts": ["in", "on", "at"], "grammar": "g2"},
+      {"type": "fill-blank", "q": "___ I lose, I do the dishes.", "a": "When", "grammar": "g1"},
+      {"type": "fill-blank", "q": "My birthday is ___ November.", "a": "in", "grammar": "g2"},
+      {"type": "fill-blank", "q": "We have class ___ Monday.", "a": "on", "grammar": "g2"},
+      {"type": "word-order", "words": ["when", "I", "was", "four", "we", "visited", "the", "park"], "a": "When I was four, we visited the park.", "grammar": "g1"},
+      {"type": "error-correction", "q": "I play soccer in Sundays.", "a": "on", "wrong": "in", "exp": "요일 앞에는 on"},
+      {"type": "error-correction", "q": "We met on 2024.", "a": "in", "wrong": "on", "exp": "연도 앞에는 in"}
+    ]
+  }
+}

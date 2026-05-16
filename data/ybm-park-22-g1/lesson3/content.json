@@ -1,0 +1,93 @@
+{
+  "lessonInfo": {"textbook": "ybm-park-22-g1", "lesson": 3, "title": "Lesson 3 - The Power of Small Acts"},
+  "communication": {
+    "keyExpressions": [
+      {"en": "May I pull down the blind?", "ko": "블라인드를 내려도 될까요?", "category": "허락 구하기"},
+      {"en": "Yes, you may.", "ko": "네, 그래도 돼요.", "category": "허락 수락"},
+      {"en": "No, you may not.", "ko": "아니요, 안 돼요.", "category": "허락 거절"},
+      {"en": "Don't leave your trash.", "ko": "쓰레기를 두고 가지 마세요.", "category": "금지"},
+      {"en": "Don't cut in line.", "ko": "새치기하지 마세요.", "category": "금지"}
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "___ I pull down the blind?", "a": "May", "opts": ["May", "Do", "Can"], "hint": "허락 구하기"},
+      {"type": "fill-blank", "q": "___ leave your trash here.", "a": "Don't", "hint": "금지"},
+      {"type": "multi-choice", "q": "May I sit here? - No, you ___.", "a": "may not", "opts": ["may not", "don't", "aren't"], "exp": "May I ~?에 대한 거절"}
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 ① - 놀이공원에서",
+        "en": "Last weekend, Jimin and Sora went to an amusement park. They enjoyed rides. They screamed and laughed on the roller coaster. It was really fun. Then they stood in line for another ride.",
+        "ko": "지난 주말, 지민과 소라는 놀이공원에 갔다. 그들은 놀이기구를 즐겼다. 롤러코스터에서 소리를 지르고 웃었다. 정말 재미있었다. 그리고 다른 놀이기구를 타려고 줄을 섰다."
+      },
+      {
+        "id": "r2",
+        "title": "본문 ② - 새치기 소년",
+        "en": "There was a boy in front of the two girls. He called his friends. They came and cut in line. Jimin said, \"Don't cut in line.\" The boy said sorry and went to the back of the line. Jimin smiled.",
+        "ko": "두 소녀 앞에 한 소년이 있었다. 그가 친구들을 불렀다. 그들이 와서 새치기를 했다. 지민이 \"새치기하지 마.\"라고 말했다. 소년은 사과하고 줄 뒤로 갔다. 지민이 미소 지었다."
+      },
+      {
+        "id": "r3",
+        "title": "본문 ③ - 작은 행동의 힘",
+        "en": "Later, they went to a magic show. The stage was on the second floor. A man held the door for them. He smiled and said, \"After you.\" Jimin felt happy because of his small act. Small acts like these can make people happy. That's the magic of manners!",
+        "ko": "나중에 그들은 마술 쇼에 갔다. 무대가 2층에 있었다. 한 남자가 그들에게 문을 잡아줬다. 그는 미소 짓고 \"먼저 들어가세요.\"라고 했다. 지민이는 그의 작은 행동 때문에 행복했다. 이런 작은 행동들이 사람들을 행복하게 만들 수 있다. 그것이 예절의 마법이다!"
+      }
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "They ___ and laughed on the roller coaster.", "a": "screamed", "passage": "r1"},
+      {"type": "fill-blank", "q": "There ___ a boy in front of the girls.", "a": "was", "passage": "r2"},
+      {"type": "fill-blank", "q": "The boy said sorry and ___ to the back.", "a": "went", "passage": "r2"},
+      {"type": "fill-blank", "q": "A man ___ the door for them.", "a": "held", "passage": "r3"},
+      {"type": "fill-blank", "q": "Small acts can ___ people happy.", "a": "make", "passage": "r3"},
+      {"type": "true-false", "q": "지민이는 새치기하는 소년에게 아무 말도 하지 않았다.", "a": false, "exp": "Don't cut in line이라고 말했다"},
+      {"type": "true-false", "q": "남자가 문을 잡아줘서 지민이는 행복했다.", "a": true},
+      {"type": "true-false", "q": "마술 쇼 무대는 1층에 있었다.", "a": false, "exp": "2층(second floor)에 있었다"},
+      {"type": "error-correction", "q": "They goed to an amusement park.", "a": "went", "wrong": "goed", "exp": "go의 과거형은 불규칙: went"},
+      {"type": "error-correction", "q": "There were a boy.", "a": "was", "wrong": "were", "exp": "a boy(단수) → There was"}
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "일반동사 과거형",
+        "explanation": "과거에 일어난 일을 표현합니다. 규칙: 대부분 +ed, -e → +d, 자음+y → ied, 단모음+단자음 → 자음 두 번+ed. 불규칙: go→went, stand→stood, buy→bought, see→saw, hold→held, say→said, come→came",
+        "examples": [
+          {"en": "They enjoyed rides.", "ko": "그들은 놀이기구를 즐겼다."},
+          {"en": "They screamed and laughed.", "ko": "그들은 소리를 지르고 웃었다."},
+          {"en": "He went to the back.", "ko": "그는 뒤로 갔다."},
+          {"en": "She held the door.", "ko": "그녀가 문을 잡아줬다."},
+          {"en": "He said sorry.", "ko": "그가 사과했다."}
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "There was / There were",
+        "explanation": "과거에 '~이 있었다'를 표현합니다. 단수: There was + 단수명사. 복수: There were + 복수명사.",
+        "examples": [
+          {"en": "There was a boy in front of us.", "ko": "우리 앞에 소년이 있었다."},
+          {"en": "There were many people.", "ko": "사람들이 많았다."},
+          {"en": "There was a magic show.", "ko": "마술 쇼가 있었다."},
+          {"en": "Was there a dog? - Yes, there was.", "ko": "개가 있었니? - 응, 있었어."}
+        ]
+      }
+    ],
+    "exercises": [
+      {"type": "multi-choice", "q": "She ___ to the park yesterday.", "a": "went", "opts": ["go", "went", "goed"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "There ___ a boy in front of us.", "a": "was", "opts": ["was", "were", "is"], "grammar": "g2"},
+      {"type": "multi-choice", "q": "They ___ rides at the park.", "a": "enjoyed", "opts": ["enjoy", "enjoyed", "enjoys"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "There ___ many books on the desk.", "a": "were", "opts": ["was", "were", "is"], "grammar": "g2"},
+      {"type": "fill-blank", "q": "She ___ goodbye to her friend. (say)", "a": "said", "grammar": "g1"},
+      {"type": "fill-blank", "q": "There ___ a cat under the table.", "a": "was", "grammar": "g2"},
+      {"type": "fill-blank", "q": "He ___ the door for me. (hold)", "a": "held", "grammar": "g1"},
+      {"type": "fill-blank", "q": "They ___ and laughed. (scream)", "a": "screamed", "grammar": "g1"},
+      {"type": "word-order", "words": ["went", "they", "to", "an", "amusement", "park"], "a": "They went to an amusement park.", "grammar": "g1"},
+      {"type": "word-order", "words": ["was", "there", "a", "boy", "in", "front"], "a": "There was a boy in front.", "grammar": "g2"},
+      {"type": "error-correction", "q": "He goed to school.", "a": "went", "wrong": "goed", "exp": "go → went (불규칙)"},
+      {"type": "error-correction", "q": "There were a cat.", "a": "was", "wrong": "were", "exp": "a cat(단수) → was"},
+      {"type": "error-correction", "q": "She holded the door.", "a": "held", "wrong": "holded", "exp": "hold → held (불규칙)"}
+    ]
+  }
+}
