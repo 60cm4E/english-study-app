@@ -1,0 +1,104 @@
+{
+  "lessonInfo": {"textbook": "donga-yoon-22-g1", "lesson": 5, "title": "Lesson 5 - Think like Sherlock Holmes!"},
+  "communication": {
+    "keyExpressions": [
+      {"en": "May I drink some water?", "ko": "물 좀 마셔도 될까요?", "category": "허락 구하기"},
+      {"en": "Yes, you may.", "ko": "네, 그래도 됩니다.", "category": "허락 수락"},
+      {"en": "No, you may not.", "ko": "아니요, 안 됩니다.", "category": "허락 거절"},
+      {"en": "You must not use your phone in class.", "ko": "수업 중에 핸드폰을 사용하면 안 됩니다.", "category": "금지"},
+      {"en": "You must not use the flash.", "ko": "플래시를 사용하면 안 됩니다.", "category": "금지"},
+      {"en": "You must not bring any food inside.", "ko": "음식물을 안에 가져와서는 안 됩니다.", "category": "금지"},
+      {"en": "You must not touch the paintings.", "ko": "그림을 만지면 안 됩니다.", "category": "금지"},
+      {"en": "Please turn off your phone.", "ko": "핸드폰을 꺼 주세요.", "category": "요청"}
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "___ I take a picture here?", "a": "May", "opts": ["May", "Must", "Do"], "hint": "허락 구하기"},
+      {"type": "fill-blank", "q": "You ___ not use the flash.", "a": "must", "opts": ["must", "may", "can"], "hint": "금지"},
+      {"type": "fill-blank", "q": "Please ___ off your phone.", "a": "turn", "hint": "전원을 끄다"},
+      {"type": "multi-choice", "q": "You ___ not run in the hallway.", "a": "must", "opts": ["must", "may", "can"], "exp": "금지: must not"},
+      {"type": "multi-choice", "q": "May I sit here? - No, you ___.", "a": "may not", "opts": ["may not", "must not", "don't"], "exp": "May I ~?에 대한 거절 답변"},
+      {"type": "true-false", "q": "must not은 '~할 필요 없다'라는 뜻이다.", "a": false, "exp": "must not은 '~해서는 안 된다'(금지), don't have to가 '~할 필요 없다'"}
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "도입 - 누가 모나리자에 케이크를 던졌나?",
+        "en": "Last Saturday, someone threw a cake at the Monalisa in the Botero Museum in Bogota, Colombia. There were four eyewitnesses. What did they say? Read the following, and find the criminal.",
+        "ko": "지난 토요일, 누군가 콜롬비아 보고타의 보테로 박물관에 있는 모나리자에 케이크를 던졌다. 네 명의 목격자가 있었다. 그들은 뭐라고 말했을까? 다음을 읽고 범인을 찾아보자."
+      },
+      {
+        "id": "r2",
+        "title": "목격자 진술",
+        "en": "Mrs. Garcia: I was in the souvenir shop. I was looking for the most beautiful postcard for my daughter.\nMr. Lee: I was in the restroom. I was washing my hands.\nMr. Kim: I was on the first floor. I was waiting for my friend.\nMs. Lopez: I was in the garden. I was taking pictures of some flowers.",
+        "ko": "가르시아 부인: 저는 기념품점에 있었어요. 딸을 위해 가장 아름다운 엽서를 찾고 있었어요.\n이 씨: 저는 화장실에 있었어요. 손을 씻고 있었어요.\n김 씨: 저는 1층에 있었어요. 친구를 기다리고 있었어요.\n로페즈 씨: 저는 정원에 있었어요. 꽃 사진을 찍고 있었어요."
+      },
+      {
+        "id": "r3",
+        "title": "단서 - Ann Jones (방문객)",
+        "en": "I was looking at the Monalisa, and someone threw a cake at the painting. I turned around and saw an old man. He was standing in front of a wheelchair. I'm about 170 cm tall, and he was a little taller than me.",
+        "ko": "저는 모나리자를 보고 있었는데, 누군가 그림에 케이크를 던졌어요. 뒤를 돌아보니 한 노인이 있었어요. 그는 휠체어 앞에 서 있었어요. 저는 키가 약 170cm인데, 그는 저보다 조금 더 컸어요."
+      },
+      {
+        "id": "r4",
+        "title": "단서 - Carlos Diaz (청소부) & Camila Santos (빵집 주인)",
+        "en": "Carlos: An old man with gray hair was running away, and something fell off his head. It was his wig. I ran after him, but I couldn't catch him. He was faster than me. In fact, the old man was not old. He was a young man with long brown hair.\nCamila: Last Friday, a young man came in. I spoke to him in Spanish, but he didn't understand me. He spoke only English. He wanted the smallest cake. He had blue eyes.",
+        "ko": "카를로스: 회색 머리의 노인이 도망가고 있었는데, 머리에서 무언가 떨어졌어요. 가발이었어요. 뒤쫓았지만 잡을 수 없었어요. 그가 저보다 빨랐거든요. 사실 그 노인은 나이 든 사람이 아니었어요. 긴 갈색 머리의 젊은 남자였어요.\n카밀라: 지난 금요일, 젊은 남자가 들어왔어요. 스페인어로 말했지만 이해하지 못했어요. 영어만 했어요. 가장 작은 케이크를 원했어요. 파란 눈이었어요."
+      }
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "He was ___ than me. (키가 더 큰)", "a": "taller", "passage": "r3"},
+      {"type": "fill-blank", "q": "He was ___ than me. (더 빠른)", "a": "faster", "passage": "r4"},
+      {"type": "fill-blank", "q": "I was looking for the ___ beautiful postcard.", "a": "most", "passage": "r2"},
+      {"type": "fill-blank", "q": "He wanted the ___ cake. (가장 작은)", "a": "smallest", "passage": "r4"},
+      {"type": "true-false", "q": "범인은 실제로 젊은 남자였다.", "a": true, "exp": "가발을 쓴 젊은 남자였다"},
+      {"type": "true-false", "q": "범인은 스페인어를 할 줄 알았다.", "a": false, "exp": "영어만 했다 (He spoke only English)"},
+      {"type": "true-false", "q": "Carlos가 범인을 잡았다.", "a": false, "exp": "잡지 못했다 (I couldn't catch him)"},
+      {"type": "error-correction", "q": "He is taller then me.", "a": "than", "wrong": "then", "exp": "비교급에는 than을 쓴다"},
+      {"type": "error-correction", "q": "She wanted the most small cake.", "a": "smallest", "wrong": "most small", "exp": "1음절 형용사는 -est (smallest)"},
+      {"type": "error-correction", "q": "I was look at the painting.", "a": "looking", "wrong": "look", "exp": "과거진행형: was + V-ing"}
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "비교급과 최상급",
+        "explanation": "비교급: 형용사/부사 + -er + than (더 ~한). 최상급: the + 형용사/부사 + -est (가장 ~한). 긴 단어(3음절 이상): more/most + 원급. 규칙: small→smaller→smallest, big→bigger→biggest, heavy→heavier→heaviest, beautiful→more beautiful→most beautiful",
+        "examples": [
+          {"en": "He was taller than me.", "ko": "그는 나보다 키가 컸다."},
+          {"en": "He was faster than me.", "ko": "그는 나보다 빨랐다."},
+          {"en": "She wanted the smallest cake.", "ko": "그녀는 가장 작은 케이크를 원했다."},
+          {"en": "It was the most beautiful postcard.", "ko": "그것은 가장 아름다운 엽서였다."}
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "조동사 must / must not",
+        "explanation": "must: ~해야 한다 (의무). must not: ~해서는 안 된다 (금지). don't have to: ~할 필요 없다 (불필요). must + 동사원형",
+        "examples": [
+          {"en": "You must follow the rules.", "ko": "규칙을 따라야 한다."},
+          {"en": "You must not use the flash.", "ko": "플래시를 사용해서는 안 된다."},
+          {"en": "You don't have to pay.", "ko": "돈을 낼 필요가 없다."}
+        ]
+      }
+    ],
+    "exercises": [
+      {"type": "multi-choice", "q": "My bag is ___ than yours.", "a": "heavier", "opts": ["heavy", "heavier", "heaviest"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "This is the ___ interesting book.", "a": "most", "opts": ["more", "most", "much"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "You ___ not bring food inside.", "a": "must", "opts": ["must", "may", "can"], "grammar": "g2"},
+      {"type": "multi-choice", "q": "Jejudo is ___ than Seoul.", "a": "smaller", "opts": ["small", "smaller", "smallest"], "grammar": "g1"},
+      {"type": "fill-blank", "q": "He is ___ than his brother. (키가 큰)", "a": "taller", "grammar": "g1"},
+      {"type": "fill-blank", "q": "This is the ___ movie I've ever seen. (재미있는)", "a": "most interesting", "grammar": "g1"},
+      {"type": "fill-blank", "q": "You ___ not touch the paintings.", "a": "must", "grammar": "g2"},
+      {"type": "word-order", "words": ["taller", "he", "is", "than", "me"], "a": "He is taller than me.", "grammar": "g1"},
+      {"type": "word-order", "words": ["the", "smallest", "she", "wanted", "cake"], "a": "She wanted the smallest cake.", "grammar": "g1"},
+      {"type": "word-order", "words": ["must", "you", "not", "run", "here"], "a": "You must not run here.", "grammar": "g2"},
+      {"type": "error-correction", "q": "She is more tall than me.", "a": "taller", "wrong": "more tall", "exp": "1음절: tall → taller"},
+      {"type": "error-correction", "q": "It is the beautifulest painting.", "a": "most beautiful", "wrong": "beautifulest", "exp": "3음절 이상: most beautiful"},
+      {"type": "error-correction", "q": "You must not to run.", "a": "must not run", "wrong": "must not to run", "exp": "조동사 뒤에는 동사원형 (to 불필요)"},
+      {"type": "error-correction", "q": "He is the most fast runner.", "a": "fastest", "wrong": "most fast", "exp": "1음절: fast → fastest"}
+    ]
+  }
+}
