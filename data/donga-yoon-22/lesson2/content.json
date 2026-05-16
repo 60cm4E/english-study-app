@@ -1,0 +1,105 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-yoon-22",
+    "lesson": 2,
+    "title": "Lesson 2 - How Teens Talk Now"
+  },
+  "communication": {
+    "keyExpressions": [
+      {"en": "Can you please say that again?", "ko": "다시 한번 말씀해 주시겠어요?", "category": "되묻기"},
+      {"en": "Excuse me?", "ko": "뭐라고요?", "category": "되묻기"},
+      {"en": "Sorry?", "ko": "뭐라고요?", "category": "되묻기"},
+      {"en": "Could you say that again?", "ko": "다시 말씀해 주시겠어요?", "category": "되묻기"},
+      {"en": "Could you repeat it?", "ko": "다시 말씀해 주시겠어요?", "category": "되묻기"},
+      {"en": "I didn't catch that.", "ko": "잘 못 들었어요.", "category": "되묻기"},
+      {"en": "How do you spell it?", "ko": "그것의 철자가 어떻게 되나요?", "category": "철자 묻기"},
+      {"en": "Can you spell it for me?", "ko": "철자를 알려 주시겠어요?", "category": "철자 묻기"},
+      {"en": "It's J-u-a-r-e-z.", "ko": "J-u-a-r-e-z입니다.", "category": "철자 답하기"}
+    ],
+    "exercises": [
+      {"type": "fill-blank", "ko": "다시 한번 말씀해 주시겠어요?", "en": "Can you please ___ that again?", "answer": "say"},
+      {"type": "fill-blank", "ko": "그것의 철자가 어떻게 되나요?", "en": "How do you ___ it?", "answer": "spell"},
+      {"type": "fill-blank", "ko": "잘 못 들었어요.", "en": "I didn't ___ that.", "answer": "catch"},
+      {"type": "word-order", "ko": "다시 말씀해 주시겠어요?", "words": ["Could", "you", "say", "that", "again?"], "answer": "Could you say that again?"},
+      {"type": "word-order", "ko": "철자를 알려 주시겠어요?", "words": ["Can", "you", "spell", "it", "for", "me?"], "answer": "Can you spell it for me?"},
+      {"type": "true-false", "statement": "'Excuse me?' is used to ask someone to repeat what they said.", "answer": true, "explanation": "'Excuse me?'는 상대방에게 다시 말해달라고 요청할 때 사용합니다."},
+      {"type": "true-false", "statement": "'How do you spell it?' is used to ask for directions.", "answer": false, "explanation": "'How do you spell it?'은 철자를 묻는 표현입니다."},
+      {"type": "multi-choice", "question": "다음 중 '되묻기' 표현이 아닌 것은?", "options": ["Excuse me?", "Sorry?", "How do you spell it?", "Could you repeat it?"], "answer": "How do you spell it?", "explanation": "'How do you spell it?'은 철자를 묻는 표현입니다."}
+    ]
+  },
+  "reading": {
+    "title": "Text Better, Communicate Better!",
+    "passages": [
+      "Texting is the main way of communication for many people these days, especially for teenagers. Do you want to know how you can communicate better through texting? Here are some useful tips.",
+      "You need to know who you are talking to. Henry just sent the following text message to his mother. \"Mom, I want you to wait just a little longer. BRT.\" Do you think Henry's mother correctly understood BRT? Probably not. You can use expressions like BRT (be right there), JK (just kidding), or LOL (laughing out loud) when you text your friends. However, be careful with such expressions when you text your teachers or parents. You need to understand that some of them may not know the meanings of such expressions.",
+      "You need to understand that people use emojis differently. Yesterday, Jisu gave a birthday gift to her little brother Jihoo. Later, she got the following text message. \"I loved your gift. Thanks a lot. :)\" \"Only one smiling face? I guess he didn't like my gift,\" Jisu thought. When we talk with someone, we use not only words but also facial expressions and body language. In texting, we use emojis instead. Sometimes, a little emoji like :) can speak louder than many words. The problem is that not everybody uses emojis in the same way. Some people like to use them a lot, and some don't. In addition, the same emojis can mean different things to different people.",
+      "How about thinking about your emojis twice before you send them? That way, you can deliver your message more clearly. Remember that texting is not just about words, but also about understanding and respect. Happy texting!"
+    ],
+    "exercises": [
+      {"type": "true-false", "statement": "Texting is the main way of communication especially for teenagers.", "answer": true, "explanation": "본문 첫 문장에서 'especially for teenagers'라고 명시되어 있습니다."},
+      {"type": "true-false", "statement": "Henry's mother probably understood what BRT means.", "answer": false, "explanation": "본문에서 'Probably not.'이라고 했습니다. 부모님은 약어를 모를 수 있습니다."},
+      {"type": "true-false", "statement": "Everybody uses emojis in the same way.", "answer": false, "explanation": "본문에서 'not everybody uses emojis in the same way'라고 했습니다 (부분부정)."},
+      {"type": "multi-choice", "question": "BRT의 뜻은?", "options": ["be right there", "be ready tomorrow", "bring real talk", "buy right today"], "answer": "be right there", "explanation": "BRT = be right there (곧 갈게)"},
+      {"type": "multi-choice", "question": "LOL의 뜻은?", "options": ["laughing out loud", "lots of love", "living out loud", "looking out long"], "answer": "laughing out loud", "explanation": "LOL = laughing out loud (큰 소리로 웃다)"},
+      {"type": "fill-blank", "ko": "문자는 단지 단어에 관한 것이 아니라 이해와 존중에 관한 것이기도 하다.", "en": "Texting is not just about words, but also about ___ and respect.", "answer": "understanding"},
+      {"type": "fill-blank", "ko": "우리는 단어뿐만 아니라 얼굴 표정도 사용한다.", "en": "We use not only words ___ also facial expressions.", "answer": "but"},
+      {"type": "word-order", "ko": "나는 네가 조금만 더 기다려 주길 원해.", "words": ["I", "want", "you", "to", "wait", "just", "a", "little", "longer."], "answer": "I want you to wait just a little longer."},
+      {"type": "word-order", "ko": "너는 네가 누구와 이야기하고 있는지 알아야 한다.", "words": ["You", "need", "to", "know", "who", "you", "are", "talking", "to."], "answer": "You need to know who you are talking to."},
+      {"type": "word-order", "ko": "이모티콘에 대해 두 번 생각해보는 게 어때?", "words": ["How", "about", "thinking", "about", "your", "emojis", "twice?"], "answer": "How about thinking about your emojis twice?"}
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "title": "want + 목적어 + to부정사 (5형식)",
+        "explanation": "~가 ...하기를 원하다",
+        "examples": [
+          {"en": "I want you to wait just a little longer.", "ko": "나는 네가 조금만 더 기다려 주길 원해."},
+          {"en": "She wants her brother to study hard.", "ko": "그녀는 남동생이 열심히 공부하기를 원한다."}
+        ]
+      },
+      {
+        "title": "not only A but also B",
+        "explanation": "A뿐만 아니라 B도",
+        "examples": [
+          {"en": "We use not only words but also facial expressions.", "ko": "우리는 단어뿐만 아니라 얼굴 표정도 사용한다."}
+        ]
+      },
+      {
+        "title": "간접의문문 (의문사 + 주어 + 동사)",
+        "explanation": "의문사가 포함된 명사절에서는 '의문사 + 주어 + 동사' 어순을 씁니다.",
+        "examples": [
+          {"en": "You need to know who you are talking to.", "ko": "너는 네가 누구와 이야기하고 있는지 알아야 한다."},
+          {"en": "I know where he lives.", "ko": "나는 그가 어디에 사는지 안다."}
+        ]
+      },
+      {
+        "title": "명사절 접속사 that",
+        "explanation": "that이 이끄는 절이 동사의 목적어로 쓰입니다.",
+        "examples": [
+          {"en": "You need to understand that people use emojis differently.", "ko": "너는 사람들이 이모티콘을 다르게 사용한다는 것을 이해해야 한다."},
+          {"en": "Remember that texting is not just about words.", "ko": "문자는 단지 단어에 관한 것만이 아니라는 것을 기억해라."}
+        ]
+      },
+      {
+        "title": "부분부정 (not + everybody/all/always)",
+        "explanation": "not과 전체를 나타내는 말이 함께 쓰이면 '모두 ~한 것은 아니다'라는 뜻",
+        "examples": [
+          {"en": "Not everybody uses emojis in the same way.", "ko": "모든 사람이 이모티콘을 같은 방식으로 사용하는 것은 아니다."}
+        ]
+      }
+    ],
+    "exercises": [
+      {"type": "fill-blank", "ko": "나는 네가 조금만 더 기다려 주길 원해.", "en": "I want you ___ wait just a little longer.", "answer": "to"},
+      {"type": "fill-blank", "ko": "너는 네가 누구와 이야기하고 있는지 알아야 한다.", "en": "You need to know ___ you are talking to.", "answer": "who"},
+      {"type": "fill-blank", "ko": "우리는 단어뿐만 아니라 얼굴 표정도 사용한다.", "en": "We use not ___ words but also facial expressions.", "answer": "only"},
+      {"type": "fill-blank", "ko": "모든 사람이 이모티콘을 같은 방식으로 사용하는 것은 아니다.", "en": "___ everybody uses emojis in the same way.", "answer": "Not"},
+      {"type": "error-correction", "wrong": "I want you waiting here.", "correct": "I want you to wait here.", "explanation": "want + 목적어 + to부정사 구문에서 to를 써야 합니다."},
+      {"type": "error-correction", "wrong": "Do you know where does he live?", "correct": "Do you know where he lives?", "explanation": "간접의문문에서는 '의문사 + 주어 + 동사' 어순입니다."},
+      {"type": "word-order", "ko": "그녀는 남동생이 열심히 공부하기를 원한다.", "words": ["She", "wants", "her", "brother", "to", "study", "hard."], "answer": "She wants her brother to study hard."},
+      {"type": "word-order", "ko": "나는 그가 어디에 사는지 안다.", "words": ["I", "know", "where", "he", "lives."], "answer": "I know where he lives."},
+      {"type": "multi-choice", "question": "I want him ___ the door.", "options": ["open", "to open", "opening", "opened"], "answer": "to open", "explanation": "want + 목적어 + to부정사"},
+      {"type": "multi-choice", "question": "We use not only words ___ also body language.", "options": ["and", "but", "or", "so"], "answer": "but", "explanation": "not only A but also B 구문"}
+    ]
+  }
+}

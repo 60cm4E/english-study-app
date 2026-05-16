@@ -1,0 +1,99 @@
+{
+  "lessonInfo": {
+    "textbook": "ybm-park-22",
+    "lesson": 2,
+    "title": "Lesson 2 - Healthy Bodies, Healthy Minds"
+  },
+  "communication": {
+    "keyExpressions": [
+      {"en": "I do a thousand jumps after lunch.", "ko": "나는 점심 후에 줄넘기를 천 번씩 해.", "category": "습관 묘사"},
+      {"en": "I try to drink two liters of water a day.", "ko": "나는 하루에 물을 2리터씩 마시려고 노력해.", "category": "습관 묘사"},
+      {"en": "I take dance classes every evening.", "ko": "나는 매일 저녁에 댄스 수업을 들어.", "category": "습관 묘사"},
+      {"en": "I think you should sleep more for your health.", "ko": "나는 네가 건강을 위해 잠을 더 자야 한다고 생각해.", "category": "충고하기"},
+      {"en": "I think you should eat school meals instead.", "ko": "나는 네가 학교 급식을 대신 먹어야 한다고 생각해.", "category": "충고하기"},
+      {"en": "I think you should try some physical activities.", "ko": "나는 네가 어떤 신체적인 활동들을 해 보아야 한다고 생각해.", "category": "충고하기"},
+      {"en": "Why are you sweating?", "ko": "너 왜 땀을 흘리고 있어?", "category": "일상 대화"},
+      {"en": "Can I join you tomorrow?", "ko": "내가 내일 같이 해도 돼?", "category": "일상 대화"},
+      {"en": "You look very tired.", "ko": "너 매우 피곤해 보여.", "category": "일상 대화"}
+    ],
+    "exercises": [
+      {"type": "fill-blank", "ko": "나는 네가 건강을 위해 잠을 더 자야 한다고 생각해.", "en": "I think you ___ sleep more for your health.", "answer": "should"},
+      {"type": "fill-blank", "ko": "너 매우 피곤해 보여.", "en": "You ___ very tired.", "answer": "look"},
+      {"type": "fill-blank", "ko": "너도 한번 해 보는 게 어때?", "en": "Why ___ you try it too?", "answer": "don't"},
+      {"type": "word-order", "ko": "나는 하루에 물을 2리터씩 마시려고 노력해.", "words": ["I", "try", "to", "drink", "two", "liters", "of", "water", "a", "day."], "answer": "I try to drink two liters of water a day."},
+      {"type": "word-order", "ko": "조깅 어때?", "words": ["How", "about", "jogging?"], "answer": "How about jogging?"},
+      {"type": "true-false", "statement": "'I think you should ~' is used to give advice.", "answer": true, "explanation": "'I think you should ~'는 충고할 때 사용하는 표현입니다."},
+      {"type": "multi-choice", "question": "충고하는 표현으로 알맞은 것은?", "options": ["I think you should try stretching.", "I want you to try stretching.", "You must try stretching.", "Try stretching now."], "answer": "I think you should try stretching.", "explanation": "충고할 때는 'I think you should ~'를 씁니다."}
+    ]
+  },
+  "reading": {
+    "title": "How's Your Neck Doing?",
+    "passages": [
+      "Many students have \"turtle neck.\" This happens when their head sticks forward. It often comes from using smartphones, studying, or sitting for a long time. When you have turtle neck, you may get neck pain, back pain, or headaches. But don't worry! Here are some easy stretches to help with turtle neck.",
+      "Stretch 1: Chin Tucks. 1. Sit straight and look forward. 2. Tuck your chin in for five seconds. 3. Do this ten times.",
+      "Stretch 2: Desk Stretch. 1. Sit up straight and move your head slowly from side to side. 2. Put your right hand on the left side of your head. 3. Pull your head to the right and hold for five seconds. 4. Switch sides and do the same.",
+      "Stretch 3: Chest Stretch. 1. Put your hands behind your head. 2. Pull your elbows back and open your chest. 3. Hold for ten seconds.",
+      "One thing is more important than stretching: good habits in everyday life. For example, when you use a smartphone, keep it at eye level. When you are sitting at a desk, keep your back straight. These good habits keep your neck healthy and strong."
+    ],
+    "exercises": [
+      {"type": "true-false", "statement": "Turtle neck happens when the head sticks forward.", "answer": true, "explanation": "본문에서 'This happens when their head sticks forward.'라고 했습니다."},
+      {"type": "true-false", "statement": "Turtle neck causes only neck pain.", "answer": false, "explanation": "목 통증뿐 아니라 등 통증, 두통도 올 수 있습니다."},
+      {"type": "true-false", "statement": "Good habits are more important than stretching.", "answer": true, "explanation": "본문에서 'One thing is more important than stretching: good habits'라고 했습니다."},
+      {"type": "multi-choice", "question": "거북목의 원인이 아닌 것은?", "options": ["스마트폰 사용", "오래 앉기", "공부", "규칙적 운동"], "answer": "규칙적 운동", "explanation": "규칙적 운동은 거북목의 원인이 아니라 예방책입니다."},
+      {"type": "multi-choice", "question": "Chin Tucks 스트레칭을 몇 번 반복해야 하나요?", "options": ["5번", "10번", "15번", "20번"], "answer": "10번", "explanation": "Do this ten times."},
+      {"type": "fill-blank", "ko": "좋은 습관은 여러분의 목을 건강하고 강하게 유지시켜 준다.", "en": "Good habits ___ your neck healthy and strong.", "answer": "keep"},
+      {"type": "fill-blank", "ko": "스마트폰을 사용할 때, 그것을 눈높이에 두어라.", "en": "When you use a smartphone, keep it at eye ___.", "answer": "level"},
+      {"type": "word-order", "ko": "한 가지가 스트레칭보다 더 중요하다.", "words": ["One", "thing", "is", "more", "important", "than", "stretching."], "answer": "One thing is more important than stretching."},
+      {"type": "word-order", "ko": "등을 곧게 유지해라.", "words": ["Keep", "your", "back", "straight."], "answer": "Keep your back straight."}
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "title": "비교급 (형용사/부사 + -er / more + 형용사 + than)",
+        "explanation": "두 대상을 비교하여 '~보다 더 ...한'이라는 뜻",
+        "examples": [
+          {"en": "One thing is more important than stretching.", "ko": "한 가지가 스트레칭보다 더 중요하다."},
+          {"en": "Health is more important than money.", "ko": "건강은 돈보다 더 중요하다."},
+          {"en": "She runs faster than me.", "ko": "그녀는 나보다 더 빨리 달린다."}
+        ]
+      },
+      {
+        "title": "keep + 목적어 + 형용사 (5형식)",
+        "explanation": "~을 ...한 상태로 유지하다",
+        "examples": [
+          {"en": "Good habits keep your neck healthy and strong.", "ko": "좋은 습관은 여러분의 목을 건강하고 강하게 유지시켜 준다."},
+          {"en": "Keep your back straight.", "ko": "등을 곧게 유지해라."},
+          {"en": "The music keeps me happy.", "ko": "그 음악은 나를 행복하게 유지시켜 준다."}
+        ]
+      },
+      {
+        "title": "to부정사의 부사적 용법 (목적)",
+        "explanation": "~하기 위해서",
+        "examples": [
+          {"en": "Bend your arms to make a W shape.", "ko": "W 모양을 만들기 위해 팔을 구부려라."},
+          {"en": "I go to the park to run.", "ko": "나는 달리기 위해 공원에 간다."}
+        ]
+      },
+      {
+        "title": "접속사 when / if",
+        "explanation": "~할 때 / 만약 ~라면",
+        "examples": [
+          {"en": "When you use a smartphone, keep it at eye level.", "ko": "스마트폰을 사용할 때, 그것을 눈높이에 두어라."},
+          {"en": "If you are studying for a long time, take a break.", "ko": "만약 오랜 시간 공부한다면, 휴식을 취해라."}
+        ]
+      }
+    ],
+    "exercises": [
+      {"type": "fill-blank", "ko": "한 가지가 스트레칭보다 더 중요하다.", "en": "One thing is more ___ than stretching.", "answer": "important"},
+      {"type": "fill-blank", "ko": "좋은 습관은 여러분의 목을 건강하게 유지시켜 준다.", "en": "Good habits ___ your neck healthy.", "answer": "keep"},
+      {"type": "fill-blank", "ko": "W 모양을 만들기 위해 팔을 구부려라.", "en": "Bend your arms ___ make a W shape.", "answer": "to"},
+      {"type": "fill-blank", "ko": "스마트폰을 사용할 때, 그것을 눈높이에 두어라.", "en": "___ you use a smartphone, keep it at eye level.", "answer": "When"},
+      {"type": "error-correction", "wrong": "She is more tall than her sister.", "correct": "She is taller than her sister.", "explanation": "짧은 형용사(tall)는 -er을 붙입니다. more는 긴 형용사에만 씁니다."},
+      {"type": "error-correction", "wrong": "Good habits keep your neck healthily.", "correct": "Good habits keep your neck healthy.", "explanation": "keep + 목적어 + 형용사(보어). healthily는 부사이므로 형용사 healthy를 써야 합니다."},
+      {"type": "word-order", "ko": "그 음악은 나를 행복하게 유지시켜 준다.", "words": ["The", "music", "keeps", "me", "happy."], "answer": "The music keeps me happy."},
+      {"type": "multi-choice", "question": "This book is ___ than that one.", "options": ["interesting", "more interesting", "most interesting", "interestinger"], "answer": "more interesting", "explanation": "긴 형용사의 비교급: more + 형용사"},
+      {"type": "multi-choice", "question": "Exercise keeps you ___.", "options": ["health", "healthy", "healthily", "healthier"], "answer": "healthy", "explanation": "keep + 목적어 + 형용사(보어)"}
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-yoon-22",
+    "lesson": 3,
+    "title": "Lesson 3 - What a Great Idea!"
+  },
+  "communication": {
+    "keyExpressions": [
+      {"en": "Are you sure?", "ko": "확실하니?", "category": "확신 묻기"},
+      {"en": "Yes, I'm quite sure.", "ko": "응, 꽤 확실해.", "category": "확신 답하기"},
+      {"en": "No, I'm not sure.", "ko": "아니, 확실하지 않아.", "category": "확신 답하기"},
+      {"en": "I'm sure the Reds will win.", "ko": "나는 레즈가 이길 거라고 확신해.", "category": "확신 표현"},
+      {"en": "What will the weather be like tomorrow?", "ko": "내일 날씨가 어떨 것 같니?", "category": "정보 묻기"},
+      {"en": "What do you want to eat for dinner?", "ko": "저녁으로 뭘 먹고 싶니?", "category": "정보 묻기"},
+      {"en": "Let me check.", "ko": "확인해 볼게.", "category": "확인"},
+      {"en": "Oh, you're right.", "ko": "아, 네 말이 맞아.", "category": "동의"}
+    ],
+    "exercises": [
+      {"type": "fill-blank", "ko": "확실하니?", "en": "Are you ___?", "answer": "sure"},
+      {"type": "fill-blank", "ko": "응, 꽤 확실해.", "en": "Yes, I'm ___ sure.", "answer": "quite"},
+      {"type": "fill-blank", "ko": "내일 날씨가 어떨 것 같니?", "en": "What will the weather be ___ tomorrow?", "answer": "like"},
+      {"type": "word-order", "ko": "확인해 볼게.", "words": ["Let", "me", "check."], "answer": "Let me check."},
+      {"type": "word-order", "ko": "나는 레즈가 이길 거라고 확신해.", "words": ["I'm", "sure", "the", "Reds", "will", "win."], "answer": "I'm sure the Reds will win."},
+      {"type": "true-false", "statement": "'Are you sure?' is used to ask about someone's certainty.", "answer": true, "explanation": "'Are you sure?'는 상대방의 확신 여부를 묻는 표현입니다."},
+      {"type": "multi-choice", "question": "'What will the weather be like tomorrow?'에서 'like'의 역할은?", "options": ["좋아하다", "~와 같은", "어떤 (상태)", "마치 ~처럼"], "answer": "어떤 (상태)", "explanation": "'be like'는 '어떠하다'라는 뜻으로 상태를 묻습니다."}
+    ]
+  },
+  "reading": {
+    "title": "Necessity Is the Mother of Invention",
+    "passages": [
+      "Necessity is the mother of invention. Many great inventions were the results of solving simple, everyday problems. Here are some fun examples.",
+      "In 1815, Mt. Tambora in Indonesia exploded. The explosion sent huge clouds of ash around the world. Without enough sunlight, crops failed. As a result, many people didn't have enough food to eat. Surprisingly, horses were killed for food! This made traveling without horses very difficult. People needed a new way to travel. Karl von Drais invented the first bicycle in Germany in 1817. It had two wooden wheels, but it didn't have any pedals. Riders simply pushed the ground with their feet to move forward. This was the beginning of present-day bicycles.",
+      "In 1951, Bette Nesmith Graham was a secretary at a bank. She was a bad typist and made many mistakes. Every time she made a mistake, she had to retype the whole page. One day, she thought of a simple solution. She used white paint to paint over her typing mistakes. Soon, all the other secretaries at the bank wanted some, too. Graham's small invention made her a very rich woman!",
+      "In 1991, researchers at a computer lab in England had only one coffee pot. It was on a different floor. They had to walk to the pot many times a day. However, many of the trips were disappointing because the pot was empty. They needed a way to check if the pot had coffee in it. So, they set up a camera to take a picture of the pot 3 times a minute. Everyone could watch the coffee pot on their computers through the local network. And this was how the first webcam was invented!"
+    ],
+    "exercises": [
+      {"type": "true-false", "statement": "Mt. Tambora exploded in 1817.", "answer": false, "explanation": "탐보라 화산은 1815년에 폭발했습니다. 1817년은 최초의 자전거가 발명된 해입니다."},
+      {"type": "true-false", "statement": "The first bicycle had pedals.", "answer": false, "explanation": "최초의 자전거에는 페달이 없었습니다. 타는 사람이 발로 땅을 밀어야 했습니다."},
+      {"type": "true-false", "statement": "Bette Nesmith Graham was a very good typist.", "answer": false, "explanation": "She was a bad typist and made many mistakes."},
+      {"type": "true-false", "statement": "The first webcam was invented to watch a coffee pot.", "answer": true, "explanation": "연구원들이 커피포트를 확인하기 위해 카메라를 설치한 것이 최초의 웹캠이 되었습니다."},
+      {"type": "multi-choice", "question": "Karl von Drais가 자전거를 발명한 나라는?", "options": ["인도네시아", "독일", "영국", "미국"], "answer": "독일", "explanation": "Karl von Drais invented the first bicycle in Germany."},
+      {"type": "multi-choice", "question": "Bette Nesmith Graham의 직업은?", "options": ["과학자", "교사", "비서", "발명가"], "answer": "비서", "explanation": "She was a secretary at a bank."},
+      {"type": "fill-blank", "ko": "이것은 말 없이 여행하는 것을 어렵게 만들었다.", "en": "This ___ traveling without horses very difficult.", "answer": "made"},
+      {"type": "fill-blank", "ko": "사람들은 이동할 새로운 방법이 필요했다.", "en": "People needed a new way ___ travel.", "answer": "to"},
+      {"type": "word-order", "ko": "사람들은 먹을 충분한 음식이 없었다.", "words": ["People", "didn't", "have", "enough", "food", "to", "eat."], "answer": "People didn't have enough food to eat."},
+      {"type": "word-order", "ko": "이것은 이동하는 것을 어렵게 만들었다.", "words": ["This", "made", "traveling", "very", "difficult."], "answer": "This made traveling very difficult."}
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "title": "수동태 (be + 과거분사)",
+        "explanation": "~되다, ~당하다. 주어가 동작을 받는 쪽일 때 씁니다. by + 행위자로 누가 했는지 나타냅니다.",
+        "examples": [
+          {"en": "Liquid Paper was invented by Bette Nesmith Graham.", "ko": "수정액은 베트 네스미스 그레이엄에 의해 발명되었다."},
+          {"en": "Many horses were killed for food.", "ko": "많은 말들이 음식을 위해 죽임을 당했다."},
+          {"en": "The window was broken by Tom.", "ko": "그 창문은 톰에 의해 깨졌다."}
+        ]
+      },
+      {
+        "title": "make + 목적어 + 형용사 (5형식)",
+        "explanation": "~을 ...하게 만들다. make 다음에 목적어, 그 뒤에 목적격 보어(형용사)가 옵니다.",
+        "examples": [
+          {"en": "This made traveling difficult.", "ko": "이것은 이동하는 것을 어렵게 만들었다."},
+          {"en": "Graham's small invention made her a very rich woman.", "ko": "그레이엄의 작은 발명은 그녀를 매우 부유한 여성으로 만들었다."},
+          {"en": "The news made everyone happy.", "ko": "그 소식은 모든 사람을 행복하게 만들었다."}
+        ]
+      },
+      {
+        "title": "enough + 명사 + to부정사",
+        "explanation": "~할 충분한 ...이 있다",
+        "examples": [
+          {"en": "People didn't have enough food to eat.", "ko": "사람들은 먹을 충분한 음식이 없었다."},
+          {"en": "I have enough money to buy this game.", "ko": "나는 이 게임을 살 충분한 돈이 있다."}
+        ]
+      },
+      {
+        "title": "to부정사의 형용사적 용법",
+        "explanation": "명사 뒤에서 명사를 꾸며줍니다. '~할, ~하는'으로 해석합니다.",
+        "examples": [
+          {"en": "People needed a new way to travel.", "ko": "사람들은 이동할 새로운 방법이 필요했다."},
+          {"en": "They needed a way to check the coffee pot.", "ko": "그들은 커피포트를 확인할 방법이 필요했다."}
+        ]
+      }
+    ],
+    "exercises": [
+      {"type": "fill-blank", "ko": "수정액은 그레이엄에 의해 발명되었다.", "en": "Liquid Paper was ___ by Graham.", "answer": "invented"},
+      {"type": "fill-blank", "ko": "이것은 이동하는 것을 어렵게 만들었다.", "en": "This made traveling ___.", "answer": "difficult"},
+      {"type": "fill-blank", "ko": "사람들은 먹을 충분한 음식이 없었다.", "en": "People didn't have ___ food to eat.", "answer": "enough"},
+      {"type": "fill-blank", "ko": "그 창문은 톰에 의해 깨졌다.", "en": "The window was broken ___ Tom.", "answer": "by"},
+      {"type": "error-correction", "wrong": "The window broken by Tom.", "correct": "The window was broken by Tom.", "explanation": "수동태에서는 be동사가 필요합니다: be + 과거분사"},
+      {"type": "error-correction", "wrong": "This made traveling difficulty.", "correct": "This made traveling difficult.", "explanation": "make + 목적어 + 형용사(보어). difficulty는 명사이므로 형용사 difficult를 써야 합니다."},
+      {"type": "word-order", "ko": "많은 말들이 음식을 위해 죽임을 당했다.", "words": ["Many", "horses", "were", "killed", "for", "food."], "answer": "Many horses were killed for food."},
+      {"type": "word-order", "ko": "그 소식은 모든 사람을 행복하게 만들었다.", "words": ["The", "news", "made", "everyone", "happy."], "answer": "The news made everyone happy."},
+      {"type": "multi-choice", "question": "This window ___ by a ball yesterday.", "options": ["breaks", "broke", "was broken", "is broken"], "answer": "was broken", "explanation": "과거 수동태: was/were + 과거분사"},
+      {"type": "multi-choice", "question": "The movie made me ___.", "options": ["sad", "sadly", "sadness", "saddest"], "answer": "sad", "explanation": "make + 목적어 + 형용사(보어)"}
+    ]
+  }
+}

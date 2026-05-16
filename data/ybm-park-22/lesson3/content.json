@@ -1,0 +1,119 @@
+{
+  "lessonInfo": {
+    "textbook": "ybm-park-22",
+    "lesson": 3,
+    "title": "Lesson 3 - Meet the World"
+  },
+  "communication": {
+    "keyExpressions": [
+      {"en": "I'm planning to visit Paris soon.", "ko": "나는 곧 파리를 방문할 계획이야.", "category": "계획 말하기"},
+      {"en": "I'm going to see the Eiffel Tower.", "ko": "나는 에펠탑을 볼 예정이야.", "category": "계획 말하기"},
+      {"en": "My family is planning to visit London.", "ko": "우리 가족은 런던을 방문할 계획이야.", "category": "계획 말하기"},
+      {"en": "I'm thinking of visiting my grandparents this weekend.", "ko": "나는 이번 주말에 조부모님을 방문할 생각이야.", "category": "계획 말하기"},
+      {"en": "Don't forget to feed them!", "ko": "그들에게 먹이 주는 거 잊지 마!", "category": "상기시키기"},
+      {"en": "Don't forget to take a cruise on the river!", "ko": "강에서 크루즈 타는 거 잊지 마!", "category": "상기시키기"},
+      {"en": "Don't forget to wear warm clothes.", "ko": "따뜻한 옷 입는 거 잊지 마.", "category": "상기시키기"},
+      {"en": "Remember to bring your ID.", "ko": "신분증 가져오는 거 기억해.", "category": "상기시키기"},
+      {"en": "Make sure you close the door before you leave.", "ko": "떠나기 전에 문을 닫았는지 확인해.", "category": "상기시키기"}
+    ],
+    "exercises": [
+      {"type": "fill-blank", "ko": "나는 곧 파리를 방문할 계획이야.", "en": "I'm ___ to visit Paris soon.", "answer": "planning"},
+      {"type": "fill-blank", "ko": "그들에게 먹이 주는 거 잊지 마!", "en": "Don't ___ to feed them!", "answer": "forget"},
+      {"type": "fill-blank", "ko": "따뜻한 옷 입는 거 잊지 마.", "en": "Don't forget to ___ warm clothes.", "answer": "wear"},
+      {"type": "word-order", "ko": "나는 에펠탑을 볼 예정이야.", "words": ["I'm", "going", "to", "see", "the", "Eiffel", "Tower."], "answer": "I'm going to see the Eiffel Tower."},
+      {"type": "word-order", "ko": "강에서 크루즈 타는 거 잊지 마!", "words": ["Don't", "forget", "to", "take", "a", "cruise", "on", "the", "river!"], "answer": "Don't forget to take a cruise on the river!"},
+      {"type": "true-false", "statement": "'I'm planning to ~' is used to express future plans.", "answer": true, "explanation": "'I'm planning to ~'는 미래 계획을 말할 때 사용합니다."},
+      {"type": "multi-choice", "question": "'상기시키기' 표현이 아닌 것은?", "options": ["Don't forget to ~", "Remember to ~", "I'm planning to ~", "Make sure ~"], "answer": "I'm planning to ~", "explanation": "'I'm planning to ~'는 계획을 말하는 표현입니다."}
+    ]
+  },
+  "reading": {
+    "title": "Unique Rules Around the World",
+    "passages": [
+      "Every country has a unique culture and rules that reflect its way of living. It is important to know these rules when traveling. Let's learn about some unique rules from around the world.",
+      "In Switzerland, people care about animal welfare. In Switzerland, it is not allowed to keep only one social pet like a hamster or a parrot. They must have at least two. Dog owners also need to spend enough time with their pets and take them out for exercise.",
+      "In Italy, Italians usually don't drink coffee with milk, like a cappuccino, after 11 a.m. They believe that milk is bad for digestion after a meal. So, they prefer espresso in the afternoon. If you go to Italy, don't order a cappuccino in the afternoon!",
+      "Singapore is famous for its clean streets. To keep the city clean, eating or drinking on public transport is not allowed. Also, selling or importing chewing gum is not allowed. Those actions can make the city dirty and messy. If you break the rules, you have to pay a fine.",
+      "In France, ketchup is not allowed in school cafeterias. The French are proud of their food culture. They believe that ketchup hides the real taste of their food. Thanks to this rule, students learn to taste and love traditional French food.",
+      "These rules may sound strange, but they all have good reasons. Understanding the reasons behind local rules will make your trip more fun. So the next time you travel, learn about the local culture first!"
+    ],
+    "exercises": [
+      {"type": "true-false", "statement": "In Switzerland, you can keep only one hamster.", "answer": false, "explanation": "스위스에서는 사회적인 반려동물을 한 마리만 기르는 것이 허용되지 않습니다. 최소 두 마리를 길러야 합니다."},
+      {"type": "true-false", "statement": "Italians prefer espresso in the afternoon.", "answer": true, "explanation": "이탈리아인들은 오후에 에스프레소를 선호합니다."},
+      {"type": "true-false", "statement": "Chewing gum is allowed in Singapore.", "answer": false, "explanation": "싱가포르에서는 껌의 판매와 수입이 금지되어 있습니다."},
+      {"type": "true-false", "statement": "In France, ketchup is allowed in school cafeterias.", "answer": false, "explanation": "프랑스에서는 학교 식당에서 케첩이 허용되지 않습니다."},
+      {"type": "multi-choice", "question": "프랑스에서 학교 식당에서 케첩을 금지하는 이유는?", "options": ["건강에 나빠서", "프랑스 음식의 진짜 맛을 숨겨서", "비싸서", "껌과 마찬가지로 더러워서"], "answer": "프랑스 음식의 진짜 맛을 숨겨서", "explanation": "They believe that ketchup hides the real taste of their food."},
+      {"type": "multi-choice", "question": "싱가포르에서 규칙을 어기면 어떻게 되나요?", "options": ["경고를 받는다", "벌금을 내야 한다", "추방된다", "아무 일도 없다"], "answer": "벌금을 내야 한다", "explanation": "If you break the rules, you have to pay a fine."},
+      {"type": "fill-blank", "ko": "그 행동들은 도시를 더럽고 지저분하게 만들 수 있다.", "en": "Those actions can make the city dirty and ___.", "answer": "messy"},
+      {"type": "fill-blank", "ko": "이 규칙 덕분에, 학생들은 전통 프랑스 음식을 맛보고 사랑하는 것을 배운다.", "en": "___ to this rule, students learn to taste and love traditional French food.", "answer": "Thanks"},
+      {"type": "word-order", "ko": "만약 규칙을 어기면, 벌금을 내야 한다.", "words": ["If", "you", "break", "the", "rules,", "you", "have", "to", "pay", "a", "fine."], "answer": "If you break the rules, you have to pay a fine."},
+      {"type": "word-order", "ko": "이 규칙들이 이상하게 들릴 수 있지만, 모두 타당한 이유가 있다.", "words": ["These", "rules", "may", "sound", "strange,", "but", "they", "all", "have", "good", "reasons."], "answer": "These rules may sound strange, but they all have good reasons."}
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "title": "수동태 (be + 과거분사)",
+        "explanation": "~되다, ~당하다. 행위를 받는 쪽이 주어가 됩니다.",
+        "examples": [
+          {"en": "The Eiffel Tower was built in 1889.", "ko": "에펠탑은 1889년에 지어졌다."},
+          {"en": "Espresso is loved by many people.", "ko": "에스프레소는 많은 사람들에게 사랑받는다."},
+          {"en": "Ketchup is not allowed in school cafeterias.", "ko": "케첩은 학교 식당에서 허용되지 않는다."}
+        ]
+      },
+      {
+        "title": "조건의 접속사 if",
+        "explanation": "만약 ~라면. if절에서는 미래의 일이라도 현재 시제를 씁니다.",
+        "examples": [
+          {"en": "If you go to Italy, don't order a cappuccino in the afternoon.", "ko": "만약 이탈리아에 가면, 오후에 카푸치노를 주문하지 마."},
+          {"en": "If you break the rules, you have to pay a fine.", "ko": "만약 규칙을 어기면, 벌금을 내야 한다."},
+          {"en": "If it rains tomorrow, I will stay at home.", "ko": "내일 비가 오면, 나는 집에 있을 것이다."}
+        ]
+      },
+      {
+        "title": "관계대명사 (who/which/that)",
+        "explanation": "명사를 뒤에서 꾸며주는 형용사절을 이끕니다. 사람: who, 사물: which, 둘 다: that",
+        "examples": [
+          {"en": "They need a friend that can be with them.", "ko": "그들은 함께 있어 줄 수 있는 친구가 필요하다."},
+          {"en": "Espresso is a classic Italian coffee that is loved by many people.", "ko": "에스프레소는 많은 사람들에게 사랑받는 대표적인 이탈리아 커피이다."},
+          {"en": "Every country has rules that reflect its culture.", "ko": "모든 나라에는 그 문화를 반영하는 규칙이 있다."}
+        ]
+      },
+      {
+        "title": "make + 목적어 + 형용사 (5형식)",
+        "explanation": "~을 ...하게 만들다",
+        "examples": [
+          {"en": "Those actions can make the city dirty and messy.", "ko": "그 행동들은 도시를 더럽고 지저분하게 만들 수 있다."},
+          {"en": "Understanding the reasons will make your trip more fun.", "ko": "이유를 이해하는 것은 여행을 더 즐겁게 만들 것이다."}
+        ]
+      },
+      {
+        "title": "의문사 + to부정사",
+        "explanation": "~할지 (방법/장소/시간 등)",
+        "examples": [
+          {"en": "Everyone knows where to eat.", "ko": "모든 사람이 어디서 먹을지 안다."},
+          {"en": "Everyone knows where to throw away their trash.", "ko": "모든 사람이 쓰레기를 어디에 버릴지 안다."}
+        ]
+      },
+      {
+        "title": "명사절 접속사 that",
+        "explanation": "~라고, ~한 것을. that이 이끄는 절이 believe, think 등의 목적어가 됩니다.",
+        "examples": [
+          {"en": "They believe that ketchup hides the real taste of their food.", "ko": "그들은 케첩이 음식의 진짜 맛을 숨긴다고 믿는다."},
+          {"en": "They believe that milk is bad for digestion.", "ko": "그들은 우유가 소화에 나쁘다고 믿는다."}
+        ]
+      }
+    ],
+    "exercises": [
+      {"type": "fill-blank", "ko": "에펠탑은 1889년에 지어졌다.", "en": "The Eiffel Tower ___ built in 1889.", "answer": "was"},
+      {"type": "fill-blank", "ko": "만약 이탈리아에 가면, 카푸치노를 주문하지 마.", "en": "___ you go to Italy, don't order a cappuccino.", "answer": "If"},
+      {"type": "fill-blank", "ko": "그들은 함께 있어 줄 수 있는 친구가 필요하다.", "en": "They need a friend ___ can be with them.", "answer": "that"},
+      {"type": "fill-blank", "ko": "그들은 케첩이 음식의 진짜 맛을 숨긴다고 믿는다.", "en": "They believe ___ ketchup hides the real taste.", "answer": "that"},
+      {"type": "error-correction", "wrong": "The book was wrote by her.", "correct": "The book was written by her.", "explanation": "수동태에서는 과거분사를 써야 합니다. write의 과거분사는 written입니다."},
+      {"type": "error-correction", "wrong": "If it will rain tomorrow, I will stay home.", "correct": "If it rains tomorrow, I will stay home.", "explanation": "if절에서는 미래의 일이라도 현재 시제를 사용합니다."},
+      {"type": "word-order", "ko": "케첩은 학교 식당에서 허용되지 않는다.", "words": ["Ketchup", "is", "not", "allowed", "in", "school", "cafeterias."], "answer": "Ketchup is not allowed in school cafeterias."},
+      {"type": "word-order", "ko": "이유를 이해하는 것은 여행을 더 즐겁게 만들 것이다.", "words": ["Understanding", "the", "reasons", "will", "make", "your", "trip", "more", "fun."], "answer": "Understanding the reasons will make your trip more fun."},
+      {"type": "multi-choice", "question": "The cake was ___ by my mom.", "options": ["make", "made", "making", "makes"], "answer": "made", "explanation": "수동태: be + 과거분사. make의 과거분사는 made"},
+      {"type": "multi-choice", "question": "If she ___ early, she will catch the bus.", "options": ["leave", "leaves", "will leave", "left"], "answer": "leaves", "explanation": "if절에서는 미래의 일이라도 현재 시제를 사용합니다."}
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "lessonInfo": {
+    "textbook": "ybm-park-22",
+    "lesson": 1,
+    "title": "Lesson 1 - Know Me, Know You"
+  },
+  "communication": {
+    "keyExpressions": [
+      {"en": "I enjoy exercising outside.", "ko": "나는 야외에서 운동하는 것을 즐겨.", "category": "좋아하는 것 표현"},
+      {"en": "I enjoy learning programming.", "ko": "나는 프로그래밍 배우는 것을 즐겨.", "category": "좋아하는 것 표현"},
+      {"en": "I'm going to join the soccer club.", "ko": "나는 축구 동아리에 가입할 거야.", "category": "좋아하는 것 표현"},
+      {"en": "She is active and friendly.", "ko": "그녀는 활발하고 친절해.", "category": "인물 묘사"},
+      {"en": "What is she like?", "ko": "그녀는 어떤 사람이니?", "category": "인물 묘사"},
+      {"en": "You like painting, and you're creative.", "ko": "너는 그림 그리는 것을 좋아하고 창의적이야.", "category": "인물 묘사"}
+    ],
+    "exercises": [
+      {"type": "fill-blank", "ko": "나는 야외에서 운동하는 것을 즐겨.", "en": "I ___ exercising outside.", "answer": "enjoy"},
+      {"type": "fill-blank", "ko": "그녀는 활발하고 친절해.", "en": "She is active ___ friendly.", "answer": "and"},
+      {"type": "fill-blank", "ko": "그녀는 어떤 사람이니?", "en": "What is she ___?", "answer": "like"},
+      {"type": "word-order", "ko": "나는 프로그래밍 배우는 것을 즐겨.", "words": ["I", "enjoy", "learning", "programming."], "answer": "I enjoy learning programming."},
+      {"type": "word-order", "ko": "나는 축구 동아리에 가입할 거야.", "words": ["I'm", "going", "to", "join", "the", "soccer", "club."], "answer": "I'm going to join the soccer club."},
+      {"type": "true-false", "statement": "'What is she like?' is asking about her appearance only.", "answer": false, "explanation": "'What is she like?'는 외모뿐만 아니라 성격도 포함하여 묻는 표현입니다."},
+      {"type": "multi-choice", "question": "'I enjoy ___' 뒤에 올 수 있는 형태는?", "options": ["exercising", "to exercise", "exercise", "exercised"], "answer": "exercising", "explanation": "enjoy 뒤에는 동명사(-ing)가 옵니다."}
+    ]
+  },
+  "reading": {
+    "title": "Different but Together",
+    "passages": [
+      "Hello! I'm Christopher Robin from the storybook, Winnie-the-Pooh. I'm a thoughtful character in the stories, and I'm kind to my friends. Now I'm looking at some old pictures of them. They are the happiest animals in the woods. Would you like to take a look and hear about them?",
+      "This is Pooh and me. Pooh loves all kinds of food, but he likes honey the best. In this picture, he is holding a big balloon and trying to get honey from a beehive. What happened next? The bees popped his balloon, so he couldn't get the honey. He failed, but he was cheerful and hopeful. He is always thinking of creative ways to get honey.",
+      "Look at this small pig. That's Piglet. He is often scared, but he is a very brave friend. In this picture, his friends are in trouble. Piglet becomes brave when his friends need him. He is the first person to help them.",
+      "Who is this? This is Owl. He is the smartest friend in the woods. He is also a good listener. When his friends have problems, they go to Owl. He is always ready to give them good advice. He is the best friend to give advice to us.",
+      "Pooh, Piglet, and Owl are all different. Pooh is cheerful, Piglet is brave, and Owl is smart. But they are all great friends. They are always there for each other. They make me happy."
+    ],
+    "exercises": [
+      {"type": "true-false", "statement": "Pooh likes honey the best.", "answer": true, "explanation": "본문에서 'he likes honey the best'라고 명시되어 있습니다."},
+      {"type": "true-false", "statement": "Pooh successfully got honey from the beehive.", "answer": false, "explanation": "벌들이 풍선을 터뜨려서 꿀을 얻지 못했습니다."},
+      {"type": "true-false", "statement": "Piglet is the smartest friend in the woods.", "answer": false, "explanation": "가장 똑똑한 친구는 Owl입니다. Piglet은 용감한 친구입니다."},
+      {"type": "true-false", "statement": "Owl is a good listener.", "answer": true, "explanation": "본문에서 'He is also a good listener.'라고 했습니다."},
+      {"type": "multi-choice", "question": "Christopher Robin의 성격은?", "options": ["cheerful", "thoughtful", "brave", "smart"], "answer": "thoughtful", "explanation": "I'm a thoughtful character in the stories."},
+      {"type": "multi-choice", "question": "Piglet이 용감해지는 때는?", "options": ["꿀을 먹을 때", "친구가 위험할 때", "혼자 있을 때", "숲에 갈 때"], "answer": "친구가 위험할 때", "explanation": "Piglet becomes brave when his friends need him."},
+      {"type": "fill-blank", "ko": "그는 숲에서 가장 행복한 동물들이다.", "en": "They are the ___ animals in the woods.", "answer": "happiest"},
+      {"type": "fill-blank", "ko": "그는 그들을 도와줄 첫 번째 사람이다.", "en": "He is the first person ___ help them.", "answer": "to"},
+      {"type": "word-order", "ko": "그는 항상 꿀을 얻을 창의적인 방법들을 생각한다.", "words": ["He", "is", "always", "thinking", "of", "creative", "ways", "to", "get", "honey."], "answer": "He is always thinking of creative ways to get honey."},
+      {"type": "word-order", "ko": "그들은 항상 서로를 위해 곁에 있다.", "words": ["They", "are", "always", "there", "for", "each", "other."], "answer": "They are always there for each other."}
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "title": "최상급 (the + -est / the most + 형용사)",
+        "explanation": "셋 이상을 비교하여 '가장 ~한'이라는 뜻. 짧은 형용사: -est, 긴 형용사: most",
+        "examples": [
+          {"en": "They are the happiest animals in the woods.", "ko": "그들은 숲에서 가장 행복한 동물들이다."},
+          {"en": "He likes honey the best.", "ko": "그는 꿀을 가장 좋아한다."},
+          {"en": "He is the smartest friend in the woods.", "ko": "그는 숲에서 가장 똑똑한 친구이다."}
+        ]
+      },
+      {
+        "title": "to부정사의 형용사적 용법",
+        "explanation": "명사 뒤에서 명사를 꾸며줍니다. '~할, ~하는'으로 해석합니다.",
+        "examples": [
+          {"en": "He is always thinking of creative ways to get honey.", "ko": "그는 꿀을 얻을 창의적인 방법들을 항상 생각한다."},
+          {"en": "He is the best friend to give advice to us.", "ko": "그는 우리에게 조언을 해 줄 최고의 친구이다."},
+          {"en": "He is the first person to help them.", "ko": "그는 그들을 도와줄 첫 번째 사람이다."}
+        ]
+      }
+    ],
+    "exercises": [
+      {"type": "fill-blank", "ko": "그들은 숲에서 가장 행복한 동물들이다.", "en": "They are the ___ animals in the woods.", "answer": "happiest"},
+      {"type": "fill-blank", "ko": "그는 꿀을 가장 좋아한다.", "en": "He likes honey the ___.", "answer": "best"},
+      {"type": "fill-blank", "ko": "그는 그들을 도와줄 첫 번째 사람이다.", "en": "He is the first person ___ help them.", "answer": "to"},
+      {"type": "fill-blank", "ko": "그는 우리에게 조언을 해 줄 최고의 친구이다.", "en": "He is the ___ friend to give advice to us.", "answer": "best"},
+      {"type": "error-correction", "wrong": "He is happiest friend in the woods.", "correct": "He is the happiest friend in the woods.", "explanation": "최상급 앞에는 반드시 the를 써야 합니다."},
+      {"type": "error-correction", "wrong": "I need a book read.", "correct": "I need a book to read.", "explanation": "to부정사의 형용사적 용법: 명사 + to부정사"},
+      {"type": "word-order", "ko": "그는 숲에서 가장 똑똑한 친구이다.", "words": ["He", "is", "the", "smartest", "friend", "in", "the", "woods."], "answer": "He is the smartest friend in the woods."},
+      {"type": "multi-choice", "question": "She is the ___ girl in her class.", "options": ["tall", "taller", "tallest", "most tall"], "answer": "tallest", "explanation": "최상급: the + 형용사-est (짧은 형용사)"},
+      {"type": "multi-choice", "question": "I have some homework ___.", "options": ["do", "to do", "doing", "did"], "answer": "to do", "explanation": "to부정사의 형용사적 용법: homework to do"}
+    ]
+  }
+}
