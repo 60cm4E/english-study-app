@@ -1,0 +1,121 @@
+{
+  "lessonInfo": {"textbook": "ybm-park-22-g1", "lesson": 1, "title": "Lesson 1 - All about Me"},
+  "communication": {
+    "keyExpressions": [
+      {"en": "What is your name?", "ko": "네 이름이 뭐니?", "category": "개인정보 묻기"},
+      {"en": "My name is Jenny.", "ko": "내 이름은 제니야.", "category": "개인정보 답하기"},
+      {"en": "When is your birthday?", "ko": "생일이 언제니?", "category": "개인정보 묻기"},
+      {"en": "My birthday is November 4th.", "ko": "내 생일은 11월 4일이야.", "category": "개인정보 답하기"},
+      {"en": "What subject do you like?", "ko": "어떤 과목을 좋아하니?", "category": "좋아하는 것 묻기"},
+      {"en": "I like art.", "ko": "나는 미술을 좋아해.", "category": "좋아하는 것 답하기"},
+      {"en": "What is your favorite season?", "ko": "가장 좋아하는 계절은 뭐니?", "category": "좋아하는 것 묻기"},
+      {"en": "My favorite season is spring.", "ko": "가장 좋아하는 계절은 봄이야.", "category": "좋아하는 것 답하기"},
+      {"en": "Nice to meet you.", "ko": "만나서 반갑다.", "category": "인사"}
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "What ___ your name?", "a": "is", "opts": ["is", "are", "am"], "hint": "be동사 선택"},
+      {"type": "fill-blank", "q": "My ___ is November 4th.", "a": "birthday", "hint": "생일"},
+      {"type": "fill-blank", "q": "What subject ___ you like?", "a": "do", "opts": ["do", "does", "are"], "hint": "일반동사 의문문"},
+      {"type": "fill-blank", "q": "My ___ season is spring.", "a": "favorite", "hint": "가장 좋아하는"},
+      {"type": "multi-choice", "q": "Nice to ___ you.", "a": "meet", "opts": ["meet", "meets", "meeting"], "exp": "to + 동사원형"}
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 ① - Harin's Lifelogging",
+        "en": "Hi! I'm Harin. I am an active person. I love running. I exercise every morning. I have a running app on my smartphone. It records my speed, time, and steps. It is very helpful.",
+        "ko": "안녕! 나는 하린이야. 나는 활동적인 사람이야. 나는 달리기를 정말 좋아해. 나는 매일 아침 운동해. 스마트폰에 달리기 앱이 있어. 그것은 내 속도, 시간, 걸음 수를 기록해. 정말 도움이 돼."
+      },
+      {
+        "id": "r2",
+        "title": "본문 ② - Mike's Lifelogging",
+        "en": "Hi! I'm Mike. I'm very interested in fashion. I take pictures of my clothes and post them on social media. I have many followers. They leave nice comments on my \"fashion diary.\"",
+        "ko": "안녕! 나는 마이크야. 나는 패션에 매우 관심이 있어. 내 옷 사진을 찍어서 소셜 미디어에 올려. 팔로워가 많아. 그들은 내 '패션 일기'에 좋은 댓글을 달아줘."
+      },
+      {
+        "id": "r3",
+        "title": "본문 ③ - Elena's Lifelogging",
+        "en": "Hi! I'm Elena. I'm into donuts. I visit donut shops in my free time. I mark them on a map app. I can visit them again with my friends. Donuts are not just a snack for me. They are my happiness!",
+        "ko": "안녕! 나는 엘레나야. 나는 도넛에 빠져 있어. 자유 시간에 도넛 가게를 방문해. 지도 앱에 표시해 둬. 친구들과 다시 방문할 수 있어. 도넛은 나에게 그냥 간식이 아니야. 도넛이 내 행복이야!"
+      }
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "I am an ___ person.", "a": "active", "passage": "r1"},
+      {"type": "fill-blank", "q": "It ___ my speed, time, and steps.", "a": "records", "passage": "r1"},
+      {"type": "fill-blank", "q": "I ___ pictures of my clothes.", "a": "take", "passage": "r2"},
+      {"type": "fill-blank", "q": "I ___ them on a map app.", "a": "mark", "passage": "r3"},
+      {"type": "fill-blank", "q": "Donuts are my ___!", "a": "happiness", "passage": "r3"},
+      {"type": "true-false", "q": "하린이는 매일 저녁에 운동한다.", "a": false, "exp": "매일 아침(every morning) 운동한다"},
+      {"type": "true-false", "q": "마이크는 패션에 관심이 있다.", "a": true},
+      {"type": "true-false", "q": "엘레나는 도넛 가게를 혼자만 방문한다.", "a": false, "exp": "친구들과 다시 방문할 수 있다"},
+      {"type": "error-correction", "q": "He are an active person.", "a": "is", "wrong": "are", "exp": "He는 3인칭 단수 → is"},
+      {"type": "error-correction", "q": "She record my speed.", "a": "records", "wrong": "record", "exp": "She/It → 3인칭 단수 동사 records"}
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "be동사 현재형",
+        "explanation": "I → am, You/We/They → are, He/She/It → is. 축약형: I'm, You're, He's 등",
+        "examples": [
+          {"en": "I am an active person.", "ko": "나는 활동적인 사람이다."},
+          {"en": "She is interested in fashion.", "ko": "그녀는 패션에 관심이 있다."},
+          {"en": "They are my followers.", "ko": "그들은 나의 팔로워이다."},
+          {"en": "It is very helpful.", "ko": "그것은 매우 도움이 된다."}
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "일반동사 현재형 + 3인칭 단수",
+        "explanation": "일반동사는 동작/상태를 나타냅니다. 주어가 3인칭 단수(he/she/it)일 때 동사에 -(e)s를 붙입니다.",
+        "examples": [
+          {"en": "I exercise every morning.", "ko": "나는 매일 아침 운동한다."},
+          {"en": "It records my speed.", "ko": "그것은 내 속도를 기록한다."},
+          {"en": "She takes pictures.", "ko": "그녀는 사진을 찍는다."},
+          {"en": "He watches movies.", "ko": "그는 영화를 본다."}
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "인칭대명사",
+        "explanation": "주격(I, you, he, she, it, we, they), 소유격(my, your, his, her, its, our, their), 목적격(me, you, him, her, it, us, them), 소유대명사(mine, yours, his, hers, ours, theirs)",
+        "examples": [
+          {"en": "I love running.", "ko": "나는 달리기를 좋아한다. (주격)"},
+          {"en": "My birthday is in May.", "ko": "내 생일은 5월이다. (소유격)"},
+          {"en": "Help me, please.", "ko": "나를 도와줘. (목적격)"},
+          {"en": "This book is mine.", "ko": "이 책은 내 것이다. (소유대명사)"}
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "의문문과 부정문",
+        "explanation": "be동사 의문문: Be + 주어 ~? 일반동사 의문문: Do/Does + 주어 + 동사원형 ~? 부정문: be + not / do(es) + not + 동사원형",
+        "examples": [
+          {"en": "Are you a student?", "ko": "너는 학생이니?"},
+          {"en": "What do you like?", "ko": "너는 무엇을 좋아하니?"},
+          {"en": "Donuts are not just a snack.", "ko": "도넛은 그냥 간식이 아니다."},
+          {"en": "I don't like math.", "ko": "나는 수학을 좋아하지 않는다."}
+        ]
+      }
+    ],
+    "exercises": [
+      {"type": "multi-choice", "q": "She ___ a student.", "a": "is", "opts": ["am", "is", "are"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "He ___ pictures every day.", "a": "takes", "opts": ["take", "takes", "taking"], "grammar": "g2"},
+      {"type": "multi-choice", "q": "This is ___ book. (나의)", "a": "my", "opts": ["I", "my", "me"], "grammar": "g3"},
+      {"type": "multi-choice", "q": "___ you a student?", "a": "Are", "opts": ["Are", "Do", "Does"], "grammar": "g4"},
+      {"type": "fill-blank", "q": "I ___ an active person.", "a": "am", "grammar": "g1"},
+      {"type": "fill-blank", "q": "She ___ English every day.", "a": "studies", "grammar": "g2"},
+      {"type": "fill-blank", "q": "This is ___ pen. (그녀의)", "a": "her", "grammar": "g3"},
+      {"type": "fill-blank", "q": "___ she like science?", "a": "Does", "grammar": "g4"},
+      {"type": "word-order", "words": ["am", "I", "an", "active", "person"], "a": "I am an active person.", "grammar": "g1"},
+      {"type": "word-order", "words": ["records", "it", "my", "speed"], "a": "It records my speed.", "grammar": "g2"},
+      {"type": "word-order", "words": ["do", "what", "you", "like"], "a": "What do you like?", "grammar": "g4"},
+      {"type": "error-correction", "q": "She are a student.", "a": "is", "wrong": "are", "exp": "She → is"},
+      {"type": "error-correction", "q": "He take pictures.", "a": "takes", "wrong": "take", "exp": "He → 3인칭 단수 → takes"},
+      {"type": "error-correction", "q": "I doesn't like math.", "a": "don't", "wrong": "doesn't", "exp": "I → don't"}
+    ]
+  }
+}

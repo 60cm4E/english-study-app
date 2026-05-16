@@ -1,0 +1,118 @@
+{
+  "lessonInfo": {"textbook": "donga-yoon-22-g1", "lesson": 6, "title": "Lesson 6 - Good for the Earth, Good for Us"},
+  "communication": {
+    "keyExpressions": [
+      {"en": "Can you please carry this bag for me?", "ko": "이 가방 좀 들어줄 수 있어?", "category": "도움 요청"},
+      {"en": "Sure. No problem.", "ko": "물론이지. 문제없어.", "category": "수락"},
+      {"en": "Can you fix my bike?", "ko": "내 자전거 고쳐줄 수 있어?", "category": "도움 요청"},
+      {"en": "I'm sorry, but I can't. I'm busy now.", "ko": "미안하지만 안 돼. 지금 바빠.", "category": "거절"},
+      {"en": "Can you do me a favor?", "ko": "부탁 하나 해도 될까?", "category": "도움 요청"}
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "Can you please ___ this bag for me?", "a": "carry", "opts": ["carry", "carried", "carrying"], "hint": "들어주다"},
+      {"type": "fill-blank", "q": "Can you ___ me a favor?", "a": "do", "hint": "부탁 하나 해도 될까?"},
+      {"type": "fill-blank", "q": "I'm sorry, ___ I can't. I'm busy.", "a": "but", "hint": "거절"},
+      {"type": "multi-choice", "q": "Can you help me? - ___", "a": "Sure. No problem.", "opts": ["Sure. No problem.", "I'm fine.", "Nice to meet you."], "exp": "도움 요청에 수락"},
+      {"type": "true-false", "q": "'Can you please ~?'는 도움을 요청할 때 쓰는 표현이다.", "a": true}
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - Zero-Waste Challenge (도입)",
+        "en": "Do you know? People in Korea produce lots of waste every day. Do you want to save the Earth? Then join the Zero-Waste Challenge! You can share your experience on social media.",
+        "ko": "알고 있나요? 한국 사람들은 매일 많은 쓰레기를 배출해요. 지구를 구하고 싶나요? 그러면 제로 웨이스트 챌린지에 참여하세요! 소셜 미디어에 경험을 공유할 수 있어요."
+      },
+      {
+        "id": "r2",
+        "title": "Challenge 01 - Reduce Food Waste",
+        "en": "Today is my birthday. My family and I ate out. There were some leftovers. We brought them home. I think I can make a nice lunch tomorrow with the leftovers.",
+        "ko": "오늘은 내 생일이야. 가족과 외식했어. 남은 음식이 좀 있었어. 집에 가져왔어. 남은 음식으로 내일 멋진 점심을 만들 수 있을 것 같아."
+      },
+      {
+        "id": "r3",
+        "title": "Challenge 02 - Reuse",
+        "en": "My dog tore my bag. I want to buy a new one. But I decided to fix it instead. I found some ideas on the Internet. FYI, my grandmother is good at sewing. With her help, I think the bag looks perfect now. Can you guess the old part?",
+        "ko": "강아지가 내 가방을 찢었어. 새 걸 사고 싶었어. 하지만 대신 고치기로 결심했어. 인터넷에서 아이디어를 찾았어. 참고로 우리 할머니는 바느질을 잘하셔. 할머니의 도움으로 가방이 이제 완벽해 보여. 어디가 원래 부분인지 맞춰볼래?"
+      },
+      {
+        "id": "r4",
+        "title": "Challenge 03 - Say No to Single-Use Plastic",
+        "en": "I often use food delivery services. But single-use plastic from delivery is not good for the Earth. So, I went to a restaurant with a reusable container instead.",
+        "ko": "나는 자주 배달 서비스를 이용해. 하지만 배달의 일회용 플라스틱은 지구에 좋지 않아. 그래서 대신 다회용기를 가지고 식당에 직접 갔어."
+      },
+      {
+        "id": "r5",
+        "title": "Challenge 04 - Recycle Glass Bottles",
+        "en": "I took some glass bottles to the recycling machine. I put them into the machine one by one. In return, I got some money. The glass bottles completely go away. It's amazing!",
+        "ko": "유리병 몇 개를 재활용 기계에 가져갔어. 하나씩 기계에 넣었어. 대가로 돈을 받았어. 유리병이 완전히 사라져. 놀라워!"
+      }
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "People in Korea ___ lots of waste every day.", "a": "produce", "passage": "r1"},
+      {"type": "fill-blank", "q": "We ___ the leftovers home.", "a": "brought", "passage": "r2"},
+      {"type": "fill-blank", "q": "I ___ to fix the bag instead.", "a": "decided", "passage": "r3"},
+      {"type": "fill-blank", "q": "I ___ use food delivery services.", "a": "often", "passage": "r4"},
+      {"type": "fill-blank", "q": "I put them into the machine ___ by ___.", "a": "one, one", "passage": "r5"},
+      {"type": "true-false", "q": "챌린지 1에서 남은 음식을 버렸다.", "a": false, "exp": "집에 가져왔다 (brought them home)"},
+      {"type": "true-false", "q": "챌린지 2에서 새 가방을 샀다.", "a": false, "exp": "고치기로 결심했다 (decided to fix it)"},
+      {"type": "true-false", "q": "챌린지 3에서 다회용기를 가지고 식당에 갔다.", "a": true},
+      {"type": "true-false", "q": "챌린지 4에서 유리병을 재활용하고 돈을 받았다.", "a": true},
+      {"type": "error-correction", "q": "I decided fix the bag.", "a": "to fix", "wrong": "fix", "exp": "decide + to부정사"},
+      {"type": "error-correction", "q": "She is good at sewing.", "a": "sewing", "wrong": "sew", "exp": "be good at + 동명사(-ing). 이 문장은 맞습니다."}
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "빈도부사 (Adverbs of Frequency)",
+        "explanation": "빈도부사는 '얼마나 자주'를 나타냅니다. always(항상) > usually(보통) > often(자주) > sometimes(때때로) > never(절대~않다). 위치: 일반동사 앞, be동사/조동사 뒤",
+        "examples": [
+          {"en": "I often use food delivery services.", "ko": "나는 자주 배달 서비스를 이용한다."},
+          {"en": "She always brings a reusable cup.", "ko": "그녀는 항상 다회용 컵을 가져온다."},
+          {"en": "He is usually late.", "ko": "그는 보통 늦는다."},
+          {"en": "I never eat fast food.", "ko": "나는 절대 패스트푸드를 먹지 않는다."}
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "접속사 that",
+        "explanation": "think, know, hear, believe 등의 동사 뒤에 that절이 목적어로 옵니다. that은 생략 가능합니다.",
+        "examples": [
+          {"en": "I think (that) the bag looks perfect.", "ko": "나는 가방이 완벽해 보인다고 생각해."},
+          {"en": "I know (that) recycling is important.", "ko": "나는 재활용이 중요하다는 것을 알아."},
+          {"en": "She believes (that) we can save the Earth.", "ko": "그녀는 우리가 지구를 구할 수 있다고 믿어."}
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "to부정사의 명사적 용법",
+        "explanation": "to + 동사원형이 '~하는 것'으로 해석되며, 주어/목적어/보어 자리에 옵니다. want, decide, hope, plan + to부정사",
+        "examples": [
+          {"en": "Do you want to save the Earth?", "ko": "지구를 구하고 싶니?"},
+          {"en": "I decided to fix the bag.", "ko": "나는 가방을 고치기로 결심했다."},
+          {"en": "To recycle is important.", "ko": "재활용하는 것은 중요하다."},
+          {"en": "My dream is to become a scientist.", "ko": "내 꿈은 과학자가 되는 것이다."}
+        ]
+      }
+    ],
+    "exercises": [
+      {"type": "multi-choice", "q": "She ___ drinks coffee. (항상)", "a": "always", "opts": ["always", "never", "sometimes"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "I think ___ he is right.", "a": "that", "opts": ["that", "what", "which"], "grammar": "g2"},
+      {"type": "multi-choice", "q": "I want ___ a doctor.", "a": "to be", "opts": ["be", "to be", "being"], "grammar": "g3"},
+      {"type": "multi-choice", "q": "빈도부사 usually의 위치는?", "a": "일반동사 앞", "opts": ["문장 끝", "일반동사 앞", "문장 앞"], "grammar": "g1"},
+      {"type": "fill-blank", "q": "She ___ eats breakfast. (항상)", "a": "always", "grammar": "g1"},
+      {"type": "fill-blank", "q": "I think ___ recycling is important.", "a": "that", "grammar": "g2"},
+      {"type": "fill-blank", "q": "I decided ___ study harder.", "a": "to", "grammar": "g3"},
+      {"type": "fill-blank", "q": "He ___ watches TV at night. (절대 ~않다)", "a": "never", "grammar": "g1"},
+      {"type": "word-order", "words": ["always", "she", "brings", "a", "reusable", "cup"], "a": "She always brings a reusable cup.", "grammar": "g1"},
+      {"type": "word-order", "words": ["think", "I", "that", "he", "is", "right"], "a": "I think that he is right.", "grammar": "g2"},
+      {"type": "word-order", "words": ["want", "I", "to", "save", "the", "Earth"], "a": "I want to save the Earth.", "grammar": "g3"},
+      {"type": "error-correction", "q": "She always is happy.", "a": "is always", "wrong": "always is", "exp": "빈도부사는 be동사 뒤에 위치"},
+      {"type": "error-correction", "q": "I decided study harder.", "a": "to study", "wrong": "study", "exp": "decide + to부정사"},
+      {"type": "error-correction", "q": "I think what he is right.", "a": "that", "wrong": "what", "exp": "접속사 that이 목적어절을 이끔"}
+    ]
+  }
+}

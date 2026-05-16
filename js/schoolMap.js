@@ -18,9 +18,9 @@ const TEXTBOOK_NAMES = {
 
 // 현재 사용 가능한 레슨 (추후 동적 관리)
 const AVAILABLE_LESSONS = {
-  'donga-yoon-22-g1': [1, 2, 3, 4, 5],
+  'donga-yoon-22-g1': [1, 2, 3, 4, 5, 6, 7, 8],
   'donga-yoon-22': [1],
-  'ybm-park-22-g1': [],
+  'ybm-park-22-g1': [1],
   'ybm-park-22': [],
   'donga-lee-15': [],
   'donga-yoon-15': [],

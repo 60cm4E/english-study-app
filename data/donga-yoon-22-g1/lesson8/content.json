@@ -1,0 +1,111 @@
+{
+  "lessonInfo": {"textbook": "donga-yoon-22-g1", "lesson": 8, "title": "Lesson 8 - Be Smart Online"},
+  "communication": {
+    "keyExpressions": [
+      {"en": "What do you think about online safety?", "ko": "온라인 안전에 대해 어떻게 생각해?", "category": "의견 묻기"},
+      {"en": "What's your opinion?", "ko": "네 의견은 뭐야?", "category": "의견 묻기"},
+      {"en": "I think so, too.", "ko": "나도 그렇게 생각해.", "category": "동의"},
+      {"en": "I agree.", "ko": "동의해.", "category": "동의"},
+      {"en": "You're right.", "ko": "네 말이 맞아.", "category": "동의"},
+      {"en": "I don't think so.", "ko": "나는 그렇게 생각하지 않아.", "category": "반대"},
+      {"en": "I don't agree.", "ko": "동의하지 않아.", "category": "반대"},
+      {"en": "I'm afraid I don't agree.", "ko": "유감스럽지만 동의하지 않아.", "category": "완곡한 반대"}
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "What do you ___ about online safety?", "a": "think", "opts": ["think", "know", "want"], "hint": "의견 묻기"},
+      {"type": "fill-blank", "q": "I ___ with you.", "a": "agree", "opts": ["agree", "think", "know"], "hint": "동의하기"},
+      {"type": "fill-blank", "q": "I'm ___ I don't agree.", "a": "afraid", "hint": "완곡한 반대"},
+      {"type": "multi-choice", "q": "Smartphones are useful. - I think ___, too.", "a": "so", "opts": ["so", "that", "it"], "exp": "나도 그렇게 생각해"},
+      {"type": "multi-choice", "q": "We should use less plastic. - I ___.", "a": "agree", "opts": ["agree", "afraid", "think"], "exp": "동의"},
+      {"type": "true-false", "q": "'I'm afraid I don't agree.'는 강하게 동의할 때 쓰는 표현이다.", "a": false, "exp": "완곡하게 반대할 때 쓰는 표현"}
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 ① - Be Smart Online (도입)",
+        "en": "The Internet is useful. We can find a lot of information and talk to people around the world. But it can also be dangerous. Here are some simple tips for staying safe online.",
+        "ko": "인터넷은 유용하다. 우리는 많은 정보를 찾고 전 세계 사람들과 대화할 수 있다. 하지만 위험할 수도 있다. 온라인에서 안전하게 지내기 위한 몇 가지 간단한 팁이 있다."
+      },
+      {
+        "id": "r2",
+        "title": "Tip 1 - 개인정보 보호",
+        "en": "Don't share personal information online. Don't post your address, phone number, or school name on social media. Don't give your password to anyone. Use a strong password to protect your privacy.",
+        "ko": "온라인에서 개인 정보를 공유하지 마세요. 소셜 미디어에 주소, 전화번호, 학교 이름을 게시하지 마세요. 비밀번호를 아무에게도 알려주지 마세요. 강한 비밀번호를 사용해서 사생활을 보호하세요."
+      },
+      {
+        "id": "r3",
+        "title": "Tip 2 - 사이버 폭력",
+        "en": "Think twice before you post something online. Your words can hurt others' feelings. If someone is cyberbullying you, don't reply. Tell a trusted adult about it. Be kind online, just like in real life.",
+        "ko": "온라인에 무언가를 게시하기 전에 두 번 생각하세요. 당신의 말이 다른 사람의 감정을 상하게 할 수 있습니다. 누군가 사이버 폭력을 한다면, 답장하지 마세요. 신뢰할 수 있는 어른에게 말하세요. 실제 생활에서처럼 온라인에서도 친절하게 대하세요."
+      },
+      {
+        "id": "r4",
+        "title": "Tip 3 - 화면 시간 관리",
+        "en": "Don't spend too much time on your smartphone. Take a break every 30 minutes. Stretch your body and rest your eyes. Keep your screen at eye level and sit up straight. Good posture is important for your neck and back.",
+        "ko": "스마트폰에 너무 많은 시간을 보내지 마세요. 30분마다 휴식을 취하세요. 몸을 스트레칭하고 눈을 쉬게 하세요. 화면을 눈높이에 두고 허리를 펴세요. 좋은 자세는 목과 등에 중요합니다."
+      }
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "Don't ___ personal information online.", "a": "share", "passage": "r2"},
+      {"type": "fill-blank", "q": "Use a ___ password to protect your privacy.", "a": "strong", "passage": "r2"},
+      {"type": "fill-blank", "q": "Think ___ before you post.", "a": "twice", "passage": "r3"},
+      {"type": "fill-blank", "q": "Your words can ___ others' feelings.", "a": "hurt", "passage": "r3"},
+      {"type": "fill-blank", "q": "Take a ___ every 30 minutes.", "a": "break", "passage": "r4"},
+      {"type": "true-false", "q": "온라인에서 개인 정보를 공유해도 안전하다.", "a": false, "exp": "개인 정보를 공유하면 안 된다"},
+      {"type": "true-false", "q": "사이버 폭력을 당하면 신뢰할 수 있는 어른에게 말해야 한다.", "a": true},
+      {"type": "true-false", "q": "스마트폰은 1시간에 한 번 휴식하면 된다.", "a": false, "exp": "30분마다(every 30 minutes) 휴식"},
+      {"type": "error-correction", "q": "My mother gave I a doll.", "a": "me", "wrong": "I", "exp": "동사 뒤 목적어 자리에는 목적격 대명사 me"},
+      {"type": "error-correction", "q": "He showed his ticket to I.", "a": "me", "wrong": "I", "exp": "전치사 뒤에는 목적격 대명사 me"}
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "수여동사 (4형식: 주어+동사+간접목적어+직접목적어)",
+        "explanation": "수여동사는 '~에게 …을 주다'의 뜻입니다. 4형식→3형식 전환: to (give, send, tell, show, teach, bring) / for (buy, make, get, cook) / of (ask)",
+        "examples": [
+          {"en": "My mother gave me a doll.", "ko": "엄마가 나에게 인형을 주었다."},
+          {"en": "= My mother gave a doll to me.", "ko": "= 엄마가 인형을 나에게 주었다."},
+          {"en": "She bought me a book.", "ko": "그녀가 나에게 책을 사 주었다."},
+          {"en": "= She bought a book for me.", "ko": "= 그녀가 나를 위해 책을 사 주었다."},
+          {"en": "He showed me the ticket.", "ko": "그가 나에게 표를 보여주었다."},
+          {"en": "He asked me a question.", "ko": "그가 나에게 질문을 했다."}
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "비인칭 주어 it",
+        "explanation": "시간, 날씨, 요일, 날짜, 계절, 거리, 명암 등을 나타낼 때 it을 주어로 씁니다. 이때 it은 '그것'으로 해석하지 않습니다.",
+        "examples": [
+          {"en": "It's 8 o'clock.", "ko": "8시이다. (시간)"},
+          {"en": "It's raining.", "ko": "비가 오고 있다. (날씨)"},
+          {"en": "It's Monday.", "ko": "월요일이다. (요일)"},
+          {"en": "It's cold today.", "ko": "오늘 춥다. (날씨)"},
+          {"en": "It's dark outside.", "ko": "밖이 어둡다. (명암)"},
+          {"en": "It's 2 km from here to the station.", "ko": "여기서 역까지 2km이다. (거리)"}
+        ]
+      }
+    ],
+    "exercises": [
+      {"type": "multi-choice", "q": "She gave ___ a gift.", "a": "me", "opts": ["I", "me", "my"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "He taught us English. = He taught English ___ us.", "a": "to", "opts": ["to", "for", "of"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "She bought ___ for her son.", "a": "a book", "opts": ["a book", "him", "he"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "___ is raining outside.", "a": "It", "opts": ["It", "That", "This"], "grammar": "g2"},
+      {"type": "multi-choice", "q": "___ is 3 o'clock.", "a": "It", "opts": ["It", "Time", "Clock"], "grammar": "g2"},
+      {"type": "fill-blank", "q": "My dad made ___ a kite.", "a": "me", "grammar": "g1"},
+      {"type": "fill-blank", "q": "= My dad made a kite ___ me.", "a": "for", "grammar": "g1"},
+      {"type": "fill-blank", "q": "___ is snowing.", "a": "It", "grammar": "g2"},
+      {"type": "fill-blank", "q": "She sent me a letter. = She sent a letter ___ me.", "a": "to", "grammar": "g1"},
+      {"type": "word-order", "words": ["gave", "she", "me", "a", "present"], "a": "She gave me a present.", "grammar": "g1"},
+      {"type": "word-order", "words": ["is", "it", "cold", "today"], "a": "It is cold today.", "grammar": "g2"},
+      {"type": "word-order", "words": ["bought", "he", "a", "book", "for", "me"], "a": "He bought a book for me.", "grammar": "g1"},
+      {"type": "error-correction", "q": "She gave I a gift.", "a": "me", "wrong": "I", "exp": "목적격 대명사 me"},
+      {"type": "error-correction", "q": "He bought a cake of me.", "a": "for", "wrong": "of", "exp": "buy → for"},
+      {"type": "error-correction", "q": "He sent a letter me.", "a": "to me", "wrong": "me", "exp": "3형식 전환: send + 직접목적어 + to + 간접목적어"},
+      {"type": "error-correction", "q": "That is raining. (날씨)", "a": "It", "wrong": "That", "exp": "날씨는 비인칭 주어 It을 사용"}
+    ]
+  }
+}

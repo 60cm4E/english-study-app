@@ -1,0 +1,96 @@
+{
+  "lessonInfo": {"textbook": "donga-yoon-22-g1", "lesson": 7, "title": "Lesson 7 - Dream Jobs Behind the Screen"},
+  "communication": {
+    "keyExpressions": [
+      {"en": "What do you want to be in the future?", "ko": "미래에 무엇이 되고 싶니?", "category": "장래 희망 묻기"},
+      {"en": "I want to be a reporter.", "ko": "나는 기자가 되고 싶어.", "category": "장래 희망 답하기"},
+      {"en": "I'm interested in many kinds of food.", "ko": "나는 다양한 종류의 음식에 관심이 있어.", "category": "관심사 표현"},
+      {"en": "I want to be a famous chef.", "ko": "나는 유명한 요리사가 되고 싶어.", "category": "장래 희망 답하기"},
+      {"en": "I want to fly airplanes someday.", "ko": "언젠가 비행기를 조종하고 싶어.", "category": "장래 희망 답하기"},
+      {"en": "That sounds awesome!", "ko": "멋지다!", "category": "반응하기"}
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "What do you want to ___ in the future?", "a": "be", "opts": ["be", "do", "have"], "hint": "장래 희망"},
+      {"type": "fill-blank", "q": "I'm ___ in many kinds of food.", "a": "interested", "hint": "관심이 있는"},
+      {"type": "fill-blank", "q": "That ___ awesome!", "a": "sounds", "opts": ["sounds", "looks", "feels"], "hint": "감각동사"},
+      {"type": "multi-choice", "q": "I want to ___ a pilot.", "a": "be", "opts": ["be", "am", "being"], "exp": "want to + 동사원형"},
+      {"type": "true-false", "q": "want to 뒤에는 동명사(-ing)가 온다.", "a": false, "exp": "want to + 동사원형"}
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 ① - 영화 제작의 뒷이야기",
+        "en": "A lot of people are working hard to create a movie. Have you ever thought about the people behind the screen? A location manager finds beautiful beaches, mountains, and other perfect places to shoot a movie.",
+        "ko": "많은 사람들이 영화를 만들기 위해 열심히 일하고 있다. 스크린 뒤의 사람들에 대해 생각해 본 적이 있니? 로케이션 매니저는 영화를 촬영할 아름다운 해변, 산, 그리고 다른 완벽한 장소를 찾는다."
+      },
+      {
+        "id": "r2",
+        "title": "본문 ② - 다양한 영화 직업",
+        "en": "It's not an easy job, but traveling to many beautiful places is exciting. A drone photographer captures special moments from the sky. A drone photographer trains for a long time to fly a drone. An animal wrangler takes care of animals in a film. When the shooting is over, the film editor changes the order of scenes and deletes some scenes. Storytelling skills are very important for this job.",
+        "ko": "쉬운 일은 아니지만, 많은 아름다운 장소를 여행하는 것은 신나는 일이다. 드론 촬영 기사는 하늘에서 특별한 순간을 포착한다. 드론 촬영 기사는 드론을 조종하기 위해 오랫동안 훈련한다. 동물 조련사는 영화에서 동물들을 돌본다. 촬영이 끝나면, 영화 편집자는 장면의 순서를 바꾸고 일부 장면을 삭제한다. 이야기 전달 기술이 이 직업에 매우 중요하다."
+      },
+      {
+        "id": "r3",
+        "title": "본문 ③ - 폴리 아티스트",
+        "en": "A Foley artist creates sound effects for movies. In a studio, they record many kinds of sounds. They listen carefully and use things around them. For example, they fill a container with rice and shake it to make the sound of waves.",
+        "ko": "폴리 아티스트는 영화의 음향 효과를 만든다. 스튜디오에서 다양한 종류의 소리를 녹음한다. 주의 깊게 듣고 주변의 것들을 활용한다. 예를 들어, 용기에 쌀을 채우고 흔들어서 파도 소리를 만든다."
+      }
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "A lot of people are working hard ___ create a movie.", "a": "to", "passage": "r1"},
+      {"type": "fill-blank", "q": "A location manager finds perfect places to ___ a movie.", "a": "shoot", "passage": "r1"},
+      {"type": "fill-blank", "q": "A drone photographer ___ special moments from the sky.", "a": "captures", "passage": "r2"},
+      {"type": "fill-blank", "q": "When the shooting is ___, the editor works.", "a": "over", "passage": "r2"},
+      {"type": "fill-blank", "q": "A Foley artist ___ sound effects for movies.", "a": "creates", "passage": "r3"},
+      {"type": "true-false", "q": "로케이션 매니저는 영화를 편집한다.", "a": false, "exp": "촬영 장소를 찾는다"},
+      {"type": "true-false", "q": "드론 촬영 기사는 드론을 조종하기 위해 오랫동안 훈련한다.", "a": true},
+      {"type": "true-false", "q": "폴리 아티스트는 쌀로 파도 소리를 만든다.", "a": true},
+      {"type": "error-correction", "q": "They work hard for create a movie.", "a": "to create", "wrong": "for create", "exp": "목적을 나타내는 to부정사"},
+      {"type": "error-correction", "q": "She trains for a long time fly a drone.", "a": "to fly", "wrong": "fly", "exp": "~하기 위해: to + 동사원형"}
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사의 부사적 용법 (~하기 위해)",
+        "explanation": "to부정사가 '~하기 위해'(목적)의 의미로 동사를 수식합니다. = in order to. 부정: not to + 동사원형",
+        "examples": [
+          {"en": "They work hard to create this movie.", "ko": "그들은 이 영화를 만들기 위해 열심히 일한다."},
+          {"en": "She trains to fly a drone.", "ko": "그녀는 드론을 조종하기 위해 훈련한다."},
+          {"en": "I got up early to see the sunrise.", "ko": "나는 일출을 보기 위해 일찍 일어났다."},
+          {"en": "I ran not to be late.", "ko": "나는 늦지 않으려고 뛰었다."}
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "접속사 when, before, after",
+        "explanation": "when: ~할 때, before: ~하기 전에, after: ~한 후에. 주의: 시간의 접속사절에서는 미래의 일이라도 현재 시제를 씁니다!",
+        "examples": [
+          {"en": "When the shooting is over, the editor works.", "ko": "촬영이 끝나면, 편집자가 일한다."},
+          {"en": "I will call you when I finish my homework.", "ko": "숙제를 끝내면 전화할게."},
+          {"en": "Wash your hands before you eat.", "ko": "먹기 전에 손을 씻어라."},
+          {"en": "After I graduated, I got a job.", "ko": "졸업한 후에, 나는 직장을 잡았다."}
+        ]
+      }
+    ],
+    "exercises": [
+      {"type": "multi-choice", "q": "She studied hard ___ pass the exam.", "a": "to", "opts": ["to", "for", "so"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "I will call you when I ___ my homework.", "a": "finish", "opts": ["finish", "will finish", "finished"], "grammar": "g2"},
+      {"type": "multi-choice", "q": "___ you eat, wash your hands.", "a": "Before", "opts": ["Before", "After", "When"], "grammar": "g2"},
+      {"type": "multi-choice", "q": "He exercises ___ stay healthy.", "a": "to", "opts": ["to", "for", "that"], "grammar": "g1"},
+      {"type": "fill-blank", "q": "I woke up early ___ catch the bus.", "a": "to", "grammar": "g1"},
+      {"type": "fill-blank", "q": "Call me ___ you get home.", "a": "when", "grammar": "g2"},
+      {"type": "fill-blank", "q": "I'll pick you up ___ you are ready.", "a": "when", "grammar": "g2"},
+      {"type": "fill-blank", "q": "___ I finish dinner, I'll go out.", "a": "After", "grammar": "g2"},
+      {"type": "word-order", "words": ["hard", "they", "work", "to", "create", "movies"], "a": "They work hard to create movies.", "grammar": "g1"},
+      {"type": "word-order", "words": ["when", "I", "have", "time", "I'll", "paint"], "a": "When I have time, I'll paint.", "grammar": "g2"},
+      {"type": "word-order", "words": ["she", "early", "got up", "to", "the", "see", "sunrise"], "a": "She got up early to see the sunrise.", "grammar": "g1"},
+      {"type": "error-correction", "q": "I will call you when I will finish.", "a": "finish", "wrong": "will finish", "exp": "시간 접속사절에서는 미래 대신 현재 시제"},
+      {"type": "error-correction", "q": "He studied hard for pass the exam.", "a": "to pass", "wrong": "for pass", "exp": "목적: to + 동사원형"},
+      {"type": "error-correction", "q": "I ran not be late.", "a": "not to be", "wrong": "not be", "exp": "부정: not to + 동사원형"}
+    ]
+  }
+}
