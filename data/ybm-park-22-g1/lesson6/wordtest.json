@@ -1,0 +1,30 @@
+{
+  "lessonInfo": {"textbook": "ybm-park-22-g1", "lesson": 6, "title": "Lesson 6 - Click, Connect, and Communicate"},
+  "words": [
+    {"en": "beautiful", "ko": "아름다운", "pos": "a.", "ex": "The flowers are beautiful."},
+    {"en": "contest", "ko": "대회", "pos": "n.", "ex": "She won the speech contest."},
+    {"en": "congratulations", "ko": "축하해요", "pos": "n.", "ex": "Congratulations on your award!"},
+    {"en": "upset", "ko": "화난, 속상한", "pos": "a.", "ex": "She looks upset today."},
+    {"en": "rude", "ko": "무례한", "pos": "a.", "ex": "That comment was rude."},
+    {"en": "spend", "ko": "시간을 보내다", "pos": "v.", "ex": "I spend too much time online."},
+    {"en": "digital", "ko": "디지털의", "pos": "a.", "ex": "We live in a digital world."},
+    {"en": "situation", "ko": "상황", "pos": "n.", "ex": "It's a difficult situation."},
+    {"en": "advice", "ko": "충고, 조언", "pos": "n.", "ex": "Can you give me some advice?"},
+    {"en": "honestly", "ko": "정직하게", "pos": "adv.", "ex": "Tell him honestly."},
+    {"en": "social media", "ko": "소셜 미디어", "pos": "n.", "ex": "She posts photos on social media."},
+    {"en": "comment", "ko": "댓글", "pos": "n.", "ex": "Some comments are very rude."},
+    {"en": "get along with", "ko": "~와 잘 지내다", "pos": "", "ex": "I get along with my classmates."},
+    {"en": "reply", "ko": "답장하다", "pos": "v.", "ex": "When I don't reply, he gets angry."},
+    {"en": "angry", "ko": "화난", "pos": "a.", "ex": "He sends angry emojis."},
+    {"en": "emoji", "ko": "이모지", "pos": "n.", "ex": "He sends me angry emojis."},
+    {"en": "hobby", "ko": "취미", "pos": "n.", "ex": "Her hobby is posting photos."},
+    {"en": "post", "ko": "게시하다", "pos": "v.", "ex": "She posts photos online."},
+    {"en": "photo", "ko": "사진", "pos": "n.", "ex": "I took a nice photo."},
+    {"en": "online", "ko": "온라인으로", "pos": "adv.", "ex": "We communicate online."},
+    {"en": "unfamiliar", "ko": "낯선", "pos": "a.", "ex": "There are unfamiliar people in the chat."},
+    {"en": "group chat", "ko": "단체 채팅방", "pos": "n.", "ex": "She was invited to a group chat."},
+    {"en": "fewer", "ko": "더 적은", "pos": "a.", "ex": "Send fewer messages."},
+    {"en": "message", "ko": "메시지", "pos": "n.", "ex": "He sends too many messages."},
+    {"en": "communicate", "ko": "소통하다", "pos": "v.", "ex": "We communicate through social media."}
+  ]
+}

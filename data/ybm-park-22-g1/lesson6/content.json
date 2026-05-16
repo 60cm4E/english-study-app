@@ -1,0 +1,85 @@
+{
+  "lessonInfo": {"textbook": "ybm-park-22-g1", "lesson": 6, "title": "Lesson 6 - Click, Connect, and Communicate"},
+  "communication": {
+    "keyExpressions": [
+      {"en": "I feel great.", "ko": "나는 기분이 좋아.", "category": "감정 표현"},
+      {"en": "I'm happy to hear that.", "ko": "그 말을 들으니 기뻐.", "category": "공감"},
+      {"en": "I'm sorry to hear that.", "ko": "그 말을 들으니 유감이야.", "category": "위로"},
+      {"en": "What should I do?", "ko": "어떻게 해야 하지?", "category": "조언 구하기"}
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "I'm happy ___ hear that.", "a": "to", "opts": ["to", "for", "at"], "hint": "기쁨 표현"},
+      {"type": "fill-blank", "q": "I ___ great today.", "a": "feel", "opts": ["feel", "am feel", "feeling"], "hint": "감정 표현"},
+      {"type": "multi-choice", "q": "My dog is sick. - I'm ___ to hear that.", "a": "sorry", "opts": ["sorry", "happy", "glad"], "exp": "안 좋은 소식에 대한 반응"}
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "Jian의 고민 - 문자를 너무 많이 보내는 친구",
+        "en": "My friend, Jian, sends too many texts to me. He texts me even late at night. When I don't reply, he sends me angry emojis. What should I do?",
+        "ko": "내 친구 지안이 나에게 문자를 너무 많이 보내. 밤늦게까지 보내. 답장하지 않으면 화난 이모지를 보내. 어떻게 해야 하지?"
+      },
+      {
+        "id": "r2",
+        "title": "Dami의 고민 - 소셜 미디어 악플",
+        "en": "Yumin's hobby is posting photos online. But some people leave rude comments. Yumin feels upset about them.",
+        "ko": "유민이의 취미는 온라인에 사진을 올리는 것이야. 하지만 어떤 사람들이 무례한 댓글을 달아. 유민이는 그것 때문에 속상해."
+      },
+      {
+        "id": "r3",
+        "title": "Seoha의 고민 - 단체 채팅방",
+        "en": "Seoha was invited to a group chat. But there are many unfamiliar people in the chat. She doesn't know what to do.",
+        "ko": "서하는 단체 채팅방에 초대됐어. 하지만 채팅방에 낯선 사람들이 많아. 어떻게 해야 할지 모르겠대."
+      }
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "He sends too many ___ to me.", "a": "texts", "passage": "r1"},
+      {"type": "fill-blank", "q": "Yumin's hobby is ___ photos online.", "a": "posting", "passage": "r2"},
+      {"type": "fill-blank", "q": "Some people leave ___ comments.", "a": "rude", "passage": "r2"},
+      {"type": "true-false", "q": "지안은 낮에만 문자를 보낸다.", "a": false, "exp": "밤늦게까지 보낸다"},
+      {"type": "true-false", "q": "유민이의 취미는 온라인에 사진 올리기이다.", "a": true},
+      {"type": "error-correction", "q": "Her hobby is post photos.", "a": "posting", "wrong": "post", "exp": "be + 동명사(보어)"}
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "동명사 (Gerund)",
+        "explanation": "V-ing가 명사 역할. 주어, 목적어, 보어 자리에 옴. enjoy, finish, avoid, mind, give up + 동명사",
+        "examples": [
+          {"en": "Her hobby is posting photos.", "ko": "그녀의 취미는 사진 올리기이다. (보어)"},
+          {"en": "I enjoy reading books.", "ko": "나는 책 읽기를 즐긴다. (목적어)"},
+          {"en": "Swimming is good exercise.", "ko": "수영은 좋은 운동이다. (주어)"},
+          {"en": "I finished doing my homework.", "ko": "나는 숙제를 끝냈다."}
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "수여동사 (SVOO - 4형식)",
+        "explanation": "~에게 …을 주다. give, send, tell, show, teach → to. buy, make, get, cook → for.",
+        "examples": [
+          {"en": "He sends too many texts to me.", "ko": "그는 나에게 너무 많은 문자를 보낸다."},
+          {"en": "I gave her a gift.", "ko": "나는 그녀에게 선물을 주었다."},
+          {"en": "She bought me a book.", "ko": "그녀는 나에게 책을 사 주었다."},
+          {"en": "Can you tell me the answer?", "ko": "답을 알려줄 수 있어?"}
+        ]
+      }
+    ],
+    "exercises": [
+      {"type": "multi-choice", "q": "I enjoy ___ music.", "a": "listening to", "opts": ["listen to", "listening to", "to listen"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "She gave ___ a gift.", "a": "me", "opts": ["I", "me", "my"], "grammar": "g2"},
+      {"type": "multi-choice", "q": "___ is good exercise.", "a": "Swimming", "opts": ["Swim", "Swimming", "To swimming"], "grammar": "g1"},
+      {"type": "fill-blank", "q": "Her hobby is ___ photos. (게시하다)", "a": "posting", "grammar": "g1"},
+      {"type": "fill-blank", "q": "He sent a letter ___ me.", "a": "to", "grammar": "g2"},
+      {"type": "fill-blank", "q": "She bought a cake ___ him.", "a": "for", "grammar": "g2"},
+      {"type": "word-order", "words": ["enjoy", "I", "reading", "books"], "a": "I enjoy reading books.", "grammar": "g1"},
+      {"type": "word-order", "words": ["gave", "she", "me", "a", "gift"], "a": "She gave me a gift.", "grammar": "g2"},
+      {"type": "error-correction", "q": "I enjoy read books.", "a": "reading", "wrong": "read", "exp": "enjoy + 동명사"},
+      {"type": "error-correction", "q": "He gave I a book.", "a": "me", "wrong": "I", "exp": "목적격 대명사 me"},
+      {"type": "error-correction", "q": "She bought a gift of me.", "a": "for", "wrong": "of", "exp": "buy → for"}
+    ]
+  }
+}

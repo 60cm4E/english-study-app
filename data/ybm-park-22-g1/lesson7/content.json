@@ -1,0 +1,83 @@
+{
+  "lessonInfo": {"textbook": "ybm-park-22-g1", "lesson": 7, "title": "Lesson 7 - Think Green, Live Green"},
+  "communication": {
+    "keyExpressions": [
+      {"en": "I'd like to buy this shampoo.", "ko": "이 샴푸를 사고 싶어요.", "category": "의향 표현"},
+      {"en": "That's a good idea.", "ko": "그거 좋은 생각이야.", "category": "동의"},
+      {"en": "Which do you want, A or B?", "ko": "A랑 B 중에 뭐 원해?", "category": "선택 묻기"}
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "I'd ___ to buy this shampoo.", "a": "like", "hint": "~하고 싶다"},
+      {"type": "fill-blank", "q": "That's a good ___.", "a": "idea", "hint": "좋은 생각"},
+      {"type": "multi-choice", "q": "I'd like to ~는 무슨 뜻인가?", "a": "~하고 싶다", "opts": ["~해야 한다", "~하고 싶다", "~할 수 있다"], "exp": "would like to = want to (공손)"}
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - We Look Funny but Taste Great!",
+        "en": "This is a special market for funny-looking fruits and vegetables. They greet each other and start to talk. \"I'm here because I have many spots on my skin. People think that I'm tasteless. But my spots are not harmful. I taste great!\" \"Farmers don't want to sell me because of my size. But who cares about size? I'm sweet and delicious.\" Their shapes are unusual, and their sizes are all different. People believe that they are useless. But that's wrong. They are fresh, healthy, and fantastic!",
+        "ko": "이곳은 우스꽝스럽게 생긴 과일과 채소를 위한 특별한 시장이다. 그들은 서로에게 인사하며 이야기를 시작한다. \"나는 내 껍질에 점이 많아서 이곳에 왔어. 사람들은 내가 맛없다고 생각해. 하지만 내 점은 해롭지 않아. 나는 맛이 훌륭해!\" \"농부들은 내 크기 때문에 나를 팔고 싶어 하지 않아. 하지만 크기가 무슨 상관이야? 나는 달콤하고 맛있어.\" 그들의 모양은 특이하고 크기도 모두 달라. 사람들은 그들이 쓸모없다고 생각해. 하지만 그건 틀렸어. 그들은 신선하고 건강하고 환상적이야!"
+      }
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "I'm here ___ I have many spots on my skin.", "a": "because", "passage": "r1"},
+      {"type": "fill-blank", "q": "Farmers don't want to sell me ___ of my size.", "a": "because", "passage": "r1"},
+      {"type": "fill-blank", "q": "People think ___ I'm tasteless.", "a": "that", "passage": "r1"},
+      {"type": "fill-blank", "q": "Their shapes are ___.", "a": "unusual", "passage": "r1"},
+      {"type": "true-false", "q": "못생긴 과일의 점은 해롭다.", "a": false, "exp": "해롭지 않다 (not harmful)"},
+      {"type": "true-false", "q": "사람들은 못생긴 과일이 쓸모없다고 생각한다.", "a": true},
+      {"type": "true-false", "q": "못생긴 과일은 맛이 없다.", "a": false, "exp": "신선하고 건강하고 환상적이다"},
+      {"type": "error-correction", "q": "I'm here because of I have spots.", "a": "because", "wrong": "because of", "exp": "because + 절, because of + 명사"},
+      {"type": "error-correction", "q": "People think what I'm tasteless.", "a": "that", "wrong": "what", "exp": "접속사 that이 목적어절을 이끔"}
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "감탄문 (What / How)",
+        "explanation": "What + a(n) + 형용사 + 명사 (+ 주어 + 동사)! How + 형용사/부사 (+ 주어 + 동사)!",
+        "examples": [
+          {"en": "What a nice market!", "ko": "정말 멋진 시장이야!"},
+          {"en": "What a beautiful flower!", "ko": "정말 아름다운 꽃이야!"},
+          {"en": "How beautiful she is!", "ko": "그녀는 정말 아름다워!"},
+          {"en": "How fast he runs!", "ko": "그는 정말 빨리 달려!"}
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "접속사 that (명사절)",
+        "explanation": "think, know, believe, hope, say 등의 동사 뒤에서 목적어 역할. that은 생략 가능.",
+        "examples": [
+          {"en": "People think (that) I'm tasteless.", "ko": "사람들은 내가 맛없다고 생각한다."},
+          {"en": "I believe (that) they are useful.", "ko": "나는 그들이 유용하다고 믿는다."},
+          {"en": "She knows (that) he is kind.", "ko": "그녀는 그가 친절하다는 것을 안다."}
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "because vs because of",
+        "explanation": "because + 주어 + 동사 (절). because of + 명사/대명사/동명사.",
+        "examples": [
+          {"en": "I'm here because I have many spots.", "ko": "나는 점이 많아서 이곳에 왔다. (절)"},
+          {"en": "He can't sell me because of my size.", "ko": "내 크기 때문에 나를 팔 수 없다. (명사)"}
+        ]
+      }
+    ],
+    "exercises": [
+      {"type": "multi-choice", "q": "___ a beautiful flower!", "a": "What", "opts": ["What", "How", "That"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "___ fast he runs!", "a": "How", "opts": ["What", "How", "That"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "People think ___ she is kind.", "a": "that", "opts": ["that", "what", "which"], "grammar": "g2"},
+      {"type": "multi-choice", "q": "I stayed home ___ the rain.", "a": "because of", "opts": ["because", "because of", "so"], "grammar": "g3"},
+      {"type": "fill-blank", "q": "___ a nice market!", "a": "What", "grammar": "g1"},
+      {"type": "fill-blank", "q": "I believe ___ they are useful.", "a": "that", "grammar": "g2"},
+      {"type": "fill-blank", "q": "I'm late ___ I missed the bus.", "a": "because", "grammar": "g3"},
+      {"type": "word-order", "words": ["what", "a", "beautiful", "flower"], "a": "What a beautiful flower!", "grammar": "g1"},
+      {"type": "error-correction", "q": "How a nice market!", "a": "What", "wrong": "How", "exp": "명사가 있으면 What"},
+      {"type": "error-correction", "q": "I'm late because of I overslept.", "a": "because", "wrong": "because of", "exp": "절이 따르면 because"},
+      {"type": "error-correction", "q": "What fast he runs!", "a": "How", "wrong": "What", "exp": "형용사/부사만 있으면 How"}
+    ]
+  }
+}

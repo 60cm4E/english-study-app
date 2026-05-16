@@ -1,0 +1,96 @@
+{
+  "lessonInfo": {"textbook": "ybm-park-22-g1", "lesson": 5, "title": "Lesson 5 - Food Around the World"},
+  "communication": {
+    "keyExpressions": [
+      {"en": "Why don't you try som tam?", "ko": "솜땀을 먹어 보는 게 어때?", "category": "제안하기"},
+      {"en": "Sounds good.", "ko": "좋아.", "category": "제안 수락"},
+      {"en": "No, thank you.", "ko": "아니, 괜찮아.", "category": "제안 거절"},
+      {"en": "I'm going to have a taco.", "ko": "나는 타코를 먹을 거야.", "category": "의도 표현"},
+      {"en": "They all look delicious.", "ko": "다 맛있어 보여.", "category": "감각 표현"}
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "___ don't you try som tam?", "a": "Why", "opts": ["Why", "How", "What"], "hint": "제안하기"},
+      {"type": "fill-blank", "q": "I'm ___ to have a taco.", "a": "going", "hint": "be going to"},
+      {"type": "fill-blank", "q": "They all ___ delicious.", "a": "look", "opts": ["look", "looks", "looking"], "hint": "감각동사"},
+      {"type": "multi-choice", "q": "Why don't you try this? - ___", "a": "Sounds good.", "opts": ["Sounds good.", "I'm fine.", "You're welcome."], "exp": "제안 수락"}
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - The Ice Cream in the World (브이로그)",
+        "en": "Welcome to my international ice cream festival vlog! I'm going to try ice cream from different countries today.",
+        "ko": "내 국제 아이스크림 축제 브이로그에 오신 것을 환영합니다! 오늘 다른 나라의 아이스크림을 먹어볼 거예요."
+      },
+      {
+        "id": "r2",
+        "title": "Gelato (이탈리아)",
+        "en": "First up, gelato from Italy! Gelato has been a popular dessert since the 16th century. It is very creamy and has many different flavors. My favorite flavor is pistachio. It's the most delicious!",
+        "ko": "먼저 이탈리아의 젤라토! 젤라토는 16세기부터 인기 있는 디저트였어요. 매우 부드럽고 다양한 맛이 있어요. 제가 가장 좋아하는 맛은 피스타치오예요. 가장 맛있어요!"
+      },
+      {
+        "id": "r3",
+        "title": "Dondurma (터키)",
+        "en": "Next, dondurma from Turkey! It is very sticky and stretchy. Look! He is holding Turkish ice cream, dondurma. Sometimes people eat it with a knife and fork. That's interesting!",
+        "ko": "다음은 터키의 돈두르마! 아주 쫀득하고 늘어나요. 보세요! 그가 터키 아이스크림, 돈두르마를 들고 있어요. 가끔 사람들이 나이프와 포크로 먹어요. 재미있죠!"
+      },
+      {
+        "id": "r4",
+        "title": "Paleta (멕시코)",
+        "en": "Last, paleta from Mexico! Paleta is a natural fruit popsicle. It can be sweet or spicy. Some have chili pepper! Today I tried the mango chili paleta. It tastes amazing!",
+        "ko": "마지막으로 멕시코의 팔레타! 팔레타는 천연 과일 막대 아이스크림이에요. 달콤하거나 매울 수 있어요. 고추가 들어간 것도 있어요! 오늘 망고 칠리 팔레타를 먹어봤어요. 맛이 놀라워요!"
+      }
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "Gelato is very ___ and has many flavors.", "a": "creamy", "passage": "r2"},
+      {"type": "fill-blank", "q": "Dondurma is very ___ and stretchy.", "a": "sticky", "passage": "r3"},
+      {"type": "fill-blank", "q": "Paleta is a ___ fruit popsicle.", "a": "natural", "passage": "r4"},
+      {"type": "fill-blank", "q": "Some paletas have ___ pepper!", "a": "chili", "passage": "r4"},
+      {"type": "true-false", "q": "젤라토는 17세기부터 인기가 있었다.", "a": false, "exp": "16세기(16th century)부터"},
+      {"type": "true-false", "q": "돈두르마는 쫀득하고 늘어난다.", "a": true},
+      {"type": "true-false", "q": "팔레타는 항상 달콤하기만 하다.", "a": false, "exp": "달콤하거나 매울 수 있다 (sweet or spicy)"},
+      {"type": "error-correction", "q": "They all looks delicious.", "a": "look", "wrong": "looks", "exp": "They(복수) → look"},
+      {"type": "error-correction", "q": "It taste amazing.", "a": "tastes", "wrong": "taste", "exp": "It(3인칭 단수) → tastes"}
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "감각동사 + 형용사",
+        "explanation": "감각동사(look, sound, smell, taste, feel) 뒤에는 형용사가 옵니다. 부사(X). '~해 보이다/들리다/냄새나다/맛이 나다/느껴지다'",
+        "examples": [
+          {"en": "They all look delicious.", "ko": "다 맛있어 보인다."},
+          {"en": "That sounds great.", "ko": "좋게 들린다."},
+          {"en": "The food smells wonderful.", "ko": "음식이 멋진 냄새가 난다."},
+          {"en": "It tastes sweet.", "ko": "달콤한 맛이 난다."},
+          {"en": "It feels cold.", "ko": "차갑게 느껴진다."}
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "동격의 콤마",
+        "explanation": "명사, 명사 구조로 앞 명사를 더 자세히 설명합니다. 콤마로 구분합니다.",
+        "examples": [
+          {"en": "He is holding Turkish ice cream, dondurma.", "ko": "그는 터키 아이스크림, 돈두르마를 들고 있다."},
+          {"en": "My favorite subject, math, is fun.", "ko": "내가 가장 좋아하는 과목인 수학은 재미있다."},
+          {"en": "Seoul, the capital of Korea, is big.", "ko": "한국의 수도 서울은 크다."}
+        ]
+      }
+    ],
+    "exercises": [
+      {"type": "multi-choice", "q": "The cake looks ___.", "a": "delicious", "opts": ["delicious", "deliciously", "delight"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "The music sounds ___.", "a": "beautiful", "opts": ["beautiful", "beautifully", "beauty"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "This soup ___ salty.", "a": "tastes", "opts": ["tastes", "taste", "tasting"], "grammar": "g1"},
+      {"type": "fill-blank", "q": "The flowers ___ wonderful. (냄새가 나다)", "a": "smell", "grammar": "g1"},
+      {"type": "fill-blank", "q": "The blanket ___ soft. (느끼다)", "a": "feels", "grammar": "g1"},
+      {"type": "fill-blank", "q": "My dog, ___, is very smart. (동격)", "a": "Max", "grammar": "g2"},
+      {"type": "word-order", "words": ["look", "they", "delicious", "all"], "a": "They all look delicious.", "grammar": "g1"},
+      {"type": "word-order", "words": ["tastes", "it", "sweet"], "a": "It tastes sweet.", "grammar": "g1"},
+      {"type": "error-correction", "q": "The cake looks deliciously.", "a": "delicious", "wrong": "deliciously", "exp": "감각동사 뒤에는 형용사"},
+      {"type": "error-correction", "q": "It taste amazing.", "a": "tastes", "wrong": "taste", "exp": "It → tastes (3인칭 단수)"},
+      {"type": "error-correction", "q": "The music sounds beautifully.", "a": "beautiful", "wrong": "beautifully", "exp": "감각동사 뒤에는 형용사"}
+    ]
+  }
+}

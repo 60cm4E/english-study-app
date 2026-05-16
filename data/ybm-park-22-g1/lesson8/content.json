@@ -1,0 +1,109 @@
+{
+  "lessonInfo": {"textbook": "ybm-park-22-g1", "lesson": 8, "title": "Lesson 8 - A Journey with Arts"},
+  "communication": {
+    "keyExpressions": [
+      {"en": "What do you think of this song?", "ko": "이 노래 어떻게 생각해?", "category": "의견 묻기"},
+      {"en": "I think (that) it's fantastic.", "ko": "환상적이라고 생각해.", "category": "의견 답하기"},
+      {"en": "Why do you like it?", "ko": "왜 좋아해?", "category": "이유 묻기"},
+      {"en": "Because I love the chorus.", "ko": "후렴을 정말 좋아해서.", "category": "이유 답하기"}
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "What do you ___ of this song?", "a": "think", "opts": ["think", "know", "feel"], "hint": "의견 묻기"},
+      {"type": "fill-blank", "q": "I think ___ it's fantastic.", "a": "that", "hint": "접속사 that"},
+      {"type": "fill-blank", "q": "___ do you like it? - Because I love the chorus.", "a": "Why", "hint": "이유 묻기"},
+      {"type": "multi-choice", "q": "What do you think of ~?는 무엇을 묻는 표현인가?", "a": "의견", "opts": ["이름", "의견", "장소"], "exp": "~에 대해 어떻게 생각하는지 묻기"}
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "The Dot ① - 빈 종이",
+        "en": "Art class was over, but Vashti didn't leave the classroom. She was sitting at her desk. Her paper was empty. Her teacher stood beside her. \"I just can't draw!\" Vashti said.",
+        "ko": "미술 수업이 끝났지만, 바시티는 교실을 떠나지 않았다. 그녀는 자리에 앉아 있었다. 종이는 비어 있었다. 선생님이 옆에 서 계셨다. \"저는 그림을 못 그려요!\" 바시티가 말했다."
+      },
+      {
+        "id": "r2",
+        "title": "The Dot ② - 점 하나",
+        "en": "\"Just make a mark and see where it takes you,\" her teacher said. Vashti grabbed a felt-tip pen and jabbed the paper. \"There!\" Her teacher picked up the paper. \"Now sign it.\" Vashti thought for a moment. \"I can't draw, but I can sign my name.\"",
+        "ko": "\"그냥 점 하나를 찍고 어떻게 되는지 보렴,\" 선생님이 말씀하셨다. 바시티는 사인펜을 잡고 종이를 콕 찍었다. \"됐어요!\" 선생님이 종이를 집어 들었다. \"이제 서명해.\" 바시티는 잠시 생각했다. \"그림은 못 그리지만, 이름은 쓸 수 있지.\""
+      },
+      {
+        "id": "r3",
+        "title": "The Dot ③ - 성공",
+        "en": "The next week, Vashti walked into art class and saw something. It was her dot — in a gold frame! She thought, \"I can make a better dot than that.\" She painted dots of many colors and sizes. Vashti's dots were a big success at the school art show.",
+        "ko": "다음 주, 바시티가 미술 교실에 들어서니 무언가를 봤다. 자신의 점이었다 — 금 액자에! 그녀는 생각했다. \"나는 저것보다 더 나은 점을 찍을 수 있어.\" 그녀는 여러 색과 크기의 점을 그렸다. 바시티의 점은 학교 미술전에서 큰 성공이었다."
+      },
+      {
+        "id": "r4",
+        "title": "The Dot ④ - 다음 세대",
+        "en": "A little boy looked up at Vashti. \"You're a real artist. I wish I could draw like you.\" \"I bet you can,\" said Vashti. \"Just make a mark and see where it takes you.\"",
+        "ko": "한 어린 소년이 바시티를 올려다보았다. \"당신은 진짜 화가예요. 저도 당신처럼 그릴 수 있으면 좋겠어요.\" \"넌 할 수 있을 거야,\" 바시티가 말했다. \"그냥 점 하나를 찍고 어떻게 되는지 보렴.\""
+      }
+    ],
+    "exercises": [
+      {"type": "fill-blank", "q": "Art class was ___, but Vashti didn't leave.", "a": "over", "passage": "r1"},
+      {"type": "fill-blank", "q": "Her paper was ___.", "a": "empty", "passage": "r1"},
+      {"type": "fill-blank", "q": "Just make a ___ and see where it takes you.", "a": "mark", "passage": "r2"},
+      {"type": "fill-blank", "q": "It was her dot in a ___ frame!", "a": "gold", "passage": "r3"},
+      {"type": "fill-blank", "q": "Vashti's dots were a big ___.", "a": "success", "passage": "r3"},
+      {"type": "true-false", "q": "바시티는 처음부터 그림을 잘 그렸다.", "a": false, "exp": "I just can't draw! 라고 말했다"},
+      {"type": "true-false", "q": "선생님은 바시티의 점을 금 액자에 넣었다.", "a": true},
+      {"type": "true-false", "q": "바시티는 다른 아이에게도 같은 말을 해 주었다.", "a": true, "exp": "Just make a mark and see where it takes you."},
+      {"type": "error-correction", "q": "She was sit at her desk.", "a": "sitting", "wrong": "sit", "exp": "과거진행형: was + V-ing"},
+      {"type": "error-correction", "q": "I want paint like you.", "a": "to paint", "wrong": "paint", "exp": "want + to + 동사원형"}
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "과거진행형 (Past Progressive)",
+        "explanation": "과거 어느 시점에 진행 중이던 동작. was/were + V-ing. 의문문: Was/Were + 주어 + V-ing?",
+        "examples": [
+          {"en": "She was sitting at her desk.", "ko": "그녀는 자리에 앉아 있었다."},
+          {"en": "He was standing beside her.", "ko": "그가 그녀 옆에 서 있었다."},
+          {"en": "They were watching a movie.", "ko": "그들은 영화를 보고 있었다."},
+          {"en": "Were you sleeping?", "ko": "자고 있었니?"}
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "want + to부정사",
+        "explanation": "want + to + 동사원형: ~하고 싶다. 유사: hope, wish, decide, plan + to부정사",
+        "examples": [
+          {"en": "I want to paint like you.", "ko": "나는 너처럼 그리고 싶어."},
+          {"en": "She wants to be an artist.", "ko": "그녀는 화가가 되고 싶어한다."},
+          {"en": "We decided to go home.", "ko": "우리는 집에 가기로 결정했다."}
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "재귀대명사",
+        "explanation": "myself, yourself, himself, herself, itself, ourselves, yourselves, themselves. '~자신'의 뜻. 주어와 목적어가 같을 때 사용.",
+        "examples": [
+          {"en": "Trust yourself.", "ko": "너 자신을 믿어."},
+          {"en": "I hurt myself.", "ko": "나는 나 자신을 다쳤다."},
+          {"en": "She drew it by herself.", "ko": "그녀는 혼자서 그것을 그렸다."},
+          {"en": "Help yourself.", "ko": "마음껏 드세요."}
+        ]
+      }
+    ],
+    "exercises": [
+      {"type": "multi-choice", "q": "She ___ sitting at her desk.", "a": "was", "opts": ["was", "were", "is"], "grammar": "g1"},
+      {"type": "multi-choice", "q": "I want ___ an artist.", "a": "to be", "opts": ["be", "to be", "being"], "grammar": "g2"},
+      {"type": "multi-choice", "q": "Trust ___.", "a": "yourself", "opts": ["you", "your", "yourself"], "grammar": "g3"},
+      {"type": "multi-choice", "q": "They ___ playing when I arrived.", "a": "were", "opts": ["was", "were", "are"], "grammar": "g1"},
+      {"type": "fill-blank", "q": "He ___ standing beside her.", "a": "was", "grammar": "g1"},
+      {"type": "fill-blank", "q": "She wants ___ paint.", "a": "to", "grammar": "g2"},
+      {"type": "fill-blank", "q": "I did it by ___.", "a": "myself", "grammar": "g3"},
+      {"type": "fill-blank", "q": "They ___ watching TV at that time.", "a": "were", "grammar": "g1"},
+      {"type": "word-order", "words": ["was", "she", "sitting", "at", "her", "desk"], "a": "She was sitting at her desk.", "grammar": "g1"},
+      {"type": "word-order", "words": ["want", "I", "to", "paint", "like", "you"], "a": "I want to paint like you.", "grammar": "g2"},
+      {"type": "error-correction", "q": "She was sit at her desk.", "a": "sitting", "wrong": "sit", "exp": "과거진행형: was + V-ing"},
+      {"type": "error-correction", "q": "I want paint.", "a": "to paint", "wrong": "paint", "exp": "want + to + 동사원형"},
+      {"type": "error-correction", "q": "Trust you.", "a": "yourself", "wrong": "you", "exp": "재귀대명사: Trust yourself"},
+      {"type": "error-correction", "q": "They was playing.", "a": "were", "wrong": "was", "exp": "They → were"}
+    ]
+  }
+}
