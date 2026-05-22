@@ -1,0 +1,445 @@
+{
+  "lessonInfo": {
+    "textbook": "neungyul-kim-15",
+    "lesson": 7,
+    "title": "Lesson 7"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "Could you explain ~?",
+        "ko": "",
+        "category": "설명 요청하기"
+      },
+      {
+        "en": "Could you explain in more detail?",
+        "ko": "",
+        "category": "설명 요청하기"
+      },
+      {
+        "en": "It is likely that ~은 어떤 일이 일어날 가능성을 나타낼 때 쓰는 표현으로 ‘~할 가능 성이 있다’라는 뜻이다.",
+        "ko": "",
+        "category": "가능성 정도 표현하기"
+      },
+      {
+        "en": "Listen and Choose M: As climate change is going to make farming harder, there may not be enough resources for the increasing number of people on Earth.",
+        "ko": "",
+        "category": "가능성 정도 표현하기"
+      },
+      {
+        "en": "It is likely that ~은 ‘~할 가능 성이 있다’라는 뜻으로, 뒤에는 완전한 형태의 절이 위 치한다.",
+        "ko": "",
+        "category": "가능성 정도 표현하기"
+      },
+      {
+        "en": "It is likely that ~은 ‘~할 가능 성이 있다’라는 뜻으로, ‘주어+be likely to+동사원형’ 의 형태로도 쓸 수 있다.",
+        "ko": "",
+        "category": "가능성 정도 표현하기"
+      },
+      {
+        "en": "If+주어+동사의 과거 형, 주어+조동사의 과거형+동사원형’의 형태로 쓴다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Cooking and cleaning would be easier (조건절) if you had one.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Robot Swarm A robot swarm is a large group of robots that can communicate with one another, like ants or bees.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Looking toward the Future Our future with robots looks bright but not perfect.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Some people expect life to become more convenient with the help of robots.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Sure. It’s an umbrella that gives you the",
+        "ko": "있잖아, 스마트 우산에 대해 들어 본 적 있니?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "That’s very convenient.",
+        "ko": "있잖아, 스마트 우산에 대해 들어 본 적 있니?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "That sounds awesome. What do you want to",
+        "ko": "이것들을 봐. 이달의 새로운 발명품들이야!",
+        "category": "일반 표현"
+      },
+      {
+        "en": "I want to take pictures of flying birds!",
+        "ko": "이것들을 봐. 이달의 새로운 발명품들이야!",
+        "category": "일반 표현"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "Could you ___ ~?",
+        "a": "explain",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Could you ___ in more detail?",
+        "a": "explain",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "It is ___ that ~은 어떤 일이 일어날 가능성을 나타낼 때 쓰는 표현으로 ‘~할 가능 성이 있다’라는 뜻이다.",
+        "a": "likely",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Listen and Choose M: As climate change is going to make farming harder, there may not be enough resources for the ___ number of people on Earth.",
+        "a": "increasing",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "It is ___ that ~은 ‘~할 가능 성이 있다’라는 뜻으로, 뒤에는 완전한 형태의 절이 위 치한다.",
+        "a": "likely",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "It is ___ that ~은 ‘~할 가능 성이 있다’라는 뜻으로, ‘주어+be likely to+동사원형’ 의 형태로도 쓸 수 있다.",
+        "a": "likely",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Cooking and ___ would be easier (조건절) if you had one.",
+        "a": "cleaning",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Robot Swarm A robot swarm is a large group of robots that can ___ with one another, like ants or bees.",
+        "a": "communicate",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ toward the Future Our future with robots looks bright but not perfect.",
+        "a": "Looking",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Some people expect life to become more ___ with the help of robots.",
+        "a": "convenient",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Sure. It’s an ___ that gives you the",
+        "a": "umbrella",
+        "hint": "있잖아, 스마트 우산에 대해 들어 본 적 있니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "That’s very ___.",
+        "a": "convenient",
+        "hint": "있잖아, 스마트 우산에 대해 들어 본 적 있니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "That sounds ___. What do you want to",
+        "a": "awesome",
+        "hint": "이것들을 봐. 이달의 새로운 발명품들이야!"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I want to take ___ of flying birds!",
+        "a": "pictures",
+        "hint": "이것들을 봐. 이달의 새로운 발명품들이야!"
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - 1",
+        "en": "Could you explain how it works? B: That’s very convenient. G: I want to take pictures of flying birds! It은 a new smart refrigerator를 가리킨다. A: 우주 풍선은 흥미로운 발명품이야.",
+        "ko": "그것이 어떻게 작동하는지 설명해 주겠니? 소녀: 있잖아, 스마트 우산에 대해 들어 본 적 있니? 소녀: 이것들을 봐. 이달의 새로운 발명품들이야! What do you think of ~?: ~에 대해서 어떻게 생각하니? B: 나는 이전에 그것에 대해 들어 본 적이 없어. 그게 뭔"
+      },
+      {
+        "id": "r2",
+        "title": "본문 - 2",
+        "en": "A: 스마트 식품 라벨은 흥미로운 발명품이야. A: 응. 그것은 음식이 상하면 색이 바뀌는 라벨이야. A: How do you think they will change? B: 나는 식당에 많은 변화가 있을 거라고 생각해. A: How do you think they will change?",
+        "ko": "B: 나는 이전에 그것에 대해 들어 본 적이 없어. 그게 뭔 B: 그거 멋진데. A: 미래에 우리의 생활은 어떻게 바뀔까? A: 그것이 어떻게 바뀔 거라고 생각하는데? A: 미래에 우리의 생활은 어떻게 바뀔까?"
+      },
+      {
+        "id": "r3",
+        "title": "본문 - 3",
+        "en": "B: 나는 욕실에 많은 변화가 있을 거라고 생각해. B: 샤워 부스와 변기에 자동 청소 기능이 있을 것 같아. A: Could you explain what this painting shows? I know the singing man over there. She made her son a doctor.",
+        "ko": "A: 그것이 어떻게 바뀔 거라고 생각하는데? 가능성 정도 표현하기: 어떤 일이 일어날 가능성이 있음을 나 A: 이 그림이 무엇을 나타내는지 설명해 주겠니? 나는 저기 노래하고 있는 남자를 안다. 그녀는 아들을 의사로 만들었다."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "Could you ___ how it works?",
+        "a": "explain",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: That’s very ___.",
+        "a": "convenient",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "G: I want to take ___ of flying birds!",
+        "a": "pictures",
+        "passage": "r1"
+      },
+      {
+        "type": "true-false",
+        "q": "그것이 어떻게 작동하는지 설명해 주겠니? 소녀: 있잖아, 스마트 우산에 대해 들어 본 적 있니? 소녀: 이것...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "true-false",
+        "q": "B: 나는 이전에 그것에 대해 들어 본 적이 없어. 그게 뭔 B: 그거 멋진데. A: 미래에 우리의 생활은 ...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Could you explain what this ___ shows?",
+        "a": "painting",
+        "passage": "r3"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 그것이 어떻게 바뀔 거라고 생각하는데? 가능성 정도 표현하기: 어떤 일이 일어날 가능성이 있음을 나 A...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사가 앞의 명사를 꾸며주는 형용사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "B로 보내다’라는 뜻이다.",
+            "ko": "üPick 가능성 정도 표현하기: It is likely that ~은 어떤 일이"
+          },
+          {
+            "en": "A: 미래에 우리의 생활은 어떻게 바뀔까?",
+            "ko": "B: 나는 식당에 많은 변화가 있을 거라고 생각해."
+          },
+          {
+            "en": "B: 나는 식당에 많은 변화가 있을 거라고 생각해.",
+            "ko": "A: 그것이 어떻게 바뀔 거라고 생각하는데?"
+          },
+          {
+            "en": "A: 그것이 어떻게 바뀔 거라고 생각하는데?",
+            "ko": "B: 3D 프린터로 출력된 음식들이 식당에 있을 것 같아."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "I haven’t.로 대답한다.",
+            "ko": "üPick 설명 요청하기: Could you explain ~?은 상대방에게"
+          },
+          {
+            "en": "Could you explain how it works?",
+            "ko": "그것이 어떻게 작동하는지 설명해 주겠니?"
+          },
+          {
+            "en": "B: That’s very convenient.",
+            "ko": "소녀: 있잖아, 스마트 우산에 대해 들어 본 적 있니?"
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "현재완료",
+        "explanation": "'have/has + 과거분사'로 과거에 시작된 일이 현재까지 영향을 미침을 나타냅니다.",
+        "examples": []
+      },
+      {
+        "id": "g4",
+        "title": "수동태",
+        "explanation": "'be동사 + 과거분사(p.p.)'로 '~되다, ~당하다'의 의미를 나타냅니다.",
+        "examples": []
+      }
+    ],
+    "exercises": [
+      {
+        "type": "word-order",
+        "words": [
+          "Could",
+          "you",
+          "explan",
+          "how",
+          "t",
+          "wors"
+        ],
+        "a": "Could you explan how t wors?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "That’s",
+          "very",
+          "onvenent"
+        ],
+        "a": "B: That’s very onvenent."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "G:",
+          "I",
+          "want",
+          "to",
+          "tae",
+          "ptures",
+          "of",
+          "flyng",
+          "brds"
+        ],
+        "a": "G: I want to tae ptures of flyng brds!"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "It은",
+          "a",
+          "new",
+          "smart",
+          "refrgerator를",
+          "가리킨다"
+        ],
+        "a": "It은 a new smart refrgerator를 가리킨다."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "What",
+          "do",
+          "you",
+          "thn",
+          "of",
+          "~?:",
+          "~에",
+          "대해서",
+          "어떻게",
+          "생각하니"
+        ],
+        "a": "What do you thn of ~?: ~에 대해서 어떻게 생각하니?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "우주",
+          "풍선은",
+          "흥미로운",
+          "발명품이야"
+        ],
+        "a": "A: 우주 풍선은 흥미로운 발명품이야."
+      },
+      {
+        "type": "fill-blank",
+        "q": "Could you ___ how t wors?",
+        "a": "explan",
+        "hint": "그것이 어떻게 작동하는지 설명해 주겠니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: That’s very ___.",
+        "a": "onvenent",
+        "hint": "소녀: 있잖아, 스마트 우산에 대해 들어 본 적 있니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "Have you ever ___ of ~?: ~에 대해서 들어본 적 있니?",
+        "a": "heard",
+        "hint": "현재완료 시제를 이용하여 상대방에게 경험을 물어보는 표"
+      },
+      {
+        "type": "fill-blank",
+        "q": "G: I want to tae ___ of flyng brds!",
+        "a": "ptures",
+        "hint": "소녀: 이것들을 봐. 이달의 새로운 발명품들이야!"
+      },
+      {
+        "type": "fill-blank",
+        "q": "It은 a new smart ___를 가리킨다.",
+        "a": "refrgerator",
+        "hint": "What do you think of ~?: ~에 대해서 어떻게 생각하니?"
+      },
+      {
+        "type": "error-correction",
+        "q": "Step forward n order to/so as _________ing a loser loo at them.",
+        "a": "to _________",
+        "wrong": "_________ing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "I went Canadaing _________________________________.",
+        "a": "to Canada",
+        "wrong": "Canadaing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "multi-choice",
+        "q": "If I (be / am / were) you, I wouldn't go there.",
+        "a": "be",
+        "opts": [
+          "be",
+          "am / were"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "If I find your book, I (will / would) tell you.",
+        "a": "will",
+        "opts": [
+          "will",
+          "would"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "If you (meet / met) him, tell him to wait.",
+        "a": "meet",
+        "opts": [
+          "meet",
+          "met"
+        ]
+      }
+    ]
+  }
+}

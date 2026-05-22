@@ -1,0 +1,418 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-lee-15",
+    "lesson": 7,
+    "title": "Lesson 7"
+  },
+  "words": [
+    {
+      "en": "wonder",
+      "ko": "궁금하다, 궁금해 하다",
+      "pos": "v.",
+      "ex": "Points ◈ 단원 소재: 신비로운 자연 ◈ 의사소통 기능 • 궁금함 표현하기 A: I wonder where the bus stop is."
+    },
+    {
+      "en": "the South Pole",
+      "ko": "(지구의) 남극",
+      "pos": "n.",
+      "ex": "Yeah, the South Pole is the coldest place on Earth."
+    },
+    {
+      "en": "average",
+      "ko": "평균의, 보통의",
+      "pos": "a.",
+      "ex": "The average temperature is about -58℃ in July and -26℃ in December."
+    },
+    {
+      "en": "temperature",
+      "ko": "온도, 기온",
+      "pos": "n.",
+      "ex": "The average temperature is about -58℃ in July and -26℃ in December."
+    },
+    {
+      "en": "weather",
+      "ko": "날씨",
+      "pos": "n.",
+      "ex": "Listen and Check B: The weather is so nice outside."
+    },
+    {
+      "en": "weather forecast",
+      "ko": "일기 예보, 기상 통보",
+      "pos": "n.",
+      "ex": "The weather forecast says it’ll be rainy in the afternoon."
+    },
+    {
+      "en": "scenery",
+      "ko": "경치, 풍경",
+      "pos": "n.",
+      "ex": "Oh, the scenery there is so beautiful this time of year."
+    },
+    {
+      "en": "autumn leaves",
+      "ko": "단풍",
+      "pos": "n.",
+      "ex": "Right now it is covered with red autumn leaves."
+    },
+    {
+      "en": "camel",
+      "ko": "낙타",
+      "pos": "n.",
+      "ex": "I want to go to a desert and ride on a camel."
+    },
+    {
+      "en": "desert",
+      "ko": "사막",
+      "pos": "n.",
+      "ex": "I want to go to a desert and ride on a camel."
+    },
+    {
+      "en": "amazing",
+      "ko": "놀라운",
+      "pos": "a.",
+      "ex": "Suji: Wow, that's amazing!"
+    },
+    {
+      "en": "travel",
+      "ko": "여행하다",
+      "pos": "v.",
+      "ex": "Tony: I want to travel with them in the desert someday."
+    },
+    {
+      "en": "someday",
+      "ko": "언젠가",
+      "pos": "adv.",
+      "ex": "Tony: I want to travel with them in the desert someday."
+    },
+    {
+      "en": "planet",
+      "ko": "행성",
+      "pos": "n.",
+      "ex": "This article says scientists have discovered a new planet."
+    },
+    {
+      "en": "ocean",
+      "ko": "대양, 바다",
+      "pos": "n.",
+      "ex": "I want to see dolphins in the Pacific Ocean."
+    },
+    {
+      "en": "million",
+      "ko": "100만",
+      "pos": "n.",
+      "ex": "They are full of wonder and are home to millions of species."
+    },
+    {
+      "en": "species",
+      "ko": "(분류상의) 종",
+      "pos": "n.",
+      "ex": "They are full of wonder and are home to millions of species."
+    },
+    {
+      "en": "guess",
+      "ko": "추측하다, 짐작하다",
+      "pos": "v.",
+      "ex": "Sweet Dreams Can you guess what these whales are doing in the picture?"
+    },
+    {
+      "en": "whale",
+      "ko": "고래",
+      "pos": "n.",
+      "ex": "Humpback whales stand on their tails while they sleep."
+    },
+    {
+      "en": "actually",
+      "ko": "사실, 실제로",
+      "pos": "adv.",
+      "ex": "But they are actually sleeping!"
+    },
+    {
+      "en": "tail",
+      "ko": "꼬리",
+      "pos": "n.",
+      "ex": "Humpback whales stand on their tails while they sleep."
+    },
+    {
+      "en": "surface",
+      "ko": "표면, 수면, 지면",
+      "pos": "n.",
+      "ex": "They sleep near the surface."
+    },
+    {
+      "en": "since",
+      "ko": "~이기 때문에,",
+      "pos": "conj.",
+      "ex": "- 8 - Since they are not fish, they need to come up to breathe."
+    },
+    {
+      "en": "breathe",
+      "ko": "숨 쉬다, 호흡하다",
+      "pos": "v.",
+      "ex": "- 8 - Since they are not fish, they need to come up to breathe."
+    },
+    {
+      "en": "completely",
+      "ko": "완전히",
+      "pos": "adv.",
+      "ex": "Also, they don’t fall asleep completely."
+    },
+    {
+      "en": "deep breath",
+      "ko": "심호흡",
+      "pos": "n."
+    },
+    {
+      "en": "dive",
+      "ko": "(물속으로) 뛰어들다",
+      "pos": "v."
+    },
+    {
+      "en": "clam",
+      "ko": "조개",
+      "pos": "n.",
+      "ex": "This small fish whose favorite food is clams uses a tool to open them."
+    },
+    {
+      "en": "tool",
+      "ko": "도구",
+      "pos": "n.",
+      "ex": "This small fish whose favorite food is clams uses a tool to open them."
+    },
+    {
+      "en": "usually",
+      "ko": "대개, 보통",
+      "pos": "adv.",
+      "ex": "Clams usually hide under the sand, so they cannot be easily discovered."
+    },
+    {
+      "en": "hide",
+      "ko": "숨다, 숨어 있다",
+      "pos": "v.",
+      "ex": "Clams usually hide under the sand, so they cannot be easily discovered."
+    },
+    {
+      "en": "under",
+      "ko": "~아래에",
+      "pos": "prep.",
+      "ex": "Clams usually hide under the sand, so they cannot be easily discovered."
+    },
+    {
+      "en": "discover",
+      "ko": "발견하다",
+      "pos": "v.",
+      "ex": "This article says scientists have discovered a new planet."
+    },
+    {
+      "en": "blow",
+      "ko": "(입으로) 불다, (바람이) 불다",
+      "pos": "v.",
+      "ex": "Lesson 7 - 10 - The tuskfish blows on the sand until a clam appears."
+    },
+    {
+      "en": "appear",
+      "ko": "나타나다",
+      "pos": "v.",
+      "ex": "Lesson 7 - 10 - The tuskfish blows on the sand until a clam appears."
+    },
+    {
+      "en": "close",
+      "ko": "닫다",
+      "pos": "v.",
+      "ex": "The clam is closed tightly, so the fish cannot eat it."
+    },
+    {
+      "en": "tightly",
+      "ko": "단단히, 꽉",
+      "pos": "adv.",
+      "ex": "The clam is closed tightly, so the fish cannot eat it."
+    },
+    {
+      "en": "smash",
+      "ko": "때려 부수다, 깨뜨리다",
+      "pos": "v.",
+      "ex": "It smashes the clam against a rock."
+    },
+    {
+      "en": "serve",
+      "ko": "(음식을) 제공하다, 차려 주다",
+      "pos": "v.",
+      "ex": "I want to observe the variety of plants and animals in a forest."
+    },
+    {
+      "en": "probably",
+      "ko": "아마도",
+      "pos": "adv.",
+      "ex": "You have probably seen a bird fly down to the sea to catch a fish."
+    },
+    {
+      "en": "catch",
+      "ko": "잡다",
+      "pos": "v.",
+      "ex": "You have probably seen a bird fly down to the sea to catch a fish."
+    },
+    {
+      "en": "around",
+      "ko": "주변에, 주위에",
+      "pos": "adv.",
+      "ex": "Let’s look around."
+    },
+    {
+      "en": "fool",
+      "ko": "속이다, 기만하다 n. 광대, 바보",
+      "pos": "v.",
+      "ex": "But don’t let its size fool you."
+    },
+    {
+      "en": "spot",
+      "ko": "발견하다, 찾아내다",
+      "pos": "v.",
+      "ex": "It can spot a flying bird and calculate its speed and distance."
+    },
+    {
+      "en": "calculate",
+      "ko": "계산하다, 추정하다",
+      "pos": "v.",
+      "ex": "It can spot a flying bird and calculate its speed and distance."
+    },
+    {
+      "en": "speed",
+      "ko": "속도",
+      "pos": "n.",
+      "ex": "It can spot a flying bird and calculate its speed and distance."
+    },
+    {
+      "en": "distance",
+      "ko": "거리",
+      "pos": "n.",
+      "ex": "It can spot a flying bird and calculate its speed and distance."
+    },
+    {
+      "en": "nearby",
+      "ko": "가까이에",
+      "pos": "adv."
+    },
+    {
+      "en": "land",
+      "ko": "착륙하다 n. 땅, 육지",
+      "pos": "v.",
+      "ex": "There are more than 25,000 islands in the Pacific Ocean."
+    },
+    {
+      "en": "park",
+      "ko": "주차하다 n. 공원",
+      "pos": "v.",
+      "ex": "The Internet says that it’s only twice the size of Yeouido Park."
+    },
+    {
+      "en": "book",
+      "ko": "예약하다 n. 책",
+      "pos": "v.",
+      "ex": "The book says the average temperature of the South Pole is about -49°C."
+    },
+    {
+      "en": "store",
+      "ko": "저장하다 n. 가게, 상점",
+      "pos": "v."
+    },
+    {
+      "en": "think of",
+      "ko": "~을 생각하다",
+      "pos": ""
+    },
+    {
+      "en": "this time of year",
+      "ko": "이맘때는, 이맘때쯤이면",
+      "pos": ""
+    },
+    {
+      "en": "be covered with[by]",
+      "ko": "~로 덮여 있다",
+      "pos": ""
+    },
+    {
+      "en": "check out",
+      "ko": "보다, 확인하다, 조사하다",
+      "pos": "",
+      "ex": "Lesson 7 - 5 - Real Life Talk Suji: Check out this picture!"
+    },
+    {
+      "en": "go without",
+      "ko": "~없이 지내다",
+      "pos": "",
+      "ex": "Tony: I wonder how long camels can go without water in the desert."
+    },
+    {
+      "en": "full of",
+      "ko": "~로 가득 찬",
+      "pos": ""
+    },
+    {
+      "en": "millions of",
+      "ko": "수많은, 수 백 만의",
+      "pos": "",
+      "ex": "They are full of wonder and are home to millions of species."
+    },
+    {
+      "en": "find out",
+      "ko": "알아보다, 찾아보다",
+      "pos": "",
+      "ex": "Suji: Let's find out on the Internet."
+    },
+    {
+      "en": "stand up",
+      "ko": "서 있다",
+      "pos": ""
+    },
+    {
+      "en": "in a group",
+      "ko": "한 무리[집단]를 이루어",
+      "pos": "",
+      "ex": "It looks like they are standing up in a group."
+    },
+    {
+      "en": "fall asleep",
+      "ko": "잠들다",
+      "pos": "",
+      "ex": "Also, they don’t fall asleep completely."
+    },
+    {
+      "en": "wake up",
+      "ko": "(잠에서) 깨다, 일어나다",
+      "pos": ""
+    },
+    {
+      "en": "take a look at",
+      "ko": "~을 (한번) 보다",
+      "pos": "",
+      "ex": "Enjoy Your Meal If you think fish are not smart, take a look at the tuskfish."
+    },
+    {
+      "en": "give up",
+      "ko": "포기하다, 그만두다",
+      "pos": "",
+      "ex": "But the tuskfish doesn’t give up."
+    },
+    {
+      "en": "smash A against B",
+      "ko": "A를 B에 내리치다",
+      "pos": ""
+    },
+    {
+      "en": "in the end",
+      "ko": "마침내, 결국",
+      "pos": "",
+      "ex": "In the end, the clam opens and dinner is served."
+    },
+    {
+      "en": "jump out of",
+      "ko": "~에서 뛰쳐나오다",
+      "pos": "",
+      "ex": "But have you ever seen a fish jump out of the water to catch a bird?"
+    },
+    {
+      "en": "up to",
+      "ko": "~까지",
+      "pos": "",
+      "ex": "This fish can grow up to 170cm and 80kg."
+    }
+  ]
+}

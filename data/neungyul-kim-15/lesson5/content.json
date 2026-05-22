@@ -1,0 +1,519 @@
+{
+  "lessonInfo": {
+    "textbook": "neungyul-kim-15",
+    "lesson": 5,
+    "title": "Lesson 5"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "In my opinion은 자신의 생각이나 의 견을 나타낼 때 쓰는 표현으로 ‘내 생각에는, 내 의견 으로는’이라는 의미이다.",
+        "ko": "",
+        "category": "의견 표현하기"
+      },
+      {
+        "en": "In my opinion은 ‘내 생각에는, 내 의 견으로는’이라는 의미로 자신의 의견을 말하기 전에 문장 앞에 쓴다.",
+        "ko": "",
+        "category": "의견 표현하기"
+      },
+      {
+        "en": "In my opinion은 ‘내 생각에는, 내 의 견으로는’이라는 의미로 I think나 From my point of view 등의 표현으로도 바꿔 쓸 수 있다.",
+        "ko": "",
+        "category": "의견 표현하기"
+      },
+      {
+        "en": "I can’t wait to ~는 희망하거나 기대하는 일을 나타낼 때 사용하는 표현으로 ‘나는 빨 리 ~하고 싶다’라는 뜻이다.",
+        "ko": "",
+        "category": "희망·기대 표현하기"
+      },
+      {
+        "en": "I can’t wait to ~는 직역하면 ‘나 는 ~을 기다릴 수 없다’라는 뜻으로 다가올 어떤 일에 대한 기대감을 나타내는 의미로 쓰인다.",
+        "ko": "",
+        "category": "희망·기대 표현하기"
+      },
+      {
+        "en": "Listen and Speak B: What are we going to do this weekend, Minhee?",
+        "ko": "",
+        "category": "희망·기대 표현하기"
+      },
+      {
+        "en": "I can’t wait to ~는 ‘어서 ~하고 싶다’라는 뜻이며 이 때 to는 부정사로 뒤에는 동사원 형(visit)이 이어진다.",
+        "ko": "",
+        "category": "희망·기대 표현하기"
+      },
+      {
+        "en": "It은 가주어이고 to find 이하가 진주어인 구문이다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "It은 해석하지 않고 for us를 주어로 해서 해석한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Cancun is a city + 4.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Cancun is a city where 4.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Sea life was dying in the places.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "This structure)와 to부정사의 주어가 다르므로 to부정사 앞에 ‘for+목적 격’으로 의미상의 주어를 썼다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "This natural air flow is (the way) how these buildings stay cool.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "This natural air flow is the way (how) these buildings stay cool.",
+        "ko": "",
+        "category": "목표어법"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "In my ___은 자신의 생각이나 의 견을 나타낼 때 쓰는 표현으로 ‘내 생각에는, 내 의견 으로는’이라는 의미이다.",
+        "a": "opinion",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "In my ___은 ‘내 생각에는, 내 의 견으로는’이라는 의미로 자신의 의견을 말하기 전에 문장 앞에 쓴다.",
+        "a": "opinion",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "In my ___은 ‘내 생각에는, 내 의 견으로는’이라는 의미로 I think나 From my point of view 등의 표현으로도 바꿔 쓸 수 있다.",
+        "a": "opinion",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I can’t ___ to ~는 희망하거나 기대하는 일을 나타낼 때 사용하는 표현으로 ‘나는 빨 리 ~하고 싶다’라는 뜻이다.",
+        "a": "wait",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I can’t ___ to ~는 직역하면 ‘나 는 ~을 기다릴 수 없다’라는 뜻으로 다가올 어떤 일에 대한 기대감을 나타내는 의미로 쓰인다.",
+        "a": "wait",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Listen and Speak B: What are we going to do this ___, Minhee?",
+        "a": "weekend",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I can’t wait to ~는 ‘어서 ~하고 싶다’라는 뜻이며 이 때 to는 부정사로 뒤에는 동사원 형(___)이 이어진다.",
+        "a": "visit",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "It은 가주어이고 to ___ 이하가 진주어인 구문이다.",
+        "a": "find",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ is a city + 4.",
+        "a": "Cancun",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ is a city where 4.",
+        "a": "Cancun",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Sea life was dying in the ___.",
+        "a": "places",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "This ___)와 to부정사의 주어가 다르므로 to부정사 앞에 ‘for+목적 격’으로 의미상의 주어를 썼다.",
+        "a": "structure",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "This natural air flow is (the way) how these ___ stay cool.",
+        "a": "buildings",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "This natural air flow is the way (how) these ___ stay cool.",
+        "a": "buildings",
+        "hint": ""
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - 1",
+        "en": "How can we reduce our use of plastic bags? G: You have a point. Let's take the stairs. A: 너는 어떤 환경 문제가 가장 걱정되니? A: 너는 어떤 환경 문제가 가장 걱정되니? G: That sounds nice. I can't wait to see it!",
+        "ko": "소년: 우리는 비닐봉지를 너무 많이 쓰는 것 같아. 소녀: 지호야, 서둘러! 엘리베이터가 곧 올라가. B: 나는 토양 오염이 걱정돼. B: 나는 대기 오염이 걱정돼. 소년: 다음 주에 우리 동아리에서 사진 대회를 개최해."
+      },
+      {
+        "id": "r2",
+        "title": "본문 - 2",
+        "en": "B: No, I haven't. Tell me about them. B: 아니, 못 들어 봤어. 그것에 대해 이야기해 줘. A: They make electricity when people walk on them. B: 아니, 못 들어 봤어. 그것에 대해 이야기해 줘. B: 그거 아주 멋지다. 어서 그것을 사용하고 싶어.",
+        "ko": "A: 먹을 수 있는 숟가락에 대해 들어 봤니? 그건 정말 놀 A: 그건 곡물로 만들어졌어. 그걸로 자원이 절약될 거야. A: 스마트 에너지 바닥에 대해 들어 봤니? 그건 정말 놀라워! A: 그건 사람들이 그 위를 걸을 때 전기를 만들어내. 그걸 희망·기대 표현하기: I can’t wait to ~는 어떤 일에 대한 희망"
+      },
+      {
+        "id": "r3",
+        "title": "본문 - 3",
+        "en": "This is a great chance for me to improve my English. It’s natural for you to get angry. 네가 화내는 것은 당연하다. A to B는 ‘A를 B로 끌어들이다, 유인하다’라는 뜻이다. I heard something interesting. Don't keep on interrupting me!",
+        "ko": "이것은 내가 영어를 향상시킬 수 있는 좋은 기회이다. (for you: 의미상의 주어, 화를 내는 주체는 you) to부정사의 형용사적 용법: to get은 앞의 명사 time을 수식하는 역할을 한다. get 나는 흥미로운 것을 들었다. 내가 말하는 데 자꾸 끼어들지 마!"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "How can we reduce our use of ___ bags?",
+        "a": "plastic",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "G: You have a ___.",
+        "a": "point",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "Let's take the ___.",
+        "a": "stairs",
+        "passage": "r1"
+      },
+      {
+        "type": "true-false",
+        "q": "소년: 우리는 비닐봉지를 너무 많이 쓰는 것 같아. 소녀: 지호야, 서둘러! 엘리베이터가 곧 올라가. B: ...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: No, I ___.",
+        "a": "haven't",
+        "passage": "r2"
+      },
+      {
+        "type": "fill-blank",
+        "q": "Tell me ___ them.",
+        "a": "about",
+        "passage": "r2"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 먹을 수 있는 숟가락에 대해 들어 봤니? 그건 정말 놀 A: 그건 곡물로 만들어졌어. 그걸로 자원이 절...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "This is a great chance for me to ___ my English.",
+        "a": "improve",
+        "passage": "r3"
+      },
+      {
+        "type": "fill-blank",
+        "q": "It’s ___ for you to get angry.",
+        "a": "natural",
+        "passage": "r3"
+      },
+      {
+        "type": "true-false",
+        "q": "이것은 내가 영어를 향상시킬 수 있는 좋은 기회이다. (for you: 의미상의 주어, 화를 내는 주체는 y...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사가 앞의 명사를 꾸며주는 형용사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "G: That sounds ne. I an't wat to see t!",
+            "ko": "소년: 다음 주에 우리 동아리에서 사진 대회를 개최해."
+          },
+          {
+            "en": "What are we gong to do ~?: 우리 무엇을 할까?",
+            "ko": "상대방에게 가까운 미래의 계획을 물을 때 사용하는 표현이다."
+          },
+          {
+            "en": "B: That sounds awesome. I an't wat to use them.",
+            "ko": "A: 먹을 수 있는 숟가락에 대해 들어 봤니? 그건 정말 놀"
+          },
+          {
+            "en": "B: That sounds awesome. I an't wat to use them.",
+            "ko": "A: 스마트 에너지 바닥에 대해 들어 봤니? 그건 정말 놀라워!"
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "I thn (that) we're usng too many plast bags.",
+            "ko": "üPick 의견 표현하기: In my opinion은 자신의 생각이나 의"
+          },
+          {
+            "en": "A: What auses t?",
+            "ko": "A: 너는 어떤 환경 문제가 가장 걱정되니?"
+          },
+          {
+            "en": "A: What auses t?",
+            "ko": "A: 너는 어떤 환경 문제가 가장 걱정되니?"
+          },
+          {
+            "en": "G: That sounds ne. I an't wat to see t!",
+            "ko": "소년: 다음 주에 우리 동아리에서 사진 대회를 개최해."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "현재완료",
+        "explanation": "'have/has + 과거분사'로 과거에 시작된 일이 현재까지 영향을 미침을 나타냅니다.",
+        "examples": [
+          {
+            "en": "This is a great chance for me to improve my English.",
+            "ko": "이것은 내가 영어를 향상시킬 수 있는 좋은 기회이다."
+          }
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "분사",
+        "explanation": "현재분사(-ing)와 과거분사(-ed)가 명사를 수식하는 형용사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "Ths artwor s made from reyled plast bottles.",
+            "ko": "2. 플라스틱 병으로 만든 물고기"
+          },
+          {
+            "en": "I don't now the reason why he led to me.",
+            "ko": "나는 그가 내게 거짓말을 한 이유를 모른다."
+          },
+          {
+            "en": "Tell me how you opened the door.",
+            "ko": "그 문을 어떻게 열었는지 말해 줘."
+          },
+          {
+            "en": "Tell me the way you opened the door.",
+            "ko": "전치사+관계대명사"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "word-order",
+        "words": [
+          "How",
+          "an",
+          "we",
+          "redue",
+          "our",
+          "use",
+          "of",
+          "plast",
+          "bags"
+        ],
+        "a": "How an we redue our use of plast bags?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "I",
+          "thn",
+          "(that)",
+          "we're",
+          "usng",
+          "too",
+          "many",
+          "plast",
+          "bags"
+        ],
+        "a": "I thn (that) we're usng too many plast bags."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "G:",
+          "You",
+          "have",
+          "a",
+          "pont.",
+          "Let's",
+          "tae",
+          "the",
+          "stars"
+        ],
+        "a": "G: You have a pont. Let's tae the stars."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "Why",
+          "don’t",
+          "we",
+          "+",
+          "동사원형?:",
+          "우리",
+          "~하는",
+          "게",
+          "어때"
+        ],
+        "a": "Why don’t we + 동사원형?: 우리 ~하는 게 어때?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "What",
+          "auses",
+          "t"
+        ],
+        "a": "A: What auses t?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "너는",
+          "어떤",
+          "환경",
+          "문제가",
+          "가장",
+          "걱정되니"
+        ],
+        "a": "A: 너는 어떤 환경 문제가 가장 걱정되니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "How an we ___ our use of plast bags?",
+        "a": "redue",
+        "hint": "소년: 우리는 비닐봉지를 너무 많이 쓰는 것 같아."
+      },
+      {
+        "type": "fill-blank",
+        "q": "I thn (that) ___ usng too many plast bags.",
+        "a": "we're",
+        "hint": "üPick 의견 표현하기: In my opinion은 자신의 생각이나 의"
+      },
+      {
+        "type": "fill-blank",
+        "q": "G: You have a pont. ___ tae the stars.",
+        "a": "Let's",
+        "hint": "소녀: 지호야, 서둘러! 엘리베이터가 곧 올라가."
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ don’t we + 동사원형?: 우리 ~하는 게 어때?",
+        "a": "Why",
+        "hint": "상대방에게 특정 행동을 함께 할 것을 제안할 때 사용하는"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: What ___ t?",
+        "a": "auses",
+        "hint": "A: 너는 어떤 환경 문제가 가장 걱정되니?"
+      },
+      {
+        "type": "error-correction",
+        "q": "Ths s a great hane for me mproveing my Englsh.",
+        "a": "to mprove",
+        "wrong": "mproveing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "Ths s a great hane _____________ mproveing my Englsh.",
+        "a": "to mprove",
+        "wrong": "mproveing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "Ths Englsh boo s too dffult for me reading.",
+        "a": "to read",
+        "wrong": "reading",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "It s mportant for adults proteting hldren.",
+        "a": "to protet",
+        "wrong": "proteting",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "multi-choice",
+        "q": "My mom doesn't like (how / why) my sister drives.",
+        "a": "how",
+        "opts": [
+          "how",
+          "why"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "That is the reason (why / where) I like documentaries.",
+        "a": "why",
+        "opts": [
+          "why",
+          "where"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "My family went to the beach (how / where) my parents first met.",
+        "a": "how",
+        "opts": [
+          "how",
+          "where"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "I can't forget the day (why / when) I won the class election.",
+        "a": "why",
+        "opts": [
+          "why",
+          "when"
+        ]
+      }
+    ]
+  }
+}

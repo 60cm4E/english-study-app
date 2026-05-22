@@ -1,0 +1,528 @@
+{
+  "lessonInfo": {
+    "textbook": "neungyul-kim-15",
+    "lesson": 7,
+    "title": "Lesson 7"
+  },
+  "words": [
+    {
+      "en": "weather forecast",
+      "ko": "일기예보",
+      "pos": "n.",
+      "ex": "It’s an umbrella that gives you the weather forecast for the day."
+    },
+    {
+      "en": "invention",
+      "ko": "발명품, 발명",
+      "pos": "n.",
+      "ex": "They are the new inventions of the month!"
+    },
+    {
+      "en": "refrigerator",
+      "ko": "냉장고",
+      "pos": "n.",
+      "ex": "It’s a new smart refrigerator."
+    },
+    {
+      "en": "sense",
+      "ko": "감지하다, n. 감각",
+      "pos": "v.",
+      "ex": "It senses the items inside it and suggests recipes."
+    },
+    {
+      "en": "suggest",
+      "ko": "제안하다",
+      "pos": "v.",
+      "ex": "It senses the items inside it and suggests recipes."
+    },
+    {
+      "en": "destination",
+      "ko": "목적지",
+      "pos": "n.",
+      "ex": "This machine flies to a destination that we have already set."
+    },
+    {
+      "en": "set",
+      "ko": "조정하다, 맞춰 놓다",
+      "pos": "v.",
+      "ex": "This machine flies to a destination that we have already set."
+    },
+    {
+      "en": "above",
+      "ko": "~보다 위에",
+      "pos": "prep.",
+      "ex": "While it’s flying, it can take pictures from 500 meters above the location."
+    },
+    {
+      "en": "location",
+      "ko": "위치, 장소",
+      "pos": "n.",
+      "ex": "While it’s flying, it can take pictures from 500 meters above the location."
+    },
+    {
+      "en": "awesome",
+      "ko": "굉장한",
+      "pos": "a.",
+      "ex": "That sounds awesome."
+    },
+    {
+      "en": "advanced",
+      "ko": "선진의, 진보한",
+      "pos": "a."
+    },
+    {
+      "en": "technology",
+      "ko": "기술",
+      "pos": "n.",
+      "ex": "Future Changes through Technology Lesson 7 All the Dialogue Lesson 7 - 2 - B."
+    },
+    {
+      "en": "function",
+      "ko": "기능",
+      "pos": "n.",
+      "ex": "- 1 - Study Points ◈ Functions • 설명 요청하기 Could you explain how it works?"
+    },
+    {
+      "en": "accident",
+      "ko": "사고",
+      "pos": "n.",
+      "ex": "It’s a show about a man who lost one of his arms in an accident."
+    },
+    {
+      "en": "control",
+      "ko": "제어하다, 통제하다",
+      "pos": "v.",
+      "ex": "One is a robot arm controlled by his brain."
+    },
+    {
+      "en": "brain",
+      "ko": "뇌",
+      "pos": "n.",
+      "ex": "One is a robot arm controlled by his brain."
+    },
+    {
+      "en": "thought",
+      "ko": "생각",
+      "pos": "n.",
+      "ex": "Then those thoughts are turned into electronic signals."
+    },
+    {
+      "en": "electronic",
+      "ko": "전자의",
+      "pos": "a.",
+      "ex": "Then those thoughts are turned into electronic signals."
+    },
+    {
+      "en": "signal",
+      "ko": "신호",
+      "pos": "n.",
+      "ex": "Then those thoughts are turned into electronic signals."
+    },
+    {
+      "en": "travel",
+      "ko": "여행하다, 이동하다",
+      "pos": "v.",
+      "ex": "The signals travel from his brain to his robot arm and move it."
+    },
+    {
+      "en": "label",
+      "ko": "표, 딱지, 라벨",
+      "pos": "n.",
+      "ex": "The smart food label is an interesting invention."
+    },
+    {
+      "en": "outer space",
+      "ko": "(지구의) 대기권 밖",
+      "pos": "n.",
+      "ex": "It is likely that we’ll live in outer space in the near future."
+    },
+    {
+      "en": "farming",
+      "ko": "농업, 농작",
+      "pos": "n.",
+      "ex": "As + S V: ~하기 때문에 make + 목적어(farming) + 형용사(harder): ~을 ."
+    },
+    {
+      "en": "resource",
+      "ko": "자원",
+      "pos": "n.",
+      "ex": "This will require less land, water, and other resources."
+    },
+    {
+      "en": "instead",
+      "ko": "대신에",
+      "pos": "adv.",
+      "ex": "Instead, meat will be grown in a lab using animal cells."
+    },
+    {
+      "en": "lab",
+      "ko": "실험실",
+      "pos": "n.",
+      "ex": "The smart food label is an interesting invention."
+    },
+    {
+      "en": "cell",
+      "ko": "세포",
+      "pos": "n.",
+      "ex": "Instead, meat will be grown in a lab using animal cells."
+    },
+    {
+      "en": "require",
+      "ko": "필요로 하다, 요구하다",
+      "pos": "v.",
+      "ex": "This will require less land, water, and other resources."
+    },
+    {
+      "en": "nutrient",
+      "ko": "영양분",
+      "pos": "n.",
+      "ex": "You might not want to eat them, but they are actually very rich in nutrients!"
+    },
+    {
+      "en": "almost",
+      "ko": "거의",
+      "pos": "adv.",
+      "ex": "Speak G: I had to wait in line at the store for almost twenty minutes."
+    },
+    {
+      "en": "cashier",
+      "ko": "계산원",
+      "pos": "n.",
+      "ex": "I read about a store without cashiers."
+    },
+    {
+      "en": "sensor",
+      "ko": "감지기, 센서",
+      "pos": "n.",
+      "ex": "There are cameras and sensors in the store."
+    },
+    {
+      "en": "anymore",
+      "ko": "이제는 (…않다)",
+      "pos": "adv.",
+      "ex": "Robots are not only in movies and books anymore."
+    },
+    {
+      "en": "task",
+      "ko": "(부과된) 일, 과업",
+      "pos": "n.",
+      "ex": "Around the world, robots are doing a variety of tasks."
+    },
+    {
+      "en": "delivery",
+      "ko": "배달",
+      "pos": "n."
+    },
+    {
+      "en": "factory",
+      "ko": "공장",
+      "pos": "n."
+    },
+    {
+      "en": "public",
+      "ko": "공공의, 일반 대중의",
+      "pos": "a."
+    },
+    {
+      "en": "perform",
+      "ko": "수행하다",
+      "pos": "v.",
+      "ex": "In the past, robots performed only easy tasks that humans programmed them to do."
+    },
+    {
+      "en": "program",
+      "ko": "프로그래밍하다",
+      "pos": "v.",
+      "ex": "In the past, robots performed only easy tasks that humans programmed them to do."
+    },
+    {
+      "en": "artificial",
+      "ko": "인공적인, 인조의",
+      "pos": "a.",
+      "ex": "What makes this possible is artificial intelligence (AI)."
+    },
+    {
+      "en": "intelligence",
+      "ko": "지능",
+      "pos": "n.",
+      "ex": "What makes this possible is artificial intelligence (AI)."
+    },
+    {
+      "en": "perceive",
+      "ko": "인지하다, 지각하다",
+      "pos": "v.",
+      "ex": "Robots that have AI can perceive environments and make decisions."
+    },
+    {
+      "en": "environment",
+      "ko": "환경",
+      "pos": "n.",
+      "ex": "Robots that have AI can perceive environments and make decisions."
+    },
+    {
+      "en": "decision",
+      "ko": "결정",
+      "pos": "n.",
+      "ex": "Robots that have AI can perceive environments and make decisions."
+    },
+    {
+      "en": "recognize",
+      "ko": "알아보다, 인식하다",
+      "pos": "v.",
+      "ex": "They can also recognize speech, tell jokes, and play games with humans."
+    },
+    {
+      "en": "speech",
+      "ko": "연설, (말하는) 말",
+      "pos": "n.",
+      "ex": "They can also recognize speech, tell jokes, and play games with humans."
+    },
+    {
+      "en": "act",
+      "ko": "행동하다 n. 행동",
+      "pos": "v.",
+      "ex": "Actually he uses two arms."
+    },
+    {
+      "en": "praise",
+      "ko": "칭찬",
+      "pos": "n.",
+      "ex": "They walk and play with their owners and recognize praise."
+    },
+    {
+      "en": "present",
+      "ko": "현재의, n. 현재, 선물",
+      "pos": "a.",
+      "ex": "Robots around Us - Present and Future Robots are making things faster and easier."
+    },
+    {
+      "en": "anywhere",
+      "ko": "어디에서도",
+      "pos": "adv.",
+      "ex": "They can help us anywhere —in our homes, on roads, or in disaster areas."
+    },
+    {
+      "en": "road",
+      "ko": "도로, 길",
+      "pos": "n.",
+      "ex": "It can navigate roads for you so that you can relax and enjoy the ride."
+    },
+    {
+      "en": "disaster",
+      "ko": "재난, 재해",
+      "pos": "n.",
+      "ex": "They can help us anywhere —in our homes, on roads, or in disaster areas."
+    },
+    {
+      "en": "area",
+      "ko": "지역",
+      "pos": "n.",
+      "ex": "They can help us anywhere —in our homes, on roads, or in disaster areas."
+    },
+    {
+      "en": "throughout",
+      "ko": "~동안 쭉, 내내",
+      "pos": "prep.",
+      "ex": "Home Helper Robot This robot helps your family throughout the day."
+    },
+    {
+      "en": "emotion",
+      "ko": "감정",
+      "pos": "n.",
+      "ex": "It also talks with family members and can sense emotions."
+    },
+    {
+      "en": "navigate",
+      "ko": "항해하다, 길을 찾다",
+      "pos": "v.",
+      "ex": "It can navigate roads for you so that you can relax and enjoy the ride."
+    },
+    {
+      "en": "relax",
+      "ko": "휴식을 취하다",
+      "pos": "v.",
+      "ex": "It can navigate roads for you so that you can relax and enjoy the ride."
+    },
+    {
+      "en": "ride",
+      "ko": "타다 n. 타고 가기",
+      "pos": "v.",
+      "ex": "It can navigate roads for you so that you can relax and enjoy the ride."
+    },
+    {
+      "en": "swarm",
+      "ko": "떼, 벌 떼",
+      "pos": "n.",
+      "ex": "Us–Present and Future • home helper robot • self-driving car • robot swarm • 4."
+    },
+    {
+      "en": "including",
+      "ko": "~을 포함하여",
+      "pos": "prep.",
+      "ex": "They can be used in a variety of places, including farms or building sites."
+    },
+    {
+      "en": "building site",
+      "ko": "건설 현장",
+      "pos": "n.",
+      "ex": "They can be used in a variety of places, including farms or building sites."
+    },
+    {
+      "en": "solution",
+      "ko": "해결책, 해법",
+      "pos": "n.",
+      "ex": "They work on tasks and find solutions as a group."
+    },
+    {
+      "en": "search-and-rescue",
+      "ko": "수색 구조",
+      "pos": "n."
+    },
+    {
+      "en": "survivor",
+      "ko": "생존자",
+      "pos": "n."
+    },
+    {
+      "en": "clear",
+      "ko": "치우다",
+      "pos": "v.",
+      "ex": "Last week, after a storm hit, I cleared a route to help a boy to escape."
+    },
+    {
+      "en": "route",
+      "ko": "길, 경로",
+      "pos": "n.",
+      "ex": "Last week, after a storm hit, I cleared a route to help a boy to escape."
+    },
+    {
+      "en": "escape",
+      "ko": "탈출하다, 달아나다",
+      "pos": "v.",
+      "ex": "Last week, after a storm hit, I cleared a route to help a boy to escape."
+    },
+    {
+      "en": "safety",
+      "ko": "안전, 안전한 곳",
+      "pos": "n."
+    },
+    {
+      "en": "toward",
+      "ko": "~을 향하여",
+      "pos": "prep.",
+      "ex": "Looking toward the Future Our future with robots looks bright but not perfect."
+    },
+    {
+      "en": "bright",
+      "ko": "밝은",
+      "pos": "a.",
+      "ex": "Looking toward the Future Our future with robots looks bright but not perfect."
+    },
+    {
+      "en": "perfect",
+      "ko": "완벽한",
+      "pos": "a.",
+      "ex": "Looking toward the Future Our future with robots looks bright but not perfect."
+    },
+    {
+      "en": "expect",
+      "ko": "기대하다",
+      "pos": "v.",
+      "ex": "The result was not what they expected."
+    },
+    {
+      "en": "convenient",
+      "ko": "편리한",
+      "pos": "a.",
+      "ex": "That’s very convenient."
+    },
+    {
+      "en": "threat",
+      "ko": "위험, 위협",
+      "pos": "n."
+    },
+    {
+      "en": "possible",
+      "ko": "가능한",
+      "pos": "a.",
+      "ex": "What makes this possible is artificial intelligence (AI)."
+    },
+    {
+      "en": "ensure",
+      "ko": "반드시 …하게 하다",
+      "pos": "v.",
+      "ex": "We have to find possible solutions and ensure that robots are only used for 6."
+    },
+    {
+      "en": "good",
+      "ko": "좋은 일, 선 a. 좋은, 착한",
+      "pos": "n.",
+      "ex": "His English is good, but his pronunciation is bad."
+    },
+    {
+      "en": "in detail",
+      "ko": "상세하게",
+      "pos": ""
+    },
+    {
+      "en": "turn A into B",
+      "ko": "A를 B로 바꾸다",
+      "pos": ""
+    },
+    {
+      "en": "go bad",
+      "ko": "상하다, 썩다",
+      "pos": ""
+    },
+    {
+      "en": "work on",
+      "ko": "~에 노력을 들이다, 착수하다",
+      "pos": "",
+      "ex": "They work on tasks and find solutions as a group."
+    },
+    {
+      "en": "such as",
+      "ko": "~와 같은",
+      "pos": "",
+      "ex": "Also, bugs such as ants will become part of our daily meals."
+    },
+    {
+      "en": "come true",
+      "ko": "실현되다",
+      "pos": ""
+    },
+    {
+      "en": "pay for",
+      "ko": "대가를 지불하다, 돈을 내다",
+      "pos": "",
+      "ex": "How do you pay for it?"
+    },
+    {
+      "en": "keep track of",
+      "ko": "…을 추적하다",
+      "pos": ""
+    },
+    {
+      "en": "a variety of",
+      "ko": "다양한",
+      "pos": "",
+      "ex": "Around the world, robots are doing a variety of tasks."
+    },
+    {
+      "en": "deal with",
+      "ko": "(문제・과제 등을) 처리하다",
+      "pos": ""
+    },
+    {
+      "en": "as a group",
+      "ko": "집단적으로",
+      "pos": "",
+      "ex": "They ________________ tasks and find solutions as a group."
+    },
+    {
+      "en": "a threat to",
+      "ko": "~에 대한 위협",
+      "pos": ""
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-lee-15",
+    "lesson": 6,
+    "title": "Lesson 6"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "Thank you for ~는 ‘~해주셔서 감사합니다’ 라는 뜻으로 for 뒤에는 감사의 이유에 해당하는 내용 이 나온다.",
+        "ko": "",
+        "category": "감사하기"
+      },
+      {
+        "en": "Thank you for ~는 ‘~해주셔서 감사합니다’ 라는 뜻으로, for는 전치사이기 때문에 뒤에 동명사 (showing)가 왔다.",
+        "ko": "",
+        "category": "감사하기"
+      },
+      {
+        "en": "You’re not allowed to ~는 금지를 나타내 는 표현으로 ‘~하면 안 된다’라는 뜻이다.",
+        "ko": "",
+        "category": "금지하기"
+      },
+      {
+        "en": "You’re not allowed to ~는 금지를 나타내는 표현으로 ‘~하면 안 된다’라는 뜻이다.",
+        "ko": "",
+        "category": "금지하기"
+      },
+      {
+        "en": "A be allowed to B’는 ‘allow A to B’의 수동태 형태로, 여기에 not을 붙여서 금지의 부정형을 만든 것이다.",
+        "ko": "",
+        "category": "금지하기"
+      },
+      {
+        "en": "Thank you for ~는 ‘~해주셔서 감사합니다’ 라는 뜻으로, for는 전치사이기 때문에 뒤에 동명사(visiting)가 왔다.",
+        "ko": "",
+        "category": "감사하기"
+      },
+      {
+        "en": "Grammar✚ enough + to부정사 「형용사/부사+enough+to부정사」는 ‘~할 정도로 충분히 …한/하게’라는 뜻으로, 이 때 enough는 부사로 사용되어 앞의 형용사와 부사를 수식하는 역할을 한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Is she well enough to travel?",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Grammar✚ enough + to부정사 「형용사/부사+enough+to부정사」는 ‘~할 정도로 충분히 …한/하게’라는 뜻으로, 이 때 enough는 ________로 사용되어 앞의 형용사와 부사를 수식하는 역할을 한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Is she _________________________________?",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Thank you for lending me the book.",
+        "ko": "나에게 책을 빌려 줘서 고마워.",
+        "category": "감사"
+      },
+      {
+        "en": "You’re welcome.",
+        "ko": "나에게 책을 빌려 줘서 고마워.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "나에게 책을 빌려 줘서 고마워.",
+        "ko": "천만에.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "You’re not allowed to feed the birds here.",
+        "ko": "여기서 새들에게 먹이를 주면 안 됩니다.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "I’m sorry. I didn’t know that.",
+        "ko": "여기서 새들에게 먹이를 주면 안 됩니다.",
+        "category": "일반 표현"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "___ you for ~는 ‘~해주셔서 감사합니다’ 라는 뜻으로 for 뒤에는 감사의 이유에 해당하는 내용 이 나온다.",
+        "a": "Thank",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Thank you for ~는 ‘~해주셔서 감사합니다’ 라는 뜻으로, for는 전치사이기 때문에 뒤에 동명사 (___)가 왔다.",
+        "a": "showing",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "You’re not ___ to ~는 금지를 나타내 는 표현으로 ‘~하면 안 된다’라는 뜻이다.",
+        "a": "allowed",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "You’re not ___ to ~는 금지를 나타내는 표현으로 ‘~하면 안 된다’라는 뜻이다.",
+        "a": "allowed",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "A be ___ to B’는 ‘allow A to B’의 수동태 형태로, 여기에 not을 붙여서 금지의 부정형을 만든 것이다.",
+        "a": "allowed",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Thank you for ~는 ‘~해주셔서 감사합니다’ 라는 뜻으로, for는 전치사이기 때문에 뒤에 동명사(___)가 왔다.",
+        "a": "visiting",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___✚ enough + to부정사 「형용사/부사+enough+to부정사」는 ‘~할 정도로 충분히 …한/하게’라는 뜻으로, 이 때 enough는 부사로 사용되어 앞의 형용사와 부사를 수식하는 역할을 한다.",
+        "a": "Grammar",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Is she well ___ to travel?",
+        "a": "enough",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___✚ enough + to부정사 「형용사/부사+enough+to부정사」는 ‘~할 정도로 충분히 …한/하게’라는 뜻으로, 이 때 enough는 ________로 사용되어 앞의 형용사와 부사를 수식하는 역할을 한다.",
+        "a": "Grammar",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Thank you for ___ me the book.",
+        "a": "lending",
+        "hint": "나에게 책을 빌려 줘서 고마워."
+      },
+      {
+        "type": "fill-blank",
+        "q": "You’re ___.",
+        "a": "welcome",
+        "hint": "나에게 책을 빌려 줘서 고마워."
+      },
+      {
+        "type": "fill-blank",
+        "q": "You’re not ___ to feed the birds here.",
+        "a": "allowed",
+        "hint": "여기서 새들에게 먹이를 주면 안 됩니다."
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’m ___. I didn’t know that.",
+        "a": "sorry",
+        "hint": "여기서 새들에게 먹이를 주면 안 됩니다."
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - 1",
+        "en": "A: Thank you for lending me the book. A: You’re not allowed to feed the birds here. I think it’s a castle. It has tall tower. G: My pleasure. I'm glad you could come. G: I'm glad to hear that.",
+        "ko": "A: 나에게 책을 빌려 줘서 고마워. A: 여기서 새들에게 먹이를 주면 안 됩니다. • 달리 극장 박물관 (스페인) 소년: 안녕, Lisa. 네 생일 파티에 나를 초대해 줘서 고마워. 소년: 수민아, 내가 타는 기차가 5분 후에 떠나."
+      },
+      {
+        "id": "r2",
+        "title": "본문 - 2",
+        "en": "B: It was great. Thank you for lending me the book. B: 좋았어. 나에게 책을 빌려줘서 고마워. A: You’re welcome. It was my pleasure. B: 좋았어. 나에게 그 영화를 추천해 줘서 고마워. I’m very thankful/grateful to you for your help.",
+        "ko": "A: 그 책은 어땠니? A: 천만에. 별거 아니야. A: 그 영화는 어땠니? A: 천만에. 별거 아니야. ‘당신의 도움에 정말 감사드립니다.’"
+      },
+      {
+        "id": "r3",
+        "title": "본문 - 3",
+        "en": "G: Oh, where should I put it? G: I can't wait to see the concert! B: I’m sorry. I didn’t know that. A: 저쪽에 있는 표지판을 확인해 주세요. B: I’m sorry. I didn’t know that.",
+        "ko": "남자: 실례합니다. 우산을 안으로 가져오면 안 됩니다. 소년: '세계 음악 콘서트’ 표가 지금 판매 중이야. A: 실례합니다. 여기서 새들에게 먹이를 주면 안 됩니다. B: 알겠습니다. 감사합니다. A: 실례합니다. 여기서 낚시를 하면 안 됩니다."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "A: Thank you for ___ me the book.",
+        "a": "lending",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: You’re not ___ to feed the birds here.",
+        "a": "allowed",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I think it’s a ___.",
+        "a": "castle",
+        "passage": "r1"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 나에게 책을 빌려 줘서 고마워. A: 여기서 새들에게 먹이를 주면 안 됩니다. • 달리 극장 박물관 (...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: It was ___.",
+        "a": "great",
+        "passage": "r2"
+      },
+      {
+        "type": "fill-blank",
+        "q": "Thank you for ___ me the book.",
+        "a": "lending",
+        "passage": "r2"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 그 책은 어땠니? A: 천만에. 별거 아니야. A: 그 영화는 어땠니? A: 천만에. 별거 아니야. ‘...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "G: Oh, ___ should I put it?",
+        "a": "where",
+        "passage": "r3"
+      },
+      {
+        "type": "fill-blank",
+        "q": "G: I can't wait to see the ___!",
+        "a": "concert",
+        "passage": "r3"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: I’m ___.",
+        "a": "sorry",
+        "passage": "r3"
+      },
+      {
+        "type": "true-false",
+        "q": "남자: 실례합니다. 우산을 안으로 가져오면 안 됩니다. 소년: '세계 음악 콘서트’ 표가 지금 판매 중이야....",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사가 동사, 형용사, 부사를 수식하는 부사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "A: You’re welcome. It was my pleasure.",
+            "ko": "A: 그 책은 어땠니?"
+          },
+          {
+            "en": "A: 그 책은 어땠니?",
+            "ko": "B: 좋았어. 나에게 책을 빌려줘서 고마워."
+          },
+          {
+            "en": "B: 좋았어. 나에게 책을 빌려줘서 고마워.",
+            "ko": "A: 천만에. 별거 아니야."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "They get their ideas and inspirations from the world around them.",
+            "ko": "▲구문 UP 주격관계대명사"
+          },
+          {
+            "en": "They get their ideas and inspirations from the world around them.",
+            "ko": "▲구문 UP 주격관계대명사"
+          },
+          {
+            "en": "B: You’re welcome.",
+            "ko": "A: 나에게 책을 빌려 줘서 고마워."
+          },
+          {
+            "en": "A: 나에게 책을 빌려 줘서 고마워.",
+            "ko": "B: 천만에."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "현재완료",
+        "explanation": "'have/has + 과거분사'로 과거에 시작된 일이 현재까지 영향을 미침을 나타냅니다.",
+        "examples": []
+      },
+      {
+        "id": "g4",
+        "title": "수동태",
+        "explanation": "'be동사 + 과거분사(p.p.)'로 '~되다, ~당하다'의 의미를 나타냅니다.",
+        "examples": [
+          {
+            "en": "B: Okay. Thank you.",
+            "ko": "A: 실례합니다. 여기서 새들에게 먹이를 주면 안 됩니다."
+          },
+          {
+            "en": "A: 실례합니다. 여기서 새들에게 먹이를 주면 안 됩니다.",
+            "ko": "B: 죄송합니다. 몰랐어요."
+          },
+          {
+            "en": "B: 죄송합니다. 몰랐어요.",
+            "ko": "A: 저쪽에 있는 표지판을 확인해 주세요."
+          },
+          {
+            "en": "A: 저쪽에 있는 표지판을 확인해 주세요.",
+            "ko": "B: 알겠습니다. 감사합니다."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "Than",
+          "you",
+          "for",
+          "lendng",
+          "me",
+          "the",
+          "boo"
+        ],
+        "a": "A: Than you for lendng me the boo."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "나에게",
+          "책을",
+          "빌려",
+          "줘서",
+          "고마워"
+        ],
+        "a": "A: 나에게 책을 빌려 줘서 고마워."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "You’re",
+          "not",
+          "allowed",
+          "to",
+          "feed",
+          "the",
+          "brds",
+          "here"
+        ],
+        "a": "A: You’re not allowed to feed the brds here."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "I’m",
+          "sorry.",
+          "I",
+          "ddn’t",
+          "now",
+          "that"
+        ],
+        "a": "B: I’m sorry. I ddn’t now that."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "여기서",
+          "새들에게",
+          "먹이를",
+          "주면",
+          "안",
+          "됩니다"
+        ],
+        "a": "A: 여기서 새들에게 먹이를 주면 안 됩니다."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "I",
+          "thn",
+          "t’s",
+          "a",
+          "astle.",
+          "It",
+          "has",
+          "tall",
+          "tower"
+        ],
+        "a": "I thn t’s a astle. It has tall tower."
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Than you for ___ me the boo.",
+        "a": "lendng",
+        "hint": "A: 나에게 책을 빌려 줘서 고마워."
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: You’re ___.",
+        "a": "welome",
+        "hint": "A: 나에게 책을 빌려 줘서 고마워."
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: You’re not ___ to feed the brds here.",
+        "a": "allowed",
+        "hint": "A: 여기서 새들에게 먹이를 주면 안 됩니다."
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: I’m ___. I ddn’t now that.",
+        "a": "sorry",
+        "hint": "A: 여기서 새들에게 먹이를 주면 안 됩니다."
+      },
+      {
+        "type": "fill-blank",
+        "q": "I thn t’s a ___. It has tall tower.",
+        "a": "astle",
+        "hint": "• 달리 극장 박물관 (스페인)"
+      },
+      {
+        "type": "error-correction",
+        "q": "A: You’re not allowed feeding the brds here.",
+        "a": "to feed",
+        "wrong": "feeding",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "G: I'm glad hearing that.",
+        "a": "to hear",
+        "wrong": "hearing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "Is she well enough traveling? 그녀가 여행을 할 정도로 건강한가요?",
+        "a": "to travel",
+        "wrong": "traveling",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "I was stupd enough beleveing hm. 내가 그를 믿다니 참 어리석었다.",
+        "a": "to beleve",
+        "wrong": "beleveing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "multi-choice",
+        "q": "I can’t (attract / imagine) a world without air.",
+        "a": "attract",
+        "opts": [
+          "attract",
+          "imagine"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "It’s (enough / too) difficult!",
+        "a": "enough",
+        "opts": [
+          "enough",
+          "too"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "The soup is not cool (enough \n/ too).",
+        "a": "enough",
+        "opts": [
+          "enough",
+          "too"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "I think this chocolate isn’t good (enough / \ntoo).",
+        "a": "enough",
+        "opts": [
+          "enough",
+          "too"
+        ]
+      }
+    ]
+  }
+}

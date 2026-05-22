@@ -1,0 +1,606 @@
+{
+  "lessonInfo": {
+    "textbook": "neungyul-kim-15",
+    "lesson": 5,
+    "title": "Lesson 5"
+  },
+  "words": [
+    {
+      "en": "plastic bag",
+      "ko": "비닐봉지",
+      "pos": "n.",
+      "ex": "I think we're using too many plastic bags."
+    },
+    {
+      "en": "agree",
+      "ko": "동의하다",
+      "pos": "v."
+    },
+    {
+      "en": "environment",
+      "ko": "환경",
+      "pos": "n.",
+      "ex": "In my opinion, taking care of the environment starts with the little things."
+    },
+    {
+      "en": "reduce",
+      "ko": "줄이다",
+      "pos": "v.",
+      "ex": "How can we reduce our use of plastic bags?"
+    },
+    {
+      "en": "use",
+      "ko": "사용 v. 사용하다",
+      "pos": "n.",
+      "ex": "I don't use plastic straws."
+    },
+    {
+      "en": "opinion",
+      "ko": "의견",
+      "pos": "n.",
+      "ex": "In my opinion, taking care of the environment starts with the little things."
+    },
+    {
+      "en": "reusable",
+      "ko": "재사용할 수 있는",
+      "pos": "a.",
+      "ex": "In my opinion, we should bring reusable bags when we go shopping."
+    },
+    {
+      "en": "stair",
+      "ko": "(하나의) 계단",
+      "pos": "n.",
+      "ex": "Why don't we take the stairs?"
+    },
+    {
+      "en": "save",
+      "ko": "구하다, 절약하다",
+      "pos": "v.",
+      "ex": "We need to save energy to protect the environment."
+    },
+    {
+      "en": "protect",
+      "ko": "보호하다",
+      "pos": "v.",
+      "ex": "Forms • It is important for us to find ways to protect the environment."
+    },
+    {
+      "en": "ride",
+      "ko": "타기, 타고가기 v. 타다",
+      "pos": "n.",
+      "ex": "But one elevator ride doesn't use that much energy."
+    },
+    {
+      "en": "suggestion",
+      "ko": "제안",
+      "pos": "n.",
+      "ex": "Today, I'd like to make a suggestion about the trash problem at our school."
+    },
+    {
+      "en": "recycle",
+      "ko": "재활용하다",
+      "pos": "v.",
+      "ex": "It is a recycled bottle lamp."
+    },
+    {
+      "en": "resource",
+      "ko": "자원",
+      "pos": "n.",
+      "ex": "They will save resources."
+    },
+    {
+      "en": "encourage",
+      "ko": "격려하다",
+      "pos": "v."
+    },
+    {
+      "en": "place",
+      "ko": "놓다, 두다 n. 장소",
+      "pos": "v.",
+      "ex": "Where is the best place to use your idea?"
+    },
+    {
+      "en": "colored",
+      "ko": "~한 색깔의",
+      "pos": "a."
+    },
+    {
+      "en": "bin",
+      "ko": "(뚜껑 달린) 통",
+      "pos": "n."
+    },
+    {
+      "en": "remind",
+      "ko": "상기시키다, 생각나게 하다",
+      "pos": "v.",
+      "ex": "This reminds us of the rising sea levels that are caused by climate change."
+    },
+    {
+      "en": "separate",
+      "ko": "분리하다 a. 분리된, 별개의",
+      "pos": "v."
+    },
+    {
+      "en": "properly",
+      "ko": "적절히, 알맞게",
+      "pos": "adv."
+    },
+    {
+      "en": "waste",
+      "ko": "낭비하다 n. 낭비, 쓰레기",
+      "pos": "v.",
+      "ex": "In my opinion, producing too much waste is one of its causes."
+    },
+    {
+      "en": "soil",
+      "ko": "토양",
+      "pos": "n.",
+      "ex": "I'm concerned about soil pollution."
+    },
+    {
+      "en": "pollution",
+      "ko": "오염",
+      "pos": "n.",
+      "ex": "I'm concerned about soil pollution."
+    },
+    {
+      "en": "ocean",
+      "ko": "바다, 대양",
+      "pos": "n."
+    },
+    {
+      "en": "hold",
+      "ko": "개최하다, 잡다, 들다",
+      "pos": "v.",
+      "ex": "Our club is holding a photo contest next week."
+    },
+    {
+      "en": "theme",
+      "ko": "주제",
+      "pos": "n.",
+      "ex": "The theme is pollution around the world."
+    },
+    {
+      "en": "raise",
+      "ko": "높이다, 올리다",
+      "pos": "v."
+    },
+    {
+      "en": "awareness",
+      "ko": "의식, 인식",
+      "pos": "n.",
+      "ex": "Environmental awareness stickers 2."
+    },
+    {
+      "en": "environmental",
+      "ko": "환경의",
+      "pos": "a.",
+      "ex": "NE능률(김성곤) Environmental Innovations Lesson 5 All the Dialogue Lesson 5 - 2 - B."
+    },
+    {
+      "en": "article",
+      "ko": "(신문) 기사",
+      "pos": "n.",
+      "ex": "I read a cool article today."
+    },
+    {
+      "en": "mostly",
+      "ko": "대부분, 거의 모두",
+      "pos": "adv.",
+      "ex": "It just looks like a plastic bag, but it's made mostly of corn."
+    },
+    {
+      "en": "disappear",
+      "ko": "사라지다",
+      "pos": "v."
+    },
+    {
+      "en": "sometime",
+      "ko": "언젠가, 조만간에",
+      "pos": "adv.",
+      "ex": "The company will start selling the bag sometime this year."
+    },
+    {
+      "en": "melt",
+      "ko": "녹이다, 녹다",
+      "pos": "v."
+    },
+    {
+      "en": "incredible",
+      "ko": "놀라운, 믿어지지 않는",
+      "pos": "a."
+    },
+    {
+      "en": "sheep",
+      "ko": "양 (pl. sheep)",
+      "pos": "n.",
+      "ex": "Why don't we go to the sheep park near my house?"
+    },
+    {
+      "en": "chemical",
+      "ko": "화학물질, a. 화학의",
+      "pos": "n.",
+      "ex": "You know, people usually use chemicals to kill unwanted plants."
+    },
+    {
+      "en": "unwanted",
+      "ko": "원치 않는, 불필요한",
+      "pos": "a.",
+      "ex": "You know, people usually use chemicals to kill unwanted plants."
+    },
+    {
+      "en": "bright",
+      "ko": "영리한, 똑똑한",
+      "pos": "a.",
+      "ex": "What a bright idea!"
+    },
+    {
+      "en": "edible",
+      "ko": "먹을 수 있는",
+      "pos": "a.",
+      "ex": "Have you heard of edible spoons?"
+    },
+    {
+      "en": "grain",
+      "ko": "곡식",
+      "pos": "n.",
+      "ex": "They are made of grain."
+    },
+    {
+      "en": "charge",
+      "ko": "충전하다",
+      "pos": "v."
+    },
+    {
+      "en": "electric",
+      "ko": "전기의",
+      "pos": "a.",
+      "ex": "They make electricity when people walk on them."
+    },
+    {
+      "en": "electricity",
+      "ko": "전기",
+      "pos": "n.",
+      "ex": "They make electricity when people walk on them."
+    },
+    {
+      "en": "creative",
+      "ko": "창의적인",
+      "pos": "a.",
+      "ex": "Some people have found creative ways to save the earth."
+    },
+    {
+      "en": "example",
+      "ko": "예시",
+      "pos": "n.",
+      "ex": "One example is an underwater museum in Cancun, Mexico."
+    },
+    {
+      "en": "underwater",
+      "ko": "수중의 adv. 물속에(서)",
+      "pos": "a.",
+      "ex": "One example is an underwater museum in Cancun, Mexico."
+    },
+    {
+      "en": "professor",
+      "ko": "교수",
+      "pos": "n.",
+      "ex": "Rosa Allison과 an art professor는 콤마(,)로 연결되어 동격의 관계임을 나타낸다."
+    },
+    {
+      "en": "explanation",
+      "ko": "설명",
+      "pos": "n."
+    },
+    {
+      "en": "tourist",
+      "ko": "관광객",
+      "pos": "n.",
+      "ex": "Tourist activities are damaging parts of the sea near Cancun."
+    },
+    {
+      "en": "sea life",
+      "ko": "해양 생물",
+      "pos": "n.",
+      "ex": "They made an underwater museum away from the places where sea life was dying."
+    },
+    {
+      "en": "activity",
+      "ko": "활동",
+      "pos": "n."
+    },
+    {
+      "en": "seriously",
+      "ko": "심각하게",
+      "pos": "adv.",
+      "ex": "However, tourist activities are seriously damaging parts of the sea near Cancun."
+    },
+    {
+      "en": "damage",
+      "ko": "훼손하다 n. 손상",
+      "pos": "v."
+    },
+    {
+      "en": "prevent",
+      "ko": "방지하다, 막다",
+      "pos": "v.",
+      "ex": "Lesson 5 - 9 - To prevent this, artists did something interesting."
+    },
+    {
+      "en": "attract",
+      "ko": "마음을 끌다, 유인하다",
+      "pos": "v."
+    },
+    {
+      "en": "below",
+      "ko": "~보다 아래에",
+      "pos": "prep.",
+      "ex": "It’s about 14 meters below the surface and contains 500 statues."
+    },
+    {
+      "en": "surface",
+      "ko": "표면, 수면",
+      "pos": "n.",
+      "ex": "It’s about 14 meters below the surface and contains 500 statues."
+    },
+    {
+      "en": "contain",
+      "ko": "포함하다, ~이 들어 있다",
+      "pos": "v.",
+      "ex": "It’s about 14 meters below the surface and contains 500 statues."
+    },
+    {
+      "en": "statue",
+      "ko": "조각상",
+      "pos": "n.",
+      "ex": "It’s about 14 meters below the surface and contains 500 statues."
+    },
+    {
+      "en": "material",
+      "ko": "재료",
+      "pos": "n.",
+      "ex": "- 10 - The statues are made from materials that support sea life."
+    },
+    {
+      "en": "support",
+      "ko": "부양하다, 살게 하다, 지지하다",
+      "pos": "v.",
+      "ex": "- 10 - The statues are made from materials that support sea life."
+    },
+    {
+      "en": "provide",
+      "ko": "제공하다",
+      "pos": "v.",
+      "ex": "They provide additional places for plants and animals to live on."
+    },
+    {
+      "en": "additional",
+      "ko": "부가적인, 추가의",
+      "pos": "a.",
+      "ex": "They provide additional places for plants and animals to live on."
+    },
+    {
+      "en": "artwork",
+      "ko": "예술품",
+      "pos": "n.",
+      "ex": "- 29 - Culture Link Environmental Messages in Artwork 예술 작품 속의 환경 메시지 1."
+    },
+    {
+      "en": "unique",
+      "ko": "독특한",
+      "pos": "a."
+    },
+    {
+      "en": "realize",
+      "ko": "깨닫다, 확실히 이해하다",
+      "pos": "v."
+    },
+    {
+      "en": "rich",
+      "ko": "부유한, 풍부한",
+      "pos": "a.",
+      "ex": "He is not only rich but also diligent."
+    },
+    {
+      "en": "architecture",
+      "ko": "건축(술)",
+      "pos": "n.",
+      "ex": "In Singapore, people are using architecture to protect the environment on land."
+    },
+    {
+      "en": "architect",
+      "ko": "건축가",
+      "pos": "n.",
+      "ex": "In Singapore, people are using architecture to protect the environment on land."
+    },
+    {
+      "en": "eco-friendly",
+      "ko": "친환경적인",
+      "pos": "a.",
+      "ex": "How does your idea make your school eco-friendly?"
+    },
+    {
+      "en": "throughout",
+      "ko": "~동안 내내, ~의 구석구석까지",
+      "pos": "prep.",
+      "ex": "Singapore is hot throughout the year."
+    },
+    {
+      "en": "inside",
+      "ko": "안에, 안으로, a. 안의, 내부의",
+      "pos": "adv."
+    },
+    {
+      "en": "structure",
+      "ko": "구조",
+      "pos": "n.",
+      "ex": "For example, many buildings in Singapore are designed to have an open structure."
+    },
+    {
+      "en": "possible",
+      "ko": "가능한",
+      "pos": "a.",
+      "ex": "This structure makes it possible for outside air to move throughout a building."
+    },
+    {
+      "en": "outside",
+      "ko": "바깥의 adv. 바깥에, 밖에",
+      "pos": "a.",
+      "ex": "This structure makes it possible for outside air to move throughout a building."
+    },
+    {
+      "en": "natural",
+      "ko": "자연적인",
+      "pos": "a.",
+      "ex": "It’s natural for you to get angry."
+    },
+    {
+      "en": "flow",
+      "ko": "흐름",
+      "pos": "n.",
+      "ex": "This natural air flow is how these buildings stay cool."
+    },
+    {
+      "en": "greenery",
+      "ko": "푸른 잎, 푸른 나무",
+      "pos": "n.",
+      "ex": "This greenery provides shade ~, which keeps the building cooler."
+    },
+    {
+      "en": "shade",
+      "ko": "그늘",
+      "pos": "n.",
+      "ex": "This greenery provides shade ~, which keeps the building cooler."
+    },
+    {
+      "en": "direct",
+      "ko": "직접적인",
+      "pos": "a.",
+      "ex": "The shade from trees helps animals avoid direct sunlight."
+    },
+    {
+      "en": "quality",
+      "ko": "질, 자질",
+      "pos": "n."
+    },
+    {
+      "en": "goal",
+      "ko": "목표",
+      "pos": "n.",
+      "ex": "Those are the goals of this new style of architecture."
+    },
+    {
+      "en": "hopefully",
+      "ko": "바라건대",
+      "pos": "adv.",
+      "ex": "Hopefully, architects will keep coming up with new eco-friendly ideas."
+    },
+    {
+      "en": "field",
+      "ko": "분야",
+      "pos": "n.",
+      "ex": "- 14 - Every field has different ways of protecting the environment."
+    },
+    {
+      "en": "innovation",
+      "ko": "혁신",
+      "pos": "n.",
+      "ex": "NE능률(김성곤) Environmental Innovations Lesson 5 All the Dialogue Lesson 5 - 2 - B."
+    },
+    {
+      "en": "all the way",
+      "ko": "줄곧, 내내",
+      "pos": "",
+      "ex": "I don't want to walk all the way up there."
+    },
+    {
+      "en": "add up",
+      "ko": "(조금씩) 늘어나다, 합산",
+      "pos": ""
+    },
+    {
+      "en": "take care of",
+      "ko": "~을 돌보다",
+      "pos": ""
+    },
+    {
+      "en": "throw away",
+      "ko": "버리다",
+      "pos": ""
+    },
+    {
+      "en": "instead of",
+      "ko": "~대신에",
+      "pos": ""
+    },
+    {
+      "en": "be concerned about",
+      "ko": "~을 걱정하다",
+      "pos": ""
+    },
+    {
+      "en": "break down",
+      "ko": "(썩어서) 분해되다",
+      "pos": ""
+    },
+    {
+      "en": "what’s more",
+      "ko": "게다가, 더욱이",
+      "pos": ""
+    },
+    {
+      "en": "join hands",
+      "ko": "힘을 합치다",
+      "pos": ""
+    },
+    {
+      "en": "attract A to B",
+      "ko": "A를 B로 끌어들이다",
+      "pos": ""
+    },
+    {
+      "en": "away from",
+      "ko": "~로부터 떨어져",
+      "pos": "",
+      "ex": "They made an underwater museum away from the places where sea life was dying."
+    },
+    {
+      "en": "a variety of",
+      "ko": "다양한",
+      "pos": "",
+      "ex": "The artists want people to see a variety of sea life on the statues."
+    },
+    {
+      "en": "contribute to",
+      "ko": "~에 기여하다",
+      "pos": "",
+      "ex": "Eating too much salt can contribute to many health problems."
+    },
+    {
+      "en": "in addition to",
+      "ko": "~이외에도, ~에 덧붙여",
+      "pos": "",
+      "ex": "In addition to making open structures, architects add large gardens."
+    },
+    {
+      "en": "protect A from B",
+      "ko": "A를 B로부터 보호하다",
+      "pos": ""
+    },
+    {
+      "en": "provide A with B",
+      "ko": "A에게 B를 제공하다",
+      "pos": ""
+    },
+    {
+      "en": "come up with",
+      "ko": "떠올리다, 내놓다",
+      "pos": ""
+    },
+    {
+      "en": "in harmony",
+      "ko": "조화를 이루어",
+      "pos": ""
+    }
+  ]
+}

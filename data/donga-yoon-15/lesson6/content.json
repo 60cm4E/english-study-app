@@ -1,0 +1,499 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-yoon-15",
+    "lesson": 6,
+    "title": "Lesson 6"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "I’m so excited.",
+        "ko": "",
+        "category": "감정 표현하기"
+      },
+      {
+        "en": "I’m very happy.",
+        "ko": "",
+        "category": "감정 표현하기"
+      },
+      {
+        "en": "Congratulations!",
+        "ko": "",
+        "category": "축하 표현하기"
+      },
+      {
+        "en": "I’m sorry to hear that.",
+        "ko": "",
+        "category": "유감 표현하기"
+      },
+      {
+        "en": "That’s too bad.",
+        "ko": "",
+        "category": "유감 표현하기"
+      },
+      {
+        "en": "I’m so happy for you.",
+        "ko": "",
+        "category": "축하 표현하기"
+      },
+      {
+        "en": "Share Your Stories e.",
+        "ko": "",
+        "category": "유감 표현하기"
+      },
+      {
+        "en": "Grammar✚ 과거완료 1.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "When I got home, everybody had already gone to bed.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "What he wants는 ‘그가 원하는 것’이라고 해석한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Boggis가 돌아온 시점(과 거)보다 이전에 탁자 다리가 잘려진(대과거) 일이 일어난 것으로 과거완료가 쓰였 으며, 주어인 the legs가 Rummins와 그의 아들에 의해 잘려진 대상이므로 수동태 로 쓰인 것이다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "When I got home, everybody _______ already _________ to bed.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "What he wants는 ‘___________________’이라고 해석한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "My smartphone is broken. I'm very upset.",
+        "ko": "무슨 일이니?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "I was elected as class president. I'm so excited.",
+        "ko": "Sue, 너 신나 보인다. 무슨 일 있어?",
+        "category": "일반 표현"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "I’m so ___.",
+        "a": "excited",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’m very ___.",
+        "a": "happy",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___!",
+        "a": "Congratulations",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’m ___ to hear that.",
+        "a": "sorry",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "That’s ___ bad.",
+        "a": "too",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’m so ___ for you.",
+        "a": "happy",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Share Your ___ e.",
+        "a": "Stories",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___✚ 과거완료 1.",
+        "a": "Grammar",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "When I got home, ___ had already gone to bed.",
+        "a": "everybody",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "What he ___는 ‘그가 원하는 것’이라고 해석한다.",
+        "a": "wants",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Boggis가 돌아온 시점(과 거)보다 이전에 탁자 다리가 잘려진(대과거) 일이 일어난 것으로 과거완료가 쓰였 으며, 주어인 the legs가 ___와 그의 아들에 의해 잘려진 대상이므로 수동태 로 쓰인 것이다.",
+        "a": "Rummins",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "When I got home, ___ _______ already _________ to bed.",
+        "a": "everybody",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "What he ___는 ‘___________________’이라고 해석한다.",
+        "a": "wants",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "My ___ is broken. I'm very upset.",
+        "a": "smartphone",
+        "hint": "무슨 일이니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I was elected as class ___. I'm so excited.",
+        "a": "president",
+        "hint": "Sue, 너 신나 보인다. 무슨 일 있어?"
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - 1",
+        "en": "I'm sorry to hear that. B: My smartphone is broken. I'm very upset. B: 내 스마트폰이 고장 났어. 나는 너무 속상해. People asked him where he had got the furniture. The table was what every dealer dreamed of.",
+        "ko": "금메달 딴 것을 축하해. / 그 말을 들으니 유감이야. A: 무슨 일이니? 어느 운수 좋은 일요일 사람들은 그에게 그 가구를 어디에서 구했는지 물었다. 그 탁자는 모든 상인들이 꿈꾸던 것이었다."
+      },
+      {
+        "id": "r2",
+        "title": "본문 - 2",
+        "en": "I'm curious about the story. B: Sue, 너 신나 보인다. 무슨 일 있어? B: Thanks, Suji. I'm very happy. B: 고마워, 수지야. 나는 정말 기뻐. G: 음, 내 스마트폰을 잃어버렸어. 속상해.",
+        "ko": "• 나는 ‘노인과 바다’를 읽고 싶어. 그 책은 재미있어 보여. G: 내가 학급 회장으로 당선되었어. 정말 신나. G: Tim, 학교 마라톤에서 금메달 딴 것 축하해. G: 네 스스로가 매우 자랑스럽겠구나. B: 아, 그 말을 들으니 정말 유감이야. 마지막으로 언제 사"
+      },
+      {
+        "id": "r3",
+        "title": "본문 - 3",
+        "en": "G: 음, 매점에서 그것을 가방에서 꺼낸 것은 기억나. B: Yes. I'm taking medicine. A: That's wonderful. Congratulations! B: My smartphone is broken. I'm very upset. B: Our team won the soccer game. I'm so excited!",
+        "ko": "B: 그럼 그것을 찾으러 매점에 다시 가 보자. G: 너 몸이 안 좋아 보인다, 인호야. 무슨 일 있어? B: 영어 말하기 대회에서 내가 1등 상을 받았어. 정말 신나. B: 내 스마트폰이 고장 났어. 정말 속상해. B: 우리 팀이 축구 경기에서 이겼어! 너무 신나!"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "I'm ___ to hear that.",
+        "a": "sorry",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: My ___ is broken.",
+        "a": "smartphone",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I'm very ___.",
+        "a": "upset",
+        "passage": "r1"
+      },
+      {
+        "type": "true-false",
+        "q": "금메달 딴 것을 축하해. / 그 말을 들으니 유감이야. A: 무슨 일이니? 어느 운수 좋은 일요일 사람들은 ...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I'm ___ about the story.",
+        "a": "curious",
+        "passage": "r2"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: ___, 너 신나 보인다.",
+        "a": "Sue",
+        "passage": "r2"
+      },
+      {
+        "type": "true-false",
+        "q": "• 나는 ‘노인과 바다’를 읽고 싶어. 그 책은 재미있어 보여. G: 내가 학급 회장으로 당선되었어. 정말 ...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: ___.",
+        "a": "Yes",
+        "passage": "r3"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I'm taking ___.",
+        "a": "medicine",
+        "passage": "r3"
+      },
+      {
+        "type": "true-false",
+        "q": "B: 그럼 그것을 찾으러 매점에 다시 가 보자. G: 너 몸이 안 좋아 보인다, 인호야. 무슨 일 있어? B...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사가 앞의 명사를 꾸며주는 형용사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "I'm sorry to hear that.",
+            "ko": "금메달 딴 것을 축하해. / 그 말을 들으니 유감이야."
+          },
+          {
+            "en": "A: That's too bad. I'm sorry to hear that.",
+            "ko": "B: 내 스마트폰이 고장 났어. 정말 속상해."
+          },
+          {
+            "en": "A: That's too bad. I'm sorry to hear that.",
+            "ko": "B: 나는 고양이를 잃어버렸어. 너무 슬퍼."
+          },
+          {
+            "en": "A: That's too bad. I'm sorry to hear that.",
+            "ko": "B: 내 자전거가 고장 났어. 정말 속상해."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "People asked him where he had got the furniture.",
+            "ko": "사람들은 그에게 그 가구를 어디에서 구했는지 물었다."
+          },
+          {
+            "en": "The table was what every dealer dreamed of.",
+            "ko": "그 탁자는 모든 상인들이 꿈꾸던 것이었다."
+          },
+          {
+            "en": "I'm sorry to hear that.",
+            "ko": "금메달 딴 것을 축하해. / 그 말을 들으니 유감이야."
+          },
+          {
+            "en": "B: My smartphone is broken. I'm very upset.",
+            "ko": "A: 무슨 일이니?"
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "현재완료",
+        "explanation": "'have/has + 과거분사'로 과거에 시작된 일이 현재까지 영향을 미침을 나타냅니다.",
+        "examples": []
+      },
+      {
+        "id": "g4",
+        "title": "수동태",
+        "explanation": "'be동사 + 과거분사(p.p.)'로 '~되다, ~당하다'의 의미를 나타냅니다.",
+        "examples": [
+          {
+            "en": "I was shoed that somebody had stolen my be durng the nght.",
+            "ko": "Use It 그림을 보고 엄마가 집에 왔을 때 가족들이 어떤 일을 끝마친 상"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "word-order",
+        "words": [
+          "I'm",
+          "sorry",
+          "to",
+          "hear",
+          "that"
+        ],
+        "a": "I'm sorry to hear that."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "My",
+          "smartphone",
+          "s",
+          "broen.",
+          "I'm",
+          "very",
+          "upset"
+        ],
+        "a": "B: My smartphone s broen. I'm very upset."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "내",
+          "스마트폰이",
+          "고장",
+          "났어.",
+          "나는",
+          "너무",
+          "속상해"
+        ],
+        "a": "B: 내 스마트폰이 고장 났어. 나는 너무 속상해."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "The",
+          "table",
+          "was",
+          "what",
+          "every",
+          "dealer",
+          "dreamed",
+          "of"
+        ],
+        "a": "The table was what every dealer dreamed of."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "I'm",
+          "urous",
+          "about",
+          "the",
+          "story"
+        ],
+        "a": "I'm urous about the story."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "That's",
+          "wonderful.",
+          "Congratulatons"
+        ],
+        "a": "B: That's wonderful. Congratulatons!"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I'm ___ to hear that.",
+        "a": "sorry",
+        "hint": "금메달 딴 것을 축하해. / 그 말을 들으니 유감이야."
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: My ___ s broen. I'm very upset.",
+        "a": "smartphone",
+        "hint": "A: 무슨 일이니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "The table was what every dealer ___ of.",
+        "a": "dreamed",
+        "hint": "그 탁자는 모든 상인들이 꿈꾸던 것이었다."
+      },
+      {
+        "type": "fill-blank",
+        "q": "I'm ___ about the story.",
+        "a": "urous",
+        "hint": "• 나는 ‘노인과 바다’를 읽고 싶어. 그 책은 재미있어 보여."
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: That's wonderful. ___!",
+        "a": "Congratulatons",
+        "hint": "B: Sue, 너 신나 보인다. 무슨 일 있어?"
+      },
+      {
+        "type": "error-correction",
+        "q": "I'm sorry hearing that.",
+        "a": "to hear",
+        "wrong": "hearing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "A: That's too bad. I'm sorry hearing that.",
+        "a": "to hear",
+        "wrong": "hearing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "I'm so sorry hearing that. / That's too bad.",
+        "a": "to hear",
+        "wrong": "hearing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "Cathy had often gone fshng before she moved Seouling.",
+        "a": "to Seoul",
+        "wrong": "Seouling",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "multi-choice",
+        "q": "Before I started working here, I (have used / \nhad used) this software.",
+        "a": "have used",
+        "opts": [
+          "have used",
+          "had used"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "She sent me a digital camera that she (has / \nhad) bought in Hong Kong.",
+        "a": "has",
+        "opts": [
+          "has",
+          "had"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "I had to take a taxi because the last bus (left \n/ had left).",
+        "a": "left",
+        "opts": [
+          "left",
+          "had left"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "When I got there, the bus (has been leaving / \nhad left) already.",
+        "a": "has been leaving",
+        "opts": [
+          "has been leaving",
+          "had left"
+        ]
+      }
+    ]
+  }
+}

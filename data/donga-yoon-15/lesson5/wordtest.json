@@ -1,0 +1,368 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-yoon-15",
+    "lesson": 5,
+    "title": "Lesson 5"
+  },
+  "words": [
+    {
+      "en": "once",
+      "ko": "(과거) 언젠가, 한 번",
+      "pos": "adv.",
+      "ex": "I exercise once a week."
+    },
+    {
+      "en": "suggest",
+      "ko": "제안하다",
+      "pos": "v.",
+      "ex": "I suggest you exercise more often."
+    },
+    {
+      "en": "join",
+      "ko": "가입하다",
+      "pos": "v.",
+      "ex": "I suggest you join my basketball club."
+    },
+    {
+      "en": "twice",
+      "ko": "두 번",
+      "pos": "adv.",
+      "ex": "I read a book twice a month."
+    },
+    {
+      "en": "register",
+      "ko": "등록하다",
+      "pos": "v.",
+      "ex": "Yes, I came to register for a swimming class."
+    },
+    {
+      "en": "weekday",
+      "ko": "평일",
+      "pos": "n.",
+      "ex": "I’d like to take classes on weekdays and not on weekends."
+    },
+    {
+      "en": "meet",
+      "ko": "만나다, (집회·수업 등) 열리다",
+      "pos": "v.",
+      "ex": "This class meets on Tuesdays and Thursdays."
+    },
+    {
+      "en": "limit",
+      "ko": "제한, 한도",
+      "pos": "n.",
+      "ex": "The class has a limit of 10 people."
+    },
+    {
+      "en": "perfect",
+      "ko": "더할 나위 없이 좋은, 완벽한",
+      "pos": "a.",
+      "ex": "That’s perfect."
+    },
+    {
+      "en": "trophy",
+      "ko": "트로피",
+      "pos": "n."
+    },
+    {
+      "en": "win",
+      "ko": "이기다",
+      "pos": "v.",
+      "ex": "Pacers usually have flags or balloons showing their finish time."
+    },
+    {
+      "en": "hide",
+      "ko": "숨기다, 감추다",
+      "pos": "v."
+    },
+    {
+      "en": "attention",
+      "ko": "주목, 관심",
+      "pos": "n.",
+      "ex": "These people are often hidden and don’t get attention."
+    },
+    {
+      "en": "example",
+      "ko": "예시",
+      "pos": "n.",
+      "ex": "Here are some examples."
+    },
+    {
+      "en": "pacer",
+      "ko": "페이서, 보조를 맞춰 걷는 사람",
+      "pos": "n.",
+      "ex": "Pacers usually have flags or balloons showing their finish time."
+    },
+    {
+      "en": "marathon",
+      "ko": "마라톤",
+      "pos": "n.",
+      "ex": "Pacers in a Marathon Pacers run with other runners and lead them in a marathon."
+    },
+    {
+      "en": "experienced",
+      "ko": "경험이 풍부한, 능숙한",
+      "pos": "a."
+    },
+    {
+      "en": "lead",
+      "ko": "이끌다",
+      "pos": "v.",
+      "ex": "In soccer, there are coaches, trainers, cheerleaders, analyzers ."
+    },
+    {
+      "en": "manage",
+      "ko": "관리하다, 운영하다",
+      "pos": "v.",
+      "ex": "It is to help other runners manage their race better."
+    },
+    {
+      "en": "several",
+      "ko": "몇몇의",
+      "pos": "a.",
+      "ex": "There can be several pacers in a race."
+    },
+    {
+      "en": "speed",
+      "ko": "속도",
+      "pos": "n.",
+      "ex": "Each pacer runs at different speeds and finishes the race in different times."
+    },
+    {
+      "en": "flag",
+      "ko": "깃발",
+      "pos": "n.",
+      "ex": "Pacers usually have flags or balloons showing their finish time."
+    },
+    {
+      "en": "balloon",
+      "ko": "풍선",
+      "pos": "n.",
+      "ex": "Pacers usually have flags or balloons showing their finish time."
+    },
+    {
+      "en": "target",
+      "ko": "목표, 목표로 하는 대상",
+      "pos": "n.",
+      "ex": "Runners can choose a pacer depending on their target finish time."
+    },
+    {
+      "en": "since",
+      "ko": "~때문에, ~이후로",
+      "pos": "conj.",
+      "ex": "Since + S V: ~하기 때문에 ✔since는 본문에서 이유를 나타내는 접속사로 쓰여 as나 because로도 바꿔 쓸 수 있다."
+    },
+    {
+      "en": "follow",
+      "ko": "(뒤를) 따라가다",
+      "pos": "v."
+    },
+    {
+      "en": "achieve",
+      "ko": "달성하다, 성취하다",
+      "pos": "v."
+    },
+    {
+      "en": "goal",
+      "ko": "목표",
+      "pos": "n."
+    },
+    {
+      "en": "particular",
+      "ko": "특정한",
+      "pos": "a."
+    },
+    {
+      "en": "pit",
+      "ko": "(자동차 경주의) 피트",
+      "pos": "n.",
+      "ex": "This team is called a pit crew."
+    },
+    {
+      "en": "crew",
+      "ko": "(함께 일하는) 팀, 조",
+      "pos": "n.",
+      "ex": "This team is called a pit crew."
+    },
+    {
+      "en": "race",
+      "ko": "경주, 경기",
+      "pos": "n.",
+      "ex": "There can be several pacers in a race."
+    },
+    {
+      "en": "side",
+      "ko": "옆",
+      "pos": "n.",
+      "ex": "It is a place on the side of the race track."
+    },
+    {
+      "en": "track",
+      "ko": "트랙, 경주로",
+      "pos": "n.",
+      "ex": "What does a pacer keep track of?"
+    },
+    {
+      "en": "main",
+      "ko": "주요한, 중요한",
+      "pos": "a.",
+      "ex": "The main job of the pit crew is to check the car and change the tires."
+    },
+    {
+      "en": "check",
+      "ko": "점검하다, 확인하다",
+      "pos": "v.",
+      "ex": "The main job of the pit crew is to check the car and change the tires."
+    },
+    {
+      "en": "tire",
+      "ko": "타이어 v. 타이어를 갈다",
+      "pos": "n.",
+      "ex": "The main job of the pit crew is to check the car and change the tires."
+    },
+    {
+      "en": "especially",
+      "ko": "특히",
+      "pos": "adv.",
+      "ex": "Why is changing tires especially important in a car race?"
+    },
+    {
+      "en": "second",
+      "ko": "(시간 단위) 초",
+      "pos": "n.",
+      "ex": "We have to work in perfect harmony since a pit stop can be as short as 2 seconds."
+    },
+    {
+      "en": "stop",
+      "ko": "정지, 중단 v. 멈추다",
+      "pos": "n.",
+      "ex": "The girl waiting at the bus stop is my sister."
+    },
+    {
+      "en": "therefore",
+      "ko": "그러므로",
+      "pos": "adv.",
+      "ex": "Therefore, the pit crew has to work in perfect harmony."
+    },
+    {
+      "en": "harmony",
+      "ko": "조화, 화합",
+      "pos": "n.",
+      "ex": "Therefore, the pit crew has to work in perfect harmony."
+    },
+    {
+      "en": "tribe",
+      "ko": "부족, 종족",
+      "pos": "n.",
+      "ex": "Sherpa comes from the Sherpa tribe, which lives in the eastern part of Nepal."
+    },
+    {
+      "en": "eastern",
+      "ko": "동쪽의",
+      "pos": "a.",
+      "ex": "Sherpa comes from the Sherpa tribe, which lives in the eastern part of Nepal."
+    },
+    {
+      "en": "climbing",
+      "ko": "등산, 등반",
+      "pos": "n.",
+      "ex": "Sherpas have good climbing skills and know their way around the mountains well."
+    },
+    {
+      "en": "skill",
+      "ko": "기술",
+      "pos": "n.",
+      "ex": "Sherpas have good climbing skills and know their way around the mountains well."
+    },
+    {
+      "en": "breathe",
+      "ko": "숨 쉬다, 호흡하다",
+      "pos": "v."
+    },
+    {
+      "en": "climber",
+      "ko": "등산가",
+      "pos": "n.",
+      "ex": "Sherpas lead mountain climbers to the top of the mountain."
+    },
+    {
+      "en": "hire",
+      "ko": "고용하다",
+      "pos": "v."
+    },
+    {
+      "en": "support",
+      "ko": "지원하다, 지지하다",
+      "pos": "v.",
+      "ex": "They support climbers in many ways."
+    },
+    {
+      "en": "invisible",
+      "ko": "보이지 않는, 볼 수 없는",
+      "pos": "a.",
+      "ex": "Sherpas가 the invisible people of Mount Everest라고 불린다는 내용이다."
+    },
+    {
+      "en": "take lessons",
+      "ko": "수업을 받다, 강습을 받다",
+      "pos": ""
+    },
+    {
+      "en": "sign up",
+      "ko": "(강좌에) 등록하다",
+      "pos": "",
+      "ex": "I’d like to sign up for that class."
+    },
+    {
+      "en": "on one’s own",
+      "ko": "혼자서, 혼자 힘으로",
+      "pos": ""
+    },
+    {
+      "en": "depending on",
+      "ko": "~에 따라",
+      "pos": "",
+      "ex": "Runners can choose a pacer depending on their target finish time."
+    },
+    {
+      "en": "keep track of",
+      "ko": "(계속해서) ~을 파악하다",
+      "pos": "",
+      "ex": "What does a pacer keep track of?"
+    },
+    {
+      "en": "in short",
+      "ko": "요컨대, 요약하면",
+      "pos": "",
+      "ex": "In short, pacers run but they don’t run to win."
+    },
+    {
+      "en": "wear out",
+      "ko": "(낡아서) 닳다, 해지다",
+      "pos": "",
+      "ex": "It is important because the tires wear out easily in a high speed race."
+    },
+    {
+      "en": "have difficulty –ing",
+      "ko": "~하는 데 어려움이 있다",
+      "pos": ""
+    },
+    {
+      "en": "high up",
+      "ko": "높은 곳에서",
+      "pos": "",
+      "ex": "They also have little difficulty breathing high up in the mountains."
+    },
+    {
+      "en": "lead A to B",
+      "ko": "A를 B로 이끌다",
+      "pos": ""
+    },
+    {
+      "en": "put up",
+      "ko": "(건물·텐트 등) 세우다, 짓다",
+      "pos": "",
+      "ex": "Lesson 5 - 12 - For example, they put up tents and carry climbers’ bags."
+    }
+  ]
+}

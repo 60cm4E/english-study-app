@@ -1,0 +1,536 @@
+{
+  "lessonInfo": {
+    "textbook": "neungyul-kim-15",
+    "lesson": 6,
+    "title": "Lesson 6"
+  },
+  "words": [
+    {
+      "en": "preference",
+      "ko": "선호(도)",
+      "pos": "n."
+    },
+    {
+      "en": "pair",
+      "ko": "한 켤레, 한 쌍",
+      "pos": "n.",
+      "ex": "These two pairs of shoes are on sale!"
+    },
+    {
+      "en": "prefer",
+      "ko": "~을 더 좋아하다, 선호하다",
+      "pos": "v.",
+      "ex": "◈ Functions • 선호에 대해 묻고 답하기 A: Which do you prefer?"
+    },
+    {
+      "en": "cheap",
+      "ko": "값이 싼",
+      "pos": "a.",
+      "ex": "The black ones are cheaper."
+    },
+    {
+      "en": "choice",
+      "ko": "선택",
+      "pos": "n.",
+      "ex": "Well, the Special Sandwich is the healthier choice."
+    },
+    {
+      "en": "fresh",
+      "ko": "신선한",
+      "pos": "a.",
+      "ex": "It's made with lots of fresh vegetables and other healthy ingredients."
+    },
+    {
+      "en": "healthy",
+      "ko": "건강한",
+      "pos": "a.",
+      "ex": "It's made with lots of fresh vegetables and other healthy ingredients."
+    },
+    {
+      "en": "ingredient",
+      "ko": "재료, 성분",
+      "pos": "n.",
+      "ex": "It's made with lots of fresh vegetables and other healthy ingredients."
+    },
+    {
+      "en": "expensive",
+      "ko": "비싼",
+      "pos": "a.",
+      "ex": "But it's much more expensive than the Classic Sandwich."
+    },
+    {
+      "en": "spend",
+      "ko": "(돈을) 쓰다, (시간을) 보내다",
+      "pos": "v.",
+      "ex": "I'll spend my money on books instead."
+    },
+    {
+      "en": "instead",
+      "ko": "대신에",
+      "pos": "adv.",
+      "ex": "I'll spend my money on books instead."
+    },
+    {
+      "en": "guess",
+      "ko": "추측하다",
+      "pos": "v.",
+      "ex": "I guess our spending habits are different."
+    },
+    {
+      "en": "curly",
+      "ko": "곱슬곱슬한",
+      "pos": "a.",
+      "ex": "G1: I think my hair is too curly."
+    },
+    {
+      "en": "straighten",
+      "ko": "똑바르게 하다, 곧게 하다",
+      "pos": "v.",
+      "ex": "I want to straighten my hair."
+    },
+    {
+      "en": "recommend",
+      "ko": "추천하다, 권장하다",
+      "pos": "v.",
+      "ex": "Can you recommend a good place?"
+    },
+    {
+      "en": "difference",
+      "ko": "차이, 다름",
+      "pos": "n.",
+      "ex": "G1: Is there any difference between the two?"
+    },
+    {
+      "en": "provide",
+      "ko": "제공하다, 주다",
+      "pos": "v.",
+      "ex": "G2: Well, Styles Studio provides free treatment to keep your hair healthy."
+    },
+    {
+      "en": "free",
+      "ko": "무료의 adv. 무료로, 공짜로",
+      "pos": "a.",
+      "ex": "G2: Well, Styles Studio provides free treatment to keep your hair healthy."
+    },
+    {
+      "en": "treatment",
+      "ko": "치료, (화학 약품에 의한) 처리",
+      "pos": "n.",
+      "ex": "G2: Well, Styles Studio provides free treatment to keep your hair healthy."
+    },
+    {
+      "en": "discount",
+      "ko": "할인",
+      "pos": "n.",
+      "ex": "Hair Castle doesn't provide treatment for free, but they give student discounts."
+    },
+    {
+      "en": "regularly",
+      "ko": "정기적으로, 규칙적으로",
+      "pos": "adv.",
+      "ex": "It's important for me to get hair treatment regularly."
+    },
+    {
+      "en": "refund",
+      "ko": "환불 v. 환불하다",
+      "pos": "n.",
+      "ex": "I'm going to get a refund for these clothes this evening."
+    },
+    {
+      "en": "clothes",
+      "ko": "옷, 의복",
+      "pos": "n.",
+      "ex": "I'm going to get a refund for these clothes this evening."
+    },
+    {
+      "en": "similar",
+      "ko": "비슷한, 유사한",
+      "pos": "a.",
+      "ex": "I found I have similar ones."
+    },
+    {
+      "en": "receipt",
+      "ko": "영수증",
+      "pos": "n.",
+      "ex": "Don't forget to bring your receipt."
+    },
+    {
+      "en": "flea market",
+      "ko": "벼룩시장",
+      "pos": "n.",
+      "ex": "Listen and Check G: What should we sell at the flea market next month?"
+    },
+    {
+      "en": "item",
+      "ko": "물품, 품목",
+      "pos": "n.",
+      "ex": "Because it helps us find out what items are popular these days."
+    },
+    {
+      "en": "set",
+      "ko": "정하다, 결정하다",
+      "pos": "v.",
+      "ex": "It will also help us set reasonable prices for our items."
+    },
+    {
+      "en": "reasonable",
+      "ko": "타당한, (가격이) 적정한",
+      "pos": "a.",
+      "ex": "It will also help us set reasonable prices for our items."
+    },
+    {
+      "en": "remind",
+      "ko": "상기시키다",
+      "pos": "v.",
+      "ex": "Thanks for reminding me."
+    },
+    {
+      "en": "recently",
+      "ko": "최근에",
+      "pos": "adv.",
+      "ex": "I tried Spring Chips recently, and now I want to review them."
+    },
+    {
+      "en": "review",
+      "ko": "비평하다 n. 비평, 논평, 후기",
+      "pos": "v.",
+      "ex": "Seeing a lot of positive reviews, I decided to borrow a bike helmet."
+    },
+    {
+      "en": "taste",
+      "ko": "맛 v. 맛이 …하다",
+      "pos": "n.",
+      "ex": "I want to focus on their delicious taste!"
+    },
+    {
+      "en": "bad point",
+      "ko": "단점, 약점",
+      "pos": "n.",
+      "ex": "Don't forget to talk about their bad points too."
+    },
+    {
+      "en": "balanced",
+      "ko": "균형 잡힌",
+      "pos": "a.",
+      "ex": "I want to give a balanced review."
+    },
+    {
+      "en": "product",
+      "ko": "제품",
+      "pos": "n.",
+      "ex": "Forms • The fewer products we buy, the more resources we save."
+    },
+    {
+      "en": "exactly",
+      "ko": "정확하게",
+      "pos": "v.",
+      "ex": "That's exactly what I want."
+    },
+    {
+      "en": "share",
+      "ko": "함께 쓰다, 공유하다",
+      "pos": "v.",
+      "ex": "The teacher advised the students to share their ideas."
+    },
+    {
+      "en": "app",
+      "ko": "애플리케이션, 응용 프로그램",
+      "pos": "n.",
+      "ex": "I know some apps that can help us."
+    },
+    {
+      "en": "borrow",
+      "ko": "빌리다",
+      "pos": "v.",
+      "ex": "Seeing a lot of positive reviews, I decided to borrow a bike helmet."
+    },
+    {
+      "en": "neighbor",
+      "ko": "이웃",
+      "pos": "n.",
+      "ex": "Ask Your Neighbors 사용자들이 필요한 물건을 가지고 있는 또 다른 사용자를 찾아서 빌릴 수 있는 시스템이다."
+    },
+    {
+      "en": "download",
+      "ko": "다운로드하다, 내려 받다",
+      "pos": "v.",
+      "ex": "It's only 20 dollars, and it comes with a discount coupon for music downloads."
+    },
+    {
+      "en": "return",
+      "ko": "돌아오다, 반납하다",
+      "pos": "v.",
+      "ex": "Then they pick up the item and return it later."
+    },
+    {
+      "en": "resource",
+      "ko": "자원",
+      "pos": "n.",
+      "ex": "Forms • The fewer products we buy, the more resources we save."
+    },
+    {
+      "en": "positive",
+      "ko": "긍정적인",
+      "pos": "a.",
+      "ex": "Seeing a lot of positive reviews, I decided to borrow a bike helmet."
+    },
+    {
+      "en": "upset",
+      "ko": "기분이 상한",
+      "pos": "a."
+    },
+    {
+      "en": "negative",
+      "ko": "부정적인",
+      "pos": "a.",
+      "ex": "Neighbors / March 9, 2020 We’re sorry that you had such a negative experience."
+    },
+    {
+      "en": "experience",
+      "ko": "경험 v. 경험하다",
+      "pos": "n.",
+      "ex": "Neighbors / March 9, 2020 We’re sorry that you had such a negative experience."
+    },
+    {
+      "en": "fix",
+      "ko": "바로잡다, 수리하다",
+      "pos": "v.",
+      "ex": "To fix는 ‘바로잡기 위해서’라고 해석한다."
+    },
+    {
+      "en": "issue",
+      "ko": "쟁점, 문제점",
+      "pos": "n.",
+      "ex": "- 12 - Pet Sitter Finder / November 14, 2019 We’re aware of this issue."
+    },
+    {
+      "en": "lender",
+      "ko": "빌려주는 사람",
+      "pos": "n."
+    },
+    {
+      "en": "update",
+      "ko": "업데이트하다, 갱신하다",
+      "pos": "v."
+    },
+    {
+      "en": "exact",
+      "ko": "정확한",
+      "pos": "a.",
+      "ex": "That's exactly what I want."
+    },
+    {
+      "en": "condition",
+      "ko": "상태, 조건",
+      "pos": "n.",
+      "ex": "This will let other users know the exact condition of the product."
+    },
+    {
+      "en": "pet sitter",
+      "ko": "반려동물을 돌보는 사람",
+      "pos": "n.",
+      "ex": "Pet Sitter Finder 반려동물을 돌봐 줄 사람을 선택할 수 있는 앱이다."
+    },
+    {
+      "en": "owner",
+      "ko": "주인, 소유주",
+      "pos": "n.",
+      "ex": "Pet Sitter Finder is the perfect app for pet lovers and pet owners."
+    },
+    {
+      "en": "reliable",
+      "ko": "믿을 수 있는",
+      "pos": "a.",
+      "ex": "It helps pet owners find reliable people to look after their pets."
+    },
+    {
+      "en": "upload",
+      "ko": "올리다, 업로드하다",
+      "pos": "v.",
+      "ex": "When a pet owner is looking for pet sitters, he or she uploads a post."
+    },
+    {
+      "en": "post",
+      "ko": "게시글 v. 게시하다",
+      "pos": "n.",
+      "ex": "When a pet owner is looking for pet sitters, he or she uploads a post."
+    },
+    {
+      "en": "dog walker",
+      "ko": "개를 산책시키는 사람",
+      "pos": "n.",
+      "ex": "Pet sitters or dog walkers can then send messages to the owner."
+    },
+    {
+      "en": "whenever",
+      "ko": "~할 때마다",
+      "pos": "conj.",
+      "ex": "George / November 12, 2019 I use this app whenever I’m going out of town."
+    },
+    {
+      "en": "concern",
+      "ko": "걱정, 근심",
+      "pos": "n.",
+      "ex": "I have some concerns about my personal information, though."
+    },
+    {
+      "en": "personal",
+      "ko": "개인의, 개인적인",
+      "pos": "a.",
+      "ex": "I have some concerns about my personal information, though."
+    },
+    {
+      "en": "though",
+      "ko": "그렇지만",
+      "pos": "adv.",
+      "ex": "I have some concerns about my personal information, though."
+    },
+    {
+      "en": "purpose",
+      "ko": "목적, 용도",
+      "pos": "n.",
+      "ex": "What if people use my phone number for other purposes?"
+    },
+    {
+      "en": "develop",
+      "ko": "개발하다, 발달시키다",
+      "pos": "v.",
+      "ex": "Develop a spending plan."
+    },
+    {
+      "en": "allow",
+      "ko": "허락하다, 허용하다",
+      "pos": "v.",
+      "ex": "I'm going to buy a bag with my allowance."
+    },
+    {
+      "en": "communicate",
+      "ko": "의사소통을 하다",
+      "pos": "v."
+    },
+    {
+      "en": "freely",
+      "ko": "자유롭게",
+      "pos": "adv."
+    },
+    {
+      "en": "walk",
+      "ko": "걷다, (동물을) 걷게 하다",
+      "pos": "v.",
+      "ex": "Walking along the beach, I saw the sun set."
+    },
+    {
+      "en": "kind",
+      "ko": "종류, 유형",
+      "pos": "n.",
+      "ex": "These kinds of services are part of the “sharing economy."
+    },
+    {
+      "en": "sharing economy",
+      "ko": "공유경제",
+      "pos": "n.",
+      "ex": "Sharing Economy 본문1 본 문 분 석 Reading Lesson 6 - 8 - Borrow from your neighbors!"
+    },
+    {
+      "en": "fee",
+      "ko": "요금, 수수료",
+      "pos": "n.",
+      "ex": "She enjoys having coffee after a meal."
+    },
+    {
+      "en": "weakness",
+      "ko": "약점",
+      "pos": "n.",
+      "ex": "Son: But these services do have some weaknesses."
+    },
+    {
+      "en": "improve",
+      "ko": "개선되다, 개선하다",
+      "pos": "v.",
+      "ex": "Well, I think the more people use the services, the more they will improve."
+    },
+    {
+      "en": "on sale",
+      "ko": "할인 중인",
+      "pos": "",
+      "ex": "These two pairs of shoes are on sale!"
+    },
+    {
+      "en": "be made with",
+      "ko": "~으로 만들어지다",
+      "pos": ""
+    },
+    {
+      "en": "for free",
+      "ko": "무료로",
+      "pos": ""
+    },
+    {
+      "en": "find out",
+      "ko": "알아내다, 알게 되다",
+      "pos": "",
+      "ex": "Because it helps us find out what items are popular these days."
+    },
+    {
+      "en": "go camping",
+      "ko": "캠핑을 가다",
+      "pos": "",
+      "ex": "Dad: Why don’t we go camping?"
+    },
+    {
+      "en": "focus on",
+      "ko": "~에 집중하다, 초점을 맞추다",
+      "pos": "",
+      "ex": "I want to focus on their delicious taste!"
+    },
+    {
+      "en": "take care of",
+      "ko": "~을 돌보다",
+      "pos": "",
+      "ex": "Also, who will take care of our dog?"
+    },
+    {
+      "en": "search for",
+      "ko": "~을 찾다",
+      "pos": ""
+    },
+    {
+      "en": "pick up",
+      "ko": "~을 찾아오다",
+      "pos": "",
+      "ex": "Then they pick up the item and return it later."
+    },
+    {
+      "en": "ask for",
+      "ko": "~을 요청하다",
+      "pos": "",
+      "ex": "You can ask for help whenever you need it."
+    },
+    {
+      "en": "look after",
+      "ko": "~을 돌보다",
+      "pos": "",
+      "ex": "Lesson 6 - 11 - I can look after your pet!"
+    },
+    {
+      "en": "What if … ?",
+      "ko": "…하면 어쩌지?",
+      "pos": ""
+    },
+    {
+      "en": "be aware of",
+      "ko": "~을 인지하다, 알다",
+      "pos": ""
+    },
+    {
+      "en": "share A with B",
+      "ko": "A를 B와 공유하다",
+      "pos": ""
+    },
+    {
+      "en": "provide A to B",
+      "ko": "B에게 A를 제공하다",
+      "pos": ""
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-yoon-15",
+    "lesson": 7,
+    "title": "Lesson 7"
+  },
+  "words": [
+    {
+      "en": "add",
+      "ko": "추가하다, 덧붙이다",
+      "pos": "v.",
+      "ex": "Can you tell me how to add money to my transportation card?"
+    },
+    {
+      "en": "transportation",
+      "ko": "교통수단, 탈 것",
+      "pos": "n.",
+      "ex": "Can you tell me how to add money to my transportation card?"
+    },
+    {
+      "en": "amount",
+      "ko": "양",
+      "pos": "n.",
+      "ex": "Second, choose the amount of money you want to add."
+    },
+    {
+      "en": "insert",
+      "ko": "넣다, 삽입하다",
+      "pos": "v.",
+      "ex": "First, insert the card."
+    },
+    {
+      "en": "rent",
+      "ko": "(사용료를 내고) 빌리다",
+      "pos": "v.",
+      "ex": "I want to rent a bike."
+    },
+    {
+      "en": "application",
+      "ko": "어플리케이션, 앱",
+      "pos": "n.",
+      "ex": "Can you tell me how to use this application?"
+    },
+    {
+      "en": "unlock",
+      "ko": "(잠긴 것을) 열다",
+      "pos": "v.",
+      "ex": "M: Then the application will give you a number to unlock a bike with."
+    },
+    {
+      "en": "appreciate",
+      "ko": "고마워하다, 감사하다",
+      "pos": "v.",
+      "ex": "I really appreciate your help."
+    },
+    {
+      "en": "place",
+      "ko": "놓다, 두다",
+      "pos": "v.",
+      "ex": "First, place your library card on the robot’s screen."
+    },
+    {
+      "en": "screen",
+      "ko": "화면",
+      "pos": "n.",
+      "ex": "First, place your library card on the robot’s screen."
+    },
+    {
+      "en": "press",
+      "ko": "(버튼 등을) 누르다",
+      "pos": "v.",
+      "ex": "Second, type the title of the book you’re looking for and then press ENTER."
+    },
+    {
+      "en": "front desk",
+      "ko": "안내 데스크, 접수처",
+      "pos": "n.",
+      "ex": "Then, the robot will find the book and take it to the front desk."
+    },
+    {
+      "en": "amazing",
+      "ko": "놀라운",
+      "pos": "a.",
+      "ex": "Yes, it’s really amazing."
+    },
+    {
+      "en": "recommend",
+      "ko": "추천하다",
+      "pos": "v.",
+      "ex": "Did it recommend anything to you?"
+    },
+    {
+      "en": "possible",
+      "ko": "가능한",
+      "pos": "a.",
+      "ex": "This is all possible because of big data."
+    },
+    {
+      "en": "complex",
+      "ko": "복잡한",
+      "pos": "a.",
+      "ex": "Big data is data sets that are very big and complex."
+    },
+    {
+      "en": "as",
+      "ko": "~함에 따라서",
+      "pos": "conj.",
+      "ex": "Last, insert your money into the machine."
+    },
+    {
+      "en": "technology",
+      "ko": "기술, 기계, 장비",
+      "pos": "n.",
+      "ex": "What happens as information and communication technology develops?"
+    },
+    {
+      "en": "develop",
+      "ko": "성장하다, 발달하다",
+      "pos": "v.",
+      "ex": "What happens as information and communication technology develops?"
+    },
+    {
+      "en": "mainly",
+      "ko": "주로",
+      "pos": "adv.",
+      "ex": "This is mainly because almost everything that we do online leaves a trace."
+    },
+    {
+      "en": "leave",
+      "ko": "떠나다, 남기다",
+      "pos": "v.",
+      "ex": "This is mainly because almost everything that we do online leaves a trace."
+    },
+    {
+      "en": "trace",
+      "ko": "자취, 발자국, 흔적",
+      "pos": "n.",
+      "ex": "This is mainly because almost everything that we do online leaves a trace."
+    },
+    {
+      "en": "upload",
+      "ko": "업로드하다",
+      "pos": "v."
+    },
+    {
+      "en": "record",
+      "ko": "기록",
+      "pos": "n.",
+      "ex": "Big data experts analyze data and records of traffic at specific times."
+    },
+    {
+      "en": "purchase",
+      "ko": "구매하다",
+      "pos": "v."
+    },
+    {
+      "en": "simply",
+      "ko": "간단히, 단순히",
+      "pos": "adv.",
+      "ex": "Simply collecting data, however, is not enough."
+    },
+    {
+      "en": "collect",
+      "ko": "모으다",
+      "pos": "v.",
+      "ex": "Simply collecting data, however, is not enough."
+    },
+    {
+      "en": "analyze",
+      "ko": "분석하다",
+      "pos": "v.",
+      "ex": "Big Data ◈ 언어 형식 • 분사구문 Using various methods, experts analyze big data."
+    },
+    {
+      "en": "expert",
+      "ko": "전문가",
+      "pos": "n.",
+      "ex": "Big Data ◈ 언어 형식 • 분사구문 Using various methods, experts analyze big data."
+    },
+    {
+      "en": "various",
+      "ko": "다양한",
+      "pos": "a.",
+      "ex": "Big Data ◈ 언어 형식 • 분사구문 Using various methods, experts analyze big data."
+    },
+    {
+      "en": "method",
+      "ko": "방법",
+      "pos": "n.",
+      "ex": "Big Data ◈ 언어 형식 • 분사구문 Using various methods, experts analyze big data."
+    },
+    {
+      "en": "draw",
+      "ko": "(결론・생각 등을) 얻다[도출해 내다]",
+      "pos": "v.",
+      "ex": "They analyze big data and draw meaningful results from it."
+    },
+    {
+      "en": "meaningful",
+      "ko": "의미 있는",
+      "pos": "a.",
+      "ex": "They analyze big data and draw meaningful results from it."
+    },
+    {
+      "en": "result",
+      "ko": "결과",
+      "pos": "n.",
+      "ex": "These results then can be used to make decisions or to predict the future."
+    },
+    {
+      "en": "decision",
+      "ko": "결정",
+      "pos": "n.",
+      "ex": "These results then can be used to make decisions or to predict the future."
+    },
+    {
+      "en": "predict",
+      "ko": "예측하다",
+      "pos": "v.",
+      "ex": "These results then can be used to make decisions or to predict the future."
+    },
+    {
+      "en": "influence",
+      "ko": "영향을 미치다 n. 영향",
+      "pos": "v."
+    },
+    {
+      "en": "customer",
+      "ko": "고객",
+      "pos": "n."
+    },
+    {
+      "en": "need",
+      "ko": "필요(성)",
+      "pos": "n.",
+      "ex": "To be healthy, we need to eat ______________ meals and exercise ______________."
+    },
+    {
+      "en": "product",
+      "ko": "상품",
+      "pos": "n."
+    },
+    {
+      "en": "avoid",
+      "ko": "피하다",
+      "pos": "v.",
+      "ex": "It helps people avoid heavy traffic."
+    },
+    {
+      "en": "heavy traffic",
+      "ko": "교통 체증",
+      "pos": "n.",
+      "ex": "It helps people avoid heavy traffic."
+    },
+    {
+      "en": "endless",
+      "ko": "끝없는",
+      "pos": "a.",
+      "ex": "Its uses are endless, and here are some interesting examples."
+    },
+    {
+      "en": "disease",
+      "ko": "질병, 병",
+      "pos": "n.",
+      "ex": "They can now forecast a disease."
+    },
+    {
+      "en": "forecast",
+      "ko": "예측하다, 예보하다 n. 예측, 예보",
+      "pos": "v.",
+      "ex": "What can health professionals now forecast?"
+    },
+    {
+      "en": "professional",
+      "ko": "전문직 종사자 a. 전문적인",
+      "pos": "n.",
+      "ex": "What can health professionals now forecast?"
+    },
+    {
+      "en": "flu",
+      "ko": "독감",
+      "pos": "n.",
+      "ex": "Lesson 7 - 9 - How is big data influencing our lives?"
+    },
+    {
+      "en": "medicine",
+      "ko": "약",
+      "pos": "n.",
+      "ex": "For example, when the flu season comes, people will buy more flu medicine."
+    },
+    {
+      "en": "symptom",
+      "ko": "증상",
+      "pos": "n.",
+      "ex": "They will also search online about flu symptoms more."
+    },
+    {
+      "en": "wisely",
+      "ko": "현명하게",
+      "pos": "adv."
+    },
+    {
+      "en": "spread",
+      "ko": "확산, 전파 v. 퍼지다, 퍼뜨리다",
+      "pos": "n.",
+      "ex": "Sports • • Health professionals can predict the spread of the flu."
+    },
+    {
+      "en": "improve",
+      "ko": "개선하다, 향상하다",
+      "pos": "v."
+    },
+    {
+      "en": "performance",
+      "ko": "경기력, 성과, 공연",
+      "pos": "n.",
+      "ex": "Lesson 7 - 11 - Improving Performance in Sports Are you a sports fan?"
+    },
+    {
+      "en": "national",
+      "ko": "국가의, 국립의",
+      "pos": "a.",
+      "ex": "A famous example is Germany’s national soccer team."
+    },
+    {
+      "en": "database",
+      "ko": "데이터베이스",
+      "pos": "n.",
+      "ex": "How did Germany’s national soccer team build a database?"
+    },
+    {
+      "en": "huge",
+      "ko": "거대한",
+      "pos": "a.",
+      "ex": "It built a database by collecting and analyzing a huge amount of data on players."
+    },
+    {
+      "en": "include",
+      "ko": "포함하다",
+      "pos": "v."
+    },
+    {
+      "en": "crime",
+      "ko": "범죄",
+      "pos": "n.",
+      "ex": "Prevention Thanks to big data, police can now predict crime before it happens."
+    },
+    {
+      "en": "analysis",
+      "ko": "분석",
+      "pos": "n."
+    },
+    {
+      "en": "type",
+      "ko": "유형",
+      "pos": "n.",
+      "ex": "Second, type the title of the book you’re looking for and then press ENTER."
+    },
+    {
+      "en": "prevention",
+      "ko": "예방",
+      "pos": "n.",
+      "ex": "Prevention Thanks to big data, police can now predict crime before it happens."
+    },
+    {
+      "en": "identify",
+      "ko": "알아보다, 확인하다, 식별하다",
+      "pos": "v."
+    },
+    {
+      "en": "hot spot",
+      "ko": "다발 지역",
+      "pos": "n.",
+      "ex": "How can police make a map of crime hot spots?"
+    },
+    {
+      "en": "prevent",
+      "ko": "예방하다",
+      "pos": "v.",
+      "ex": "Prevention Thanks to big data, police can now predict crime before it happens."
+    },
+    {
+      "en": "further",
+      "ko": "추가의, 더 이상의",
+      "pos": "a."
+    },
+    {
+      "en": "area",
+      "ko": "지역",
+      "pos": "n."
+    },
+    {
+      "en": "greatly",
+      "ko": "대단히, 크게",
+      "pos": "adv.",
+      "ex": "Big data has already changed the world greatly."
+    },
+    {
+      "en": "industry",
+      "ko": "산업",
+      "pos": "n.",
+      "ex": "So where will the big data industry go from here?"
+    },
+    {
+      "en": "agree",
+      "ko": "동의하다",
+      "pos": "v."
+    },
+    {
+      "en": "log in",
+      "ko": "로그인하다",
+      "pos": "",
+      "ex": "First, log in to the application."
+    },
+    {
+      "en": "recommend A for B",
+      "ko": "B에게 A를 추천하다",
+      "pos": ""
+    },
+    {
+      "en": "for example",
+      "ko": "예를 들어",
+      "pos": "",
+      "ex": "For example, when the flu season comes, people will buy more flu medicine."
+    },
+    {
+      "en": "thanks to",
+      "ko": "~덕분에",
+      "pos": "",
+      "ex": "Thanks to big data, I can get to the bus stop in time for the bus."
+    },
+    {
+      "en": "with the help of",
+      "ko": "~의 도움으로",
+      "pos": ""
+    },
+    {
+      "en": "focus on",
+      "ko": "~에 초점을 맞추다",
+      "pos": "",
+      "ex": "Useful Expressions From now on I will focus on my studies, not on my hobbies."
+    },
+    {
+      "en": "for sure",
+      "ko": "확실히",
+      "pos": ""
+    },
+    {
+      "en": "play a role",
+      "ko": "역할을 하다",
+      "pos": ""
+    }
+  ]
+}

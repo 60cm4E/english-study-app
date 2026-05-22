@@ -1,0 +1,463 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-yoon-15",
+    "lesson": 7,
+    "title": "Lesson 7"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "Can you tell me how to ~?",
+        "ko": "",
+        "category": "방법·절차 묻고 답하기"
+      },
+      {
+        "en": "Do you know how to ~?",
+        "ko": "",
+        "category": "방법·절차 묻고 답하기"
+      },
+      {
+        "en": "I really appreciate ~.",
+        "ko": "",
+        "category": "감사 표현하기"
+      },
+      {
+        "en": "As ✔본문에서 As는 접속사로 쓰여 뒤에는 주어(information and communication technology)와 동사(develops)를 갖춘 완전한 부사절을 이끌고 있으며 ‘~함에 따 라’라고 해석한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Using various methods는 분사구문으로 본래 As they use various methods의 부 사절에서 접속사와 주어인 As와 they를 생략하고, 동사를 현재분사(using) 형태로 고쳐서 분사구문을 만들었다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "UP This is because/why ~ ▲구문 UP 동명사 동사에 -ing를 붙여서 만든 동명사는 명사처 럼 쓸 수 있다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "As는 접속사로 쓰여 뒤에는 주어(weather experts)와 동사(forecast)를 갖 춘 완전한 부사절을 이끌고 있으며 ‘~하듯이’라고 해석한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Grammar✚ 접속사 as 접속사는 단어, 구, 절을 연결해 주는 역할을 하는데, 접속사의 종류에는 등위접속사, 종속접속사 등이 있다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "As it makes sports more exciting의 부사절에서 접속사와 주어인 As와 it을 생략하고, 동사를 현재분사(making) 형태로 고쳐서 분사구문을 만들었다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Using various methods는 분사구문으로 본래 As they use various methods의 부 사절에서 접속사와 주어인 As와 __________를 생략하고, 동사를 현재분사(__________) 형태로 고쳐서 분사구문을 만들었다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Do you know how to return these books?",
+        "ko": "이 책들을 어떻게 반납하는지 아세요?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "Sure. First, insert the card. Then put the books",
+        "ko": "이 책들을 어떻게 반납하는지 아세요?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "이 책들을 어떻게 반납하는지 아세요?",
+        "ko": "그럼요. 먼저 카드를 넣으세요. 그런 다음 이 상자에",
+        "category": "일반 표현"
+      },
+      {
+        "en": "Last, insert your money into the machine.",
+        "ko": "실례합니다. 교통 카드에 돈을 충전하는 방법을 알려",
+        "category": "일반 표현"
+      },
+      {
+        "en": "That sounds simple. Thanks.",
+        "ko": "실례합니다. 교통 카드에 돈을 충전하는 방법을 알려",
+        "category": "감사"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "Can you ___ me how to ~?",
+        "a": "tell",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Do you ___ how to ~?",
+        "a": "know",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I really ___ ~.",
+        "a": "appreciate",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "As ✔본문에서 As는 접속사로 쓰여 뒤에는 주어(information and ___ technology)와 동사(develops)를 갖춘 완전한 부사절을 이끌고 있으며 ‘~함에 따 라’라고 해석한다.",
+        "a": "communication",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Using ___ methods는 분사구문으로 본래 As they use various methods의 부 사절에서 접속사와 주어인 As와 they를 생략하고, 동사를 현재분사(using) 형태로 고쳐서 분사구문을 만들었다.",
+        "a": "various",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "UP This is ___/why ~ ▲구문 UP 동명사 동사에 -ing를 붙여서 만든 동명사는 명사처 럼 쓸 수 있다.",
+        "a": "because",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "As는 접속사로 쓰여 뒤에는 주어(weather experts)와 동사(___)를 갖 춘 완전한 부사절을 이끌고 있으며 ‘~하듯이’라고 해석한다.",
+        "a": "forecast",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___✚ 접속사 as 접속사는 단어, 구, 절을 연결해 주는 역할을 하는데, 접속사의 종류에는 등위접속사, 종속접속사 등이 있다.",
+        "a": "Grammar",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "As it makes sports more ___의 부사절에서 접속사와 주어인 As와 it을 생략하고, 동사를 현재분사(making) 형태로 고쳐서 분사구문을 만들었다.",
+        "a": "exciting",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Using ___ methods는 분사구문으로 본래 As they use various methods의 부 사절에서 접속사와 주어인 As와 __________를 생략하고, 동사를 현재분사(__________) 형태로 고쳐서 분사구문을 만들었다.",
+        "a": "various",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Do you know how to ___ these books?",
+        "a": "return",
+        "hint": "이 책들을 어떻게 반납하는지 아세요?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "Sure. First, ___ the card. Then put the books",
+        "a": "insert",
+        "hint": "이 책들을 어떻게 반납하는지 아세요?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "Last, insert your money into the ___.",
+        "a": "machine",
+        "hint": "실례합니다. 교통 카드에 돈을 충전하는 방법을 알려"
+      },
+      {
+        "type": "fill-blank",
+        "q": "That ___ simple. Thanks.",
+        "a": "sounds",
+        "hint": "실례합니다. 교통 카드에 돈을 충전하는 방법을 알려"
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - 1",
+        "en": "A: Do you know how to return these books? I really appreciate your help. I can watch movies on my smartphone. G: Last, insert your money into the machine. G: 마지막으로, 기계에 돈을 넣으세요.",
+        "ko": "A: 이 책들을 어떻게 반납하는지 아세요? 도와주셔서 정말 감사합니다. 스마트폰이 우리의 생활을 완전히 바꾸어 놓았어. 나는 스 B: 실례합니다. 교통 카드에 돈을 충전하는 방법을 알려 B: 간단한 것 같네요. 고맙습니다."
+      },
+      {
+        "id": "r2",
+        "title": "본문 - 2",
+        "en": "G: 네. 먼저, 원하는 과자를 고르세요. G: 돈을 넣으세요. 그런 다음 과자를 꺼내세요. G: Thank you. I really appreciate your help. G: 고맙습니다. 도와주셔서 정말 감사해요. B: Then just take your card out.",
+        "ko": "B: 이미 했어요. 그다음은 뭔가요? B: 알겠어요. 고마워요. G: 실례합니다. 자전거를 빌리고 싶은데요. 이 앱을 어떻게 üPick 방법·절차 묻고 답하기: Can you tell me how to ~? A: 실례합니다. 이 책들을 반납하고 싶어요. 어떻게 하는지"
+      },
+      {
+        "id": "r3",
+        "title": "본문 - 3",
+        "en": "B: Then insert the money. I’m very thankful/grateful to you for your help. B: Right. It’s so easy, isn’t it? B: 아, 그것은 책을 찾아 주는 로봇이에요. B: 그럼요. 먼저, 도서 대출 카드를 로봇 화면 위에 대세요.",
+        "ko": "A: 실례합니다. 저는 교통 카드에 돈을 충전하고 싶어요. ‘당신의 도움에 정말 감사드립니다.’ G: 실례합니다만, 이 로봇은 용도가 뭔가요? G: 정말요? 어떻게 사용하는지 알려 주시겠어요? G: 알겠어요."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "A: Do you know how to ___ these books?",
+        "a": "return",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I really ___ your help.",
+        "a": "appreciate",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I can watch movies on my ___.",
+        "a": "smartphone",
+        "passage": "r1"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 이 책들을 어떻게 반납하는지 아세요? 도와주셔서 정말 감사합니다. 스마트폰이 우리의 생활을 완전히 바꾸...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "true-false",
+        "q": "B: 이미 했어요. 그다음은 뭔가요? B: 알겠어요. 고마워요. G: 실례합니다. 자전거를 빌리고 싶은데요....",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: Then ___ the money.",
+        "a": "insert",
+        "passage": "r3"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’m very ___/grateful to you for your help.",
+        "a": "thankful",
+        "passage": "r3"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: ___.",
+        "a": "Right",
+        "passage": "r3"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 실례합니다. 저는 교통 카드에 돈을 충전하고 싶어요. ‘당신의 도움에 정말 감사드립니다.’ G: 실례합...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사가 앞의 명사를 꾸며주는 형용사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "Q2. 빅데이터 전문가들은 무엇을 하나요?",
+            "ko": "- (다양한 방법들을 사용하여) 그들은 빅데"
+          },
+          {
+            "en": "The scale is used to weigh the crops.",
+            "ko": "저울은 곡물의 무게를 재는 데 사용된다."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "I know where she lives.",
+            "ko": "나는 그녀가 어디에 사는지 안다."
+          },
+          {
+            "en": "He didn't know who ate pizza.",
+            "ko": "그는 누가 피자를 먹었는지 몰랐다."
+          },
+          {
+            "en": "G: Thank you. I really appreciate your help.",
+            "ko": "G: 실례합니다. 자전거를 빌리고 싶은데요. 이 앱을 어떻게"
+          },
+          {
+            "en": "G: 그다음에는 뭘 하죠?",
+            "ko": "M: 그러면 앱이 자전거 잠금을 해제할 수 있는 번호를 알"
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "현재완료",
+        "explanation": "'have/has + 과거분사'로 과거에 시작된 일이 현재까지 영향을 미침을 나타냅니다.",
+        "examples": []
+      },
+      {
+        "id": "g4",
+        "title": "수동태",
+        "explanation": "'be동사 + 과거분사(p.p.)'로 '~되다, ~당하다'의 의미를 나타냅니다.",
+        "examples": [
+          {
+            "en": "Beause she was tred, she ame ba home.",
+            "ko": "그녀는 피곤해서, 집으로 돌아왔다."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "Do",
+          "you",
+          "now",
+          "how",
+          "to",
+          "return",
+          "these",
+          "boos"
+        ],
+        "a": "A: Do you now how to return these boos?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "이",
+          "책들을",
+          "어떻게",
+          "반납하는지",
+          "아세요"
+        ],
+        "a": "A: 이 책들을 어떻게 반납하는지 아세요?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "I",
+          "really",
+          "appreate",
+          "your",
+          "help"
+        ],
+        "a": "I really appreate your help."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "I",
+          "an",
+          "wath",
+          "moves",
+          "on",
+          "my",
+          "smartphone"
+        ],
+        "a": "I an wath moves on my smartphone."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "G:",
+          "Last,",
+          "nsert",
+          "your",
+          "money",
+          "nto",
+          "the",
+          "mahne"
+        ],
+        "a": "G: Last, nsert your money nto the mahne."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "That",
+          "sounds",
+          "smple.",
+          "Thans"
+        ],
+        "a": "B: That sounds smple. Thans."
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Do you now how to ___ these boos?",
+        "a": "return",
+        "hint": "A: 이 책들을 어떻게 반납하는지 아세요?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I really ___ your help.",
+        "a": "appreate",
+        "hint": "도와주셔서 정말 감사합니다."
+      },
+      {
+        "type": "fill-blank",
+        "q": "I an wath moves on my ___.",
+        "a": "smartphone",
+        "hint": "스마트폰이 우리의 생활을 완전히 바꾸어 놓았어. 나는 스"
+      },
+      {
+        "type": "fill-blank",
+        "q": "G: Last, ___ your money nto the mahne.",
+        "a": "nsert",
+        "hint": "B: 실례합니다. 교통 카드에 돈을 충전하는 방법을 알려"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: That ___ smple. Thans.",
+        "a": "sounds",
+        "hint": "B: 실례합니다. 교통 카드에 돈을 충전하는 방법을 알려"
+      },
+      {
+        "type": "error-correction",
+        "q": "A: Do you now how returning these boos?",
+        "a": "to return",
+        "wrong": "returning",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "The sale s used weghing the rops.",
+        "a": "to wegh",
+        "wrong": "weghing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "They are lely loseing the game beause they ddn’t prate muh.",
+        "a": "to lose",
+        "wrong": "loseing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "As I woe up late, I had hurrying up.",
+        "a": "to hurry",
+        "wrong": "hurrying",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "multi-choice",
+        "q": "Emma said goodbye to her friend, (got / \ngetting) off the bus.",
+        "a": "got",
+        "opts": [
+          "got",
+          "getting"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "Children get smarter (grow / as / they / up).",
+        "a": "grow",
+        "opts": [
+          "grow",
+          "as / they / up"
+        ]
+      }
+    ]
+  }
+}

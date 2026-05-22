@@ -1,0 +1,431 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-lee-15",
+    "lesson": 8,
+    "title": "Lesson 8"
+  },
+  "words": [
+    {
+      "en": "stomachache",
+      "ko": "위통, 복통",
+      "pos": "n.",
+      "ex": "I had a bad stomachache."
+    },
+    {
+      "en": "finish",
+      "ko": "마치다, 끝내다",
+      "pos": "v.",
+      "ex": "I had to finish my history project."
+    },
+    {
+      "en": "due",
+      "ko": "~하기로 되어 있는,",
+      "pos": "a.",
+      "ex": "Is it due today?"
+    },
+    {
+      "en": "until",
+      "ko": "~할 때까지",
+      "pos": "prep.",
+      "ex": "I shouldn't have put it off until the last moment."
+    },
+    {
+      "en": "moment",
+      "ko": "순간",
+      "pos": "n.",
+      "ex": "I shouldn't have put it off until the last moment."
+    },
+    {
+      "en": "habit",
+      "ko": "습관",
+      "pos": "n.",
+      "ex": "Well, let's try to change our bad habits."
+    },
+    {
+      "en": "vacation",
+      "ko": "방학, 휴가",
+      "pos": "n.",
+      "ex": "Jinsu, what are you going to do during the vacation?"
+    },
+    {
+      "en": "plan",
+      "ko": "계획하다",
+      "pos": "v.",
+      "ex": "I'm planning to visit my grandparents in Busan."
+    },
+    {
+      "en": "wonderful",
+      "ko": "멋진, 훌륭한",
+      "pos": "a.",
+      "ex": "I hope you have a wonderful vacation."
+    },
+    {
+      "en": "contest",
+      "ko": "대회",
+      "pos": "n.",
+      "ex": "Listen and Complete G: Jaemin, are you ready for the singing contest?"
+    },
+    {
+      "en": "voice",
+      "ko": "목소리",
+      "pos": "n.",
+      "ex": "You have a really nice voice."
+    },
+    {
+      "en": "hope",
+      "ko": "바라다, 희망하다",
+      "pos": "v.",
+      "ex": "I hope you move the audience."
+    },
+    {
+      "en": "win",
+      "ko": "우승하다, 이기다",
+      "pos": "v.",
+      "ex": "I hope you win the contest."
+    },
+    {
+      "en": "graduation",
+      "ko": "졸업",
+      "pos": "n.",
+      "ex": "Linda: I'm reading graduation messages from my classmates."
+    },
+    {
+      "en": "classmate",
+      "ko": "반 친구, 급우",
+      "pos": "n.",
+      "ex": "Linda: I'm reading graduation messages from my classmates."
+    },
+    {
+      "en": "smile",
+      "ko": "미소",
+      "pos": "n.",
+      "ex": "Linda: Many of them wrote that they like my smile."
+    },
+    {
+      "en": "fault",
+      "ko": "잘못, 과실",
+      "pos": "n.",
+      "ex": "Minho: That's not your fault."
+    },
+    {
+      "en": "spend",
+      "ko": "(시간을) 보내다",
+      "pos": "v."
+    },
+    {
+      "en": "still",
+      "ko": "여전히, 아직도",
+      "pos": "adv.",
+      "ex": "Minho: You still have time after graduation."
+    },
+    {
+      "en": "normal",
+      "ko": "보통의, 평범한",
+      "pos": "a.",
+      "ex": "Lesson 8 - 7 - It was just a normal morning."
+    },
+    {
+      "en": "headline",
+      "ko": "(신문 등의) 큰 표제",
+      "pos": "n.",
+      "ex": "What headline caught Alfred Nobel's eye?"
+    },
+    {
+      "en": "merchant",
+      "ko": "상인",
+      "pos": "n.",
+      "ex": "The Merchant of Death, Alfred Nobel, Is Dead."
+    },
+    {
+      "en": "article",
+      "ko": "기사, 물품",
+      "pos": "n.",
+      "ex": "surprise."
+    },
+    {
+      "en": "drop",
+      "ko": "떨어뜨리다",
+      "pos": "v.",
+      "ex": "surprise."
+    },
+    {
+      "en": "spill",
+      "ko": "쏟아지다, 흐르다",
+      "pos": "v."
+    },
+    {
+      "en": "death",
+      "ko": "죽음",
+      "pos": "n.",
+      "ex": "The Merchant of Death, Alfred Nobel, Is Dead."
+    },
+    {
+      "en": "say",
+      "ko": "~라고 쓰여 있다,",
+      "pos": "v.",
+      "ex": "Thank you for saying so."
+    },
+    {
+      "en": "heart attack",
+      "ko": "심장마비",
+      "pos": "n.",
+      "ex": "The article said Alfred Nobel had died in France from a heart attack."
+    },
+    {
+      "en": "even",
+      "ko": "(비교급을 강조하여)",
+      "pos": "adv.",
+      "ex": "Yes, I should have taken part in many school events."
+    },
+    {
+      "en": "shocked",
+      "ko": "충격을 받은",
+      "pos": "a.",
+      "ex": "Soon, he became even more shocked."
+    },
+    {
+      "en": "describe",
+      "ko": "기술하다, 묘사하다",
+      "pos": "v."
+    },
+    {
+      "en": "inventor",
+      "ko": "발명가",
+      "pos": "n.",
+      "ex": "Who is the inventor of the plane?"
+    },
+    {
+      "en": "dynamite",
+      "ko": "다이너마이트",
+      "pos": "n.",
+      "ex": "It was true that dynamite was one of his many inventions."
+    },
+    {
+      "en": "dangerous",
+      "ko": "위험한",
+      "pos": "a.",
+      "ex": "He invented ____________ and other dangerous objects for ____________."
+    },
+    {
+      "en": "object",
+      "ko": "물건, 물체",
+      "pos": "n.",
+      "ex": "He invented ____________ and other dangerous objects for ____________."
+    },
+    {
+      "en": "war",
+      "ko": "전쟁",
+      "pos": "n.",
+      "ex": "그림 속 친구에게 해 주고 싶은 말을 골라 봅시다."
+    },
+    {
+      "en": "invention",
+      "ko": "발명(품)",
+      "pos": "n.",
+      "ex": "It was true that dynamite was one of his many inventions."
+    },
+    {
+      "en": "imagine",
+      "ko": "상상하다",
+      "pos": "v."
+    },
+    {
+      "en": "deeply",
+      "ko": "몹시, 매우, 깊이",
+      "pos": "adv.",
+      "ex": "Lesson 8 - 11 - Nobel was deeply disappointed."
+    },
+    {
+      "en": "disappointed",
+      "ko": "실망한, 낙담한",
+      "pos": "a.",
+      "ex": "Lesson 8 - 11 - Nobel was deeply disappointed."
+    },
+    {
+      "en": "unbelievable",
+      "ko": "믿을 수 없는, 믿기 어려운",
+      "pos": "a.",
+      "ex": "This is unbelievable!"
+    },
+    {
+      "en": "remember",
+      "ko": "기억하다",
+      "pos": "v.",
+      "ex": "How Will You Be Remembered?"
+    },
+    {
+      "en": "way",
+      "ko": "방법, 방식",
+      "pos": "n.",
+      "ex": "Beginning is always the hardest."
+    },
+    {
+      "en": "decide",
+      "ko": "결정하다",
+      "pos": "v.",
+      "ex": "He decided to change people’s opinions about him."
+    },
+    {
+      "en": "opinion",
+      "ko": "의견, 견해",
+      "pos": "n.",
+      "ex": "He decided to change people’s opinions about him."
+    },
+    {
+      "en": "mistakenly",
+      "ko": "실수로, 잘못되어",
+      "pos": "adv.",
+      "ex": "In 1888, a French newspaper mistakenly reported Alfred Nobel’s death."
+    },
+    {
+      "en": "report",
+      "ko": "보도하다",
+      "pos": "v.",
+      "ex": "In 1888, a French newspaper mistakenly reported Alfred Nobel’s death."
+    },
+    {
+      "en": "actually",
+      "ko": "실제로, 정말로",
+      "pos": "adv.",
+      "ex": "The person who had actually died was his brother, Ludvig."
+    },
+    {
+      "en": "contribute",
+      "ko": "기여하다, 공헌하다",
+      "pos": "v.",
+      "ex": "Nobel decided to do something to contribute to the world."
+    },
+    {
+      "en": "create",
+      "ko": "창조하다, 만들어내다",
+      "pos": "v.",
+      "ex": "In 1895, he decided to use his money to create the Nobel Prize."
+    },
+    {
+      "en": "prize",
+      "ko": "상, 상품",
+      "pos": "n.",
+      "ex": "Nobel Prize 어느 날 아침, Alfred Nobel은 신문에 서 자신의 부고 기사를 보고 깜짝 놀라 게 된다."
+    },
+    {
+      "en": "originally",
+      "ko": "원래, 처음에는",
+      "pos": "adv.",
+      "ex": "Originally, there were only five awards."
+    },
+    {
+      "en": "award",
+      "ko": "상 v. 수여하다",
+      "pos": "n.",
+      "ex": "Originally, there were only five awards."
+    },
+    {
+      "en": "add",
+      "ko": "더하다, 추가하다",
+      "pos": "v.",
+      "ex": "A sixth award was added in 1968."
+    },
+    {
+      "en": "protect",
+      "ko": "보호하다",
+      "pos": "v."
+    },
+    {
+      "en": "educate",
+      "ko": "교육하다",
+      "pos": "v."
+    },
+    {
+      "en": "stay up",
+      "ko": "(평상시보다 더 늦게까지)",
+      "pos": ""
+    },
+    {
+      "en": "put off",
+      "ko": "미루다, 연기하다",
+      "pos": ""
+    },
+    {
+      "en": "give up",
+      "ko": "포기하다, 그만두다",
+      "pos": "",
+      "ex": "Should I give up?"
+    },
+    {
+      "en": "take part in",
+      "ko": "~에 참가[참여]하다",
+      "pos": "",
+      "ex": "I hope you take part in many school events in high school."
+    },
+    {
+      "en": "do one's best",
+      "ko": "최선을 다하다",
+      "pos": ""
+    },
+    {
+      "en": "participate in",
+      "ko": "~에 참가[참여]하다",
+      "pos": ""
+    },
+    {
+      "en": "look like",
+      "ko": "~처럼 보이다",
+      "pos": ""
+    },
+    {
+      "en": "hang out",
+      "ko": "많은 시간을 보내다",
+      "pos": "",
+      "ex": "Linda: Some of them said I didn't hang out enough with them."
+    },
+    {
+      "en": "keep in touch",
+      "ko": "연락하고 지내다",
+      "pos": "",
+      "ex": "Minho: I hope you keep in touch with your classmates after graduation."
+    },
+    {
+      "en": "catch one's eye",
+      "ko": "눈길을 끌다",
+      "pos": ""
+    },
+    {
+      "en": "in surprise",
+      "ko": "놀라서",
+      "pos": "",
+      "ex": "Reading the article, he dropped his cup in surprise."
+    },
+    {
+      "en": "all over",
+      "ko": "곳곳에, 도처에",
+      "pos": ""
+    },
+    {
+      "en": "take one's eye off",
+      "ko": "~에서 눈을 떼다",
+      "pos": ""
+    },
+    {
+      "en": "catch one's breath",
+      "ko": "숨을 고르다",
+      "pos": ""
+    },
+    {
+      "en": "think of A as B",
+      "ko": "A를 B로 생각하다",
+      "pos": ""
+    },
+    {
+      "en": "thanks to",
+      "ko": "~덕분에",
+      "pos": "",
+      "ex": "Thanks to your help, I could find my dog."
+    },
+    {
+      "en": "rather than",
+      "ko": "~보다는",
+      "pos": "",
+      "ex": "Alfred Nobel, we think of the Nobel Prize, rather than dynamite."
+    }
+  ]
+}

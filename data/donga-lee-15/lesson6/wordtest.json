@@ -1,0 +1,454 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-lee-15",
+    "lesson": 6,
+    "title": "Lesson 6"
+  },
+  "words": [
+    {
+      "en": "invite",
+      "ko": "초대하다",
+      "pos": "v."
+    },
+    {
+      "en": "pleasure",
+      "ko": "기쁨, 즐거움",
+      "pos": "n.",
+      "ex": "A to B: A를 B에 초대하다 My pleasure."
+    },
+    {
+      "en": "leave",
+      "ko": "떠나다, 출발하다",
+      "pos": "v."
+    },
+    {
+      "en": "trip",
+      "ko": "여행, 이동",
+      "pos": "n.",
+      "ex": "I hope you enjoyed your trip, Daniel."
+    },
+    {
+      "en": "most",
+      "ko": "가장",
+      "pos": "adv.",
+      "ex": "Which place did you like most in my town?"
+    },
+    {
+      "en": "folk village",
+      "ko": "민속촌",
+      "pos": "n.",
+      "ex": "I liked the folk village most."
+    },
+    {
+      "en": "popular",
+      "ko": "인기 있는",
+      "pos": "a.",
+      "ex": "Yeah, it's the most popular place here."
+    },
+    {
+      "en": "cool",
+      "ko": "멋진, 근사한",
+      "pos": "a.",
+      "ex": "I looked really cool."
+    },
+    {
+      "en": "safe",
+      "ko": "안전한",
+      "pos": "a.",
+      "ex": "Have a safe trip."
+    },
+    {
+      "en": "allow",
+      "ko": "허락하다",
+      "pos": "v.",
+      "ex": "You’re not allowed to feed the birds here."
+    },
+    {
+      "en": "inside",
+      "ko": "안으로, 안에",
+      "pos": "adv.",
+      "ex": "You're not allowed to bring your umbrella inside."
+    },
+    {
+      "en": "outside",
+      "ko": "밖으로, 밖에",
+      "pos": "adv.",
+      "ex": "M: There is an umbrella stand outside."
+    },
+    {
+      "en": "book",
+      "ko": "예약하다",
+      "pos": "v.",
+      "ex": "Points ◈ 단원 소재: 건축물의 아름다움 ◈ 의사소통 기능 • 감사하기 A: Thank you for lending me the book."
+    },
+    {
+      "en": "online",
+      "ko": "온라인으로",
+      "pos": "adv.",
+      "ex": "Let's book the tickets online right away."
+    },
+    {
+      "en": "mind",
+      "ko": "꺼리다",
+      "pos": "v.",
+      "ex": "Oh, do you mind if I bring my little brother?"
+    },
+    {
+      "en": "under",
+      "ko": "(양‧나이 등) ~ 미만의",
+      "pos": "prep.",
+      "ex": "But it says that you are not allowed to bring children under 8."
+    },
+    {
+      "en": "total",
+      "ko": "전체의",
+      "pos": "a.",
+      "ex": "The total price is 25 dollars."
+    },
+    {
+      "en": "since",
+      "ko": "~이후로, 이래로",
+      "pos": "prep.",
+      "ex": "Since then, it has exhibited many famous artworks."
+    },
+    {
+      "en": "exhibit",
+      "ko": "전시하다",
+      "pos": "v.",
+      "ex": "Since then, it has exhibited many famous artworks."
+    },
+    {
+      "en": "touch",
+      "ko": "만지다, 감동시키다",
+      "pos": "v.",
+      "ex": "You can take pictures of the artworks, but you're not allowed to touch them."
+    },
+    {
+      "en": "artwork",
+      "ko": "예술품",
+      "pos": "n.",
+      "ex": "Since then, it has exhibited many famous artworks."
+    },
+    {
+      "en": "remind",
+      "ko": "상기시키다",
+      "pos": "v.",
+      "ex": "Before we begin the tour, let me remind you of a basic rule."
+    },
+    {
+      "en": "basic",
+      "ko": "기본적인",
+      "pos": "a.",
+      "ex": "Before we begin the tour, let me remind you of a basic rule."
+    },
+    {
+      "en": "rule",
+      "ko": "규칙",
+      "pos": "n.",
+      "ex": "Before we begin the tour, let me remind you of a basic rule."
+    },
+    {
+      "en": "nature",
+      "ko": "자연",
+      "pos": "n.",
+      "ex": "Lesson 6 - 6 - Have you heard of the expression, “Art imitates nature”?"
+    },
+    {
+      "en": "expression",
+      "ko": "표현(어구)",
+      "pos": "n.",
+      "ex": "Lesson 6 - 6 - Have you heard of the expression, “Art imitates nature”?"
+    },
+    {
+      "en": "imitate",
+      "ko": "모방하다",
+      "pos": "v.",
+      "ex": "Lesson 6 - 6 - Have you heard of the expression, “Art imitates nature”?"
+    },
+    {
+      "en": "inspiration",
+      "ko": "영감",
+      "pos": "n.",
+      "ex": "Many artists get their ideas and inspirations from the world around them."
+    },
+    {
+      "en": "natural",
+      "ko": "자연의, 타고난, 자연스러운",
+      "pos": "a.",
+      "ex": "This is because the natural world is a beautiful place."
+    },
+    {
+      "en": "shape",
+      "ko": "형태, 모양",
+      "pos": "n.",
+      "ex": "The shapes in nature are very pleasing to the eye."
+    },
+    {
+      "en": "pleasing",
+      "ko": "즐거운, 기분 좋은",
+      "pos": "a.",
+      "ex": "The shapes in nature are very pleasing to the eye."
+    },
+    {
+      "en": "round",
+      "ko": "둥근",
+      "pos": "a.",
+      "ex": "It is round and delicate, yet strong enough to protect its contents."
+    },
+    {
+      "en": "delicate",
+      "ko": "부서지기 쉬운, 섬세한",
+      "pos": "a.",
+      "ex": "It is round and delicate, yet strong enough to protect its contents."
+    },
+    {
+      "en": "protect",
+      "ko": "보호하다",
+      "pos": "v.",
+      "ex": "It is round and delicate, yet strong enough to protect its contents."
+    },
+    {
+      "en": "content",
+      "ko": "내용, 주제",
+      "pos": "n.",
+      "ex": "It is round and delicate, yet strong enough to protect its contents."
+    },
+    {
+      "en": "imagine",
+      "ko": "상상하다",
+      "pos": "v.",
+      "ex": "Lesson 6 - 7 - Can you imagine a building that looks like an egg?"
+    },
+    {
+      "en": "actually",
+      "ko": "실제로, 정말로",
+      "pos": "adv.",
+      "ex": "Such a building actually exists in London."
+    },
+    {
+      "en": "exist",
+      "ko": "존재하다",
+      "pos": "v.",
+      "ex": "Such a building actually exists in London."
+    },
+    {
+      "en": "inspire",
+      "ko": "영감을 주다",
+      "pos": "v.",
+      "ex": "Lesson 6 - 8 - Nature has inspired many architects around the world."
+    },
+    {
+      "en": "architect",
+      "ko": "건축가",
+      "pos": "n.",
+      "ex": "Lesson 6 - 8 - Nature has inspired many architects around the world."
+    },
+    {
+      "en": "column",
+      "ko": "기둥",
+      "pos": "n.",
+      "ex": "Look at the beautiful tall columns inside the church."
+    },
+    {
+      "en": "beauty",
+      "ko": "아름다움, 미",
+      "pos": "n.",
+      "ex": "That’s how he brought the beauty of nature indoors."
+    },
+    {
+      "en": "indoors",
+      "ko": "실내로, 실내에",
+      "pos": "adv.",
+      "ex": "That’s how he brought the beauty of nature indoors."
+    },
+    {
+      "en": "example",
+      "ko": "예시, 사례",
+      "pos": "n.",
+      "ex": "For example, look at the egg on the left."
+    },
+    {
+      "en": "see",
+      "ko": "보다, 알다",
+      "pos": "v.",
+      "ex": "I can't wait to see the concert!"
+    },
+    {
+      "en": "Australia",
+      "ko": "오스트레일리아, 호주",
+      "pos": "n.",
+      "ex": "But in the next example from Australia, this is not so obvious."
+    },
+    {
+      "en": "obvious",
+      "ko": "분명한, 명백한",
+      "pos": "a.",
+      "ex": "But in the next example from Australia, this is not so obvious."
+    },
+    {
+      "en": "add",
+      "ko": "더하다, 추가하다",
+      "pos": "v.",
+      "ex": "Okay, I'll add one child ticket."
+    },
+    {
+      "en": "imagination",
+      "ko": "상상력",
+      "pos": "n.",
+      "ex": "Sydney Opera House, took a shape from nature and added his imagination."
+    },
+    {
+      "en": "guess",
+      "ko": "추측하다",
+      "pos": "v.",
+      "ex": "Can you guess what inspired him?"
+    },
+    {
+      "en": "wave",
+      "ko": "파도, 물결",
+      "pos": "n.",
+      "ex": "Many people think that it is the waves in the ocean or a sailing boat."
+    },
+    {
+      "en": "ocean",
+      "ko": "바다, 대양",
+      "pos": "n.",
+      "ex": "Many people think that it is the waves in the ocean or a sailing boat."
+    },
+    {
+      "en": "sailing boat",
+      "ko": "돛단배",
+      "pos": "n.",
+      "ex": "Many people think that it is the waves in the ocean or a sailing boat."
+    },
+    {
+      "en": "interestingly",
+      "ko": "흥미롭게도",
+      "pos": "adv.",
+      "ex": "But interestingly, the inspiration came from an orange."
+    },
+    {
+      "en": "roof",
+      "ko": "지붕",
+      "pos": "n.",
+      "ex": "The roof looks like the Korean traditional hat, “gat."
+    },
+    {
+      "en": "closely",
+      "ko": "가까이, 접근하여",
+      "pos": "adv.",
+      "ex": "Look at the roof closely."
+    },
+    {
+      "en": "peel",
+      "ko": "(과일·채소의) 껍질",
+      "pos": "n.",
+      "ex": "Can you see the peels of an orange?"
+    },
+    {
+      "en": "shine",
+      "ko": "비추다",
+      "pos": "v.",
+      "ex": "The roof opens so that I can get fresh air and sunshine all the time."
+    },
+    {
+      "en": "clearly",
+      "ko": "명확하게",
+      "pos": "adv."
+    },
+    {
+      "en": "giant",
+      "ko": "거대한",
+      "pos": "a.",
+      "ex": "Many people think that the building looks like a giant spaceship."
+    },
+    {
+      "en": "spaceship",
+      "ko": "우주선",
+      "pos": "n.",
+      "ex": "Many people think that the building looks like a giant spaceship."
+    },
+    {
+      "en": "curved",
+      "ko": "곡선모양의, 굽은",
+      "pos": "a.",
+      "ex": "Hadid, took the curved lines from nature so that city people could enjoy them."
+    },
+    {
+      "en": "tourist attraction",
+      "ko": "관광 명소",
+      "pos": "n.",
+      "ex": "Namsan is a popular tourist attraction in Seoul."
+    },
+    {
+      "en": "capture",
+      "ko": "포착하다, 담아내다",
+      "pos": "v."
+    },
+    {
+      "en": "perfect",
+      "ko": "완벽한",
+      "pos": "a.",
+      "ex": "They are perfect examples of “Nature meets city."
+    },
+    {
+      "en": "choose",
+      "ko": "선택하다",
+      "pos": "v.",
+      "ex": "M: Excuse me."
+    },
+    {
+      "en": "thank A for B",
+      "ko": "A에게 B에 대해 감사하다",
+      "pos": ""
+    },
+    {
+      "en": "walk around",
+      "ko": "돌아다니다",
+      "pos": ""
+    },
+    {
+      "en": "show ~ around",
+      "ko": "~에게 구경시켜 주다",
+      "pos": ""
+    },
+    {
+      "en": "on sale",
+      "ko": "판매 중인, 할인 중인",
+      "pos": "",
+      "ex": "Listen and Complete B: The tickets for the World Music Concert are on sale now."
+    },
+    {
+      "en": "right away",
+      "ko": "즉시, 당장",
+      "pos": "",
+      "ex": "Let's book the tickets online right away."
+    },
+    {
+      "en": "remind A of B",
+      "ko": "A에게 B를 상기시키다",
+      "pos": ""
+    },
+    {
+      "en": "look like",
+      "ko": "~처럼 보이다",
+      "pos": "",
+      "ex": "They look like trees, don’t they?"
+    },
+    {
+      "en": "take A from B",
+      "ko": "B에서 A를 가져오다",
+      "pos": ""
+    },
+    {
+      "en": "come from",
+      "ko": "~에서 비롯되다",
+      "pos": ""
+    },
+    {
+      "en": "thanks to",
+      "ko": "~덕분에",
+      "pos": ""
+    }
+  ]
+}

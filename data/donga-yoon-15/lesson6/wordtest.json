@@ -1,0 +1,382 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-yoon-15",
+    "lesson": 6,
+    "title": "Lesson 6"
+  },
+  "words": [
+    {
+      "en": "elect",
+      "ko": "선거하다, 선출하다",
+      "pos": "v.",
+      "ex": "I was elected as class president."
+    },
+    {
+      "en": "president",
+      "ko": "회장",
+      "pos": "n.",
+      "ex": "I was elected as class president."
+    },
+    {
+      "en": "chance",
+      "ko": "기회",
+      "pos": "n.",
+      "ex": "I'm really happy to have a chance to work for my class."
+    },
+    {
+      "en": "upset",
+      "ko": "화가 난, 속상한",
+      "pos": "a.",
+      "ex": "I’m annoyed/upset that/by/with ~."
+    },
+    {
+      "en": "win",
+      "ko": "이기다, 얻다",
+      "pos": "v.",
+      "ex": "Congratulations on winning the gold medal."
+    },
+    {
+      "en": "marathon",
+      "ko": "마라톤",
+      "pos": "n.",
+      "ex": "Tim, congratulations on winning the gold medal in the school marathon."
+    },
+    {
+      "en": "main",
+      "ko": "주된, 중요한",
+      "pos": "a.",
+      "ex": "Did I get the main role in the play?"
+    },
+    {
+      "en": "role",
+      "ko": "(연극·영화에서의) 역할, 배역",
+      "pos": "n.",
+      "ex": "Did I get the main role in the play?"
+    },
+    {
+      "en": "unfortunately",
+      "ko": "불행하게도, 유감스럽게도",
+      "pos": "adv.",
+      "ex": "Unfortunately, no."
+    },
+    {
+      "en": "disappointed",
+      "ko": "실망한",
+      "pos": "a.",
+      "ex": "She's very disappointed."
+    },
+    {
+      "en": "anyway",
+      "ko": "어쨌든, 그런데",
+      "pos": "adv.",
+      "ex": "Anyway, when is the first practice?"
+    },
+    {
+      "en": "practice",
+      "ko": "연습 v. 연습하다",
+      "pos": "n.",
+      "ex": "Anyway, when is the first practice?"
+    },
+    {
+      "en": "lucky",
+      "ko": "행운의",
+      "pos": "a.",
+      "ex": "One Lucky Sunday 본문1 본 문 분 석 Reading Lesson 6 - 7 - Mr."
+    },
+    {
+      "en": "antique",
+      "ko": "(귀중한) 골동품인",
+      "pos": "a.",
+      "ex": "Lesson 6 - 6 - Cyril Boggis was an antique furniture dealer in London."
+    },
+    {
+      "en": "furniture",
+      "ko": "가구",
+      "pos": "n.",
+      "ex": "People asked him where he had got the furniture."
+    },
+    {
+      "en": "dealer",
+      "ko": "판매상, 중개인",
+      "pos": "n.",
+      "ex": "The table was what every dealer dreamed of."
+    },
+    {
+      "en": "knock",
+      "ko": "두드리다, 노크하다",
+      "pos": "v.",
+      "ex": "He went to small towns every Sunday and knocked on doors."
+    },
+    {
+      "en": "valuable",
+      "ko": "귀중한, 값비싼",
+      "pos": "a.",
+      "ex": "People didn’t know how valuable their things were, so Mr."
+    },
+    {
+      "en": "secret",
+      "ko": "비밀",
+      "pos": "n.",
+      "ex": "Boggis’ secret was simple."
+    },
+    {
+      "en": "simple",
+      "ko": "단순한, 간단한",
+      "pos": "a.",
+      "ex": "Boggis’ secret was simple."
+    },
+    {
+      "en": "cheaply",
+      "ko": "싸게, 저렴하게",
+      "pos": "adv.",
+      "ex": "He was able to buy things very cheaply."
+    },
+    {
+      "en": "another",
+      "ko": "또 하나의",
+      "pos": "a.",
+      "ex": "Lesson 6 - 8 - Now it was another Sunday, and Mr."
+    },
+    {
+      "en": "owner",
+      "ko": "소유주, 주인",
+      "pos": "n.",
+      "ex": "One was Rummins, the owner, and the other was his son Bert."
+    },
+    {
+      "en": "nothing",
+      "ko": "pron. 아무것도 (…아니다·없다)",
+      "pos": "n.",
+      "ex": "Boggis first went to the kitchen, and there was nothing."
+    },
+    {
+      "en": "move",
+      "ko": "이동하다",
+      "pos": "v.",
+      "ex": "He then moved to the living room."
+    },
+    {
+      "en": "priceless",
+      "ko": "값을 매길 수 없는, 대단히 귀중한",
+      "pos": "a.",
+      "ex": "A table which was a priceless piece of eighteenth-century English furniture."
+    },
+    {
+      "en": "lie",
+      "ko": "거짓말하다, 눕다",
+      "pos": "v.",
+      "ex": "I want to read Charlie and the Chocolate Factory."
+    },
+    {
+      "en": "reproduction",
+      "ko": "(예술 작품의) 복제품, 복제화",
+      "pos": "n.",
+      "ex": "He then said with a straight face, “This table is a reproduction."
+    },
+    {
+      "en": "worth",
+      "ko": "(어떤 금액의) 가치가 있는",
+      "pos": "a.",
+      "ex": "It’s worth only a few pounds."
+    },
+    {
+      "en": "add",
+      "ko": "첨가[추가]하다, 덧붙이다",
+      "pos": "v.",
+      "ex": "Lesson 6 - 10 - He then added, “Hmm, I think I may buy it."
+    },
+    {
+      "en": "leg",
+      "ko": "(탁자·의자 등의) 다리",
+      "pos": "n.",
+      "ex": "The legs of my table at home are broken."
+    },
+    {
+      "en": "break",
+      "ko": "깨다, 부수다, 부러뜨리다",
+      "pos": "v.",
+      "ex": "I had just finished breakfast when he woke up."
+    },
+    {
+      "en": "attach",
+      "ko": "붙이다, 첨부하다",
+      "pos": "v.",
+      "ex": "I can cut off the legs of your table and attach them to mine."
+    },
+    {
+      "en": "final",
+      "ko": "마지막의",
+      "pos": "a.",
+      "ex": "I passed the final test."
+    },
+    {
+      "en": "offer",
+      "ko": "제안하다 n. 제안, 제의",
+      "pos": "v.",
+      "ex": "This is my final offer."
+    },
+    {
+      "en": "luck",
+      "ko": "행운, 운",
+      "pos": "n.",
+      "ex": "Luckily, I was able to find her two days later."
+    },
+    {
+      "en": "dream",
+      "ko": "꿈꾸다 n. 꿈",
+      "pos": "v.",
+      "ex": "The table was what every dealer dreamed of."
+    },
+    {
+      "en": "believe",
+      "ko": "믿다",
+      "pos": "v.",
+      "ex": "He couldn’t believe his luck."
+    },
+    {
+      "en": "pay",
+      "ko": "(비용· 대가 등을) 지불하다",
+      "pos": "v.",
+      "ex": "He might not pay you,” said Bert."
+    },
+    {
+      "en": "saw",
+      "ko": "톱 v. 톱질하다",
+      "pos": "n.",
+      "ex": "I want to read The Adventures of Tom Sawyer."
+    },
+    {
+      "en": "worry",
+      "ko": "걱정하다 n. 걱정(되는 일)",
+      "pos": "v.",
+      "ex": "Don’t worry, this was a favor."
+    },
+    {
+      "en": "favor",
+      "ko": "호의, 친절",
+      "pos": "n.",
+      "ex": "My favorite book is The Happy Prince."
+    },
+    {
+      "en": "charge",
+      "ko": "(요금· 값을) 청구하다",
+      "pos": "v.",
+      "ex": "I won’t charge you for this,” said Rummins."
+    },
+    {
+      "en": "shocked",
+      "ko": "충격을 받은, 깜짝 놀란",
+      "pos": "a.",
+      "ex": "Boggis was so shocked that he couldn’t say anything."
+    },
+    {
+      "en": "be proud of",
+      "ko": "~을 자랑스러워하다",
+      "pos": ""
+    },
+    {
+      "en": "do one’s best",
+      "ko": "최선을 다하다",
+      "pos": ""
+    },
+    {
+      "en": "take medicine",
+      "ko": "약을 먹다",
+      "pos": ""
+    },
+    {
+      "en": "be known for",
+      "ko": "~로 알려져 있다",
+      "pos": ""
+    },
+    {
+      "en": "at a low[high] price",
+      "ko": "낮은(높은) 가격으로",
+      "pos": ""
+    },
+    {
+      "en": "knock on",
+      "ko": "~을 두드리다",
+      "pos": ""
+    },
+    {
+      "en": "take advantage of",
+      "ko": "~을 이용하다",
+      "pos": ""
+    },
+    {
+      "en": "be able to",
+      "ko": "~할 수 있다",
+      "pos": ""
+    },
+    {
+      "en": "take a look",
+      "ko": "~을 한번 보다",
+      "pos": "",
+      "ex": "Can I just take a look?"
+    },
+    {
+      "en": "fall over",
+      "ko": "넘어지다, 넘어지며 구르다",
+      "pos": ""
+    },
+    {
+      "en": "a piece of furniture",
+      "ko": "가구 한 점",
+      "pos": ""
+    },
+    {
+      "en": "with a straight face",
+      "ko": "정색하며, 시치미 떼고",
+      "pos": "",
+      "ex": "He then said with a straight face, “This table is a reproduction."
+    },
+    {
+      "en": "cut off",
+      "ko": "~을 잘라내다",
+      "pos": "",
+      "ex": "I can cut off the legs of your table and attach them to mine."
+    },
+    {
+      "en": "on one’s way to",
+      "ko": "~로 가는 길에",
+      "pos": ""
+    },
+    {
+      "en": "can’t help –ing",
+      "ko": "~하지 않을 수 없다",
+      "pos": ""
+    },
+    {
+      "en": "dream of",
+      "ko": "~을 꿈꾸다",
+      "pos": ""
+    },
+    {
+      "en": "What if ~?",
+      "ko": "~면 어쩌지?",
+      "pos": ""
+    },
+    {
+      "en": "go in",
+      "ko": "(어떤 공간의) 안으로 들어",
+      "pos": "",
+      "ex": "This thing will not go in a car!"
+    },
+    {
+      "en": "have an idea",
+      "ko": "생각이 떠오르다",
+      "pos": ""
+    },
+    {
+      "en": "take out",
+      "ko": "꺼내다",
+      "pos": ""
+    },
+    {
+      "en": "come back",
+      "ko": "돌아오다",
+      "pos": ""
+    }
+  ]
+}

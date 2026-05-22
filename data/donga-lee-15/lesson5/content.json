@@ -1,0 +1,463 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-lee-15",
+    "lesson": 5,
+    "title": "Lesson 5"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "I’m looking forward to ~는 ‘나는 ~하 기를 기대한다’라는 뜻으로 기대감을 나타낼 때 사용 하는 표현이다.",
+        "ko": "",
+        "category": "기대 표현하기"
+      },
+      {
+        "en": "I’m looking forward to ~는 ‘나는 ~ 하기를 기대한다’라는 뜻으로 부사 really(정말로)를 사 용하여 좀 더 강한 기대감을 나타낼 수도 있다.",
+        "ko": "",
+        "category": "기대 표현하기"
+      },
+      {
+        "en": "I’d love to, but I can’t.",
+        "ko": "",
+        "category": "거절하기"
+      },
+      {
+        "en": "I’m looking forward to ~는 ‘나는 ~ 하기를 기대한다’라는 뜻으로 이 때 to는 전치사이므 로 뒤에는 명사나 동명사(watching)가 와야 한다.",
+        "ko": "",
+        "category": "기대 표현하기"
+      },
+      {
+        "en": "If+주어+동사의 과거 형, 주어+조동사의 과거형+동사원형’의 형태로 쓴다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "If절의 be동사는 주어의 인칭과 관계없이 보통 were를 사용한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "If+주어 +_______________________, 주어+___________________________+동사원형’의 형태로 쓴다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "If절의 be동사는 주어의 인칭과 관계없이 보통 _________를 사용한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Are you going to travel to Jeju-do next week?",
+        "ko": "너는 다음 주에 제주도로 여행 갈 예정이니?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "Yes, I’m really looking forward to riding a horse.",
+        "ko": "너는 다음 주에 제주도로 여행 갈 예정이니?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "너는 다음 주에 제주도로 여행 갈 예정이니?",
+        "ko": "응, 나는 말을 타는 것이 정말 기대돼.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "응, 나는 말을 타는 것이 정말 기대돼.",
+        "ko": "나와 함께 할래?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "Do you want to join me?",
+        "ko": "나와 함께 할래?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "I’d love to, but I can’t. I have to do my homework.",
+        "ko": "나와 함께 할래?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "Thanks. I’m looking forward to playing in a",
+        "ko": "얘, 보라야. 우리 록 밴드에 온 걸 환영해.",
+        "category": "감사"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "I’m ___ forward to ~는 ‘나는 ~하 기를 기대한다’라는 뜻으로 기대감을 나타낼 때 사용 하는 표현이다.",
+        "a": "looking",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’m ___ forward to ~는 ‘나는 ~ 하기를 기대한다’라는 뜻으로 부사 really(정말로)를 사 용하여 좀 더 강한 기대감을 나타낼 수도 있다.",
+        "a": "looking",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’d ___ to, but I can’t.",
+        "a": "love",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’m looking forward to ~는 ‘나는 ~ 하기를 기대한다’라는 뜻으로 이 때 to는 전치사이므 로 뒤에는 명사나 동명사(___)가 와야 한다.",
+        "a": "watching",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Are you going to ___ to Jeju-do next week?",
+        "a": "travel",
+        "hint": "너는 다음 주에 제주도로 여행 갈 예정이니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "Yes, I’m really ___ forward to riding a horse.",
+        "a": "looking",
+        "hint": "너는 다음 주에 제주도로 여행 갈 예정이니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "Do you ___ to join me?",
+        "a": "want",
+        "hint": "나와 함께 할래?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’d love to, but I can’t. I have to do my ___.",
+        "a": "homework",
+        "hint": "나와 함께 할래?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "Thanks. I’m ___ forward to playing in a",
+        "a": "looking",
+        "hint": "얘, 보라야. 우리 록 밴드에 온 걸 환영해."
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - 1",
+        "en": "A: Are you going to travel to Jeju-do next week? B: 응, 나는 말을 타는 것이 정말 기대돼. A: Do you want to join me? If I were a bird, I would fly. We didn’t know how to read music.",
+        "ko": "A: 너는 다음 주에 제주도로 여행 갈 예정이니? • 거절하기 B: 그러고 싶지만, 안 돼. 나는 숙제를 해야 해. 내가 새라면, 날아오를 텐데. 우리는 악보를 읽는 법을 알지 못했다."
+      },
+      {
+        "id": "r2",
+        "title": "본문 - 2",
+        "en": "I only had a few ships left. But I didn’t give up. I kept writing a diary while I was hiding. Anne Frank는 나치로부터 숨어 있는 동안 계속 일기를 썼다. B: We’re excited to have a new guitar player. G: Sure. See you on Saturday.",
+        "ko": "나는 오직 몇 척의 배만 남았었다. 하지만 나는 포기하지 나는 숨어 있는 동안 계속 일기를 썼다. (Anne Frank) 이순신은 오직 몇 척의 배만 남았지만 포기하지 않았고 전 소년: 얘, 보라야. 우리 록 밴드에 온 걸 환영해. 소녀: 지호야, 너는 뭘 읽고 있니?"
+      },
+      {
+        "id": "r3",
+        "title": "본문 - 3",
+        "en": "B: I’m so excited. I’m going to travel to Jeju-do. B: 나는 매우 신이 나. 난 제주도로 여행을 갈 거야. B: 응, 나는 말을 타는 게 정말 기대돼. A: That sounds great! B: 나는 매우 신이 나. 나는 드론을 날리는 것을 배울 거야.",
+        "ko": "A: 너는 오늘 행복해 보여. 무슨 일이니? A: 그거 좋겠다! [모범답안] A: 너는 오늘 행복해 보여. 무슨 일이니? A: 그거 좋겠다!"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "A: Are you going to ___ to Jeju-do next week?",
+        "a": "travel",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Do you ___ to join me?",
+        "a": "want",
+        "passage": "r1"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 너는 다음 주에 제주도로 여행 갈 예정이니? • 거절하기 B: 그러고 싶지만, 안 돼. 나는 숙제를 해...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I only had a few ___ left.",
+        "a": "ships",
+        "passage": "r2"
+      },
+      {
+        "type": "fill-blank",
+        "q": "But I ___’t give up.",
+        "a": "didn",
+        "passage": "r2"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I kept ___ a diary while I was hiding.",
+        "a": "writing",
+        "passage": "r2"
+      },
+      {
+        "type": "true-false",
+        "q": "나는 오직 몇 척의 배만 남았었다. 하지만 나는 포기하지 나는 숨어 있는 동안 계속 일기를 썼다. (Anne...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: I’m so ___.",
+        "a": "excited",
+        "passage": "r3"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’m going to ___ to Jeju-do.",
+        "a": "travel",
+        "passage": "r3"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 너는 오늘 행복해 보여. 무슨 일이니? A: 그거 좋겠다! [모범답안] A: 너는 오늘 행복해 보여. ...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사가 동사, 형용사, 부사를 수식하는 부사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "A: 나와 함께 할래?",
+            "ko": "B: 그러고 싶지만, 안 돼. 나는 숙제를 해야 해."
+          },
+          {
+            "en": "If I were a bird, I would fly.",
+            "ko": "내가 새라면, 날아오를 텐데."
+          },
+          {
+            "en": "We didn’t know how to read music.",
+            "ko": "우리는 악보를 읽는 법을 알지 못했다."
+          },
+          {
+            "en": "I only had a few ships left. But I didn’t give up.",
+            "ko": "나는 오직 몇 척의 배만 남았었다. 하지만 나는 포기하지"
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "G: Sure. See you on Saturday.",
+            "ko": "소녀: 지호야, 너는 뭘 읽고 있니?"
+          },
+          {
+            "en": "I only had a few ships left. But I didn’t give up.",
+            "ko": "나는 오직 몇 척의 배만 남았었다. 하지만 나는 포기하지"
+          },
+          {
+            "en": "I kept writing a diary while I was hiding.",
+            "ko": "나는 숨어 있는 동안 계속 일기를 썼다. (Anne Frank)"
+          },
+          {
+            "en": "G: Sure. See you on Saturday.",
+            "ko": "소녀: 지호야, 너는 뭘 읽고 있니?"
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "현재완료",
+        "explanation": "'have/has + 과거분사'로 과거에 시작된 일이 현재까지 영향을 미침을 나타냅니다.",
+        "examples": []
+      },
+      {
+        "id": "g4",
+        "title": "수동태",
+        "explanation": "'be동사 + 과거분사(p.p.)'로 '~되다, ~당하다'의 의미를 나타냅니다.",
+        "examples": []
+      }
+    ],
+    "exercises": [
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "Are",
+          "you",
+          "gong",
+          "to",
+          "travel",
+          "to",
+          "Jeju-do",
+          "next",
+          "wee"
+        ],
+        "a": "A: Are you gong to travel to Jeju-do next wee?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "Yes,",
+          "I’m",
+          "really",
+          "loong",
+          "forward",
+          "to",
+          "rdng",
+          "a",
+          "horse"
+        ],
+        "a": "B: Yes, I’m really loong forward to rdng a horse."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "너는",
+          "다음",
+          "주에",
+          "제주도로",
+          "여행",
+          "갈",
+          "예정이니"
+        ],
+        "a": "A: 너는 다음 주에 제주도로 여행 갈 예정이니?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "응,",
+          "나는",
+          "말을",
+          "타는",
+          "것이",
+          "정말",
+          "기대돼"
+        ],
+        "a": "B: 응, 나는 말을 타는 것이 정말 기대돼."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "Do",
+          "you",
+          "want",
+          "to",
+          "jon",
+          "me"
+        ],
+        "a": "A: Do you want to jon me?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "그러고",
+          "싶지만,",
+          "안",
+          "돼.",
+          "나는",
+          "숙제를",
+          "해야",
+          "해"
+        ],
+        "a": "B: 그러고 싶지만, 안 돼. 나는 숙제를 해야 해."
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Are you gong to ___ to Jeju-do next wee?",
+        "a": "travel",
+        "hint": "A: 너는 다음 주에 제주도로 여행 갈 예정이니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: Yes, I’m really loong ___ to rdng a horse.",
+        "a": "forward",
+        "hint": "A: 너는 다음 주에 제주도로 여행 갈 예정이니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Do you ___ to jon me?",
+        "a": "want",
+        "hint": "B: 그러고 싶지만, 안 돼. 나는 숙제를 해야 해."
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: I’d love to, but I an’t. I have to do my ___.",
+        "a": "homewor",
+        "hint": "B: 그러고 싶지만, 안 돼. 나는 숙제를 해야 해."
+      },
+      {
+        "type": "fill-blank",
+        "q": "If I were a ___, I would fly.",
+        "a": "brd",
+        "hint": "내가 새라면, 날아오를 텐데."
+      },
+      {
+        "type": "error-correction",
+        "q": "A: Are you gong traveling to Jeju-do next wee?",
+        "a": "to travel",
+        "wrong": "traveling",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "B: Yes, I’m really loong forward rdnging a horse.",
+        "a": "to rdng",
+        "wrong": "rdnging",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "We ddn’t now how reading mus.",
+        "a": "to read",
+        "wrong": "reading",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "B: We’re exted haveing a new gutar player.",
+        "a": "to have",
+        "wrong": "haveing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "multi-choice",
+        "q": "If I (be / am / were) you, I wouldn't go there.",
+        "a": "be",
+        "opts": [
+          "be",
+          "am / were"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "If I find your book, I (will / would) tell you.",
+        "a": "will",
+        "opts": [
+          "will",
+          "would"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "If you (meet / met) him, tell him to wait.",
+        "a": "meet",
+        "opts": [
+          "meet",
+          "met"
+        ]
+      }
+    ]
+  }
+}

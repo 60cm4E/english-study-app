@@ -1,0 +1,367 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-lee-15",
+    "lesson": 5,
+    "title": "Lesson 5"
+  },
+  "words": [
+    {
+      "en": "without",
+      "ko": "~없이",
+      "pos": "prep.",
+      "ex": "Oh, the man who was born without a right hand?"
+    },
+    {
+      "en": "award",
+      "ko": "상",
+      "pos": "n.",
+      "ex": "He tried really hard and even won the MVP award."
+    },
+    {
+      "en": "title",
+      "ko": "제목",
+      "pos": "n.",
+      "ex": "What’s the title?"
+    },
+    {
+      "en": "performance",
+      "ko": "공연, 연주회",
+      "pos": "n."
+    },
+    {
+      "en": "hurt",
+      "ko": "다치다",
+      "pos": "v.",
+      "ex": "I hurt my hand in gym class yesterday."
+    },
+    {
+      "en": "gym",
+      "ko": "체육관",
+      "pos": "n.",
+      "ex": "I hurt my hand in gym class yesterday."
+    },
+    {
+      "en": "cheer",
+      "ko": "환호하다, 성원을 보내다",
+      "pos": "v.",
+      "ex": "But I’ll be there to cheer for you."
+    },
+    {
+      "en": "main",
+      "ko": "주요한",
+      "pos": "a.",
+      "ex": "Who is the main actor?"
+    },
+    {
+      "en": "volunteer work",
+      "ko": "자원봉사",
+      "pos": "n."
+    },
+    {
+      "en": "trash",
+      "ko": "쓰레기",
+      "pos": "n.",
+      "ex": "From Trash to Music 본문2 본 문 분 석 Reading Lesson 5 - 9 - Many of us are poor."
+    },
+    {
+      "en": "tear",
+      "ko": "눈물",
+      "pos": "n.",
+      "ex": "Lesson 5 - 7 - Tears of joy are rolling down my cheeks."
+    },
+    {
+      "en": "roll",
+      "ko": "구르다, 굴러가다",
+      "pos": "v.",
+      "ex": "Lesson 5 - 7 - Tears of joy are rolling down my cheeks."
+    },
+    {
+      "en": "cheek",
+      "ko": "볼, 뺨",
+      "pos": "n.",
+      "ex": "Lesson 5 - 7 - Tears of joy are rolling down my cheeks."
+    },
+    {
+      "en": "thrilled",
+      "ko": "황홀해 하는, 아주 신이 난",
+      "pos": "a.",
+      "ex": "I’m so happy and thrilled."
+    },
+    {
+      "en": "hug",
+      "ko": "껴안다, 포옹하다",
+      "pos": "v.",
+      "ex": "The other members in my orchestra are hugging one another."
+    },
+    {
+      "en": "none",
+      "ko": "pron. 아무(것)도 (…않다)",
+      "pos": "n.",
+      "ex": "None of us ever expected that this day would come."
+    },
+    {
+      "en": "expect",
+      "ko": "기대하다",
+      "pos": "v.",
+      "ex": "None of us ever expected that this day would come."
+    },
+    {
+      "en": "journey",
+      "ko": "여행, 여정",
+      "pos": "n.",
+      "ex": "It has been a long journey."
+    },
+    {
+      "en": "violinist",
+      "ko": "바이올린 연주자",
+      "pos": "n.",
+      "ex": "- 8 - My name is Andrea and I’m a violinist in the Recycled Orchestra."
+    },
+    {
+      "en": "orchestra",
+      "ko": "오케스트라",
+      "pos": "n.",
+      "ex": "The other members in my orchestra are hugging one another."
+    },
+    {
+      "en": "musical instrument",
+      "ko": "악기",
+      "pos": "n.",
+      "ex": "It’s because our musical instruments are made of objects from a landfill."
+    },
+    {
+      "en": "landfill",
+      "ko": "쓰레기 매립지",
+      "pos": "n.",
+      "ex": "It’s because our musical instruments are made of objects from a landfill."
+    },
+    {
+      "en": "object",
+      "ko": "물건",
+      "pos": "n.",
+      "ex": "It’s because our musical instruments are made of objects from a landfill."
+    },
+    {
+      "en": "huge",
+      "ko": "거대한",
+      "pos": "a.",
+      "ex": "There is a huge landfill in our town."
+    },
+    {
+      "en": "giant",
+      "ko": "거대한",
+      "pos": "a.",
+      "ex": "Some people even say that Cateura itself is a giant landfill."
+    },
+    {
+      "en": "environmental",
+      "ko": "환경의",
+      "pos": "a.",
+      "ex": "Lesson 5 - 10 - Favio was an environmental educator and a musician."
+    },
+    {
+      "en": "educator",
+      "ko": "교육가",
+      "pos": "n.",
+      "ex": "Lesson 5 - 10 - Favio was an environmental educator and a musician."
+    },
+    {
+      "en": "musician",
+      "ko": "음악가",
+      "pos": "n.",
+      "ex": "Lesson 5 - 10 - Favio was an environmental educator and a musician."
+    },
+    {
+      "en": "whole",
+      "ko": "전체의",
+      "pos": "a.",
+      "ex": "There were only a few musical instruments in the whole town."
+    },
+    {
+      "en": "afford",
+      "ko": "~을 할 형편이 되다",
+      "pos": "v.",
+      "ex": "We couldn’t afford to buy new ones."
+    },
+    {
+      "en": "talented",
+      "ko": "재능이 뛰어난",
+      "pos": "a.",
+      "ex": "A talented man named Nicholas was able to put this idea into practice."
+    },
+    {
+      "en": "another",
+      "ko": "또 하나의, 더",
+      "pos": "a.",
+      "ex": "The other members in my orchestra are hugging one another."
+    },
+    {
+      "en": "patience",
+      "ko": "인내심",
+      "pos": "n.",
+      "ex": "Favio taught us with great patience."
+    },
+    {
+      "en": "sound",
+      "ko": "소리",
+      "pos": "n.",
+      "ex": "That sounds great!"
+    },
+    {
+      "en": "still",
+      "ko": "아직도, 여전히",
+      "pos": "adv.",
+      "ex": "I still remember the first piece of music that we played."
+    },
+    {
+      "en": "piece",
+      "ko": "(미술·음악 등의) 작품",
+      "pos": "n.",
+      "ex": "I still remember the first piece of music that we played."
+    },
+    {
+      "en": "tune",
+      "ko": "곡, 곡조, 선율",
+      "pos": "n.",
+      "ex": "It was very short and mostly out of tune."
+    },
+    {
+      "en": "mostly",
+      "ko": "대부분, 일반적으로",
+      "pos": "adv.",
+      "ex": "It was very short and mostly out of tune."
+    },
+    {
+      "en": "hope",
+      "ko": "희망 v. 바라다",
+      "pos": "n.",
+      "ex": "The weather was terribly cold, but I never gave up hope."
+    },
+    {
+      "en": "gather",
+      "ko": "모이다",
+      "pos": "v.",
+      "ex": "From then on, we gathered to practice every day."
+    },
+    {
+      "en": "practice",
+      "ko": "연습하다 n. 실천, 실행",
+      "pos": "v.",
+      "ex": "A talented man named Nicholas was able to put this idea into practice."
+    },
+    {
+      "en": "real",
+      "ko": "진짜의",
+      "pos": "a.",
+      "ex": "Yes, I’m really looking forward to riding a horse."
+    },
+    {
+      "en": "look forward to",
+      "ko": "~하기를 기대하다",
+      "pos": ""
+    },
+    {
+      "en": "be made into",
+      "ko": "~로 만들어지다",
+      "pos": ""
+    },
+    {
+      "en": "take care of",
+      "ko": "~를 돌보다",
+      "pos": ""
+    },
+    {
+      "en": "take part in",
+      "ko": "~에 참가하다",
+      "pos": "",
+      "ex": "Check G: Alex, I’m going to take part in a singing contest next Monday."
+    },
+    {
+      "en": "roll down",
+      "ko": "(눈물이) 흘러내리다",
+      "pos": ""
+    },
+    {
+      "en": "look around",
+      "ko": "주위를 둘러보다",
+      "pos": ""
+    },
+    {
+      "en": "one another",
+      "ko": "서로",
+      "pos": "",
+      "ex": "The other members in my orchestra are hugging one another."
+    },
+    {
+      "en": "give ~ a big hand",
+      "ko": "~에게 큰 박수를 보내다",
+      "pos": ""
+    },
+    {
+      "en": "be made of",
+      "ko": "~로 만들어지다",
+      "pos": ""
+    },
+    {
+      "en": "be known as",
+      "ko": "~로 알려지다",
+      "pos": ""
+    },
+    {
+      "en": "most of",
+      "ko": "대부분의",
+      "pos": "",
+      "ex": "Most of us in the orchestra are from Cateura, a small town in Paraguay."
+    },
+    {
+      "en": "give up",
+      "ko": "포기하다",
+      "pos": "",
+      "ex": "But I didn’t give up."
+    },
+    {
+      "en": "be able to",
+      "ko": "~할 수 있다",
+      "pos": ""
+    },
+    {
+      "en": "put ~ into practice",
+      "ko": "~을 실행에 옮기다",
+      "pos": ""
+    },
+    {
+      "en": "turn A into B",
+      "ko": "A를 B로 바꾸다",
+      "pos": ""
+    },
+    {
+      "en": "step by step",
+      "ko": "점차로",
+      "pos": "",
+      "ex": "Step by step, we began to make some sounds on our instruments."
+    },
+    {
+      "en": "out of tune",
+      "ko": "음이 맞지 않는",
+      "pos": "",
+      "ex": "It was very short and mostly out of tune."
+    },
+    {
+      "en": "from then on",
+      "ko": "그때부터 (쭉)",
+      "pos": "",
+      "ex": "From then on, we gathered to practice every day."
+    },
+    {
+      "en": "hundreds of",
+      "ko": "수백의",
+      "pos": "",
+      "ex": "And here we are now in front of hundreds of people."
+    },
+    {
+      "en": "send ~ back",
+      "ko": "~을 되돌려 보내다",
+      "pos": ""
+    }
+  ]
+}

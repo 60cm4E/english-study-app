@@ -1,0 +1,389 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-yoon-15",
+    "lesson": 8,
+    "title": "Lesson 8"
+  },
+  "words": [
+    {
+      "en": "painting",
+      "ko": "그림",
+      "pos": "n.",
+      "ex": "I know the painting Seodang by Kim Hongdo • 나는 화가 정선을 알아."
+    },
+    {
+      "en": "prefer",
+      "ko": "~을 더 좋아하다",
+      "pos": "v.",
+      "ex": "Which food do you prefer, Tteokbokki or Gimbap?"
+    },
+    {
+      "en": "seem",
+      "ko": "~인 것 같다, (~인 것처럼) 보이다",
+      "pos": "v.",
+      "ex": "It seems to me that it's more delicious."
+    },
+    {
+      "en": "choice",
+      "ko": "선택",
+      "pos": "n.",
+      "ex": "It seems to me that it's the healthier choice."
+    },
+    {
+      "en": "order",
+      "ko": "주문하다",
+      "pos": "v.",
+      "ex": "Let's order, then."
+    },
+    {
+      "en": "plate",
+      "ko": "접시, 그릇",
+      "pos": "n.",
+      "ex": "Look at these two old plates, Steve."
+    },
+    {
+      "en": "unique",
+      "ko": "독특한",
+      "pos": "a.",
+      "ex": "The Chinese character is very unique."
+    },
+    {
+      "en": "exhibition",
+      "ko": "전시회",
+      "pos": "n.",
+      "ex": "In Conversation G: There are two exhibitions we can go to."
+    },
+    {
+      "en": "mask",
+      "ko": "가면, 탈",
+      "pos": "n.",
+      "ex": "I prefer the Korean mask exhibition."
+    },
+    {
+      "en": "sure",
+      "ko": "확신하는, 확실한",
+      "pos": "a.",
+      "ex": "I'm sure you'll like it."
+    },
+    {
+      "en": "dynasty",
+      "ko": "시대, 왕조",
+      "pos": "n.",
+      "ex": "Dynasty ◈ 언어 형식 • to부정사의 의미상 주어 It was impossible for him to catch any fish."
+    },
+    {
+      "en": "character",
+      "ko": "문자, 성격, 등장인물",
+      "pos": "n.",
+      "ex": "In painting [D], I see a Chinese character with a fish."
+    },
+    {
+      "en": "carp",
+      "ko": "잉어",
+      "pos": "n.",
+      "ex": "Do you also see a carp, a geomungo, and a fan?"
+    },
+    {
+      "en": "type",
+      "ko": "종류, 유형",
+      "pos": "n.",
+      "ex": "Munjado is a type of folk painting that was popular in the early Joseon dynasty."
+    },
+    {
+      "en": "folk painting",
+      "ko": "민화",
+      "pos": "n.",
+      "ex": "Munjado is a type of folk painting that was popular in the early Joseon dynasty."
+    },
+    {
+      "en": "object",
+      "ko": "물건, 물체",
+      "pos": "n.",
+      "ex": "In Munjado, there is usually a Chinese character with some animals or objects."
+    },
+    {
+      "en": "appear",
+      "ko": "나타나다, 보이다",
+      "pos": "v.",
+      "ex": "It appears to me that ~ 그것은 ~인 것 같다."
+    },
+    {
+      "en": "represent",
+      "ko": "나타내다, 상징하다",
+      "pos": "v.",
+      "ex": "What do the eight Chinese characters in Munjado represent?"
+    },
+    {
+      "en": "value",
+      "ko": "가치",
+      "pos": "n.",
+      "ex": "They represent the values that were important to people of Joseon dynasty."
+    },
+    {
+      "en": "decoration",
+      "ko": "장식",
+      "pos": "n.",
+      "ex": "- 7 - The animals or objects in Munjado are not just decorations."
+    },
+    {
+      "en": "symbolic",
+      "ko": "상징적인, 상징하는",
+      "pos": "a.",
+      "ex": "They often are symbolic."
+    },
+    {
+      "en": "symbolize",
+      "ko": "상징하다",
+      "pos": "v.",
+      "ex": "For these reasons, bamboo came to symbolize loyalty to the king."
+    },
+    {
+      "en": "respect",
+      "ko": "존경(심), 공경, 존중",
+      "pos": "n.",
+      "ex": "We think respect for parents is the most important value."
+    },
+    {
+      "en": "ill",
+      "ko": "아픈",
+      "pos": "a.",
+      "ex": "It seems to me that my sister will like it more."
+    },
+    {
+      "en": "completely",
+      "ko": "완전히",
+      "pos": "adv.",
+      "ex": "- 8 - The man went out to the river, but it was completely frozen."
+    },
+    {
+      "en": "frozen",
+      "ko": "얼어붙은",
+      "pos": "a.",
+      "ex": "- 8 - The man went out to the river, but it was completely frozen."
+    },
+    {
+      "en": "impossible",
+      "ko": "불가능한",
+      "pos": "a.",
+      "ex": "Dynasty ◈ 언어 형식 • to부정사의 의미상 주어 It was impossible for him to catch any fish."
+    },
+    {
+      "en": "catch",
+      "ko": "(움직이는 물체를) 잡다, (새, 짐승,",
+      "pos": "v.",
+      "ex": "Dynasty ◈ 언어 형식 • to부정사의 의미상 주어 It was impossible for him to catch any fish."
+    },
+    {
+      "en": "disappointed",
+      "ko": "실망한",
+      "pos": "a.",
+      "ex": "The man was so disappointed that he cried out to the sky, “What should I do?"
+    },
+    {
+      "en": "melt",
+      "ko": "녹다",
+      "pos": "v.",
+      "ex": "Then the ice melted, and three carp suddenly came out of the water."
+    },
+    {
+      "en": "example",
+      "ko": "예시, 사례",
+      "pos": "n.",
+      "ex": "Lesson 8 - 9 - There are other examples of symbolic objects in Munjado."
+    },
+    {
+      "en": "bamboo",
+      "ko": "대나무",
+      "pos": "n.",
+      "ex": "Bamboo does not bend."
+    },
+    {
+      "en": "lotus flower",
+      "ko": "연꽃",
+      "pos": "n.",
+      "ex": "The pond is full of lotus flowers."
+    },
+    {
+      "en": "bend",
+      "ko": "굽다, 구부러지다",
+      "pos": "v.",
+      "ex": "Bamboo does not bend."
+    },
+    {
+      "en": "loyalty",
+      "ko": "충성, 충실",
+      "pos": "n.",
+      "ex": "For these reasons, bamboo came to symbolize loyalty to the king."
+    },
+    {
+      "en": "muddy",
+      "ko": "진흙투성이의",
+      "pos": "a.",
+      "ex": "It was because they grow in muddy ponds but still bloom beautifully."
+    },
+    {
+      "en": "pond",
+      "ko": "연못",
+      "pos": "n.",
+      "ex": "It was because they grow in muddy ponds but still bloom beautifully."
+    },
+    {
+      "en": "still",
+      "ko": "그런데도, 그럼에도 불구하고",
+      "pos": "adv.",
+      "ex": "It was because they grow in muddy ponds but still bloom beautifully."
+    },
+    {
+      "en": "bloom",
+      "ko": "꽃을 피우다, 꽃이 피다",
+      "pos": "v.",
+      "ex": "It was because they grow in muddy ponds but still bloom beautifully."
+    },
+    {
+      "en": "beautifully",
+      "ko": "아름답게",
+      "pos": "adv.",
+      "ex": "It was because they grow in muddy ponds but still bloom beautifully."
+    },
+    {
+      "en": "thus",
+      "ko": "따라서, 그러므로",
+      "pos": "adv."
+    },
+    {
+      "en": "will",
+      "ko": "의지",
+      "pos": "n.",
+      "ex": "It seems to me that my sister will like it more."
+    },
+    {
+      "en": "fight",
+      "ko": "싸우다",
+      "pos": "v.",
+      "ex": "They fight for their owners and protect them."
+    },
+    {
+      "en": "justice",
+      "ko": "정의",
+      "pos": "n.",
+      "ex": "We think justice is the most important value."
+    },
+    {
+      "en": "despite",
+      "ko": "~에도 불구하고",
+      "pos": "prep."
+    },
+    {
+      "en": "remind",
+      "ko": "상기시키다",
+      "pos": "v.",
+      "ex": "The photos remind me of my hometown."
+    },
+    {
+      "en": "influence",
+      "ko": "영향을 끼치다",
+      "pos": "v."
+    },
+    {
+      "en": "behavior",
+      "ko": "행동",
+      "pos": "n."
+    },
+    {
+      "en": "attitude",
+      "ko": "태도, 자세",
+      "pos": "n."
+    },
+    {
+      "en": "tool",
+      "ko": "도구",
+      "pos": "n.",
+      "ex": "In particular, for children, Munjado was a study tool."
+    },
+    {
+      "en": "importance",
+      "ko": "중요성",
+      "pos": "n.",
+      "ex": "Joseon dynasty could learn the importance of harmony in family and society."
+    },
+    {
+      "en": "through",
+      "ko": "~을 통해",
+      "pos": "prep.",
+      "ex": "What could children in the Joseon dynasty learn through Munjado?"
+    },
+    {
+      "en": "harmony",
+      "ko": "조화",
+      "pos": "n.",
+      "ex": "Joseon dynasty could learn the importance of harmony in family and society."
+    },
+    {
+      "en": "society",
+      "ko": "사회",
+      "pos": "n.",
+      "ex": "Joseon dynasty could learn the importance of harmony in family and society."
+    },
+    {
+      "en": "a type of",
+      "ko": "일종의~, ~의 한 종류",
+      "pos": "",
+      "ex": "Munjado is a type of folk painting that was popular in the early Joseon dynasty."
+    },
+    {
+      "en": "as follows",
+      "ko": "다음과 같이",
+      "pos": "",
+      "ex": "The story goes as follows."
+    },
+    {
+      "en": "once upon a time",
+      "ko": "옛날 옛적에",
+      "pos": "",
+      "ex": "Once upon a time, a man lived with his old mother."
+    },
+    {
+      "en": "cry out to",
+      "ko": "~에 대고[~에게] 소리치다",
+      "pos": ""
+    },
+    {
+      "en": "come out of",
+      "ko": "~에서 나오다",
+      "pos": ""
+    },
+    {
+      "en": "get well",
+      "ko": "병이 나아지다",
+      "pos": ""
+    },
+    {
+      "en": "in the case of",
+      "ko": "~의 경우에",
+      "pos": ""
+    },
+    {
+      "en": "all kinds of",
+      "ko": "모든 종류의",
+      "pos": "",
+      "ex": "It stays green in all kinds of weather."
+    },
+    {
+      "en": "for this reason",
+      "ko": "이런 이유로",
+      "pos": "",
+      "ex": "For this reason, many accidents happen here."
+    },
+    {
+      "en": "remind A of B",
+      "ko": "A에게 B를 상기시키다",
+      "pos": ""
+    },
+    {
+      "en": "in particular",
+      "ko": "특히",
+      "pos": "",
+      "ex": "In particular, for children, Munjado was a study tool."
+    }
+  ]
+}

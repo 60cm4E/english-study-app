@@ -1,0 +1,475 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-lee-15",
+    "lesson": 7,
+    "title": "Lesson 7"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "I wonder ~는 ‘나는 ~이 궁금하다’ 라는 뜻으로 어떤 것에 대해 궁금할 때 사용하는 표 현이다.",
+        "ko": "",
+        "category": "궁금함 표현하기"
+      },
+      {
+        "en": "I wonder how high this mountain is.",
+        "ko": "",
+        "category": "궁금함 표현하기"
+      },
+      {
+        "en": "I wonder ~는 ‘나는 ~이 궁금하다’ 라는 뜻으로 뒤에 의문사가 이끄는 절이 뒤따르는 경 우 ‘의문사+주어+동사’의 어순으로 쓴다.",
+        "ko": "",
+        "category": "궁금함 표현하기"
+      },
+      {
+        "en": "The weather forecast says ~는 ‘일기 예보 에 따르면 ~’이라는 뜻으로 일기예보에서 보거나 들 은 내용을 상대방에게 전달하고 있다.",
+        "ko": "",
+        "category": "보고하기"
+      },
+      {
+        "en": "I heard that ~은 ‘~라고 들었다’라는 뜻으로 어딘가에서 들은 내용을 상대에게 전달해주고 있다.",
+        "ko": "",
+        "category": "보고하기"
+      },
+      {
+        "en": "The Internet says ~도 ‘인터넷에서 말하길 ~’라는 뜻 으로 인터넷에서 본 내용을 전해주기 위해서 사용하고 있다.",
+        "ko": "",
+        "category": "보고하기"
+      },
+      {
+        "en": "The Internet says (that) ~은 ‘인터넷에서 말하길 ~’이라는 뜻으로 인터넷에서 본 내용을 상대 에게 전달하고 있다.",
+        "ko": "",
+        "category": "보고하기"
+      },
+      {
+        "en": "This small fish를 수식하는 절을 이끈다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "This small fish uses a tool to open them and its favorite food is clams.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "This small fish uses a tool to open them and its favorite food is clams.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "This small fish + whose favorite food is clams + uses a tool to open them.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "I wonder where the bus stop is.",
+        "ko": "나는 버스 정류장이 어디에 있는지 궁금해.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "It’s in front of the police station.",
+        "ko": "나는 버스 정류장이 어디에 있는지 궁금해.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "나는 버스 정류장이 어디에 있는지 궁금해.",
+        "ko": "그곳은 경찰서 앞에 있어.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "Is there anything interesting?",
+        "ko": "뭔가 재미있는 게 있니?",
+        "category": "일반 표현"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "I ___ ~는 ‘나는 ~이 궁금하다’ 라는 뜻으로 어떤 것에 대해 궁금할 때 사용하는 표 현이다.",
+        "a": "wonder",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I wonder how high this ___ is.",
+        "a": "mountain",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I ___ ~는 ‘나는 ~이 궁금하다’ 라는 뜻으로 뒤에 의문사가 이끄는 절이 뒤따르는 경 우 ‘의문사+주어+동사’의 어순으로 쓴다.",
+        "a": "wonder",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "The weather ___ says ~는 ‘일기 예보 에 따르면 ~’이라는 뜻으로 일기예보에서 보거나 들 은 내용을 상대방에게 전달하고 있다.",
+        "a": "forecast",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I ___ that ~은 ‘~라고 들었다’라는 뜻으로 어딘가에서 들은 내용을 상대에게 전달해주고 있다.",
+        "a": "heard",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "The ___ says ~도 ‘인터넷에서 말하길 ~’라는 뜻 으로 인터넷에서 본 내용을 전해주기 위해서 사용하고 있다.",
+        "a": "Internet",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "The ___ says (that) ~은 ‘인터넷에서 말하길 ~’이라는 뜻으로 인터넷에서 본 내용을 상대 에게 전달하고 있다.",
+        "a": "Internet",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "This ___ fish를 수식하는 절을 이끈다.",
+        "a": "small",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "This small fish uses a tool to open them and its ___ food is clams.",
+        "a": "favorite",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "This small fish uses a tool to open them and its ___ food is clams.",
+        "a": "favorite",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "This small fish + whose ___ food is clams + uses a tool to open them.",
+        "a": "favorite",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I ___ where the bus stop is.",
+        "a": "wonder",
+        "hint": "나는 버스 정류장이 어디에 있는지 궁금해."
+      },
+      {
+        "type": "fill-blank",
+        "q": "It’s in front of the police ___.",
+        "a": "station",
+        "hint": "나는 버스 정류장이 어디에 있는지 궁금해."
+      },
+      {
+        "type": "fill-blank",
+        "q": "Is there anything ___?",
+        "a": "interesting",
+        "hint": "뭔가 재미있는 게 있니?"
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - 1",
+        "en": "A: I wonder where the bus stop is. A: Is there anything interesting? B: It’s about 2,000m high. G: That’s interesting, too! A: I wonder where the bus stop is.",
+        "ko": "A: 나는 버스 정류장이 어디에 있는지 궁금해. A: 뭔가 재미있는 게 있니? 소년: 우리는 산 정상에 거의 다 왔어. 소년: 텔레비전에 나온 아기 펭귄들을 봐. 아주 귀여워. A: 우리는 마침내 여기에 왔어."
+      },
+      {
+        "id": "r2",
+        "title": "본문 - 2",
+        "en": "B: 그래, 나는 매우 신이 나. 우리 둘러보자. A: I wonder where the information center is. B: 그래, 나는 매우 신이 나. 우리 둘러보자. I’d be (very) interested to know ~. Can someone tell me about ~?",
+        "ko": "A: 나는 버스 정류장이 어디에 있는지 궁금해. A: 우리는 마침내 여기에 왔어. A: 나는 안내소가 어디에 있는지 궁금해. ‘나는 ~을 아는 데 흥미가 있어.’ ‘누가 나에게 ~에 대해 말해줄 수 있니?’"
+      },
+      {
+        "id": "r3",
+        "title": "본문 - 3",
+        "en": "B: Let’s go another time, then. G: The Internet says it takes about two hours. A: Is there anything interesting? A: Is there anything interesting? B: 이 기사에 따르면 고래 가족이 동해에서 발견되었대.",
+        "ko": "소년: 바깥 날씨가 아주 좋아. 소년: 수민아, 너는 일요일에 무엇을 할 거니? A: 너는 무엇을 하고 있니? A: 너는 무엇을 하고 있니? 보고하기: 다른 사람에게 들은 내용을 상대방에게 보고하거나"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "A: I ___ where the bus stop is.",
+        "a": "wonder",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Is there anything ___?",
+        "a": "interesting",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: It’s ___ 2,000m high.",
+        "a": "about",
+        "passage": "r1"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 나는 버스 정류장이 어디에 있는지 궁금해. A: 뭔가 재미있는 게 있니? 소년: 우리는 산 정상에 거의...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: I wonder where the ___ center is.",
+        "a": "information",
+        "passage": "r2"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 나는 버스 정류장이 어디에 있는지 궁금해. A: 우리는 마침내 여기에 왔어. A: 나는 안내소가 어디에...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: Let’s go ___ time, then.",
+        "a": "another",
+        "passage": "r3"
+      },
+      {
+        "type": "fill-blank",
+        "q": "G: The ___ says it takes about two hours.",
+        "a": "Internet",
+        "passage": "r3"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Is there anything ___?",
+        "a": "interesting",
+        "passage": "r3"
+      },
+      {
+        "type": "true-false",
+        "q": "소년: 바깥 날씨가 아주 좋아. 소년: 수민아, 너는 일요일에 무엇을 할 거니? A: 너는 무엇을 하고 있니...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사가 동사, 형용사, 부사를 수식하는 부사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "Q1. 그림 속 고래들은 무엇을 하고 있나요?",
+            "ko": "- 그것들은 자고 있습니다."
+          },
+          {
+            "en": "Q2. 혹등고래는 어디서 잠을 자나요?",
+            "ko": "- 그것들은 수면 근처에서 잠을 잡니다."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "B: 그곳은 경찰서 앞에 있어.",
+            "ko": "• 보고하기"
+          },
+          {
+            "en": "A: 뭔가 재미있는 게 있니?",
+            "ko": "B: 이 기사에 따르면 과학자들이 새로운 행성을 발견"
+          },
+          {
+            "en": "A: 뭔가 재미있는 게 있니?",
+            "ko": "B: 이 기사에 따르면 과학자들이 새로운 행성을 발견"
+          },
+          {
+            "en": "B: Okay, see you on Sunday!",
+            "ko": "소년: 수민아, 너는 일요일에 무엇을 할 거니?"
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "현재완료",
+        "explanation": "'have/has + 과거분사'로 과거에 시작된 일이 현재까지 영향을 미침을 나타냅니다.",
+        "examples": [
+          {
+            "en": "Q1. 그림 속 고래들은 무엇을 하고 있나요?",
+            "ko": "- 그것들은 자고 있습니다."
+          },
+          {
+            "en": "Q2. 혹등고래는 어디서 잠을 자나요?",
+            "ko": "- 그것들은 수면 근처에서 잠을 잡니다."
+          }
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "수동태",
+        "explanation": "'be동사 + 과거분사(p.p.)'로 '~되다, ~당하다'의 의미를 나타냅니다.",
+        "examples": []
+      }
+    ],
+    "exercises": [
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "I",
+          "wonder",
+          "where",
+          "the",
+          "bus",
+          "stop",
+          "s"
+        ],
+        "a": "A: I wonder where the bus stop s."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "It’s",
+          "n",
+          "front",
+          "of",
+          "the",
+          "pole",
+          "staton"
+        ],
+        "a": "B: It’s n front of the pole staton."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "나는",
+          "버스",
+          "정류장이",
+          "어디에",
+          "있는지",
+          "궁금해"
+        ],
+        "a": "A: 나는 버스 정류장이 어디에 있는지 궁금해."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "그곳은",
+          "경찰서",
+          "앞에",
+          "있어"
+        ],
+        "a": "B: 그곳은 경찰서 앞에 있어."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "Is",
+          "there",
+          "anythng",
+          "nterestng"
+        ],
+        "a": "A: Is there anythng nterestng?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "뭔가",
+          "재미있는",
+          "게",
+          "있니"
+        ],
+        "a": "A: 뭔가 재미있는 게 있니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: I ___ where the bus stop s.",
+        "a": "wonder",
+        "hint": "A: 나는 버스 정류장이 어디에 있는지 궁금해."
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: It’s n front of the pole ___.",
+        "a": "staton",
+        "hint": "A: 나는 버스 정류장이 어디에 있는지 궁금해."
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Is there anythng ___?",
+        "a": "nterestng",
+        "hint": "A: 뭔가 재미있는 게 있니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: It’s ___ 2,000m hgh.",
+        "a": "about",
+        "hint": "소년: 우리는 산 정상에 거의 다 왔어."
+      },
+      {
+        "type": "fill-blank",
+        "q": "G: Wow! Ths s a really hgh ___.",
+        "a": "mountan",
+        "hint": "소년: 우리는 산 정상에 거의 다 왔어."
+      },
+      {
+        "type": "error-correction",
+        "q": "Ths small fsh + whose favorte food s lams + uses a tool opening them.",
+        "a": "to open",
+        "wrong": "opening",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "Ths small fsh whose favorte food s lams uses a tool opening them.",
+        "a": "to open",
+        "wrong": "opening",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "multi-choice",
+        "q": "Once upon a time, there lived a girl (who / \nwhose) name was Gretel.",
+        "a": "who",
+        "opts": [
+          "who",
+          "whose"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "The girl (whose / that) is riding a bike is Judy.",
+        "a": "whose",
+        "opts": [
+          "whose",
+          "that"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "How do dolphins and whales breathe (after / \nwhen) they sleep?",
+        "a": "after",
+        "opts": [
+          "after",
+          "when"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "You should wait on the sidewalk (until / \nbefore) the traffic light changes to green.",
+        "a": "until",
+        "opts": [
+          "until",
+          "before"
+        ]
+      }
+    ]
+  }
+}

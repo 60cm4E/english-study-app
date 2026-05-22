@@ -1,0 +1,434 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-yoon-15",
+    "lesson": 5,
+    "title": "Lesson 5"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "How often do you ~?",
+        "ko": "",
+        "category": "빈도 묻고 말하기"
+      },
+      {
+        "en": "I suggest (that) you (should) 동 사원형‘은 상대방에게 어떤 일을 제안하거나 권유할 때 사용하는 표현으로 ‘나는 ~하는 것을 제안한다’라 는 뜻이다.",
+        "ko": "",
+        "category": "제안이나 권유하기"
+      },
+      {
+        "en": "I suggest that you (should) 동사 원형‘은 ‘나는 ~하는 것을 제안한다’라는 뜻으로, that 은 생략 가능하다.",
+        "ko": "",
+        "category": "제안이나 권유하기"
+      },
+      {
+        "en": "Runners can choose a pacer depending on their target finish time.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "For example, if a runner wants to finish the race in four hours, the runner will follow the four-hour pacer.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "You can fly to Paris for as little as 20 euros.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Runners can choose a pacer _____________________ their target finish time.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "For example, ______ a runner wants to finish the race in four hours, the runner will follow the four-hour pacer.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "How often do you exercise?",
+        "ko": "너는 얼마나 자주 운동을 하니?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "I exercise once a week.",
+        "ko": "너는 얼마나 자주 운동을 하니?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "너는 얼마나 자주 운동을 하니?",
+        "ko": "나는 일주일에 한 번 운동을 해.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "Can I run with you today?",
+        "ko": "너는 얼마나 자주 농구를 하니?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "Sure, but I suggest you wear running shoes.",
+        "ko": "너는 얼마나 자주 농구를 하니?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "너는 얼마나 자주 농구를 하니?",
+        "ko": "네가 우리 농구 동아리에 가입할 것을 제안해. 우리는",
+        "category": "일반 표현"
+      },
+      {
+        "en": "일주일에 한 번 하는데 더 자주 하고 싶어.",
+        "ko": "네가 우리 농구 동아리에 가입할 것을 제안해. 우리는",
+        "category": "일반 표현"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "How ___ do you ~?",
+        "a": "often",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I ___ (that) you (should) 동 사원형‘은 상대방에게 어떤 일을 제안하거나 권유할 때 사용하는 표현으로 ‘나는 ~하는 것을 제안한다’라 는 뜻이다.",
+        "a": "suggest",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I ___ that you (should) 동사 원형‘은 ‘나는 ~하는 것을 제안한다’라는 뜻으로, that 은 생략 가능하다.",
+        "a": "suggest",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Runners can choose a pacer ___ on their target finish time.",
+        "a": "depending",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "For ___, if a runner wants to finish the race in four hours, the runner will follow the four-hour pacer.",
+        "a": "example",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "You can fly to Paris for as ___ as 20 euros.",
+        "a": "little",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ can choose a pacer _____________________ their target finish time.",
+        "a": "Runners",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "For ___, ______ a runner wants to finish the race in four hours, the runner will follow the four-hour pacer.",
+        "a": "example",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "How often do you ___?",
+        "a": "exercise",
+        "hint": "너는 얼마나 자주 운동을 하니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I ___ once a week.",
+        "a": "exercise",
+        "hint": "너는 얼마나 자주 운동을 하니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "Can I run with you ___?",
+        "a": "today",
+        "hint": "너는 얼마나 자주 농구를 하니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "Sure, but I ___ you wear running shoes.",
+        "a": "suggest",
+        "hint": "너는 얼마나 자주 농구를 하니?"
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - 1",
+        "en": "A: How often do you exercise? B: 나는 일주일에 한 번 운동을 해. I suggest you exercise more often. They are as important as the players. G: Sure, but I suggest you wear running shoes.",
+        "ko": "A: 너는 얼마나 자주 운동을 하니? • 제안이나 권유하기 네가 더 자주 운동할 것을 제안해. 그들은 선수들만큼 중요하다. B: 너는 얼마나 자주 농구를 하니?"
+      },
+      {
+        "id": "r2",
+        "title": "본문 - 2",
+        "en": "G: 일주일에 한 번 하는데 더 자주 하고 싶어. G: 좋아! 너와 함께 농구하면 재미있을 거야. G: 나는 일주일에 네 번 수영을 해. G: 그래, 그런데 수영하기 전에, 우리가 스트레칭하는 것을 제안해. B: 수지야, 너는 얼마나 자주 볼링 수업을 받니?",
+        "ko": "B: 네가 우리 농구 동아리에 가입할 것을 제안해. 우리는 B: 나는 수영을 자주 하지 않아. 너는 어때, Kate? 너는 얼 B: 그렇게 자주? 어쨌든, 오늘 함께 수영하면 재미있을 거야. B: 좋은 생각이야. G: 일주일에 두 번. 나는 그냥 초보야. 너는 아주 잘한다고 들었어."
+      },
+      {
+        "id": "r3",
+        "title": "본문 - 3",
+        "en": "G: 알았어. 그러면 더 가벼운 공을 찾아볼게. B: 오늘 너랑 같이 달리기를 해도 될까? B: I exercise once a week. B: 나는 일주일에 한 번 운동을 해. If I were you, I’d ~.",
+        "ko": "B: 미나야, 너는 이곳에 달리기를 하러 얼마나 자주 오니? G: 물론이야, 그런데 네가 운동화를 신는 것을 권해. 네 신 A: 민수야, 너는 얼마나 자주 운동을 하니? A: 네가 더 자주 운동하기를 제안해. Why don’t you + 동사원형?"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "A: How often do you ___?",
+        "a": "exercise",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I suggest you ___ more often.",
+        "a": "exercise",
+        "passage": "r1"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 너는 얼마나 자주 운동을 하니? • 제안이나 권유하기 네가 더 자주 운동할 것을 제안해. 그들은 선수들...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "true-false",
+        "q": "B: 네가 우리 농구 동아리에 가입할 것을 제안해. 우리는 B: 나는 수영을 자주 하지 않아. 너는 어때, ...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "true-false",
+        "q": "B: 미나야, 너는 이곳에 달리기를 하러 얼마나 자주 오니? G: 물론이야, 그런데 네가 운동화를 신는 것을...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사가 앞의 명사를 꾸며주는 형용사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "B: OK. I’ll try.",
+            "ko": "A: 민수야, 너는 얼마나 자주 운동을 하니?"
+          },
+          {
+            "en": "A: 민수야, 너는 얼마나 자주 운동을 하니?",
+            "ko": "B: 나는 일주일에 한 번 운동을 해."
+          },
+          {
+            "en": "B: 나는 일주일에 한 번 운동을 해.",
+            "ko": "A: 네가 더 자주 운동하기를 제안해."
+          },
+          {
+            "en": "A: 네가 더 자주 운동하기를 제안해.",
+            "ko": "B: 알겠어. 시도해 볼게."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "It is important because the tires wear out easily in a high speed race.",
+            "ko": "▲구문 UP 접속사 as의 다양한 용법"
+          },
+          {
+            "en": "Q4. 자동차 경주에서 피트는 무엇인가요?",
+            "ko": "- 경주 트랙의 옆에 있는 공간입니다."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "수동태",
+        "explanation": "'be동사 + 과거분사(p.p.)'로 '~되다, ~당하다'의 의미를 나타냅니다.",
+        "examples": []
+      },
+      {
+        "id": "g4",
+        "title": "분사",
+        "explanation": "현재분사(-ing)와 과거분사(-ed)가 명사를 수식하는 형용사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "B: I exercise once a week.",
+            "ko": "A: 너는 얼마나 자주 운동을 하니?"
+          },
+          {
+            "en": "A: 너는 얼마나 자주 운동을 하니?",
+            "ko": "B: 나는 일주일에 한 번 운동을 해."
+          },
+          {
+            "en": "B: 나는 일주일에 한 번 운동을 해.",
+            "ko": "• 제안이나 권유하기"
+          },
+          {
+            "en": "I suggest you exercise more often.",
+            "ko": "네가 더 자주 운동할 것을 제안해."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "How",
+          "often",
+          "do",
+          "you",
+          "exerse"
+        ],
+        "a": "A: How often do you exerse?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "I",
+          "exerse",
+          "one",
+          "a",
+          "wee"
+        ],
+        "a": "B: I exerse one a wee."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "너는",
+          "얼마나",
+          "자주",
+          "운동을",
+          "하니"
+        ],
+        "a": "A: 너는 얼마나 자주 운동을 하니?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "나는",
+          "일주일에",
+          "한",
+          "번",
+          "운동을",
+          "해"
+        ],
+        "a": "B: 나는 일주일에 한 번 운동을 해."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "I",
+          "suggest",
+          "you",
+          "exerse",
+          "more",
+          "often"
+        ],
+        "a": "I suggest you exerse more often."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "They",
+          "are",
+          "as",
+          "mportant",
+          "as",
+          "the",
+          "players"
+        ],
+        "a": "They are as mportant as the players."
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: How often do you ___?",
+        "a": "exerse",
+        "hint": "A: 너는 얼마나 자주 운동을 하니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: I ___ one a wee.",
+        "a": "exerse",
+        "hint": "A: 너는 얼마나 자주 운동을 하니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I ___ you exerse more often.",
+        "a": "suggest",
+        "hint": "네가 더 자주 운동할 것을 제안해."
+      },
+      {
+        "type": "fill-blank",
+        "q": "They are as ___ as the players.",
+        "a": "mportant",
+        "hint": "그들은 선수들만큼 중요하다."
+      },
+      {
+        "type": "fill-blank",
+        "q": "G: Sure, but I ___ you wear runnng shoes.",
+        "a": "suggest",
+        "hint": "B: 너는 얼마나 자주 농구를 하니?"
+      },
+      {
+        "type": "error-correction",
+        "q": "It s helping other runners manage ther rae better.",
+        "a": "to help",
+        "wrong": "helping",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "multi-choice",
+        "q": "Look at the (dancing / danced) girl.",
+        "a": "dancing",
+        "opts": [
+          "dancing",
+          "danced"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "Don't sit on (breaking / broken) chairs.",
+        "a": "breaking",
+        "opts": [
+          "breaking",
+          "broken"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "He was looking for a strange object (flying / \nflown) in the sky.",
+        "a": "flying",
+        "opts": [
+          "flying",
+          "flown"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "Anne is looking at the house (painted / \npainting) in red.",
+        "a": "painted",
+        "opts": [
+          "painted",
+          "painting"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-lee-15",
+    "lesson": 8,
+    "title": "Lesson 8"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "I should have + 과거분사‘는 ’나는 ~ 했어야 했다‘라고 후회를 나타내는 표현으로, 본문에서 는 어젯밤에 덜 먹었어야 했는데 (많이 먹었다)의 의 미를 담고 있다.",
+        "ko": "",
+        "category": "후회 표현하기"
+      },
+      {
+        "en": "Listen and Check G: Jiho, what's up?",
+        "ko": "",
+        "category": "후회 표현하기"
+      },
+      {
+        "en": "I shouldn’t have + 과거분사‘는 ’나는 ~하지 말았어야 했다‘라고 후회를 나타내는 표현으로, 과거의 한 행동에 대해 후회하고 있다.",
+        "ko": "",
+        "category": "후회 표현하기"
+      },
+      {
+        "en": "I hope you ~.",
+        "ko": "",
+        "category": "기원하는 말 하기"
+      },
+      {
+        "en": "I hope 다음에는 접속사 that이 생 략되어 있다.",
+        "ko": "",
+        "category": "기원하는 말 하기"
+      },
+      {
+        "en": "I should have + 과거분사‘는 ’나는 ~ 했어야 했다‘라고 후회를 나타내는 표현으로, 본문에서 는 친구들과 더 많은 시간을 보내지 못한 것에 대한 후회를 나타내고 있다.",
+        "ko": "",
+        "category": "후회 표현하기"
+      },
+      {
+        "en": "Reading the article은 동시동작을 나타내는 분사구문으로 ‘~하면서, ~한 채로’라고 해석한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "As he read the article의 부사절에서 접속사와 주어인 As와 he를 생략하고, 동사를 현재분사(Reading) 형태로 고쳐서 분사구문을 만들었다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Catching his breath는 시간을 나타내는 분사구문으로 본래 After he caught his breath의 부사절에서 접속사와 주어인 After와 he를 생략하고, 동사를 현재분사 (Catching) 형태로 고쳐서 분사구문을 만들었다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Grammar✚ 분사구문 1.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "As he read the article의 부사절에서 접속사와 주어인 _________와 __________를 생략하고, 동사를 _____________(Reading) 형태로 고쳐서 분사구문을 만 들었다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Catching his breath는 시간을 나타내는 분사구문으로 본래 _____________________ his breath의 부사절에서 접속사와 주어인 After와 he를 생략하고, 동사를 현재분 사(Catching) 형태로 고쳐서 분사구문을 만들었다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Oh, no! You got caught in the rain.",
+        "ko": "오, 저런! 너 비를 맞았구나.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "I should have taken an umbrella.",
+        "ko": "오, 저런! 너 비를 맞았구나.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "오, 저런! 너 비를 맞았구나.",
+        "ko": "나는 우산을 가져왔어야 했어.",
+        "category": "일반 표현"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "___ and Check G: Jiho, what's up?",
+        "a": "Listen",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I ___’t have + 과거분사‘는 ’나는 ~하지 말았어야 했다‘라고 후회를 나타내는 표현으로, 과거의 한 행동에 대해 후회하고 있다.",
+        "a": "shouldn",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I ___ you ~.",
+        "a": "hope",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I ___ 다음에는 접속사 that이 생 략되어 있다.",
+        "a": "hope",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ the article은 동시동작을 나타내는 분사구문으로 ‘~하면서, ~한 채로’라고 해석한다.",
+        "a": "Reading",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "As he read the ___의 부사절에서 접속사와 주어인 As와 he를 생략하고, 동사를 현재분사(Reading) 형태로 고쳐서 분사구문을 만들었다.",
+        "a": "article",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ his breath는 시간을 나타내는 분사구문으로 본래 After he caught his breath의 부사절에서 접속사와 주어인 After와 he를 생략하고, 동사를 현재분사 (Catching) 형태로 고쳐서 분사구문을 만들었다.",
+        "a": "Catching",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___✚ 분사구문 1.",
+        "a": "Grammar",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "As he read the ___의 부사절에서 접속사와 주어인 _________와 __________를 생략하고, 동사를 _____________(Reading) 형태로 고쳐서 분사구문을 만 들었다.",
+        "a": "article",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ his breath는 시간을 나타내는 분사구문으로 본래 _____________________ his breath의 부사절에서 접속사와 주어인 After와 he를 생략하고, 동사를 현재분 사(Catching) 형태로 고쳐서 분사구문을 만들었다.",
+        "a": "Catching",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Oh, no! You got ___ in the rain.",
+        "a": "caught",
+        "hint": "오, 저런! 너 비를 맞았구나."
+      },
+      {
+        "type": "fill-blank",
+        "q": "I should have taken an ___.",
+        "a": "umbrella",
+        "hint": "오, 저런! 너 비를 맞았구나."
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - 1",
+        "en": "A: Oh, no! You got caught in the rain. A: I'm going to sing in the school festival. B: 나는 네가 관중을 감동시키길 바라. B: I had a bad stomachache. A: Oh, I'm sorry to hear that.",
+        "ko": "A: 오, 저런! 너 비를 맞았구나. A: 나는 학교 축제에서 노래를 부를 거야. • 분사구문 소녀: Mike, 너 왜 수업에 늦었니? B: 나는 비를 맞았어."
+      },
+      {
+        "id": "r2",
+        "title": "본문 - 2",
+        "en": "A: 오, 그 말을 들어서 유감이구나. A: Oh, I'm sorry to hear that. A: 오, 그 말을 들어서 유감이구나. G: Of course. You have a really nice voice. You have a really nice voice.",
+        "ko": "B: 나는 우산을 가져왔어야 했어. B: 나는 자전거를 잃어버렸어. B: 나는 그것을 체인으로 묶어 놨어야 했어. 소녀: 재민아, 노래 경연 대회에 나갈 준비는 됐니? 안녕, 재민아. 노래 경연 대회가 내일이구나."
+      },
+      {
+        "id": "r3",
+        "title": "본문 - 3",
+        "en": "I’m going/planning to ~.로도 쓸 수 있다. B: I'm going to sing in the school festival. B: 나는 학교 축제에서 노래를 부를 거야. B: I'm going to play soccer. A: 멋지구나! 나는 네가 골을 넣기를 바라.",
+        "ko": "✔이 때 of는 전치사이므로 뒤에는 동명사(giving) 형태가 이어 A: 너는 내일 무엇을 할 거니? A: 멋지구나! 나는 네가 관중을 감동시키길 바라. A: 너는 내일 무엇을 할 거니? B: 고마워. 나도 그러길 바라."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "You got ___ in the rain.",
+        "a": "caught",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: I'm going to sing in the school ___.",
+        "a": "festival",
+        "passage": "r1"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 오, 저런! 너 비를 맞았구나. A: 나는 학교 축제에서 노래를 부를 거야. • 분사구문 소녀: Mik...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Oh, I'm ___ to hear that.",
+        "a": "sorry",
+        "passage": "r2"
+      },
+      {
+        "type": "true-false",
+        "q": "B: 나는 우산을 가져왔어야 했어. B: 나는 자전거를 잃어버렸어. B: 나는 그것을 체인으로 묶어 놨어야 ...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’m going/___ to ~.로도 쓸 수 있다.",
+        "a": "planning",
+        "passage": "r3"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: I'm going to sing in the school ___.",
+        "a": "festival",
+        "passage": "r3"
+      },
+      {
+        "type": "true-false",
+        "q": "✔이 때 of는 전치사이므로 뒤에는 동명사(giving) 형태가 이어 A: 너는 내일 무엇을 할 거니? A:...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사가 앞의 명사를 꾸며주는 형용사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "A: 무슨 일 있니?",
+            "ko": "B: 나는 비를 맞았어."
+          },
+          {
+            "en": "B: 나는 비를 맞았어.",
+            "ko": "A: 오, 그 말을 들어서 유감이구나."
+          },
+          {
+            "en": "A: 오, 그 말을 들어서 유감이구나.",
+            "ko": "B: 나는 우산을 가져왔어야 했어."
+          },
+          {
+            "en": "A: 무슨 일 있니?",
+            "ko": "B: 나는 자전거를 잃어버렸어."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "I’m going/planning to ~.로도 쓸 수 있다.",
+            "ko": "✔이 때 of는 전치사이므로 뒤에는 동명사(giving) 형태가 이어"
+          },
+          {
+            "en": "B: Thanks. I hope so, too.",
+            "ko": "A: 너는 내일 무엇을 할 거니?"
+          },
+          {
+            "en": "A: 너는 내일 무엇을 할 거니?",
+            "ko": "B: 나는 학교 축제에서 노래를 부를 거야."
+          },
+          {
+            "en": "B: 나는 학교 축제에서 노래를 부를 거야.",
+            "ko": "A: 멋지구나! 나는 네가 관중을 감동시키길 바라."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "현재완료",
+        "explanation": "'have/has + 과거분사'로 과거에 시작된 일이 현재까지 영향을 미침을 나타냅니다.",
+        "examples": [
+          {
+            "en": "A: 네 말이 맞는 것 같아.",
+            "ko": "B: 네가 고등학교에서 많은 학교 행사에 참여하길 바라."
+          },
+          {
+            "en": "B: I hope you are active in classes in high school.",
+            "ko": "A: 우리가 곧 졸업한다니 믿을 수가 없어."
+          },
+          {
+            "en": "A: 우리가 곧 졸업한다니 믿을 수가 없어.",
+            "ko": "B: 그래. 너는 중학교 생활에서 후회하는 것이 있니?"
+          },
+          {
+            "en": "B: 그래. 너는 중학교 생활에서 후회하는 것이 있니?",
+            "ko": "A: 응. 나는 수업 중에 적극적이었어야 했어."
+          }
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "수동태",
+        "explanation": "'be동사 + 과거분사(p.p.)'로 '~되다, ~당하다'의 의미를 나타냅니다.",
+        "examples": [
+          {
+            "en": "Beause she was tred, she ame ba home.",
+            "ko": "그녀는 피곤해서, 집으로 돌아왔다."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "Oh,",
+          "no!",
+          "You",
+          "got",
+          "aught",
+          "n",
+          "the",
+          "ran"
+        ],
+        "a": "A: Oh, no! You got aught n the ran."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "I",
+          "should",
+          "have",
+          "taen",
+          "an",
+          "umbrella"
+        ],
+        "a": "B: I should have taen an umbrella."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "오,",
+          "저런!",
+          "너",
+          "비를",
+          "맞았구나"
+        ],
+        "a": "A: 오, 저런! 너 비를 맞았구나."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "나는",
+          "우산을",
+          "가져왔어야",
+          "했어"
+        ],
+        "a": "B: 나는 우산을 가져왔어야 했어."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "I'm",
+          "gong",
+          "to",
+          "sng",
+          "n",
+          "the",
+          "shool",
+          "festval"
+        ],
+        "a": "A: I'm gong to sng n the shool festval."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "I",
+          "hope",
+          "you",
+          "move",
+          "the",
+          "audene"
+        ],
+        "a": "B: I hope you move the audene."
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Oh, no! You got ___ n the ran.",
+        "a": "aught",
+        "hint": "A: 오, 저런! 너 비를 맞았구나."
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: I should have taen an ___.",
+        "a": "umbrella",
+        "hint": "A: 오, 저런! 너 비를 맞았구나."
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: I'm gong to sng n the shool ___.",
+        "a": "festval",
+        "hint": "A: 나는 학교 축제에서 노래를 부를 거야."
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: I hope you move the ___.",
+        "a": "audene",
+        "hint": "A: 나는 학교 축제에서 노래를 부를 거야."
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: I had a bad ___.",
+        "a": "stomahahe",
+        "hint": "소녀: Mike, 너 왜 수업에 늦었니?"
+      },
+      {
+        "type": "error-correction",
+        "q": "A: Oh, I'm sorry hearing that.",
+        "a": "to hear",
+        "wrong": "hearing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "B: I'm gong playing soer.",
+        "a": "to play",
+        "wrong": "playing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "It s very nd of you helping her.",
+        "a": "to help",
+        "wrong": "helping",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "He deded hangeing people’s opnons about hm.",
+        "a": "to hange",
+        "wrong": "hangeing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "multi-choice",
+        "q": "Emma said goodbye to her friend, (got / \ngetting) off the bus.",
+        "a": "got",
+        "opts": [
+          "got",
+          "getting"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "Before I started working here, I (have used / \nhad used) this software.",
+        "a": "have used",
+        "opts": [
+          "have used",
+          "had used"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "She sent me a digital camera that she (has / \nhad) bought in Hong Kong.",
+        "a": "has",
+        "opts": [
+          "has",
+          "had"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "I had to take a taxi because the last bus (left \n/ had left).",
+        "a": "left",
+        "opts": [
+          "left",
+          "had left"
+        ]
+      }
+    ]
+  }
+}

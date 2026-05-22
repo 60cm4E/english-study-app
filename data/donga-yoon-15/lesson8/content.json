@@ -1,0 +1,464 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-yoon-15",
+    "lesson": 8,
+    "title": "Lesson 8"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "I prefer ~.",
+        "ko": "",
+        "category": "선호 표현하기"
+      },
+      {
+        "en": "I like ~ more/better.",
+        "ko": "",
+        "category": "선호 표현하기"
+      },
+      {
+        "en": "It seems to me that ~.",
+        "ko": "",
+        "category": "의견 표현하기"
+      },
+      {
+        "en": "Which do you prefer?",
+        "ko": "",
+        "category": "선호 표현하기"
+      },
+      {
+        "en": "Which one do you prefer, A or B?",
+        "ko": "",
+        "category": "선호 표현하기"
+      },
+      {
+        "en": "Which one do you want to see more?",
+        "ko": "",
+        "category": "선호 표현하기"
+      },
+      {
+        "en": "I prefer ~.",
+        "ko": "",
+        "category": "선호 표현하기"
+      },
+      {
+        "en": "It도 생략해서 말할 수 있다.",
+        "ko": "",
+        "category": "의견 표현하기"
+      },
+      {
+        "en": "If+주어+동사의 과거 형 ~, 주어+조동사의 과거형+동사원형 .",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "It would be wonderful (조건절) if I could eat fresh fish.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "It은 가주어이고 to catch 이하가 진주어인 구문이다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "It은 해석하지 않고 for him을 주어로 해서 해석한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "It was impossible for him to catch any fish.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Which food do you prefer, Tteokbokki or",
+        "ko": "떡볶이와 김밥 중에 어떤 음식을 더 좋아하니?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "I prefer Tteokbokki.",
+        "ko": "떡볶이와 김밥 중에 어떤 음식을 더 좋아하니?",
+        "category": "일반 표현"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "I ___ ~.",
+        "a": "prefer",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I like ~ more/___.",
+        "a": "better",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "It ___ to me that ~.",
+        "a": "seems",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Which do you ___?",
+        "a": "prefer",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Which one do you ___, A or B?",
+        "a": "prefer",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ one do you want to see more?",
+        "a": "Which",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I ___ ~.",
+        "a": "prefer",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "It would be ___ (조건절) if I could eat fresh fish.",
+        "a": "wonderful",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "It은 가주어이고 to ___ 이하가 진주어인 구문이다.",
+        "a": "catch",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "It was ___ for him to catch any fish.",
+        "a": "impossible",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Which food do you prefer, ___ or",
+        "a": "Tteokbokki",
+        "hint": "떡볶이와 김밥 중에 어떤 음식을 더 좋아하니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I prefer ___.",
+        "a": "Tteokbokki",
+        "hint": "떡볶이와 김밥 중에 어떤 음식을 더 좋아하니?"
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - 1",
+        "en": "B: I prefer Tteokbokki. It seems to me that it's more delicious. It was impossible for him to catch any fish. It would be wonderful if I could eat fresh fish. They are very beautiful.",
+        "ko": "A: 떡볶이와 김밥 중에 어떤 음식을 더 좋아하니? 나는 그것이 더 맛있는 것 같아. 그가 어떤 물고기라도 잡는 것은 불가능했다. 신선한 물고기를 먹을 수 있다면 정말 좋을 텐데. • 그림 [B]에서는 나무 한 그루가 보인다. 그것은 강인해"
+      },
+      {
+        "id": "r2",
+        "title": "본문 - 2",
+        "en": "G: 민호야, 여기 고양이 그림 두 점을 봐. 멋지지 않니? G: 둘 다 좋긴 하지만 나는 왼쪽 그림이 더 좋아. 너는 어때? G: I think so, too. I also like Bibimbap more. B: 나는 비빔밥이 더 좋아. 건강에 더 좋은 선택인 것 같아. B: 그럼, 주문하자. 너무 배가 고파.",
+        "ko": "B: 응. 멋지다. B: 나는 오른쪽 그림이 더 좋아. 나는 그 그림 속 고양이 G: 비빔밥이나 갈비탕을 먹을 수 있네. 너는 어느 것이 더 G: 나도 그렇게 생각해. 나도 비빔밥을 더 좋아해. Aren’t they great? 멋지지 않니?"
+      },
+      {
+        "id": "r3",
+        "title": "본문 - 3",
+        "en": "G: 이 오래된 두 접시 좀 봐, Steve. 아름답지 않니? G: 준수야, 네가 여동생에게 줄 선물을 살 거라고 했잖아. A: 너는 떡볶이와 김밥 중 어떤 음식을 더 좋아하니? A: 너는 왼쪽 그림과 오른쪽 그림 중 어느 그림이 더 좋아? G: It's in Dasom Hall, next to the exhibition room.",
+        "ko": "B: 그렇네. 너는 초록색 접시와 흰색 접시 중에서 어느 것 여기 있는 가방들 어때? B: 나는 떡볶이를 더 좋아해. 그게 더 맛있는 것 같아. 너 B: 나는 오른쪽 그림이 더 좋아. 그 그림 속 고양이가 더 G: 우리가 갈 수 있는 전시회가 두 개 있어. 어느 전시회"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "B: I prefer ___.",
+        "a": "Tteokbokki",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "It seems to me that it's more ___.",
+        "a": "delicious",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "It was ___ for him to catch any fish.",
+        "a": "impossible",
+        "passage": "r1"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 떡볶이와 김밥 중에 어떤 음식을 더 좋아하니? 나는 그것이 더 맛있는 것 같아. 그가 어떤 물고기라도 ...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "true-false",
+        "q": "B: 응. 멋지다. B: 나는 오른쪽 그림이 더 좋아. 나는 그 그림 속 고양이 G: 비빔밥이나 갈비탕을 먹...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "G: 이 오래된 두 접시 좀 봐, ___.",
+        "a": "Steve",
+        "passage": "r3"
+      },
+      {
+        "type": "true-false",
+        "q": "B: 그렇네. 너는 초록색 접시와 흰색 접시 중에서 어느 것 여기 있는 가방들 어때? B: 나는 떡볶이를 더...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사가 앞의 명사를 꾸며주는 형용사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "A: 떡볶이와 김밥 중에 어떤 음식을 더 좋아하니?",
+            "ko": "B: 나는 떡볶이를 더 좋아해."
+          },
+          {
+            "en": "B: 나는 떡볶이를 더 좋아해.",
+            "ko": "• 의견 표현하기"
+          },
+          {
+            "en": "It seems to me that it's more delicious.",
+            "ko": "나는 그것이 더 맛있는 것 같아."
+          },
+          {
+            "en": "It was impossible for him to catch any fish.",
+            "ko": "그가 어떤 물고기라도 잡는 것은 불가능했다."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "G: 전시실 옆에 있는 다솜 홀에서 해.",
+            "ko": "B: 지금이 4시 30분이니까 6시 공연을 보자."
+          },
+          {
+            "en": "B: 지금이 4시 30분이니까 6시 공연을 보자.",
+            "ko": "G: 좋아. 먼저 전시를 보러 가자."
+          },
+          {
+            "en": "B: I prefer Tteokbokki.",
+            "ko": "A: 떡볶이와 김밥 중에 어떤 음식을 더 좋아하니?"
+          },
+          {
+            "en": "A: 떡볶이와 김밥 중에 어떤 음식을 더 좋아하니?",
+            "ko": "B: 나는 떡볶이를 더 좋아해."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "현재완료",
+        "explanation": "'have/has + 과거분사'로 과거에 시작된 일이 현재까지 영향을 미침을 나타냅니다.",
+        "examples": []
+      },
+      {
+        "id": "g4",
+        "title": "수동태",
+        "explanation": "'be동사 + 과거분사(p.p.)'로 '~되다, ~당하다'의 의미를 나타냅니다.",
+        "examples": []
+      }
+    ],
+    "exercises": [
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "I",
+          "prefer",
+          "Tteobo"
+        ],
+        "a": "B: I prefer Tteobo."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "떡볶이와",
+          "김밥",
+          "중에",
+          "어떤",
+          "음식을",
+          "더",
+          "좋아하니"
+        ],
+        "a": "A: 떡볶이와 김밥 중에 어떤 음식을 더 좋아하니?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "나는",
+          "떡볶이를",
+          "더",
+          "좋아해"
+        ],
+        "a": "B: 나는 떡볶이를 더 좋아해."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "It",
+          "seems",
+          "to",
+          "me",
+          "that",
+          "t's",
+          "more",
+          "delous"
+        ],
+        "a": "It seems to me that t's more delous."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "It",
+          "was",
+          "mpossble",
+          "for",
+          "hm",
+          "to",
+          "ath",
+          "any",
+          "fsh"
+        ],
+        "a": "It was mpossble for hm to ath any fsh."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "It",
+          "would",
+          "be",
+          "wonderful",
+          "f",
+          "I",
+          "ould",
+          "eat",
+          "fresh",
+          "fsh"
+        ],
+        "a": "It would be wonderful f I ould eat fresh fsh."
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: I ___ Tteobo.",
+        "a": "prefer",
+        "hint": "A: 떡볶이와 김밥 중에 어떤 음식을 더 좋아하니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "It seems to me that t's more ___.",
+        "a": "delous",
+        "hint": "나는 그것이 더 맛있는 것 같아."
+      },
+      {
+        "type": "fill-blank",
+        "q": "It was ___ for hm to ath any fsh.",
+        "a": "mpossble",
+        "hint": "그가 어떤 물고기라도 잡는 것은 불가능했다."
+      },
+      {
+        "type": "fill-blank",
+        "q": "It would be ___ f I ould eat fresh fsh.",
+        "a": "wonderful",
+        "hint": "신선한 물고기를 먹을 수 있다면 정말 좋을 텐데."
+      },
+      {
+        "type": "fill-blank",
+        "q": "They are very ___.",
+        "a": "beautful",
+        "hint": "• 그림 [B]에서는 나무 한 그루가 보인다. 그것은 강인해"
+      },
+      {
+        "type": "error-correction",
+        "q": "Ths s a great hane for me mproveing my Englsh.",
+        "a": "to mprove",
+        "wrong": "mproveing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "Ths s a great hane ______________ mproveing my Englsh.",
+        "a": "to mprove",
+        "wrong": "mproveing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "He went out to the rver _________ing fsh for hs (s) _____________.",
+        "a": "to _________",
+        "wrong": "_________ing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "It s mportant for you manageing tme effetvely.",
+        "a": "to manage",
+        "wrong": "manageing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "multi-choice",
+        "q": "Is it difficult (for / to) solve the problem?",
+        "a": "for",
+        "opts": [
+          "for",
+          "to"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "It was foolish (of / for) you to do so.",
+        "a": "of",
+        "opts": [
+          "of",
+          "for"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "It is very wise of (she / her) to accept his offer.",
+        "a": "she",
+        "opts": [
+          "she",
+          "her"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "It's important (for / of) students to sleep well.",
+        "a": "for",
+        "opts": [
+          "for",
+          "of"
+        ]
+      }
+    ]
+  }
+}
