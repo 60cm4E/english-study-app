@@ -1,0 +1,454 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-yoon-15",
+    "lesson": 3,
+    "title": "Lesson 3"
+  },
+  "words": [
+    {
+      "en": "mean",
+      "ko": "의미하다",
+      "pos": "v.",
+      "ex": "Big Idea 영어 단어‧표현의 재미있는 유래 이야기 ◈ 의사소통 기능 • 설명 요청하기 A: What does that mean?"
+    },
+    {
+      "en": "medicine",
+      "ko": "약",
+      "pos": "n.",
+      "ex": "Why don’t you buy some medicine before you get on the plane?"
+    },
+    {
+      "en": "pleasure",
+      "ko": "기쁨, 즐거움",
+      "pos": "n."
+    },
+    {
+      "en": "anyway",
+      "ko": "그런데, 그건 그렇고",
+      "pos": "adv.",
+      "ex": "Anyway, it’s too bad that you can’t come to my soccer game tomorrow."
+    },
+    {
+      "en": "cross",
+      "ko": "교차하다, 서로 겹치게 놓다",
+      "pos": "v.",
+      "ex": "I’ll keep my fingers crossed for you."
+    },
+    {
+      "en": "expression",
+      "ko": "(동작, 그림 등에 의한)표현",
+      "pos": "n.",
+      "ex": "Do you know what the expression “I feel under the weather” means?"
+    },
+    {
+      "en": "foreign",
+      "ko": "외국의",
+      "pos": "a.",
+      "ex": "I think the word yoga comes from a foreign language."
+    },
+    {
+      "en": "origin",
+      "ko": "기원, 근원",
+      "pos": "n.",
+      "ex": "Spanish word huracán, which originates from the name of a Mayan god."
+    },
+    {
+      "en": "borrow",
+      "ko": "빌리다",
+      "pos": "v.",
+      "ex": "English has often borrowed words from other cultures or languages."
+    },
+    {
+      "en": "culture",
+      "ko": "문화",
+      "pos": "n.",
+      "ex": "English has often borrowed words from other cultures or languages."
+    },
+    {
+      "en": "language",
+      "ko": "언어",
+      "pos": "n.",
+      "ex": "I think the word yoga comes from a foreign language."
+    },
+    {
+      "en": "example",
+      "ko": "예, 사례",
+      "pos": "n.",
+      "ex": "Here are some examples with interesting stories."
+    },
+    {
+      "en": "shampoo",
+      "ko": "샴푸",
+      "pos": "n.",
+      "ex": "The word shampoo comes from the Hindi word chāmpo, which means “to press."
+    },
+    {
+      "en": "Hindi",
+      "ko": "힌디어",
+      "pos": "n.",
+      "ex": "The word shampoo comes from the Hindi word chāmpo, which means “to press."
+    },
+    {
+      "en": "press",
+      "ko": "누르다",
+      "pos": "v.",
+      "ex": "The word shampoo comes from the Hindi word chāmpo, which means “to press."
+    },
+    {
+      "en": "massage",
+      "ko": "마사지, 안마",
+      "pos": "n.",
+      "ex": "In India, the word was used for a head massage."
+    },
+    {
+      "en": "British",
+      "ko": "영국의, 영국인의",
+      "pos": "a.",
+      "ex": "I want to visit the British Museum."
+    },
+    {
+      "en": "trader",
+      "ko": "무역상, 상인",
+      "pos": "n.",
+      "ex": "He is a tea trader."
+    },
+    {
+      "en": "India",
+      "ko": "인도",
+      "pos": "n.",
+      "ex": "In India, the word was used for a head massage."
+    },
+    {
+      "en": "introduce",
+      "ko": "소개하다",
+      "pos": "v."
+    },
+    {
+      "en": "Britain",
+      "ko": "영국",
+      "pos": "n.",
+      "ex": "Britain in the 18th century."
+    },
+    {
+      "en": "century",
+      "ko": "세기, 100년",
+      "pos": "n.",
+      "ex": "Britain in the 18th century."
+    },
+    {
+      "en": "meaning",
+      "ko": "의미",
+      "pos": "n.",
+      "ex": "What is the meaning for that?"
+    },
+    {
+      "en": "enter",
+      "ko": "들어오다",
+      "pos": "v.",
+      "ex": "When did the word shampoo first enter English?"
+    },
+    {
+      "en": "around",
+      "ko": "~경에, ~무렵에",
+      "pos": "prep.",
+      "ex": "English around 1762."
+    },
+    {
+      "en": "present",
+      "ko": "현재의 n. 현재, 선물",
+      "pos": "a.",
+      "ex": "In the 19th century, shampoo got its present meaning of “washing the hair."
+    },
+    {
+      "en": "shortly",
+      "ko": "곧, 얼마 안 되어",
+      "pos": "adv.",
+      "ex": "They arrived shortly after 5."
+    },
+    {
+      "en": "soap",
+      "ko": "비누",
+      "pos": "n."
+    },
+    {
+      "en": "robot",
+      "ko": "로봇",
+      "pos": "n.",
+      "ex": "Lesson 3 - 8 - robot The word robot comes from the play R."
+    },
+    {
+      "en": "play",
+      "ko": "연극, 희곡",
+      "pos": "n.",
+      "ex": "Lesson 3 - 5 - Talk and Play Escape the Room!"
+    },
+    {
+      "en": "human",
+      "ko": "인간, 사람",
+      "pos": "n.",
+      "ex": "In the play, robots are machines that look like humans."
+    },
+    {
+      "en": "design",
+      "ko": "~을 설계하다, 디자인하다",
+      "pos": "v.",
+      "ex": "They are designed to work for humans and are produced in a factory."
+    },
+    {
+      "en": "produce",
+      "ko": "생산하다",
+      "pos": "v.",
+      "ex": "They are designed to work for humans and are produced in a factory."
+    },
+    {
+      "en": "factory",
+      "ko": "공장",
+      "pos": "n.",
+      "ex": "They are designed to work for humans and are produced in a factory."
+    },
+    {
+      "en": "originally",
+      "ko": "원래, 본래",
+      "pos": "adv."
+    },
+    {
+      "en": "machine",
+      "ko": "기계",
+      "pos": "n.",
+      "ex": "In the play, robots are machines that look like humans."
+    },
+    {
+      "en": "Latin",
+      "ko": "라틴어의 n. 라틴어",
+      "pos": "a.",
+      "ex": "Latin word for “work."
+    },
+    {
+      "en": "however",
+      "ko": "그러나",
+      "pos": "conj.",
+      "ex": "B However, his brother suggested roboti, which means “slave workers” in Czech."
+    },
+    {
+      "en": "suggest",
+      "ko": "제안하다",
+      "pos": "v.",
+      "ex": "B However, his brother suggested roboti, which means “slave workers” in Czech."
+    },
+    {
+      "en": "slave",
+      "ko": "노예",
+      "pos": "n.",
+      "ex": "B However, his brother suggested roboti, which means “slave workers” in Czech."
+    },
+    {
+      "en": "Czech",
+      "ko": "체코의, 체코인의",
+      "pos": "a.",
+      "ex": "Czech writer, Karel Čapek."
+    },
+    {
+      "en": "decide",
+      "ko": "결정하다, 결심하다",
+      "pos": "v.",
+      "ex": "Karel Čapek liked the idea and decided to use the word roboti."
+    },
+    {
+      "en": "hurricane",
+      "ko": "허리케인",
+      "pos": "n.",
+      "ex": "What Spanish word does hurricane come from?"
+    },
+    {
+      "en": "Spanish",
+      "ko": "스페인의, n. 스페인어",
+      "pos": "a.",
+      "ex": "Spanish word huracán, which originates from the name of a Mayan god."
+    },
+    {
+      "en": "originate",
+      "ko": "비롯되다, 유래하다",
+      "pos": "v.",
+      "ex": "Spanish word huracán, which originates from the name of a Mayan god."
+    },
+    {
+      "en": "Mayan",
+      "ko": "마야인[어]의",
+      "pos": "a.",
+      "ex": "Spanish word huracán, which originates from the name of a Mayan god."
+    },
+    {
+      "en": "creation",
+      "ko": "창조",
+      "pos": "n.",
+      "ex": "Who is Huracán in the Mayan creation myth?"
+    },
+    {
+      "en": "myth",
+      "ko": "신화",
+      "pos": "n.",
+      "ex": "Who is Huracán in the Mayan creation myth?"
+    },
+    {
+      "en": "anger",
+      "ko": "화나게 하다 n. 화, 분노",
+      "pos": "v.",
+      "ex": "However, the first humans angered the gods, so Huracán caused a great flood."
+    },
+    {
+      "en": "cause",
+      "ko": "일으키다, ~의 원인이 되다",
+      "pos": "v.",
+      "ex": "However, the first humans angered the gods, so Huracán caused a great flood."
+    },
+    {
+      "en": "flood",
+      "ko": "홍수",
+      "pos": "n.",
+      "ex": "However, the first humans angered the gods, so Huracán caused a great flood."
+    },
+    {
+      "en": "contact",
+      "ko": "접촉, 연락",
+      "pos": "n.",
+      "ex": "The first Spanish contact with the Mayan civilization was in 1517."
+    },
+    {
+      "en": "civilization",
+      "ko": "문명",
+      "pos": "n.",
+      "ex": "The first Spanish contact with the Mayan civilization was in 1517."
+    },
+    {
+      "en": "explorer",
+      "ko": "탐험가",
+      "pos": "n.",
+      "ex": "Spanish explorers를 수식하는 역할을 한다."
+    },
+    {
+      "en": "experience",
+      "ko": "경험하다 n. 경험",
+      "pos": "v.",
+      "ex": "Spanish explorers이고 동사는 experienced이며, 중간에 주격 관계 대명사절이 주어를 수식하기 위해 들어가있다."
+    },
+    {
+      "en": "area",
+      "ko": "지역",
+      "pos": "n."
+    },
+    {
+      "en": "early",
+      "ko": "초기의 adv. 일찍, 빨리",
+      "pos": "a."
+    },
+    {
+      "en": "use",
+      "ko": "사용, 이용 v. 사용하다, 쓰다",
+      "pos": "n.",
+      "ex": "Excuse me, but can you please say that again?"
+    },
+    {
+      "en": "clear",
+      "ko": "명확한, 분명한",
+      "pos": "a.",
+      "ex": "The origin of the first hamburger is not clear."
+    },
+    {
+      "en": "believe",
+      "ko": "믿다",
+      "pos": "v.",
+      "ex": "It is believed that ~ 은 관용적인 표현으로 자주 사용 되며 ‘~인 것으로 보인다, 여겨진다’라는 의미를 나타낸다."
+    },
+    {
+      "en": "invent",
+      "ko": "발명하다",
+      "pos": "v.",
+      "ex": "This book is about King Sejong, who invented Hangeul."
+    },
+    {
+      "en": "sometime",
+      "ko": "(과거의) 어떤 때, 언젠가",
+      "pos": "adv.",
+      "ex": "Texas, USA, sometime between 1885 and 1904."
+    },
+    {
+      "en": "place",
+      "ko": "놓다, 두다",
+      "pos": "v."
+    },
+    {
+      "en": "slice",
+      "ko": "(음식을 얇게 썬) 조각",
+      "pos": "n."
+    },
+    {
+      "en": "such",
+      "ko": "그런, 그와 같은",
+      "pos": "a.",
+      "ex": "A B’의 형태로 쓰여 ‘A를 B로 부르다’라는 뜻이며, 본문에서는 such food가 A, a hamburger가 B로 사용되었다."
+    },
+    {
+      "en": "pay for",
+      "ko": "~ 값을 지불하다",
+      "pos": "",
+      "ex": "It means “I’ll pay for the pizza."
+    },
+    {
+      "en": "get on",
+      "ko": "~에 타다",
+      "pos": "",
+      "ex": "Why don’t you buy some medicine before you get on the plane?"
+    },
+    {
+      "en": "keep in touch",
+      "ko": "연락하다, 연락하고 지내다",
+      "pos": "",
+      "ex": "I’ll keep in touch."
+    },
+    {
+      "en": "introduce A to B",
+      "ko": "A를 B에게 소개하다",
+      "pos": ""
+    },
+    {
+      "en": "look like",
+      "ko": "~처럼 보이다",
+      "pos": "",
+      "ex": "In the play, robots are machines that look like humans."
+    },
+    {
+      "en": "on television",
+      "ko": "텔레비전에(방송되는)",
+      "pos": "",
+      "ex": "In 1938, the play was made into a science fiction show on television in Britain."
+    },
+    {
+      "en": "originate from",
+      "ko": "~에서 유래하다, 비롯하다",
+      "pos": ""
+    },
+    {
+      "en": "pass through",
+      "ko": "~을 통과하다, 지나가다",
+      "pos": "",
+      "ex": "Hans - German Rank 4: Mia - Italian 2) originates from, picked up, pass through A."
+    },
+    {
+      "en": "pick up",
+      "ko": "(정보를) 듣게 되다, 익히다",
+      "pos": "",
+      "ex": "Small children pick up words from people around them."
+    },
+    {
+      "en": "come from",
+      "ko": "~에서 유래하다",
+      "pos": "",
+      "ex": "What Spanish word does hurricane come from?"
+    },
+    {
+      "en": "between A and B",
+      "ko": "A와 B사이에",
+      "pos": ""
+    }
+  ]
+}

@@ -13,3 +13,8 @@ Thumbs.db
 .vercel/
 
 .vercel
+
+# Python
+__pycache__/
+*.pyc
+tools/g3_extracted/

@@ -1,0 +1,476 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-yoon-15",
+    "lesson": 2,
+    "title": "Lesson 2"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "What would you like to order?",
+        "ko": "",
+        "category": "음식 주문하기"
+      },
+      {
+        "en": "Are you ready to order?",
+        "ko": "",
+        "category": "음식 주문하기"
+      },
+      {
+        "en": "Is the order for here or to go?",
+        "ko": "",
+        "category": "음식 주문하기2"
+      },
+      {
+        "en": "Will it be for here or to go?",
+        "ko": "",
+        "category": "음식 주문하기2"
+      },
+      {
+        "en": "Is it for here or to go?",
+        "ko": "",
+        "category": "음식 주문하기2"
+      },
+      {
+        "en": "Let은 사역동사로 ‘Let+목적어+동사원형’의 형태로 쓰여 ‘~을 .",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "A with B는 ‘A를 B와 나누다, 공유하다’라는 뜻이다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "What is Simon’s favorite comfort food?",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Melt와 let이 등위접속사 and를 두고 병렬구조를 이룬다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Let은 사역동사로 ‘Let+목적어+___________’의 형태로 쓰여 ‘~을 .",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "I’d like to order two hot dogs.",
+        "ko": "무엇을 주문하시겠어요?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "무엇을 주문하시겠어요?",
+        "ko": "핫도그 두 개 주세요.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "핫도그 두 개 주세요.",
+        "ko": "여기에서 드실 건가요, 아니면 가져가실 건가요?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "It’s for here, please. / It’s to go, please.",
+        "ko": "여기에서 드실 건가요, 아니면 가져가실 건가요?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "여기에서 드실 건가요, 아니면 가져가실 건가요?",
+        "ko": "여기에서 먹을게요. / 가져갈게요.",
+        "category": "일반 표현"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "What would you like to ___?",
+        "a": "order",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Are you ___ to order?",
+        "a": "ready",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Is the ___ for here or to go?",
+        "a": "order",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Will it be for ___ or to go?",
+        "a": "here",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Is it for ___ or to go?",
+        "a": "here",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___은 사역동사로 ‘Let+목적어+동사원형’의 형태로 쓰여 ‘~을 .",
+        "a": "Let",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "What is Simon’s ___ comfort food?",
+        "a": "favorite",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___와 let이 등위접속사 and를 두고 병렬구조를 이룬다.",
+        "a": "Melt",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___은 사역동사로 ‘Let+목적어+___________’의 형태로 쓰여 ‘~을 .",
+        "a": "Let",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’d like to ___ two hot dogs.",
+        "a": "order",
+        "hint": "무엇을 주문하시겠어요?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "It’s for here, ___. / It’s to go, please.",
+        "a": "please",
+        "hint": "여기에서 드실 건가요, 아니면 가져가실 건가요?"
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - 1",
+        "en": "A: What would you like to order? A: Is it for here or to go? B: 여기에서 먹을게요. / 가져갈게요. W: 여기에서 드시겠어요, 아니면 가져가시겠어요? B: Chocolate cake, please.",
+        "ko": "A: 무엇을 주문하시겠어요? A: 여기에서 드실 건가요, 아니면 가져가실 건가요? 나에게 위안이 되는 음식 B: 여기에서 먹을게요. W: 안녕하세요. 주문하시겠어요?"
+      },
+      {
+        "id": "r2",
+        "title": "본문 - 2",
+        "en": "W: 어떤 종류의 케이크를 드시겠어요? W: 여기에서 드시겠어요, 아니면 가져가시겠어요? B: Yes, one bottle of water, please. W: 여기에서 드시겠어요, 아니면 가져가시겠어요? B: To go, please. Thank you.",
+        "ko": "B: 초콜릿 케이크로 주세요. B: 가져갈게요. 고맙습니다. W: 안녕하세요. 무엇을 주문하시겠어요? B: 가져갈게요. W: 안녕하세요. 무엇을 주문하시겠어요?"
+      },
+      {
+        "id": "r3",
+        "title": "본문 - 3",
+        "en": "B: 핫도그 한 개와 우유 하나 주세요. W: 여기에서 드시겠어요, 아니면 가져가시겠어요? A: Is it for here or to go? A: 여기에서 드시겠어요, 아니면 가져가시겠어요? B: Yes, one milk, please.",
+        "ko": "W: 더 필요하신 것이 있으세요? B: 가져갈게요. 고맙습니다. A: 안녕하세요. 무엇을 주문하시겠어요? → B: 여기에서 먹을게요. A: 안녕하세요. 무엇을 주문하시겠어요?"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "A: What would you like to ___?",
+        "a": "order",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Is it for ___ or to go?",
+        "a": "here",
+        "passage": "r1"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 무엇을 주문하시겠어요? A: 여기에서 드실 건가요, 아니면 가져가실 건가요? 나에게 위안이 되는 음식 ...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: Yes, one ___ of water, please.",
+        "a": "bottle",
+        "passage": "r2"
+      },
+      {
+        "type": "true-false",
+        "q": "B: 초콜릿 케이크로 주세요. B: 가져갈게요. 고맙습니다. W: 안녕하세요. 무엇을 주문하시겠어요? B: ...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Is it for ___ or to go?",
+        "a": "here",
+        "passage": "r3"
+      },
+      {
+        "type": "true-false",
+        "q": "W: 더 필요하신 것이 있으세요? B: 가져갈게요. 고맙습니다. A: 안녕하세요. 무엇을 주문하시겠어요? →...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사가 앞의 명사를 꾸며주는 형용사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "A: 안녕하세요. 무엇을 주문하시겠어요?",
+            "ko": "B: 핫도그 두 개 주세요."
+          },
+          {
+            "en": "B: 핫도그 두 개 주세요.",
+            "ko": "A: 마실 것을 주문하시겠어요?"
+          },
+          {
+            "en": "A: 마실 것을 주문하시겠어요?",
+            "ko": "B: 네. 오렌지 주스 하나 주세요."
+          },
+          {
+            "en": "B: 네. 오렌지 주스 하나 주세요.",
+            "ko": "A: 여기에서 드시겠어요, 아니면 가져가시겠어요?"
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "A: What would you le to order?",
+            "ko": "A: 무엇을 주문하시겠어요?"
+          },
+          {
+            "en": "Wll that be all?: 그게 전부이신가요?",
+            "ko": "추가로 주문할 음식이 있는지 물을 때 사용하는 표현이다. Is"
+          },
+          {
+            "en": "Step forward so that you an tae a lose loo at them.",
+            "ko": "그것들을 좀 더 자세히 볼 수 있도록 앞으로 나오세요."
+          },
+          {
+            "en": "We spoe quetly so that/n order that the baby ould sleep.",
+            "ko": "우리는 아기가 잘 수 있도록 조용히 말했다."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "수동태",
+        "explanation": "'be동사 + 과거분사(p.p.)'로 '~되다, ~당하다'의 의미를 나타냅니다.",
+        "examples": []
+      },
+      {
+        "id": "g4",
+        "title": "분사",
+        "explanation": "현재분사(-ing)와 과거분사(-ed)가 명사를 수식하는 형용사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "Q7. What do you need to mae orange madelenes?",
+            "ko": "▲구문 UP 물질명사의 수량 표현"
+          },
+          {
+            "en": "You need flour, eggs, sugar, salt, butter, and orange peel.",
+            "ko": "▲구문 UP 물질명사의 수량 표현"
+          },
+          {
+            "en": "Now, __________________ I’m stressed out, I eat assava hps.",
+            "ko": "칩을 먹을 때의 바삭하는 소리는 내 기분이 더 좋아지게 만들었어. 지금도 나는"
+          },
+          {
+            "en": "Q7. What do you need to mae orange madelenes?",
+            "ko": "▲구문 UP 물질명사의 수량 표현"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "What",
+          "would",
+          "you",
+          "le",
+          "to",
+          "order"
+        ],
+        "a": "A: What would you le to order?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "I’d",
+          "le",
+          "to",
+          "order",
+          "two",
+          "hot",
+          "dogs"
+        ],
+        "a": "B: I’d le to order two hot dogs."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "Is",
+          "t",
+          "for",
+          "here",
+          "or",
+          "to",
+          "go"
+        ],
+        "a": "A: Is t for here or to go?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "It’s",
+          "for",
+          "here,",
+          "please.",
+          "/",
+          "It’s",
+          "to",
+          "go,",
+          "please"
+        ],
+        "a": "B: It’s for here, please. / It’s to go, please."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "여기에서",
+          "드실",
+          "건가요,",
+          "아니면",
+          "가져가실",
+          "건가요"
+        ],
+        "a": "A: 여기에서 드실 건가요, 아니면 가져가실 건가요?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "여기에서",
+          "먹을게요.",
+          "/",
+          "가져갈게요"
+        ],
+        "a": "B: 여기에서 먹을게요. / 가져갈게요."
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: What would you le to ___?",
+        "a": "order",
+        "hint": "A: 무엇을 주문하시겠어요?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: I’d le to ___ two hot dogs.",
+        "a": "order",
+        "hint": "A: 무엇을 주문하시겠어요?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Is t for ___ or to go?",
+        "a": "here",
+        "hint": "A: 여기에서 드실 건가요, 아니면 가져가실 건가요?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: It’s for here, ___. / It’s to go, please.",
+        "a": "please",
+        "hint": "A: 여기에서 드실 건가요, 아니면 가져가실 건가요?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "W: Is the ___ for here or to go?",
+        "a": "order",
+        "hint": "W: Italian Food에 오신 것을 환영합니다. 무엇을 주문하시"
+      },
+      {
+        "type": "error-correction",
+        "q": "A: What would you le ordering?",
+        "a": "to order",
+        "wrong": "ordering",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "B: I’d le ordering two hot dogs.",
+        "a": "to order",
+        "wrong": "ordering",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "I’d le haveing ~: ~을 주세요.",
+        "a": "to have",
+        "wrong": "haveing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "World. At the restaurant, I'd le ordering sush.",
+        "a": "to order",
+        "wrong": "ordering",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "multi-choice",
+        "q": "It was hot but (taste / \ntasty).",
+        "a": "taste",
+        "opts": [
+          "taste",
+          "tasty"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "He (get / had) his children follow the rules.",
+        "a": "get",
+        "opts": [
+          "get",
+          "had"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "The dog (gets / helps) him cross the road.",
+        "a": "gets",
+        "opts": [
+          "gets",
+          "helps"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "My mother (had / helped) me to study English.",
+        "a": "had",
+        "opts": [
+          "had",
+          "helped"
+        ]
+      }
+    ]
+  }
+}

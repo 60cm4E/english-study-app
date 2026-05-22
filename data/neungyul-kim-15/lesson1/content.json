@@ -1,0 +1,502 @@
+{
+  "lessonInfo": {
+    "textbook": "neungyul-kim-15",
+    "lesson": 1,
+    "title": "Lesson 1"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "What would you like to do?",
+        "ko": "",
+        "category": "바람에 대해 묻기"
+      },
+      {
+        "en": "I’d like to ~.",
+        "ko": "",
+        "category": "바람에 대해 답하기"
+      },
+      {
+        "en": "What would you like to do this year?",
+        "ko": "",
+        "category": "바람에 대해 묻기"
+      },
+      {
+        "en": "I’d like to 다음에는 동사원형이 온다.",
+        "ko": "",
+        "category": "바람에 대해 답하기"
+      },
+      {
+        "en": "How do you like ~?",
+        "ko": "",
+        "category": "만족이나 불만족에 대해 묻기"
+      },
+      {
+        "en": "How do you like it?",
+        "ko": "",
+        "category": "만족이나 불만족에 대해 묻기"
+      },
+      {
+        "en": "What does Inho think is most important?",
+        "ko": "",
+        "category": "준사역동사 help"
+      },
+      {
+        "en": "It은 가주어이고 to print 이하가 진주어인 구문으로, 진 주어가 너무 길어지면 이처럼 뒤로 보내고 주어 자리 에 It을 둔다.",
+        "ko": "",
+        "category": "가주어-진주어 구문"
+      },
+      {
+        "en": "It은 따로 해석하지 않는다.",
+        "ko": "",
+        "category": "가주어-진주어 구문"
+      },
+      {
+        "en": "There is/are ~’는 ‘~이 있다’라는 뜻으로, 이때 뒤에 이어지는 명사의 수에 맞춰 be동사의 수를 결정한다.",
+        "ko": "",
+        "category": "There + be동사"
+      },
+      {
+        "en": "Find의 목적어 자리에 관계대명사 what이 이끄는 명사절이 사용되었다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Grammar✚ 관계대명사 what 보통의 관계대명사 that, which, who가 이끄는 관계대명사절이 선행사를 수식하는 형 용사절인데 반해, 선행사를 포함하는 관계대명사 what이 이끄는 절은 명사절이므로 what이 이끄는 절은 문장에서 주어, 보어, 목적어로 쓰일 수 있다.",
+        "ko": "",
+        "category": "동사 make"
+      },
+      {
+        "en": "What he did was wrong.",
+        "ko": "",
+        "category": "동사 make"
+      },
+      {
+        "en": "It은 __________이고 to print 이하가 진주어인 구문으로, 진주어가 너무 길어지면 이처럼 뒤로 보내고 주어 자 리에 It을 둔다.",
+        "ko": "",
+        "category": "가주어-진주어 구문"
+      },
+      {
+        "en": "Find의 ______________ 자리에 관계대명사 what이 이끄는 명사절이 사용되었 다.",
+        "ko": "",
+        "category": "목표어법"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "___ would you like to do?",
+        "a": "What",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’d ___ to ~.",
+        "a": "like",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ would you like to do this year?",
+        "a": "What",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’d ___ to 다음에는 동사원형이 온다.",
+        "a": "like",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "How do you ___ ~?",
+        "a": "like",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "How do you ___ it?",
+        "a": "like",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "What does Inho think is most ___?",
+        "a": "important",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "It은 가주어이고 to ___ 이하가 진주어인 구문으로, 진 주어가 너무 길어지면 이처럼 뒤로 보내고 주어 자리 에 It을 둔다.",
+        "a": "print",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ is/are ~’는 ‘~이 있다’라는 뜻으로, 이때 뒤에 이어지는 명사의 수에 맞춰 be동사의 수를 결정한다.",
+        "a": "There",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___의 목적어 자리에 관계대명사 what이 이끄는 명사절이 사용되었다.",
+        "a": "Find",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___✚ 관계대명사 what 보통의 관계대명사 that, which, who가 이끄는 관계대명사절이 선행사를 수식하는 형 용사절인데 반해, 선행사를 포함하는 관계대명사 what이 이끄는 절은 명사절이므로 what이 이끄는 절은 문장에서 주어, 보어, 목적어로 쓰일 수 있다.",
+        "a": "Grammar",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "What he did was ___.",
+        "a": "wrong",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "It은 __________이고 to ___ 이하가 진주어인 구문으로, 진주어가 너무 길어지면 이처럼 뒤로 보내고 주어 자 리에 It을 둔다.",
+        "a": "print",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___의 ______________ 자리에 관계대명사 what이 이끄는 명사절이 사용되었 다.",
+        "a": "Find",
+        "hint": ""
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - 1",
+        "en": "A: What would you like to do this year? B: 나는 외국으로 여행을 가고 싶어. How do you like hiking? B: What would you like to do this year? B: My friend Jinsu is a very good guitar player.",
+        "ko": "A: 너는 올해에 무엇을 하고 싶니? • 만족이나 불만족에 대해 묻기 등산하는 것은 어떠니? 소년: 너는 올해에 무엇을 하고 싶니? 소녀: 너는 올해에 무엇을 하고 싶니?"
+      },
+      {
+        "id": "r2",
+        "title": "본문 - 2",
+        "en": "B: I’m thinking of taking a swimming class. A: What would you like to do this year? A: What would you like to do this year? A: I ran a race last year. B: How did you like it?",
+        "ko": "소녀: 올해에 하고 싶은 일들의 목록을 적고 있어. A: 너는 올해에 무엇을 하고 싶니? A: 너는 올해에 무엇을 하고 싶니? A: 나는 지난해에 경주에 출전했어. A: 나는 지난해에 외국으로 여행을 갔어."
+      },
+      {
+        "id": "r3",
+        "title": "본문 - 3",
+        "en": "Do you like it? 그것이 마음에 드니? A: How did you like it? B: 나는 지난주 일요일에 우리 가족을 위해 저녁을 요리했어. Q3. Marisa는 무엇을 하고 싶어 하나요? Q4. Brandon은 무엇을 추천하나요?",
+        "ko": "How do you find it? 그것은 어떠니? A: 너의 의미 있는 경험 중 하나를 이야기해 줄 수 있니? A: 그건 어땠니? - 그녀는 자신이 정말 좋아하는 한국 보이 - 그는 한국어를 배우기 위해 한국 드라마"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "A: ___ would you like to do this year?",
+        "a": "What",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "How do you like ___?",
+        "a": "hiking",
+        "passage": "r1"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 너는 올해에 무엇을 하고 싶니? • 만족이나 불만족에 대해 묻기 등산하는 것은 어떠니? 소년: 너는 올...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: I’m ___ of taking a swimming class.",
+        "a": "thinking",
+        "passage": "r2"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: ___ would you like to do this year?",
+        "a": "What",
+        "passage": "r2"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: ___ would you like to do this year?",
+        "a": "What",
+        "passage": "r2"
+      },
+      {
+        "type": "true-false",
+        "q": "소녀: 올해에 하고 싶은 일들의 목록을 적고 있어. A: 너는 올해에 무엇을 하고 싶니? A: 너는 올해에 ...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "Do you ___ it?",
+        "a": "like",
+        "passage": "r3"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: How did you ___ it?",
+        "a": "like",
+        "passage": "r3"
+      },
+      {
+        "type": "true-false",
+        "q": "How do you find it? 그것은 어떠니? A: 너의 의미 있는 경험 중 하나를 이야기해 줄 수 있...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사가 앞의 명사를 꾸며주는 형용사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "A: What would you le to do ths year?",
+            "ko": "A: 너는 올해에 무엇을 하고 싶니?"
+          },
+          {
+            "en": "B: I’d le to travel to other ountres.",
+            "ko": "A: 너는 올해에 무엇을 하고 싶니?"
+          },
+          {
+            "en": "B: What would you le to do ths year?",
+            "ko": "소년: 너는 올해에 무엇을 하고 싶니?"
+          },
+          {
+            "en": "I’d le to learn how to mae my own moble game.",
+            "ko": "NE능률(김성곤)"
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "B: 나는 외국으로 여행을 가고 싶어.",
+            "ko": "• 만족이나 불만족에 대해 묻기"
+          },
+          {
+            "en": "How do you like hiking?",
+            "ko": "등산하는 것은 어떠니?"
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "현재완료",
+        "explanation": "'have/has + 과거분사'로 과거에 시작된 일이 현재까지 영향을 미침을 나타냅니다.",
+        "examples": [
+          {
+            "en": "B: I’d like to travel to other countries.",
+            "ko": "A: 너는 올해에 무엇을 하고 싶니?"
+          },
+          {
+            "en": "A: 너는 올해에 무엇을 하고 싶니?",
+            "ko": "B: 나는 외국으로 여행을 가고 싶어."
+          },
+          {
+            "en": "B: 나는 외국으로 여행을 가고 싶어.",
+            "ko": "• 만족이나 불만족에 대해 묻기"
+          },
+          {
+            "en": "How do you like hiking?",
+            "ko": "등산하는 것은 어떠니?"
+          }
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "수동태",
+        "explanation": "'be동사 + 과거분사(p.p.)'로 '~되다, ~당하다'의 의미를 나타냅니다.",
+        "examples": []
+      }
+    ],
+    "exercises": [
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "What",
+          "would",
+          "you",
+          "le",
+          "to",
+          "do",
+          "ths",
+          "year"
+        ],
+        "a": "A: What would you le to do ths year?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "I’d",
+          "le",
+          "to",
+          "travel",
+          "to",
+          "other",
+          "ountres"
+        ],
+        "a": "B: I’d le to travel to other ountres."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "너는",
+          "올해에",
+          "무엇을",
+          "하고",
+          "싶니"
+        ],
+        "a": "A: 너는 올해에 무엇을 하고 싶니?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "나는",
+          "외국으로",
+          "여행을",
+          "가고",
+          "싶어"
+        ],
+        "a": "B: 나는 외국으로 여행을 가고 싶어."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "How",
+          "do",
+          "you",
+          "le",
+          "hng"
+        ],
+        "a": "How do you le hng?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "What",
+          "would",
+          "you",
+          "le",
+          "to",
+          "do",
+          "ths",
+          "year"
+        ],
+        "a": "B: What would you le to do ths year?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: ___ would you le to do ths year?",
+        "a": "What",
+        "hint": "A: 너는 올해에 무엇을 하고 싶니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: I’d le to travel to other ___.",
+        "a": "ountres",
+        "hint": "A: 너는 올해에 무엇을 하고 싶니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ do you le hng?",
+        "a": "How",
+        "hint": "등산하는 것은 어떠니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: ___ would you le to do ths year?",
+        "a": "What",
+        "hint": "소년: 너는 올해에 무엇을 하고 싶니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’d le to ___ how to mae my own moble game.",
+        "a": "learn",
+        "hint": "NE능률(김성곤)"
+      },
+      {
+        "type": "error-correction",
+        "q": "B: I’d le traveling to other ountres.",
+        "a": "to travel",
+        "wrong": "traveling",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "I’d le learning how to mae my own moble game.",
+        "a": "to learn",
+        "wrong": "learning",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "I’ll as hm teahing me.",
+        "a": "to teah",
+        "wrong": "teahing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "B: I’d le learning how to mae a vdeo.",
+        "a": "to learn",
+        "wrong": "learning",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "multi-choice",
+        "q": "My brother has been washing his car (for / \nsince) two o'clock.",
+        "a": "for",
+        "opts": [
+          "for",
+          "since"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "It has been snowing (for / since) two hours.",
+        "a": "for",
+        "opts": [
+          "for",
+          "since"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "What have you been doing (for / since) lunch?",
+        "a": "for",
+        "opts": [
+          "for",
+          "since"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "He has been explaining the same subject (for / \nsince) the last class.",
+        "a": "for",
+        "opts": [
+          "for",
+          "since"
+        ]
+      }
+    ]
+  }
+}

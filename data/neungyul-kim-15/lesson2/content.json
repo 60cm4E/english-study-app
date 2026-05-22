@@ -1,0 +1,460 @@
+{
+  "lessonInfo": {
+    "textbook": "neungyul-kim-15",
+    "lesson": 2,
+    "title": "Lesson 2"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "Have you heard that ~?",
+        "ko": "",
+        "category": "알고 있는지 묻기"
+      },
+      {
+        "en": "Have you heard (that) ~?",
+        "ko": "",
+        "category": "알고 있는지 묻기"
+      },
+      {
+        "en": "I’m surprised that은 놀란 감정을 표현 할 때 사용하는 것으로 ‘나는 ~에 놀라움을 느낀다’라 는 의미이다.",
+        "ko": "",
+        "category": "놀람 표현하기"
+      },
+      {
+        "en": "Listen and Check B: What are you doing in the living room?",
+        "ko": "",
+        "category": "놀람 표현하기"
+      },
+      {
+        "en": "Walnuts also have wrinkles, which the brain has (목적어) too.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Walnuts also have wrinkles, and the brain has them too.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "A를 부연 설명하는 역할을 하며, 해석은 ‘그래서 그 비타민 A는 ~’이 라고 한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "A+ , which(=and it) improves your vision.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "B를 부연 설명하는 역할을 하며, 해석은 ‘그래서 그 비타민 B는 ~’이 라고 한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "B+ , which(=and it) helps make new, healthy cells.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "A는 ~’이라고 한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "B는 ~’이라고 한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "No, I haven’t. Why is that?",
+        "ko": "얼음을 씹는 것이 치아에 좋지 않다는 것을 들어 본",
+        "category": "일반 표현"
+      },
+      {
+        "en": "It can damage your teeth. It can also make",
+        "ko": "얼음을 씹는 것이 치아에 좋지 않다는 것을 들어 본",
+        "category": "일반 표현"
+      },
+      {
+        "en": "On the other hand, going to bed early can",
+        "ko": "너 피곤해 보인다. 잠을 충분히 잤니?",
+        "category": "일반 표현"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "Have you ___ that ~?",
+        "a": "heard",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Have you ___ (that) ~?",
+        "a": "heard",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’m ___ that은 놀란 감정을 표현 할 때 사용하는 것으로 ‘나는 ~에 놀라움을 느낀다’라 는 의미이다.",
+        "a": "surprised",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ and Check B: What are you doing in the living room?",
+        "a": "Listen",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Walnuts also have ___, which the brain has (목적어) too.",
+        "a": "wrinkles",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Walnuts also have ___, and the brain has them too.",
+        "a": "wrinkles",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "A+ , which(=and it) ___ your vision.",
+        "a": "improves",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "B+ , which(=and it) helps make new, ___ cells.",
+        "a": "healthy",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "No, I ___’t. Why is that?",
+        "a": "haven",
+        "hint": "얼음을 씹는 것이 치아에 좋지 않다는 것을 들어 본"
+      },
+      {
+        "type": "fill-blank",
+        "q": "It can ___ your teeth. It can also make",
+        "a": "damage",
+        "hint": "얼음을 씹는 것이 치아에 좋지 않다는 것을 들어 본"
+      },
+      {
+        "type": "fill-blank",
+        "q": "On the ___ hand, going to bed early can",
+        "a": "other",
+        "hint": "너 피곤해 보인다. 잠을 충분히 잤니?"
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - 1",
+        "en": "Have you heard the term body image? G: No, I haven’t. Why is that? Accept와 give가 병렬구조를 이루고 있다. A: 손으로 적는 것이 건강에 좋다는 것을 들어 본 적 있니? A: Yes, it prevents deep sleep.",
+        "ko": "‘신체상’이라는 용어를 들어 본 적 있나요? 소년: 얼음을 씹는 것이 치아에 좋지 않다는 것을 들어 본 ✔give의 목적어로 쓰인 yourself는 재귀대명사로, 재귀용법으 A: 응, 그것은 기억력을 향상해 줘. A: 자기 전에 휴대폰을 사용하는 것이 건강에 해롭다는 것"
+      },
+      {
+        "id": "r2",
+        "title": "본문 - 2",
+        "en": "No, I haven’t.를 사용하여 답한다. B: That’s amazing. I should buy one! B: I’m surprised that it can do all that. B: I'm surprised that it can do all that. B: 그게 그 모든 것을 다 할 수 있다니 놀라운걸.",
+        "ko": "✔ Did you know that ~? ‘너는 ~에 대해 알고 있었니?’ 소년: 그게 뭐야? 좋아 보인다. A: 이 달리기 앱은 너의 달리기 코스를 추적할 수 있어. A: 이 스마트 체중계는 너의 체지방을 측정할 수 있어. 그것 놀람 표현하기: 예상하지 못한 일에 대한 놀라움을 나타낼 때"
+      },
+      {
+        "id": "r3",
+        "title": "본문 - 3",
+        "en": "I told him an interesting story. We sold apples at one dollar each. We ate one piece of pizza each. John의 취미는 암벽을 등반하는 것이다. Q3. What does a carrot slice look like?",
+        "ko": "(나는 그에게 재미있는 이야기를 해 주었다.) 우리는 사과를 1개에 1달러에 팔았다. 우리는 각자 피자 한 조각씩 먹었다. 즈와 우유 둘 다 좋아한다. ▲구문 UP 명사절을 이끄는 접속사 that"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "Have you ___ the term body image?",
+        "a": "heard",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "G: No, I ___’t.",
+        "a": "haven",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ is that?",
+        "a": "Why",
+        "passage": "r1"
+      },
+      {
+        "type": "true-false",
+        "q": "‘신체상’이라는 용어를 들어 본 적 있나요? 소년: 얼음을 씹는 것이 치아에 좋지 않다는 것을 들어 본 ✔g...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "No, I ___’t.를 사용하여 답한다.",
+        "a": "haven",
+        "passage": "r2"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: That’s ___.",
+        "a": "amazing",
+        "passage": "r2"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I should ___ one!",
+        "a": "buy",
+        "passage": "r2"
+      },
+      {
+        "type": "true-false",
+        "q": "✔ Did you know that ~? ‘너는 ~에 대해 알고 있었니?’ 소년: 그게 뭐야? 좋아 보인다....",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I told him an ___ story.",
+        "a": "interesting",
+        "passage": "r3"
+      },
+      {
+        "type": "fill-blank",
+        "q": "We sold ___ at one dollar each.",
+        "a": "apples",
+        "passage": "r3"
+      },
+      {
+        "type": "fill-blank",
+        "q": "We ate one ___ of pizza each.",
+        "a": "piece",
+        "passage": "r3"
+      },
+      {
+        "type": "true-false",
+        "q": "(나는 그에게 재미있는 이야기를 해 주었다.) 우리는 사과를 1개에 1달러에 팔았다. 우리는 각자 피자 한 ...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사가 동사, 형용사, 부사를 수식하는 부사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "It shows me all the steps. = It shows all the steps to me.",
+            "ko": "현재완료수동태: has been watched는 현재완료수동태(has/have"
+          },
+          {
+            "en": "I told an nterestng story to hm.",
+            "ko": "(나는 그에게 재미있는 이야기를 해 주었다.)"
+          },
+          {
+            "en": "It helps your eyes proess lght and send a lear mage to the bran.",
+            "ko": "목적어 목.보 1 목.보 2"
+          },
+          {
+            "en": "It helps your eyes proess lght and send a lear mage to the bran.",
+            "ko": "목적어 목.보 1 목.보 2"
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "G: No, I haven’t. Why s that?",
+            "ko": "소년: 얼음을 씹는 것이 치아에 좋지 않다는 것을 들어 본"
+          },
+          {
+            "en": "B: That’s amazng. I should buy one!",
+            "ko": "소년: 그게 뭐야? 좋아 보인다."
+          },
+          {
+            "en": "B: I’m surprsed that t an do all that.",
+            "ko": "A: 이 달리기 앱은 너의 달리기 코스를 추적할 수 있어."
+          },
+          {
+            "en": "B: I'm surprsed that t an do all that.",
+            "ko": "A: 이 스마트 체중계는 너의 체지방을 측정할 수 있어. 그것"
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "현재완료",
+        "explanation": "'have/has + 과거분사'로 과거에 시작된 일이 현재까지 영향을 미침을 나타냅니다.",
+        "examples": [
+          {
+            "en": "A: 응, 그것은 숙면을 방해해.",
+            "ko": "알고 있는지 묻기: Have you heard that ~?은 ‘너는 ~에 대해"
+          },
+          {
+            "en": "No, I haven’t.를 사용하여 답한다.",
+            "ko": "✔ Did you know that ~? ‘너는 ~에 대해 알고 있었니?’"
+          }
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "수동태",
+        "explanation": "'be동사 + 과거분사(p.p.)'로 '~되다, ~당하다'의 의미를 나타냅니다.",
+        "examples": []
+      }
+    ],
+    "exercises": [
+      {
+        "type": "word-order",
+        "words": [
+          "Have",
+          "you",
+          "heard",
+          "the",
+          "term",
+          "body",
+          "mage"
+        ],
+        "a": "Have you heard the term body mage?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "G:",
+          "No,",
+          "I",
+          "haven’t.",
+          "Why",
+          "s",
+          "that"
+        ],
+        "a": "G: No, I haven’t. Why s that?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "Aept와",
+          "gve가",
+          "병렬구조를",
+          "이루고",
+          "있다"
+        ],
+        "a": "Aept와 gve가 병렬구조를 이루고 있다."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "Yes,",
+          "t",
+          "prevents",
+          "deep",
+          "sleep"
+        ],
+        "a": "A: Yes, t prevents deep sleep."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "응,",
+          "그것은",
+          "숙면을",
+          "방해해"
+        ],
+        "a": "A: 응, 그것은 숙면을 방해해."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "No,",
+          "I",
+          "haven’t.를",
+          "사용하여",
+          "답한다"
+        ],
+        "a": "No, I haven’t.를 사용하여 답한다."
+      },
+      {
+        "type": "fill-blank",
+        "q": "Have you ___ the term body mage?",
+        "a": "heard",
+        "hint": "‘신체상’이라는 용어를 들어 본 적 있나요?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "G: No, I ___’t. Why s that?",
+        "a": "haven",
+        "hint": "소년: 얼음을 씹는 것이 치아에 좋지 않다는 것을 들어 본"
+      },
+      {
+        "type": "fill-blank",
+        "q": "___와 gve가 병렬구조를 이루고 있다.",
+        "a": "Aept",
+        "hint": "give의 목적어로 쓰인 yourself는 재귀대명사로, 재귀용법으"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Yes, t ___ deep sleep.",
+        "a": "prevents",
+        "hint": "A: 자기 전에 휴대폰을 사용하는 것이 건강에 해롭다는 것"
+      },
+      {
+        "type": "fill-blank",
+        "q": "No, I ___’t.를 사용하여 답한다.",
+        "a": "haven",
+        "hint": "Did you know that ~? ‘너는 ~에 대해 알고 있었니?’"
+      },
+      {
+        "type": "multi-choice",
+        "q": "I visited my grandfather, (who / which) wasn’t home.",
+        "a": "who",
+        "opts": [
+          "who",
+          "which"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "Sumin loves her new cap, (who / which) she bought on sale.",
+        "a": "who",
+        "opts": [
+          "who",
+          "which"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "He is my best friend, (who / which) works at the zoo.",
+        "a": "who",
+        "opts": [
+          "who",
+          "which"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "Our art room, (who / which) is on the third floor, is very big.",
+        "a": "who",
+        "opts": [
+          "who",
+          "which"
+        ]
+      }
+    ]
+  }
+}

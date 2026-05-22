@@ -1,0 +1,490 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-lee-15",
+    "lesson": 2,
+    "title": "Lesson 2"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "I’m worried about ~은 걱정을 표현할 때 사용하는 표현으로 ‘나는 ~이 걱정된다’라는 뜻이 다.",
+        "ko": "",
+        "category": "걱정 표현하기"
+      },
+      {
+        "en": "Listen and Complete G: Are you ready for our soccer game today, Sam?",
+        "ko": "",
+        "category": "걱정 표현하기"
+      },
+      {
+        "en": "I’m worried about ~은 ‘나는 ~이 걱 정된다’라는 뜻으로, 본문에서는 우리의 건강에 대해 서 걱정하고 있다.",
+        "ko": "",
+        "category": "걱정 표현하기"
+      },
+      {
+        "en": "Do you know how to ~?",
+        "ko": "",
+        "category": "방법 묻기"
+      },
+      {
+        "en": "I’m worried about ~은 ‘나는 ~이 걱 정된다’라는 뜻이다.",
+        "ko": "",
+        "category": "걱정 표현하기"
+      },
+      {
+        "en": "These crops가 사람에 의해 생산되어지는 수동 의 대상이기 때문에 수동태 구문이 쓰였다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "One of+명사’가 쓰인 경우 동사의 수는 One에 맞춰 단수동 사로 써야 한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "One 에 맞춰 단수동사 is를 사용했다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "One of+명사’가 쓰인 경우 동사의 수는 One에 맞춰 ____________로 써야 한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "One에 맞춰 단수동사 _______를 사용했다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "I’m worried about global warming.",
+        "ko": "나는 지구 온난화가 걱정돼.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "Me, too. It’s terrible.",
+        "ko": "나는 지구 온난화가 걱정돼.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "나는 지구 온난화가 걱정돼.",
+        "ko": "나도 그래. 그건 심해.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "Do you know how to do a team project well?",
+        "ko": "너는 팀 프로젝트를 잘하는 방법을 아니?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "Yes. You need to listen carefully to others‘",
+        "ko": "너는 팀 프로젝트를 잘하는 방법을 아니?",
+        "category": "일반 표현"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "I’m ___ about ~은 걱정을 표현할 때 사용하는 표현으로 ‘나는 ~이 걱정된다’라는 뜻이 다.",
+        "a": "worried",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Listen and ___ G: Are you ready for our soccer game today, Sam?",
+        "a": "Complete",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’m ___ about ~은 ‘나는 ~이 걱 정된다’라는 뜻으로, 본문에서는 우리의 건강에 대해 서 걱정하고 있다.",
+        "a": "worried",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Do you ___ how to ~?",
+        "a": "know",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’m ___ about ~은 ‘나는 ~이 걱 정된다’라는 뜻이다.",
+        "a": "worried",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ crops가 사람에 의해 생산되어지는 수동 의 대상이기 때문에 수동태 구문이 쓰였다.",
+        "a": "These",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ of+명사’가 쓰인 경우 동사의 수는 One에 맞춰 단수동 사로 써야 한다.",
+        "a": "One",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ 에 맞춰 단수동사 is를 사용했다.",
+        "a": "One",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ of+명사’가 쓰인 경우 동사의 수는 One에 맞춰 ____________로 써야 한다.",
+        "a": "One",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___에 맞춰 단수동사 _______를 사용했다.",
+        "a": "One",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’m ___ about global warming.",
+        "a": "worried",
+        "hint": "나는 지구 온난화가 걱정돼."
+      },
+      {
+        "type": "fill-blank",
+        "q": "Me, too. It’s ___.",
+        "a": "terrible",
+        "hint": "나는 지구 온난화가 걱정돼."
+      },
+      {
+        "type": "fill-blank",
+        "q": "Do you know how to do a team ___ well?",
+        "a": "project",
+        "hint": "너는 팀 프로젝트를 잘하는 방법을 아니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "Yes. You need to listen ___ to others‘",
+        "a": "carefully",
+        "hint": "너는 팀 프로젝트를 잘하는 방법을 아니?"
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - 1",
+        "en": "A: I’m worried about global warming. A: Do you know how to do a team project well? G: I’m worried about him. F1: Me, too. Let’s do it another day. B: Me, too. It’s terrible.",
+        "ko": "A: 나는 지구 온난화가 걱정돼. A: 너는 팀 프로젝트를 잘하는 방법을 아니? 소녀: 내 남동생이 다리가 부러졌어. Sam: 안녕, 얘들아! 우리 다음에 축구할래? 오늘 황사가 A: 나는 지구 온난화가 걱정돼."
+      },
+      {
+        "id": "r2",
+        "title": "본문 - 2",
+        "en": "A: 우리가 돕기 위해 무엇을 할 수 있을까? B: Me, too. It’s terrible. A: 우리가 돕기 위해 무엇을 할 수 있을까? G: Yes. You need to stretch your neck often. B: That’s a good idea.",
+        "ko": "B: 우리는 플라스틱을 덜 사용할 수 있어. A: 나는 사라지는 벌들이 걱정돼. B: 우리는 그들을 위해 나무를 더 많이 심을 수 있어. 소녀: 거북목 증후군이 생기지 않도록 조심해. 소녀: 진수야, 너는 북극곰이 위험에 처해 있다는 걸 알고"
+      },
+      {
+        "id": "r3",
+        "title": "본문 - 3",
+        "en": "A: Do you know how to do a team project well? A: 너는 팀 프로젝트를 잘 하는 방법을 아니? B: Of course. What is it? B: 응. 너는 패스트푸드를 덜 먹어야 해. Minho: That’s so simple! So, when do we do it?",
+        "ko": "A: 뭐 좀 물어봐도 될까? B: 응. 너는 다른 사람들의 의견을 잘 들어야 해. A: 뭐 좀 물어봐도 될까? 방법 묻기: 방법을 물을 때 Do you know how to ~를 사용 민호: Linda, 너는 ‘병든 행성’이라는 TV 프로그램을 봤니?"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "A: I’m ___ about global warming.",
+        "a": "worried",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Do you know how to do a team ___ well?",
+        "a": "project",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "G: I’m ___ about him.",
+        "a": "worried",
+        "passage": "r1"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 나는 지구 온난화가 걱정돼. A: 너는 팀 프로젝트를 잘하는 방법을 아니? 소녀: 내 남동생이 다리가 ...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: Me, ___.",
+        "a": "too",
+        "passage": "r2"
+      },
+      {
+        "type": "fill-blank",
+        "q": "It’s ___.",
+        "a": "terrible",
+        "passage": "r2"
+      },
+      {
+        "type": "true-false",
+        "q": "B: 우리는 플라스틱을 덜 사용할 수 있어. A: 나는 사라지는 벌들이 걱정돼. B: 우리는 그들을 위해 나...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Do you know how to do a team ___ well?",
+        "a": "project",
+        "passage": "r3"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: Of ___.",
+        "a": "course",
+        "passage": "r3"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 뭐 좀 물어봐도 될까? B: 응. 너는 다른 사람들의 의견을 잘 들어야 해. A: 뭐 좀 물어봐도 될까...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사가 앞의 명사를 꾸며주는 형용사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "A: Do you now how to do a team projet well?",
+            "ko": "A: 너는 팀 프로젝트를 잘하는 방법을 아니?"
+          },
+          {
+            "en": "A: What an we do to help?",
+            "ko": "A: 나는 지구 온난화가 걱정돼."
+          },
+          {
+            "en": "A: What an we do to help?",
+            "ko": "A: 나는 사라지는 벌들이 걱정돼."
+          },
+          {
+            "en": "G: Yes. You need to streth your ne often.",
+            "ko": "소녀: 거북목 증후군이 생기지 않도록 조심해."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "What’s the matter?: 무슨 일 있니?",
+            "ko": "상대방의 슬픔이나 불만족, 실망의 원인에 대해 물을 때 사"
+          },
+          {
+            "en": "A: What an we do to help?",
+            "ko": "A: 나는 지구 온난화가 걱정돼."
+          },
+          {
+            "en": "A: What an we do to help?",
+            "ko": "A: 나는 사라지는 벌들이 걱정돼."
+          },
+          {
+            "en": "B: That’s a good dea.",
+            "ko": "소녀: 진수야, 너는 북극곰이 위험에 처해 있다는 걸 알고"
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "현재완료",
+        "explanation": "'have/has + 과거분사'로 과거에 시작된 일이 현재까지 영향을 미침을 나타냅니다.",
+        "examples": []
+      },
+      {
+        "id": "g4",
+        "title": "수동태",
+        "explanation": "'be동사 + 과거분사(p.p.)'로 '~되다, ~당하다'의 의미를 나타냅니다.",
+        "examples": [
+          {
+            "en": "She laughed at me. I was laughed at by her.",
+            "ko": "그녀는 나를 놀렸다. 나는 그녀에게 놀림을 당했다."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "I’m",
+          "worred",
+          "about",
+          "global",
+          "warmng"
+        ],
+        "a": "A: I’m worred about global warmng."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "Me,",
+          "too.",
+          "It’s",
+          "terrble"
+        ],
+        "a": "B: Me, too. It’s terrble."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "너는",
+          "팀",
+          "프로젝트를",
+          "잘하는",
+          "방법을",
+          "아니"
+        ],
+        "a": "A: 너는 팀 프로젝트를 잘하는 방법을 아니?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "G:",
+          "I’m",
+          "worred",
+          "about",
+          "hm"
+        ],
+        "a": "G: I’m worred about hm."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "Don’t",
+          "worry.",
+          "He’ll",
+          "be",
+          "oay"
+        ],
+        "a": "B: Don’t worry. He’ll be oay."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "What’s",
+          "the",
+          "matter?:",
+          "무슨",
+          "일",
+          "있니"
+        ],
+        "a": "What’s the matter?: 무슨 일 있니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: I’m ___ about global warmng.",
+        "a": "worred",
+        "hint": "A: 나는 지구 온난화가 걱정돼."
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: Me, too. It’s ___.",
+        "a": "terrble",
+        "hint": "A: 나는 지구 온난화가 걱정돼."
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Do you now how to do a team ___ well?",
+        "a": "projet",
+        "hint": "A: 너는 팀 프로젝트를 잘하는 방법을 아니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "G: I’m ___ about hm.",
+        "a": "worred",
+        "hint": "소녀: 내 남동생이 다리가 부러졌어."
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: Don’t ___. He’ll be oay.",
+        "a": "worry",
+        "hint": "소녀: 내 남동생이 다리가 부러졌어."
+      },
+      {
+        "type": "error-correction",
+        "q": "A: What an we do helping?",
+        "a": "to help",
+        "wrong": "helping",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "G: Yes. You need strething your ne often.",
+        "a": "to streth",
+        "wrong": "strething",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "A: Do you now how redueing ar polluton?",
+        "a": "to redue",
+        "wrong": "redueing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "A: Do you now how redueing land polluton?",
+        "a": "to redue",
+        "wrong": "redueing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "multi-choice",
+        "q": "Half of the people (has / have) pets.",
+        "a": "has",
+        "opts": [
+          "has",
+          "have"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "About one-third of the milk (was / were) spilled.",
+        "a": "was",
+        "opts": [
+          "was",
+          "were"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "A quarter of the money (was / were) spent on books.",
+        "a": "was",
+        "opts": [
+          "was",
+          "were"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "Some of the book (is / are) interesting.",
+        "a": "is",
+        "opts": [
+          "is",
+          "are"
+        ]
+      }
+    ]
+  }
+}

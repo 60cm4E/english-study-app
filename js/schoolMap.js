@@ -22,9 +22,9 @@ const AVAILABLE_LESSONS = {
   'donga-yoon-22': [1, 2, 3],
   'ybm-park-22-g1': [1, 2, 3, 4, 5, 6, 7, 8],
   'ybm-park-22': [1, 2, 3],
-  'donga-lee-15': [],
-  'donga-yoon-15': [],
-  'neungyul-kim-15': []
+  'donga-lee-15': [1, 2, 3, 4],
+  'donga-yoon-15': [1, 2, 3, 4],
+  'neungyul-kim-15': [1, 2, 3, 4]
 };
 
 function getTextbook(schoolId, grade) {

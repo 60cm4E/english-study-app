@@ -1,0 +1,493 @@
+{
+  "lessonInfo": {
+    "textbook": "neungyul-kim-15",
+    "lesson": 3,
+    "title": "Lesson 3"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "I’m curious about ~은 ‘나는 ~에 대해 궁금하다’라는 뜻으로 어떤 주제나 대상에 대한 궁금증을 표현할 때 쓴다.",
+        "ko": "",
+        "category": "궁금증 표현하기"
+      },
+      {
+        "en": "I’m curious about ~은 ‘나는 ~에 대해 궁금하다’라는 뜻으로, 전치사 about 뒤에는 명 사(절)이 위치한다.",
+        "ko": "",
+        "category": "궁금증 표현하기"
+      },
+      {
+        "en": "I’m curious about ~은 ‘나는 ~에 대해 궁금하다’라는 뜻으로, 전치사 about 뒤에는 명 사절인 간접의문문이 위치했다.",
+        "ko": "",
+        "category": "궁금증 표현하기"
+      },
+      {
+        "en": "Talk Together e.",
+        "ko": "",
+        "category": "궁금증 표현하기"
+      },
+      {
+        "en": "Make sure that ~은 상대방에게 주의를 주거나 경고할 때 사용하는 표현으로 ‘반드시 ~하도록 해라, 꼭 ~해라’라는 뜻이다.",
+        "ko": "",
+        "category": "경고하기·주의주기"
+      },
+      {
+        "en": "Listen and Order W: Performing CPR properly can save someone’s life.",
+        "ko": "",
+        "category": "경고하기·주의주기"
+      },
+      {
+        "en": "Make sure (that) ~은 상대방에게 주의를 주거나 경고할 때 사용하는 표현으로 ‘반드시 ~하도록 해라, 꼭 ~해라’라는 뜻이다.",
+        "ko": "",
+        "category": "경고하기·주의주기"
+      },
+      {
+        "en": "Make sure you don’t ~는 상대방 에게 하지 말아야 할 일에 대해 주의를 줄 때 사용하 는 표현으로 ‘~하지 않도록 해라’라는 뜻이다.",
+        "ko": "",
+        "category": "경고하기·주의주기"
+      },
+      {
+        "en": "No, I didn’t. But floods aren’t that common",
+        "ko": "유럽에서 큰 홍수가 났어. 그것에 대해 들었니?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "Me too. Let’s do some online research.",
+        "ko": "유럽에서 큰 홍수가 났어. 그것에 대해 들었니?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "I see. It seems like we have to⑪ be prepared",
+        "ko": "요즘 한국에서 많은 자연재해가 일어나고 있는 것",
+        "category": "일반 표현"
+      },
+      {
+        "en": "Actually more than 20,000 people had to leave",
+        "ko": "있잖아, 캘리포니아에서 일어난 대형 화재에 대해 들",
+        "category": "일반 표현"
+      },
+      {
+        "en": "That’s terrible. I hope they’re somewhere safe.",
+        "ko": "있잖아, 캘리포니아에서 일어난 대형 화재에 대해 들",
+        "category": "희망 표현"
+      },
+      {
+        "en": "Yes. There was a big one in Yangyang.",
+        "ko": "한국에서 산불이 여러 번 있었다고 들었어.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "I’m curious about when it happened.",
+        "ko": "한국에서 산불이 여러 번 있었다고 들었어.",
+        "category": "일반 표현"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "I’m ___ about ~은 ‘나는 ~에 대해 궁금하다’라는 뜻으로 어떤 주제나 대상에 대한 궁금증을 표현할 때 쓴다.",
+        "a": "curious",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’m ___ about ~은 ‘나는 ~에 대해 궁금하다’라는 뜻으로, 전치사 about 뒤에는 명 사(절)이 위치한다.",
+        "a": "curious",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’m ___ about ~은 ‘나는 ~에 대해 궁금하다’라는 뜻으로, 전치사 about 뒤에는 명 사절인 간접의문문이 위치했다.",
+        "a": "curious",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Talk ___ e.",
+        "a": "Together",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ sure that ~은 상대방에게 주의를 주거나 경고할 때 사용하는 표현으로 ‘반드시 ~하도록 해라, 꼭 ~해라’라는 뜻이다.",
+        "a": "Make",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Listen and Order W: ___ CPR properly can save someone’s life.",
+        "a": "Performing",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ sure (that) ~은 상대방에게 주의를 주거나 경고할 때 사용하는 표현으로 ‘반드시 ~하도록 해라, 꼭 ~해라’라는 뜻이다.",
+        "a": "Make",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ sure you don’t ~는 상대방 에게 하지 말아야 할 일에 대해 주의를 줄 때 사용하 는 표현으로 ‘~하지 않도록 해라’라는 뜻이다.",
+        "a": "Make",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "No, I didn’t. But ___ aren’t that common",
+        "a": "floods",
+        "hint": "유럽에서 큰 홍수가 났어. 그것에 대해 들었니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "Me too. Let’s do some online ___.",
+        "a": "research",
+        "hint": "유럽에서 큰 홍수가 났어. 그것에 대해 들었니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I see. It seems like we have to⑪ be ___",
+        "a": "prepared",
+        "hint": "요즘 한국에서 많은 자연재해가 일어나고 있는 것"
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ more than 20,000 people had to leave",
+        "a": "Actually",
+        "hint": "있잖아, 캘리포니아에서 일어난 대형 화재에 대해 들"
+      },
+      {
+        "type": "fill-blank",
+        "q": "That’s terrible. I hope they’re ___ safe.",
+        "a": "somewhere",
+        "hint": "있잖아, 캘리포니아에서 일어난 대형 화재에 대해 들"
+      },
+      {
+        "type": "fill-blank",
+        "q": "Yes. There was a big one in ___.",
+        "a": "Yangyang",
+        "hint": "한국에서 산불이 여러 번 있었다고 들었어."
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’m curious about when it ___.",
+        "a": "happened",
+        "hint": "한국에서 산불이 여러 번 있었다고 들었어."
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - 1",
+        "en": "I’m curious about how that happened. B: Me too. Let’s do some online research. G: That’s terrible. I hope they’re somewhere safe. B: Yes. There was a big one in Yangyang. B: 응. 양양에서 큰 산불이 있었지.",
+        "ko": "나는 그 일이 어떻게 일어난 건지 궁금해. 소년: 유럽에서 큰 홍수가 났어. 그것에 대해 들었니? 소년: 있잖아, 캘리포니아에서 일어난 대형 화재에 대해 들 A: 한국에서 산불이 여러 번 있었다고 들었어. A: 그것이 언제 일어났는지 궁금하다."
+      },
+      {
+        "id": "r2",
+        "title": "본문 - 2",
+        "en": "B: Yes. There was a big one in Gangneung. B: 응. 강릉에서 큰 홍수가 있었지. B: Anything else, Mom? B: You’re right. Okay, let’s go! B: Make sure that you exit the building immediately.",
+        "ko": "A: 한국에서 홍수가 여러 번 있었다고 들었어. A: 그것이 언제 일어났는지 궁금하다. 소년: 엄마, 자연재해 대비용 비상 장비에 또 무엇을 넣어 소년: 수지야, 이거 화재 대피 훈련이야! 가자! A: 화재가 발생한 경우 난 뭘 해야 하지?"
+      },
+      {
+        "id": "r3",
+        "title": "본문 - 3",
+        "en": "B: 젖은 천으로 입을 가리는 걸 명심해. B: Make sure that you keep the windows closed. B: 외출 시 마스크를 착용하는 걸 명심해. A: I’m curious about Hurricane Katrina. He has a job as an editor.",
+        "ko": "B: 반드시 즉시 건물을 빠져나가도록 해. A: 황사가 발생한 경우 난 뭘 해야 하지? B: 반드시 창문을 계속 닫아 두도록 해. A: 나는 허리케인 카트리나에 대해 궁금해. 그는 편집자로서의 직업을 갖고 있다."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "I’m curious about how that ___.",
+        "a": "happened",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: Me ___.",
+        "a": "too",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "Let’s do some online ___.",
+        "a": "research",
+        "passage": "r1"
+      },
+      {
+        "type": "true-false",
+        "q": "나는 그 일이 어떻게 일어난 건지 궁금해. 소년: 유럽에서 큰 홍수가 났어. 그것에 대해 들었니? 소년: 있...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: ___.",
+        "a": "Yes",
+        "passage": "r2"
+      },
+      {
+        "type": "fill-blank",
+        "q": "There was a big one in ___.",
+        "a": "Gangneung",
+        "passage": "r2"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 한국에서 홍수가 여러 번 있었다고 들었어. A: 그것이 언제 일어났는지 궁금하다. 소년: 엄마, 자연재...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: Make sure that you keep the ___ closed.",
+        "a": "windows",
+        "passage": "r3"
+      },
+      {
+        "type": "true-false",
+        "q": "B: 반드시 즉시 건물을 빠져나가도록 해. A: 황사가 발생한 경우 난 뭘 해야 하지? B: 반드시 창문을 ...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사가 동사, 형용사, 부사를 수식하는 부사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "I heard the mrror on my des fall to the floor and brea nto pees.",
+            "ko": "목적어 목.보.1 목.보.2"
+          },
+          {
+            "en": "I ddn’t now how to reat. = I ddn’t now how I should reat.",
+            "ko": "Grammar✚ 부사절을 이끄는 접속사"
+          },
+          {
+            "en": "I ame n quetly beause I ddn’t want to wae hm up.",
+            "ko": "그를 깨우고 싶지 않았기 때문에 나는 조용히 왔다."
+          },
+          {
+            "en": "They rawled under the table to avod the many fallng objets.",
+            "ko": "▲구문 UP 분사의 수식"
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "I’m urous about how that happened.",
+            "ko": "나는 그 일이 어떻게 일어난 건지 궁금해."
+          },
+          {
+            "en": "G: That’s terrble. I hope they’re somewhere safe.",
+            "ko": "소년: 있잖아, 캘리포니아에서 일어난 대형 화재에 대해 들"
+          },
+          {
+            "en": "B: Mae sure that you ext the buldng mmedately.",
+            "ko": "A: 화재가 발생한 경우 난 뭘 해야 하지?"
+          },
+          {
+            "en": "B: Mae sure that you eep the wndows losed.",
+            "ko": "A: 황사가 발생한 경우 난 뭘 해야 하지?"
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "현재완료",
+        "explanation": "'have/has + 과거분사'로 과거에 시작된 일이 현재까지 영향을 미침을 나타냅니다.",
+        "examples": []
+      },
+      {
+        "id": "g4",
+        "title": "수동태",
+        "explanation": "'be동사 + 과거분사(p.p.)'로 '~되다, ~당하다'의 의미를 나타냅니다.",
+        "examples": []
+      }
+    ],
+    "exercises": [
+      {
+        "type": "word-order",
+        "words": [
+          "I’m",
+          "urous",
+          "about",
+          "how",
+          "that",
+          "happened"
+        ],
+        "a": "I’m urous about how that happened."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "Me",
+          "too.",
+          "Let’s",
+          "do",
+          "some",
+          "onlne",
+          "researh"
+        ],
+        "a": "B: Me too. Let’s do some onlne researh."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "G:",
+          "That’s",
+          "terrble.",
+          "I",
+          "hope",
+          "they’re",
+          "somewhere",
+          "safe"
+        ],
+        "a": "G: That’s terrble. I hope they’re somewhere safe."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "So",
+          "do",
+          "I.:",
+          "나도",
+          "그래"
+        ],
+        "a": "So do I.: 나도 그래."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "Yes.",
+          "There",
+          "was",
+          "a",
+          "bg",
+          "one",
+          "n",
+          "Yangyang"
+        ],
+        "a": "B: Yes. There was a bg one n Yangyang."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "I’m",
+          "urous",
+          "about",
+          "when",
+          "t",
+          "happened"
+        ],
+        "a": "A: I’m urous about when t happened."
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’m urous about how that ___.",
+        "a": "happened",
+        "hint": "나는 그 일이 어떻게 일어난 건지 궁금해."
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: Me too. Let’s do some onlne ___.",
+        "a": "researh",
+        "hint": "소년: 유럽에서 큰 홍수가 났어. 그것에 대해 들었니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "G: That’s terrble. I hope they’re ___ safe.",
+        "a": "somewhere",
+        "hint": "소년: 있잖아, 캘리포니아에서 일어난 대형 화재에 대해 들"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: Yes. There was a bg one n ___.",
+        "a": "Yangyang",
+        "hint": "A: 한국에서 산불이 여러 번 있었다고 들었어."
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: I’m urous about when t ___.",
+        "a": "happened",
+        "hint": "A: 한국에서 산불이 여러 번 있었다고 들었어."
+      },
+      {
+        "type": "error-correction",
+        "q": "I ddn’t now how reating. = I ddn’t now how I should reat.",
+        "a": "to reat",
+        "wrong": "reating",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "They rawled under the table avoding the many fallng objets.",
+        "a": "to avod",
+        "wrong": "avoding",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "I ddn’t now how reating. = I ddn’t now _________________________.",
+        "a": "to reat",
+        "wrong": "reating",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "Cathy had often gone fshng before she moved Seouling.",
+        "a": "to Seoul",
+        "wrong": "Seouling",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "multi-choice",
+        "q": "Before I started working here, I (have used / \nhad used) this software.",
+        "a": "have used",
+        "opts": [
+          "have used",
+          "had used"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "She sent me a digital camera that she (has / \nhad) bought in Hong Kong.",
+        "a": "has",
+        "opts": [
+          "has",
+          "had"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "I had to take a taxi because the last bus (left \n/ had left).",
+        "a": "left",
+        "opts": [
+          "left",
+          "had left"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "When I got there, the bus (has been leaving / \nhad left) already.",
+        "a": "has been leaving",
+        "opts": [
+          "has been leaving",
+          "had left"
+        ]
+      }
+    ]
+  }
+}

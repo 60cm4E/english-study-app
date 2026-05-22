@@ -1,0 +1,565 @@
+{
+  "lessonInfo": {
+    "textbook": "neungyul-kim-15",
+    "lesson": 3,
+    "title": "Lesson 3"
+  },
+  "words": [
+    {
+      "en": "flood",
+      "ko": "홍수",
+      "pos": "n.",
+      "ex": "There was a big flood in Europe."
+    },
+    {
+      "en": "common",
+      "ko": "일반적인, 흔한",
+      "pos": "a.",
+      "ex": "But floods aren’t that common in winter, are they?"
+    },
+    {
+      "en": "curious",
+      "ko": "궁금한",
+      "pos": "a.",
+      "ex": "◈ Functions • 궁금증 표현하기 I’m curious about how that happened."
+    },
+    {
+      "en": "research",
+      "ko": "조사",
+      "pos": "n.",
+      "ex": "Let’s do some online research."
+    },
+    {
+      "en": "natural disaster",
+      "ko": "자연재해",
+      "pos": "n.",
+      "ex": "Write G: There seem to be many natural disasters in Korea these days."
+    },
+    {
+      "en": "agree",
+      "ko": "동의하다",
+      "pos": "v."
+    },
+    {
+      "en": "earthquake",
+      "ko": "지진",
+      "pos": "n.",
+      "ex": "Forms • One night in February, after I had gone to bed, an earthquake hit."
+    },
+    {
+      "en": "storm",
+      "ko": "폭풍",
+      "pos": "n.",
+      "ex": "Also a storm is coming this week."
+    },
+    {
+      "en": "cause",
+      "ko": "야기하다, 일으키다",
+      "pos": "v.",
+      "ex": "I woke up suddenly because my bed was shaking."
+    },
+    {
+      "en": "damage",
+      "ko": "손상시키다 n. 손상, 피해",
+      "pos": "v.",
+      "ex": "I read a report yesterday about the damage from each type of natural disaster."
+    },
+    {
+      "en": "increase",
+      "ko": "늘다, 증가하다",
+      "pos": "v."
+    },
+    {
+      "en": "recently",
+      "ko": "최근에",
+      "pos": "adv.",
+      "ex": "I’m curious about why earthquakes have occurred so often in Korea recently."
+    },
+    {
+      "en": "serious",
+      "ko": "심각한",
+      "pos": "a.",
+      "ex": "How serious are they?"
+    },
+    {
+      "en": "destroy",
+      "ko": "파괴하다",
+      "pos": "v.",
+      "ex": "They’ve destroyed a large number of houses and other buildings."
+    },
+    {
+      "en": "actually",
+      "ko": "사실, 실제로",
+      "pos": "adv.",
+      "ex": "Yes, actually the wind has made the fires worse."
+    },
+    {
+      "en": "leave",
+      "ko": "떠나다",
+      "pos": "v.",
+      "ex": "I’m curious about how many people had to leave their homes."
+    },
+    {
+      "en": "missing",
+      "ko": "없어진, 행방불명인",
+      "pos": "a."
+    },
+    {
+      "en": "area",
+      "ko": "지역",
+      "pos": "n."
+    },
+    {
+      "en": "safe",
+      "ko": "안전한",
+      "pos": "a.",
+      "ex": "I hope they’re somewhere safe."
+    },
+    {
+      "en": "wildfire",
+      "ko": "들불, 산불",
+      "pos": "n.",
+      "ex": "I heard that there have been many wildfires in Korea."
+    },
+    {
+      "en": "survival kit",
+      "ko": "비상[생존] 장비",
+      "pos": "n.",
+      "ex": "Mom, what else do we need to put in the natural disaster survival kit?"
+    },
+    {
+      "en": "include",
+      "ko": "포함하다",
+      "pos": "v.",
+      "ex": "Oh, make sure that you include batteries for the radio."
+    },
+    {
+      "en": "perform",
+      "ko": "실시하다, 행하다",
+      "pos": "v.",
+      "ex": "Listen and Order W: Performing CPR properly can save someone’s life."
+    },
+    {
+      "en": "CPR",
+      "ko": "심폐소생술",
+      "pos": "n.",
+      "ex": "Listen and Order W: Performing CPR properly can save someone’s life."
+    },
+    {
+      "en": "properly",
+      "ko": "제대로, 올바로",
+      "pos": "adv.",
+      "ex": "Listen and Order W: Performing CPR properly can save someone’s life."
+    },
+    {
+      "en": "save",
+      "ko": "구하다",
+      "pos": "v.",
+      "ex": "Listen and Order W: Performing CPR properly can save someone’s life."
+    },
+    {
+      "en": "proper",
+      "ko": "제대로 된, 올바른",
+      "pos": "a.",
+      "ex": "Listen and Order W: Performing CPR properly can save someone’s life."
+    },
+    {
+      "en": "tap",
+      "ko": "톡톡 두드리다",
+      "pos": "v.",
+      "ex": "Tap the person and shout, “Are you okay?"
+    },
+    {
+      "en": "reaction",
+      "ko": "반응",
+      "pos": "n.",
+      "ex": "If there’s no reaction, call 119 for help."
+    },
+    {
+      "en": "breathe",
+      "ko": "숨 쉬다, 호흡하다",
+      "pos": "v."
+    },
+    {
+      "en": "place",
+      "ko": "놓다, 두다 n. 장소",
+      "pos": "v.",
+      "ex": "Make sure you place your hands in the middle of the person’s chest."
+    },
+    {
+      "en": "chest",
+      "ko": "가슴",
+      "pos": "n.",
+      "ex": "Make sure you place your hands in the middle of the person’s chest."
+    },
+    {
+      "en": "press",
+      "ko": "누르다, n. 압박, 누르기",
+      "pos": "v.",
+      "ex": "Use your body weight to press harder on the chest."
+    },
+    {
+      "en": "breath",
+      "ko": "숨, 호흡",
+      "pos": "n.",
+      "ex": "Second, listen, look, and feel for breathing."
+    },
+    {
+      "en": "help",
+      "ko": "돕다, n. 도움, 구조",
+      "pos": "v.",
+      "ex": "First, check that the person needs help."
+    },
+    {
+      "en": "mention",
+      "ko": "언급하다",
+      "pos": "v."
+    },
+    {
+      "en": "order",
+      "ko": "정리하다, 배열하다",
+      "pos": "v.",
+      "ex": "Listen and Order W: Performing CPR properly can save someone’s life."
+    },
+    {
+      "en": "until",
+      "ko": "~때까지",
+      "pos": "conj.",
+      "ex": "Keep doing CPR until help arrives."
+    },
+    {
+      "en": "fire drill",
+      "ko": "화재 대피 훈련",
+      "pos": "n.",
+      "ex": "Susie, this is a fire drill!"
+    },
+    {
+      "en": "guideline",
+      "ko": "지침",
+      "pos": "n.",
+      "ex": "The guidelines say that we have to get in line quickly."
+    },
+    {
+      "en": "lower",
+      "ko": "낮추다",
+      "pos": "v.",
+      "ex": "Remember to lower your body while you’re walking."
+    },
+    {
+      "en": "meeting place",
+      "ko": "집회소, 집합 장소",
+      "pos": "n.",
+      "ex": "We’re going to the meeting place, right?"
+    },
+    {
+      "en": "belongings",
+      "ko": "소지품, 소유물",
+      "pos": "n.",
+      "ex": "Leave your belongings behind and just go."
+    },
+    {
+      "en": "wet",
+      "ko": "젖은",
+      "pos": "a.",
+      "ex": "Make sure that you cover your mouth with a wet cloth."
+    },
+    {
+      "en": "cloth",
+      "ko": "천, 옷감",
+      "pos": "n.",
+      "ex": "Make sure that you cover your mouth with a wet cloth."
+    },
+    {
+      "en": "exit",
+      "ko": "나가다, 퇴장하다",
+      "pos": "v.",
+      "ex": "Make sure that you exit the building immediately."
+    },
+    {
+      "en": "immediately",
+      "ko": "즉시, 바로",
+      "pos": "adv.",
+      "ex": "Make sure that you exit the building immediately."
+    },
+    {
+      "en": "heat wave",
+      "ko": "폭염, 무더위",
+      "pos": "n."
+    },
+    {
+      "en": "yellow dust",
+      "ko": "황사",
+      "pos": "n.",
+      "ex": "In case of yellow dust, what should I do?"
+    },
+    {
+      "en": "hit",
+      "ko": "엄습하다, 타격을 가하다",
+      "pos": "v.",
+      "ex": "Forms • One night in February, after I had gone to bed, an earthquake hit."
+    },
+    {
+      "en": "shake",
+      "ko": "흔들리다, 진동하다",
+      "pos": "v.",
+      "ex": "Soon the whole room began to shake violently, and my confusion turned to panic."
+    },
+    {
+      "en": "joke",
+      "ko": "농담, 장난",
+      "pos": "n.",
+      "ex": "I thought my brother was shaking my bed as a joke."
+    },
+    {
+      "en": "break",
+      "ko": "깨지다, 깨뜨리다",
+      "pos": "v.",
+      "ex": "I had just finished breakfast when he woke up."
+    },
+    {
+      "en": "piece",
+      "ko": "조각, 파편",
+      "pos": "n.",
+      "ex": "But then I heard the mirror on my desk fall to the floor and break into pieces."
+    },
+    {
+      "en": "exactly",
+      "ko": "정확히, 틀림없이",
+      "pos": "adv.",
+      "ex": "I still didn’t know what exactly was happening."
+    },
+    {
+      "en": "whole",
+      "ko": "전체의, 모든",
+      "pos": "a.",
+      "ex": "Soon the whole room began to shake violently, and my confusion turned to panic."
+    },
+    {
+      "en": "violently",
+      "ko": "맹렬히, 세차게",
+      "pos": "adv.",
+      "ex": "Soon the whole room began to shake violently, and my confusion turned to panic."
+    },
+    {
+      "en": "confusion",
+      "ko": "혼란, 혼동",
+      "pos": "n.",
+      "ex": "Soon the whole room began to shake violently, and my confusion turned to panic."
+    },
+    {
+      "en": "panic",
+      "ko": "겁에 질리다",
+      "pos": "v.",
+      "ex": "Soon the whole room began to shake violently, and my confusion turned to panic."
+    },
+    {
+      "en": "experience",
+      "ko": "겪다, 경험하다",
+      "pos": "v.",
+      "ex": "I had never thought I’d experience a real earthquake."
+    },
+    {
+      "en": "react",
+      "ko": "반응하다",
+      "pos": "v.",
+      "ex": "I didn’t know how to react."
+    },
+    {
+      "en": "crawl",
+      "ko": "기어가다",
+      "pos": "v.",
+      "ex": "We ran to the kitchen and crawled under the table."
+    },
+    {
+      "en": "swing",
+      "ko": "흔들리다",
+      "pos": "v.",
+      "ex": "I could see the light swinging violently and books falling to the floor."
+    },
+    {
+      "en": "drop",
+      "ko": "떨어지다",
+      "pos": "v.",
+      "ex": "Our family picture dropped from the wall and the glass covering it broke."
+    },
+    {
+      "en": "cover",
+      "ko": "덮다, 가리다",
+      "pos": "v.",
+      "ex": "Make sure that you cover your mouth with a wet cloth."
+    },
+    {
+      "en": "roll",
+      "ko": "구르다, 굴러가다",
+      "pos": "v.",
+      "ex": "A cup tipped over and rolled off the kitchen table."
+    },
+    {
+      "en": "second",
+      "ko": "초, 순간",
+      "pos": "n.",
+      "ex": "I guess earthquakes are second."
+    },
+    {
+      "en": "collapse",
+      "ko": "붕괴되다, 무너지다",
+      "pos": "v.",
+      "ex": "I started to worry that the building would collapse."
+    },
+    {
+      "en": "toward",
+      "ko": "~을 향하여",
+      "pos": "prep.",
+      "ex": "We started crawling toward the door."
+    },
+    {
+      "en": "ring",
+      "ko": "(전화가) 울리다",
+      "pos": "v.",
+      "ex": "Our family picture dropped from the wall and the glass covering it broke."
+    },
+    {
+      "en": "urgently",
+      "ko": "급히, 긴급하게",
+      "pos": "adv."
+    },
+    {
+      "en": "nervously",
+      "ko": "초조하게",
+      "pos": "adv.",
+      "ex": "Lesson 3 - 13 - We nervously made our way down the stairs and outside."
+    },
+    {
+      "en": "part",
+      "ko": "일부, 부분",
+      "pos": "n.",
+      "ex": "Every second, I could hear something else in the apartment break."
+    },
+    {
+      "en": "smash",
+      "ko": "박살내다, 때려 부수다",
+      "pos": "v.",
+      "ex": "Parts of buildings had fallen and had smashed several cars."
+    },
+    {
+      "en": "several",
+      "ko": "몇몇의, 몇 개의",
+      "pos": "a.",
+      "ex": "Parts of buildings had fallen and had smashed several cars."
+    },
+    {
+      "en": "open space",
+      "ko": "공터, 빈 땅",
+      "pos": "n.",
+      "ex": "We went to an open space to avoid more falling pieces."
+    },
+    {
+      "en": "avoid",
+      "ko": "피하다",
+      "pos": "v.",
+      "ex": "They crawled under the table to avoid the many falling objects."
+    },
+    {
+      "en": "falling",
+      "ko": "떨어지는, 내리는",
+      "pos": "a.",
+      "ex": "I could see the light swinging violently and books falling to the floor."
+    },
+    {
+      "en": "earthquake drill",
+      "ko": "지진 대피 훈련",
+      "pos": "n.",
+      "ex": "- 14 - After that night, I began to take earthquake drills seriously."
+    },
+    {
+      "en": "furniture",
+      "ko": "가구",
+      "pos": "n.",
+      "ex": "I felt when the furniture was shaking and things were falling to the floor."
+    },
+    {
+      "en": "thing",
+      "ko": "물건",
+      "pos": "n.",
+      "ex": "Anything else, Mom?"
+    },
+    {
+      "en": "seriously",
+      "ko": "진지하게, 심각하게",
+      "pos": "adv.",
+      "ex": "- 14 - After that night, I began to take earthquake drills seriously."
+    },
+    {
+      "en": "realize",
+      "ko": "깨닫다, 알아차리다",
+      "pos": "v.",
+      "ex": "Soon I realized that I 2."
+    },
+    {
+      "en": "occur",
+      "ko": "일어나다, 발생하다",
+      "pos": "v.",
+      "ex": "I should be prepared for the next earthquake, which can occur at any time."
+    },
+    {
+      "en": "a large number of",
+      "ko": "많은, 다수의",
+      "pos": "",
+      "ex": "They’ve destroyed a large number of houses and other buildings."
+    },
+    {
+      "en": "go on",
+      "ko": "(상황이) 계속되다,",
+      "pos": "",
+      "ex": "Unless it rains tomorrow, we’ll go on a picnic."
+    },
+    {
+      "en": "get in line",
+      "ko": "줄에 들어가서다",
+      "pos": "",
+      "ex": "The guidelines say that we have to get in line quickly."
+    },
+    {
+      "en": "leave behind",
+      "ko": "~을 두고 가다",
+      "pos": ""
+    },
+    {
+      "en": "line up",
+      "ko": "줄을 서다",
+      "pos": ""
+    },
+    {
+      "en": "in case of",
+      "ko": "~가 발생할 시",
+      "pos": "",
+      "ex": "In case of a fire, what should I do?"
+    },
+    {
+      "en": "turn to",
+      "ko": "~으로 바뀌다, 변화하다",
+      "pos": ""
+    },
+    {
+      "en": "tip over",
+      "ko": "엎어지다, 넘어지다",
+      "pos": ""
+    },
+    {
+      "en": "find out",
+      "ko": "알아보다, 발견하다",
+      "pos": "",
+      "ex": "I’m listening to the radio right now to find out what’s going on."
+    },
+    {
+      "en": "pull over",
+      "ko": "(차를) 한쪽에 대다",
+      "pos": ""
+    },
+    {
+      "en": "make one’s way",
+      "ko": "나아가다, 가다",
+      "pos": ""
+    }
+  ]
+}

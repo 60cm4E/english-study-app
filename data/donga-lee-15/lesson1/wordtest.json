@@ -1,0 +1,421 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-lee-15",
+    "lesson": 1,
+    "title": "Lesson 1"
+  },
+  "words": [
+    {
+      "en": "same",
+      "ko": "같은",
+      "pos": "a.",
+      "ex": "We’re in the same class again!"
+    },
+    {
+      "en": "class",
+      "ko": "반, 수업[강의]",
+      "pos": "n.",
+      "ex": "We’re in the same class again!"
+    },
+    {
+      "en": "pretty",
+      "ko": "매우, 꽤 a. 예쁜",
+      "pos": "adv.",
+      "ex": "I’ve been pretty busy."
+    },
+    {
+      "en": "busy",
+      "ko": "바쁜",
+      "pos": "a.",
+      "ex": "I’ve been pretty busy."
+    },
+    {
+      "en": "competition",
+      "ko": "대회, 시합",
+      "pos": "n.",
+      "ex": "I have a piano competition next week."
+    },
+    {
+      "en": "luck",
+      "ko": "운, 행운",
+      "pos": "n.",
+      "ex": "Good luck in your competition!"
+    },
+    {
+      "en": "excited",
+      "ko": "신이 난",
+      "pos": "a.",
+      "ex": "Susan, you look excited."
+    },
+    {
+      "en": "teamwork",
+      "ko": "팀워크, 협동 작업",
+      "pos": "n.",
+      "ex": "Our team had the best teamwork."
+    },
+    {
+      "en": "lose",
+      "ko": "지다, 잃다, 길을 잃다",
+      "pos": "v.",
+      "ex": "That was really close!"
+    },
+    {
+      "en": "score",
+      "ko": "(경기 등에서) 득점, 점수",
+      "pos": "n.",
+      "ex": "What was the score?"
+    },
+    {
+      "en": "point",
+      "ko": "(경기 등에서) 점수",
+      "pos": "n.",
+      "ex": "◈ 단원 소재: 협력 ◈ 의사소통 기능 • 안부 묻고 답하기 A: How have you been?"
+    },
+    {
+      "en": "close",
+      "ko": "가까운, 막상막하의",
+      "pos": "a.",
+      "ex": "That was really close!"
+    },
+    {
+      "en": "lesson",
+      "ko": "수업, 교훈",
+      "pos": "n.",
+      "ex": "1 All the Dialogue Lesson 1 - 2 - ‣‣ Listen (의사소통) Listen and Speak 1 A."
+    },
+    {
+      "en": "still",
+      "ko": "아직, 여전히",
+      "pos": "adv.",
+      "ex": "Minho: You still have my number, right?"
+    },
+    {
+      "en": "later",
+      "ko": "나중에",
+      "pos": "adv.",
+      "ex": "I’ll call you later."
+    },
+    {
+      "en": "stick",
+      "ko": "막대기처럼 가늘고 긴 것",
+      "pos": "n.",
+      "ex": "Lesson 1 - 8 - In a hurry, we taped the sticks of spaghetti together."
+    },
+    {
+      "en": "tape",
+      "ko": "테이프 v. 붙이다",
+      "pos": "n.",
+      "ex": "Lesson 1 - 8 - In a hurry, we taped the sticks of spaghetti together."
+    },
+    {
+      "en": "string",
+      "ko": "줄, 끈, 실 v. 묶다, 매달다",
+      "pos": "n.",
+      "ex": "Then, we wrapped the string around them."
+    },
+    {
+      "en": "build",
+      "ko": "(건물을) 짓다, 쌓다, 만들다",
+      "pos": "v.",
+      "ex": "You have to build the tallest tower in your class."
+    },
+    {
+      "en": "tower",
+      "ko": "탑, 타워",
+      "pos": "n.",
+      "ex": "You have to build the tallest tower in your class."
+    },
+    {
+      "en": "top",
+      "ko": "꼭대기, 정상",
+      "pos": "n.",
+      "ex": "The marshmallow must be on top."
+    },
+    {
+      "en": "stand",
+      "ko": "서다, 서 있다",
+      "pos": "v.",
+      "ex": "The tower must stand by itself."
+    },
+    {
+      "en": "limit",
+      "ko": "제한, 한계 v. 제한하다",
+      "pos": "n.",
+      "ex": "The time limit is 15 minutes."
+    },
+    {
+      "en": "relationship",
+      "ko": "관계",
+      "pos": "n."
+    },
+    {
+      "en": "solve",
+      "ko": "해결하다",
+      "pos": "v."
+    },
+    {
+      "en": "problem",
+      "ko": "문제",
+      "pos": "n."
+    },
+    {
+      "en": "creatively",
+      "ko": "창의적으로",
+      "pos": "adv.",
+      "ex": "Creatively 여러분은 필요해요: • 스파게티 면 20개 • 마시멜로 1개 • 테이프 1미터 • 끈 1미터 규칙: • 각 팀은 4명입니다."
+    },
+    {
+      "en": "challenge",
+      "ko": "도전, 과제",
+      "pos": "n.",
+      "ex": "Challenge 생략 [모범 답안] Bora has been great."
+    },
+    {
+      "en": "differently",
+      "ko": "다르게",
+      "pos": "adv.",
+      "ex": "Every team does the marshmallow challenge differently."
+    },
+    {
+      "en": "example",
+      "ko": "예, 예시",
+      "pos": "n.",
+      "ex": "Let’s look at some examples."
+    },
+    {
+      "en": "act",
+      "ko": "행동하다",
+      "pos": "v.",
+      "ex": "The actors work together to create a performance."
+    },
+    {
+      "en": "suddenly",
+      "ko": "갑자기",
+      "pos": "adv.",
+      "ex": "Suddenly the teacher said, “Five minutes left."
+    },
+    {
+      "en": "leave",
+      "ko": "떠나다, 남기다",
+      "pos": "v."
+    },
+    {
+      "en": "wrap",
+      "ko": "감다, 싸다, 포장하다",
+      "pos": "v.",
+      "ex": "Then, we wrapped the string around them."
+    },
+    {
+      "en": "around",
+      "ko": "둘레에, 주위에",
+      "pos": "prep.",
+      "ex": "Then, we wrapped the string around them."
+    },
+    {
+      "en": "stuck",
+      "ko": "움직일 수 없는, 갇힌",
+      "pos": "a.",
+      "ex": "The string got stuck to the tape and it was a big mess."
+    },
+    {
+      "en": "mess",
+      "ko": "엉망인 상태",
+      "pos": "n.",
+      "ex": "The string got stuck to the tape and it was a big mess."
+    },
+    {
+      "en": "second",
+      "ko": "(시간 단위인) 초",
+      "pos": "n.",
+      "ex": "With one second left, I put the marshmallow on top!"
+    },
+    {
+      "en": "spend",
+      "ko": "(시간을) 보내다, (돈을) 쓰다",
+      "pos": "v.",
+      "ex": "We didn’t spend much time on planning."
+    },
+    {
+      "en": "member",
+      "ko": "구성원, 일원",
+      "pos": "n.",
+      "ex": "The band members play together to make one beautiful sound."
+    },
+    {
+      "en": "tent",
+      "ko": "텐트, 천막",
+      "pos": "n.",
+      "ex": "Our first tower looked like a tent."
+    },
+    {
+      "en": "try",
+      "ko": "시도하다, 노력하다, 애쓰다",
+      "pos": "v.",
+      "ex": "Try the Marshmallow Challenge!"
+    },
+    {
+      "en": "possible",
+      "ko": "가능한",
+      "pos": "a.",
+      "ex": "After many tries, it was possible for us to build a beautiful and tall tower."
+    },
+    {
+      "en": "lean",
+      "ko": "기울다, ~에 기대다",
+      "pos": "v.",
+      "ex": "It looked like the Leaning Tower of Pisa."
+    },
+    {
+      "en": "finally",
+      "ko": "마침내, 마지막으로",
+      "pos": "adv.",
+      "ex": "We finally made what we wanted."
+    },
+    {
+      "en": "choose",
+      "ko": "고르다, 선택하다",
+      "pos": "v.",
+      "ex": "It was not easy for us to choose the best idea."
+    },
+    {
+      "en": "instead",
+      "ko": "대신에",
+      "pos": "adv.",
+      "ex": "Instead, we took a good idea and improved on it."
+    },
+    {
+      "en": "need",
+      "ko": "필요하다",
+      "pos": "v.",
+      "ex": "One student said we needed a strong base."
+    },
+    {
+      "en": "strong",
+      "ko": "강한, 튼튼한",
+      "pos": "a.",
+      "ex": "One student said we needed a strong base."
+    },
+    {
+      "en": "base",
+      "ko": "(사물의) 맨 아래 부분",
+      "pos": "n.",
+      "ex": "One student said we needed a strong base."
+    },
+    {
+      "en": "suggest",
+      "ko": "제안하다",
+      "pos": "v.",
+      "ex": "Another student suggested a triangle shape for the base."
+    },
+    {
+      "en": "triangle",
+      "ko": "삼각형",
+      "pos": "n.",
+      "ex": "Another student suggested a triangle shape for the base."
+    },
+    {
+      "en": "shape",
+      "ko": "모양, 형태",
+      "pos": "n.",
+      "ex": "Another student suggested a triangle shape for the base."
+    },
+    {
+      "en": "agree",
+      "ko": "동의하다",
+      "pos": "v.",
+      "ex": "We all agreed and divided up the roles such as time checker and tape cutter."
+    },
+    {
+      "en": "divide",
+      "ko": "나누다",
+      "pos": "v.",
+      "ex": "We all agreed and divided up the roles such as time checker and tape cutter."
+    },
+    {
+      "en": "role",
+      "ko": "역할",
+      "pos": "n.",
+      "ex": "We all agreed and divided up the roles such as time checker and tape cutter."
+    },
+    {
+      "en": "checker",
+      "ko": "점검하는 사람",
+      "pos": "n.",
+      "ex": "We all agreed and divided up the roles such as time checker and tape cutter."
+    },
+    {
+      "en": "cutter",
+      "ko": "자르는 사람",
+      "pos": "n.",
+      "ex": "We all agreed and divided up the roles such as time checker and tape cutter."
+    },
+    {
+      "en": "as",
+      "ko": "(자격, 기능) ~로서",
+      "pos": "prep.",
+      "ex": "It was not easy for us to choose the best idea."
+    },
+    {
+      "en": "get well",
+      "ko": "병이 나아지다",
+      "pos": ""
+    },
+    {
+      "en": "be good at",
+      "ko": "~을 잘하다",
+      "pos": "",
+      "ex": "You must be good at it."
+    },
+    {
+      "en": "by itself",
+      "ko": "저절로, 스스로",
+      "pos": "",
+      "ex": "The tower must stand by itself."
+    },
+    {
+      "en": "in detail",
+      "ko": "자세히, 상세하게",
+      "pos": ""
+    },
+    {
+      "en": "in a hurry",
+      "ko": "서둘러, 급히",
+      "pos": "",
+      "ex": "Lesson 1 - 8 - In a hurry, we taped the sticks of spaghetti together."
+    },
+    {
+      "en": "look at",
+      "ko": "~을 보다",
+      "pos": "",
+      "ex": "Let’s look at some examples."
+    },
+    {
+      "en": "right away",
+      "ko": "곧바로, 당장",
+      "pos": "",
+      "ex": "All the members started building the tower right away."
+    },
+    {
+      "en": "look like",
+      "ko": "~처럼 보이다",
+      "pos": "",
+      "ex": "What did Team B’s first tower look like?"
+    },
+    {
+      "en": "improve on",
+      "ko": "~을 보다 낫게 하다",
+      "pos": ""
+    },
+    {
+      "en": "divide up",
+      "ko": "분담하다",
+      "pos": ""
+    },
+    {
+      "en": "in the end",
+      "ko": "마침내, 결국",
+      "pos": "",
+      "ex": "In the end, we built our tall tower!"
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "lessonInfo": {
+    "textbook": "neungyul-kim-15",
+    "lesson": 1,
+    "title": "Lesson 1"
+  },
+  "words": [
+    {
+      "en": "own",
+      "ko": "자기 자신의",
+      "pos": "a.",
+      "ex": "I’d like to learn how to make my own mobile game."
+    },
+    {
+      "en": "sound",
+      "ko": "소리",
+      "pos": "n.",
+      "ex": "I listened to the song “Cavatina,” and I was struck by the sound of the guitar."
+    },
+    {
+      "en": "player",
+      "ko": "연주자",
+      "pos": "n.",
+      "ex": "My friend Jinsu is a very good guitar player."
+    },
+    {
+      "en": "spend",
+      "ko": "(시간을) 보내다",
+      "pos": "v.",
+      "ex": "I’d like to spend time volunteering with my friends during summer vacation."
+    },
+    {
+      "en": "volunteer",
+      "ko": "자원봉사 하다",
+      "pos": "v.",
+      "ex": "I’d like to spend time volunteering with my friends during summer vacation."
+    },
+    {
+      "en": "hold",
+      "ko": "들고[잡고] 있다",
+      "pos": "v.",
+      "ex": "What are you holding?"
+    },
+    {
+      "en": "skateboard",
+      "ko": "스케이트보드",
+      "pos": "n.",
+      "ex": "It’s a skateboard."
+    },
+    {
+      "en": "local",
+      "ko": "지역의",
+      "pos": "a.",
+      "ex": "I joined a local skateboarding club last month."
+    },
+    {
+      "en": "share",
+      "ko": "공유하다",
+      "pos": "v."
+    },
+    {
+      "en": "tip",
+      "ko": "조언",
+      "pos": "n.",
+      "ex": "Think & Tell] Which tip will probably be most useful for you?"
+    },
+    {
+      "en": "shelf",
+      "ko": "선반, 책꽂이",
+      "pos": "n.",
+      "ex": "Did you make this shelf yourself?"
+    },
+    {
+      "en": "furniture",
+      "ko": "가구",
+      "pos": "n.",
+      "ex": "I started making furniture last year."
+    },
+    {
+      "en": "confident",
+      "ko": "자신감 있는",
+      "pos": "a.",
+      "ex": "I feel so confident after I finish making something."
+    },
+    {
+      "en": "talent",
+      "ko": "재능",
+      "pos": "n.",
+      "ex": "I guess I found a new talent."
+    },
+    {
+      "en": "experience",
+      "ko": "경험",
+      "pos": "n.",
+      "ex": "A Life Full of Experiences Lesson 1 All the Dialogue Lesson 1 - 2 - B."
+    },
+    {
+      "en": "meaningful",
+      "ko": "의미 있는",
+      "pos": "a.",
+      "ex": "Presentation Time My Meaningful Experience 나의 의미 있는 경험 Step 1 e."
+    },
+    {
+      "en": "recommend",
+      "ko": "추천하다",
+      "pos": "v.",
+      "ex": "Our group recommends cooking dinner for your family."
+    },
+    {
+      "en": "foreign",
+      "ko": "외국의",
+      "pos": "a.",
+      "ex": "Lesson 1 - 6 - Why Do People Learn Foreign Languages?"
+    },
+    {
+      "en": "language",
+      "ko": "언어",
+      "pos": "n.",
+      "ex": "Lesson 1 - 6 - Why Do People Learn Foreign Languages?"
+    },
+    {
+      "en": "requirement",
+      "ko": "필요조건, 필수수업",
+      "pos": "n.",
+      "ex": "Many students learn new languages because of school requirements."
+    },
+    {
+      "en": "everywhere",
+      "ko": "어디나, 도처에",
+      "pos": "adv."
+    },
+    {
+      "en": "big fan",
+      "ko": "열렬한 팬",
+      "pos": "n.",
+      "ex": "I’m a big fan of a Spanish soccer team."
+    },
+    {
+      "en": "interview",
+      "ko": "면접, 인터뷰",
+      "pos": "n.",
+      "ex": "I want to understand interviews with my favorite players."
+    },
+    {
+      "en": "favorite",
+      "ko": "가장 좋아하는",
+      "pos": "a.",
+      "ex": "I want to understand interviews with my favorite players."
+    },
+    {
+      "en": "improve",
+      "ko": "향상시키다",
+      "pos": "v.",
+      "ex": "How can I improve my Spanish?"
+    },
+    {
+      "en": "practice",
+      "ko": "연습하다",
+      "pos": "v.",
+      "ex": "The best way to learn a new language is to practice it every day."
+    },
+    {
+      "en": "familiar",
+      "ko": "친숙한, 익숙한",
+      "pos": "a.",
+      "ex": "What’s most important is to become familiar with the language first."
+    },
+    {
+      "en": "Spanish",
+      "ko": "스페인어",
+      "pos": "n.",
+      "ex": "Forms • I have been writing my shopping lists in Spanish!"
+    },
+    {
+      "en": "suggest",
+      "ko": "제안하다",
+      "pos": "v.",
+      "ex": "I suggest watching Spanish movies often."
+    },
+    {
+      "en": "everyday",
+      "ko": "일상의",
+      "pos": "a.",
+      "ex": "Some words are used only in soccer, not in everyday life."
+    },
+    {
+      "en": "vocabulary",
+      "ko": "어휘",
+      "pos": "n.",
+      "ex": "Learn some soccer vocabulary and memorize it."
+    },
+    {
+      "en": "memorize",
+      "ko": "암기하다",
+      "pos": "v.",
+      "ex": "Learn some soccer vocabulary and memorize it."
+    },
+    {
+      "en": "review",
+      "ko": "후기, 리뷰",
+      "pos": "n.",
+      "ex": "Also, why don’t you try writing a review of a match in Spanish?"
+    },
+    {
+      "en": "match",
+      "ko": "경기",
+      "pos": "n.",
+      "ex": "Also, why don’t you try writing a review of a match in Spanish?"
+    },
+    {
+      "en": "skill",
+      "ko": "기술, 기량",
+      "pos": "n.",
+      "ex": "It will help you improve your writing skills."
+    },
+    {
+      "en": "subtitle",
+      "ko": "자막",
+      "pos": "n.",
+      "ex": "Lesson 1 - 9 - No More Subtitles!"
+    },
+    {
+      "en": "excited",
+      "ko": "신이 난, 흥분한",
+      "pos": "a.",
+      "ex": "I’m so excited to see my favorite Korean boy band perform."
+    },
+    {
+      "en": "perform",
+      "ko": "공연하다",
+      "pos": "v.",
+      "ex": "I’m so excited to see my favorite Korean boy band perform."
+    },
+    {
+      "en": "perfect",
+      "ko": "완벽한",
+      "pos": "a.",
+      "ex": "Their singing and their dancing are just perfect."
+    },
+    {
+      "en": "translation",
+      "ko": "번역, 번역문",
+      "pos": "n.",
+      "ex": "I want to understand their songs without subtitles or translations, though."
+    },
+    {
+      "en": "though",
+      "ko": "그렇지만",
+      "pos": "adv.",
+      "ex": "I want to understand their songs without subtitles or translations, though."
+    },
+    {
+      "en": "motivate",
+      "ko": "동기를 부여하다",
+      "pos": "v.",
+      "ex": "Find what keeps you motivated."
+    },
+    {
+      "en": "translate",
+      "ko": "번역하다",
+      "pos": "v.",
+      "ex": "We translate songs and sing together."
+    },
+    {
+      "en": "follow",
+      "ko": "(SNS에서) 팔로하다",
+      "pos": "v.",
+      "ex": "New World 본문3 본 문 분 석 Reading Lesson 1 - 10 - Follow DREAM4 on social media."
+    },
+    {
+      "en": "social media",
+      "ko": "소셜 미디어",
+      "pos": "n.",
+      "ex": "New World 본문3 본 문 분 석 Reading Lesson 1 - 10 - Follow DREAM4 on social media."
+    },
+    {
+      "en": "post",
+      "ko": "게시하다 n. 게시물",
+      "pos": "v.",
+      "ex": "They often post short messages in Korean about how they are doing."
+    },
+    {
+      "en": "easily",
+      "ko": "쉽게",
+      "pos": "adv."
+    },
+    {
+      "en": "work",
+      "ko": "도움이 되다",
+      "pos": "v.",
+      "ex": "I have just finished my homework."
+    },
+    {
+      "en": "motivated",
+      "ko": "동기가 부여된",
+      "pos": "a.",
+      "ex": "Find what keeps you motivated."
+    },
+    {
+      "en": "be struck by",
+      "ko": "~에 감명받다",
+      "pos": ""
+    },
+    {
+      "en": "first of all",
+      "ko": "우선, 다른 무엇 보다",
+      "pos": ""
+    },
+    {
+      "en": "take a class",
+      "ko": "수업을 듣다",
+      "pos": ""
+    },
+    {
+      "en": "on top of",
+      "ko": "~의 정상에",
+      "pos": "",
+      "ex": "We are finally on top of the mountain!"
+    },
+    {
+      "en": "one another",
+      "ko": "서로",
+      "pos": "",
+      "ex": "In my club, we motivate one another."
+    },
+    {
+      "en": "at first",
+      "ko": "처음에",
+      "pos": "",
+      "ex": "It was hard at first, but now I love it."
+    },
+    {
+      "en": "for fun",
+      "ko": "재미로",
+      "pos": "",
+      "ex": "Many others learn them for fun."
+    },
+    {
+      "en": "in any case",
+      "ko": "어떤 경우가 되었건",
+      "pos": ""
+    },
+    {
+      "en": "become familiar with",
+      "ko": "~에 익숙해지다",
+      "pos": ""
+    },
+    {
+      "en": "get used to",
+      "ko": "~에 익숙해지다",
+      "pos": "",
+      "ex": "Lesson 1 - 8 - It will help you get used to the sound of the language."
+    },
+    {
+      "en": "be interested in",
+      "ko": "~에 관심이 있다",
+      "pos": ""
+    },
+    {
+      "en": "print out",
+      "ko": "출력하다",
+      "pos": "",
+      "ex": "It’s also a good idea to print out the subtitles and read them first."
+    },
+    {
+      "en": "hundreds of",
+      "ko": "수백의",
+      "pos": ""
+    }
+  ]
+}

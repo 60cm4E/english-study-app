@@ -1,0 +1,418 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-lee-15",
+    "lesson": 4,
+    "title": "Lesson 4"
+  },
+  "words": [
+    {
+      "en": "airport",
+      "ko": "공항",
+      "pos": "n.",
+      "ex": "How did you come here from the airport?"
+    },
+    {
+      "en": "during",
+      "ko": "~동안",
+      "pos": "prep.",
+      "ex": "We can use smartphones during classes from next week."
+    },
+    {
+      "en": "useful",
+      "ko": "유용한, 쓸모 있는",
+      "pos": "a.",
+      "ex": "I think it will be very useful."
+    },
+    {
+      "en": "helpful",
+      "ko": "유용한, 도움이 되는",
+      "pos": "a.",
+      "ex": "It will be very helpful."
+    },
+    {
+      "en": "cruel",
+      "ko": "잔인한",
+      "pos": "a."
+    },
+    {
+      "en": "convenient",
+      "ko": "편리한",
+      "pos": "a.",
+      "ex": "Suji: You’re right, but I think it’s very convenient."
+    },
+    {
+      "en": "convenience",
+      "ko": "편의, 편리",
+      "pos": "n.",
+      "ex": "Tony: Well, convenience isn’t everything."
+    },
+    {
+      "en": "acting",
+      "ko": "(연극, 영화에서의) 연기",
+      "pos": "n.",
+      "ex": "The acting was so great."
+    },
+    {
+      "en": "energy drink",
+      "ko": "에너지 음료",
+      "pos": "n.",
+      "ex": "Why are you always drinking energy drinks?"
+    },
+    {
+      "en": "awake",
+      "ko": "깨어 있는 v. 깨우다",
+      "pos": "a.",
+      "ex": "Because they help me stay awake."
+    },
+    {
+      "en": "caffeine",
+      "ko": "카페인",
+      "pos": "n.",
+      "ex": "I’m with you on that, but they have too much caffeine."
+    },
+    {
+      "en": "hurt",
+      "ko": "다치게 하다, 아프게 하다",
+      "pos": "v.",
+      "ex": "Did you know that too much caffeine can hurt your bones?"
+    },
+    {
+      "en": "bone",
+      "ko": "뼈",
+      "pos": "n.",
+      "ex": "Did you know that too much caffeine can hurt your bones?"
+    },
+    {
+      "en": "skip",
+      "ko": "(일을) 거르다, 빼먹다",
+      "pos": "v.",
+      "ex": "How do you feel about skipping breakfast?"
+    },
+    {
+      "en": "item",
+      "ko": "물품, 물건",
+      "pos": "n.",
+      "ex": "Suji: They’re items I ordered online."
+    },
+    {
+      "en": "order",
+      "ko": "주문하다, 명령하다",
+      "pos": "v.",
+      "ex": "Suji: They’re items I ordered online."
+    },
+    {
+      "en": "actually",
+      "ko": "실제로",
+      "pos": "adv.",
+      "ex": "Tony: It’s very difficult to know what an item actually looks like."
+    },
+    {
+      "en": "return",
+      "ko": "되돌려주다, 반환하다",
+      "pos": "v.",
+      "ex": "Tony: It’s also difficult to return an item if you don’t like it."
+    },
+    {
+      "en": "raise",
+      "ko": "키우다, 기르다",
+      "pos": "v."
+    },
+    {
+      "en": "dig",
+      "ko": "(구멍 등을) 파다",
+      "pos": "v.",
+      "ex": "Lesson 4 - 7 - “Dig harder, Stanley!"
+    },
+    {
+      "en": "hard",
+      "ko": "열심히, 세게",
+      "pos": "adv.",
+      "ex": "Lesson 4 - 7 - “Dig harder, Stanley!"
+    },
+    {
+      "en": "yell",
+      "ko": "소리[고함]치다",
+      "pos": "v."
+    },
+    {
+      "en": "since",
+      "ko": "~이기 때문에,",
+      "pos": "conj.",
+      "ex": "It couldn’t be real gold since it was too light."
+    },
+    {
+      "en": "single",
+      "ko": "단 하나의, 단 한 개의",
+      "pos": "a.",
+      "ex": "How do you feel about the single food diet?"
+    },
+    {
+      "en": "muscle",
+      "ko": "근육",
+      "pos": "n.",
+      "ex": "Stanley Yelnats couldn’t dig any harder since every single muscle hurt."
+    },
+    {
+      "en": "thirsty",
+      "ko": "목이 마른, 갈증이 나는",
+      "pos": "a.",
+      "ex": "He was thirsty and hungry."
+    },
+    {
+      "en": "terrible",
+      "ko": "끔찍한",
+      "pos": "a.",
+      "ex": "HOLES 본문1 본 문 분 석 Reading Lesson 4 - 8 - Camp Green Lake was a terrible name."
+    },
+    {
+      "en": "send",
+      "ko": "보내다",
+      "pos": "v.",
+      "ex": "I thought it was unfair to send Stanley to the camp."
+    },
+    {
+      "en": "sneakers",
+      "ko": "운동화",
+      "pos": "n.",
+      "ex": "He was sent to the camp for stealing a pair of sneakers."
+    },
+    {
+      "en": "steal",
+      "ko": "훔치다",
+      "pos": "v.",
+      "ex": "He was sent to the camp for stealing a pair of sneakers."
+    },
+    {
+      "en": "wrong",
+      "ko": "잘못된, 틀린",
+      "pos": "a.",
+      "ex": "He was just in the wrong place at the wrong time."
+    },
+    {
+      "en": "suddenly",
+      "ko": "갑자기",
+      "pos": "adv.",
+      "ex": "Suddenly, a pair of old sneakers fell from the sky."
+    },
+    {
+      "en": "hit",
+      "ko": "(사람, 물건에) 맞다, 치다",
+      "pos": "v.",
+      "ex": "The sneakers hit him on the head."
+    },
+    {
+      "en": "stop",
+      "ko": "세우다, 정지시키다",
+      "pos": "v.",
+      "ex": "Complete and Order The _____________________ stopped Stanley."
+    },
+    {
+      "en": "unfortunately",
+      "ko": "불행하게도",
+      "pos": "adv."
+    },
+    {
+      "en": "assign",
+      "ko": "(사람을) 배치하다,",
+      "pos": "v.",
+      "ex": "Lesson 4 - 10 - Stanley was assigned to Group D in the camp."
+    },
+    {
+      "en": "other",
+      "ko": "다른",
+      "pos": "a.",
+      "ex": "The little prince leaves his planet and travels to other planets."
+    },
+    {
+      "en": "cool",
+      "ko": "멋진",
+      "pos": "a.",
+      "ex": "They all had cool names like X-Ray, Zigzag and Zero."
+    },
+    {
+      "en": "each",
+      "ko": "각각의",
+      "pos": "a.",
+      "ex": "Each boy had to dig one hole every day."
+    },
+    {
+      "en": "hole",
+      "ko": "구멍",
+      "pos": "n.",
+      "ex": "HOLES 본문1 본 문 분 석 Reading Lesson 4 - 8 - Camp Green Lake was a terrible name."
+    },
+    {
+      "en": "deep",
+      "ko": "깊이가 ~인",
+      "pos": "a.",
+      "ex": "It had to be about 150cm deep and 150cm wide."
+    },
+    {
+      "en": "wide",
+      "ko": "폭이 ~인",
+      "pos": "a.",
+      "ex": "It had to be about 150cm deep and 150cm wide."
+    },
+    {
+      "en": "build",
+      "ko": "(인격, 성격 등을) 형성",
+      "pos": "v.",
+      "ex": "Sir said, “You are digging to build character."
+    },
+    {
+      "en": "character",
+      "ko": "인격, 품성, 성격, 특징",
+      "pos": "n.",
+      "ex": "Sir said, “You are digging to build character."
+    },
+    {
+      "en": "shiny",
+      "ko": "빛나는, 반짝이는",
+      "pos": "a.",
+      "ex": "Stanley was finishing his hole, he saw something shiny in the dirt."
+    },
+    {
+      "en": "heart",
+      "ko": "심장, 마음",
+      "pos": "n.",
+      "ex": "Stanley’s heart beat faster."
+    },
+    {
+      "en": "beat",
+      "ko": "(심장이) 뛰다, 이기다,",
+      "pos": "v.",
+      "ex": "Stanley’s heart beat faster."
+    },
+    {
+      "en": "carefully",
+      "ko": "신중하게, 조심스럽게",
+      "pos": "adv.",
+      "ex": "He carefully picked up the shiny object and brushed off the dirt."
+    },
+    {
+      "en": "object",
+      "ko": "물건, 물체",
+      "pos": "n.",
+      "ex": "He carefully picked up the shiny object and brushed off the dirt."
+    },
+    {
+      "en": "dirt",
+      "ko": "흙, 먼지",
+      "pos": "n.",
+      "ex": "Stanley was finishing his hole, he saw something shiny in the dirt."
+    },
+    {
+      "en": "tube",
+      "ko": "(금속, 유리, 고무 등의)",
+      "pos": "n.",
+      "ex": "It was a small gold tube."
+    },
+    {
+      "en": "real",
+      "ko": "진짜의, 실제의",
+      "pos": "a.",
+      "ex": "It couldn’t be real gold since it was too light."
+    },
+    {
+      "en": "light",
+      "ko": "가벼운",
+      "pos": "a.",
+      "ex": "It couldn’t be real gold since it was too light."
+    },
+    {
+      "en": "letter",
+      "ko": "글자, 편지",
+      "pos": "n.",
+      "ex": "He wrote the letter."
+    },
+    {
+      "en": "bottom",
+      "ko": "바닥, 맨 아래",
+      "pos": "n.",
+      "ex": "There were two letters, KB, at the bottom of the tube."
+    },
+    {
+      "en": "farther",
+      "ko": "더 멀리",
+      "pos": "adv.",
+      "ex": "The higher you climb, the farther you see."
+    },
+    {
+      "en": "look up",
+      "ko": "(사전, 참고 자료, 컴퓨터 등에",
+      "pos": "",
+      "ex": "I can look up words I don’t know."
+    },
+    {
+      "en": "focus on",
+      "ko": "~에 집중하다",
+      "pos": "",
+      "ex": "Well, they help me focus on my studies."
+    },
+    {
+      "en": "look like",
+      "ko": "~처럼 보이다",
+      "pos": ""
+    },
+    {
+      "en": "at all",
+      "ko": "전혀, 조금도",
+      "pos": "",
+      "ex": "Tony: I don’t like it at all."
+    },
+    {
+      "en": "full of",
+      "ko": "~으로 가득 찬",
+      "pos": "",
+      "ex": "Camp Green Lake was hot and full of sand."
+    },
+    {
+      "en": "a pair of",
+      "ko": "한 쌍의",
+      "pos": "",
+      "ex": "He was sent to the camp for stealing a pair of sneakers."
+    },
+    {
+      "en": "fall from",
+      "ko": "~로부터 떨어지다",
+      "pos": ""
+    },
+    {
+      "en": "belong to",
+      "ko": "~의 소유이다, ~의 것이다",
+      "pos": ""
+    },
+    {
+      "en": "end up",
+      "ko": "결국 ~이 되다",
+      "pos": ""
+    },
+    {
+      "en": "be assigned to",
+      "ko": "~에 배정[배치]되다",
+      "pos": ""
+    },
+    {
+      "en": "day off",
+      "ko": "쉬는 날",
+      "pos": "",
+      "ex": "He would be given the day off."
+    },
+    {
+      "en": "pick up",
+      "ko": "~을 집어 올리다",
+      "pos": ""
+    },
+    {
+      "en": "brush off",
+      "ko": "~을 털다",
+      "pos": ""
+    },
+    {
+      "en": "stand for",
+      "ko": "~을 의미하다, 나타내다",
+      "pos": "",
+      "ex": "What did KB stand for?"
+    }
+  ]
+}

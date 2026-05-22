@@ -1,0 +1,353 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-yoon-15",
+    "lesson": 4,
+    "title": "Lesson 4"
+  },
+  "words": [
+    {
+      "en": "refund",
+      "ko": "환불하다 n. 환불",
+      "pos": "v.",
+      "ex": "I’d like to get a refund for this bag."
+    },
+    {
+      "en": "receipt",
+      "ko": "영수증",
+      "pos": "n.",
+      "ex": "Do you have the receipt with you?"
+    },
+    {
+      "en": "receive",
+      "ko": "받다",
+      "pos": "v.",
+      "ex": "I received it as a gift."
+    },
+    {
+      "en": "price",
+      "ko": "가격, 값",
+      "pos": "n.",
+      "ex": "The price is the same, so you can just take it."
+    },
+    {
+      "en": "exchange",
+      "ko": "교환하다 n. 교환",
+      "pos": "v.",
+      "ex": "Big Idea 청소년을 위한 현명한 소비 습관 ◈ 의사소통 기능 • 교환 요청하기 I’d like to exchange this bag."
+    },
+    {
+      "en": "spending",
+      "ko": "지출",
+      "pos": "n.",
+      "ex": "Money ◈ 언어 형식 • 현재완료 진행형 I think you’ve been spending too much."
+    },
+    {
+      "en": "habit",
+      "ko": "습관",
+      "pos": "n.",
+      "ex": "Lesson 4 - 6 - Teens’ Spending Habits How smart are you with your money?"
+    },
+    {
+      "en": "smart",
+      "ko": "(결정∙생각 등이) 현명한",
+      "pos": "a.",
+      "ex": "I’d like to return this smartphone case."
+    },
+    {
+      "en": "answer",
+      "ko": "답하다",
+      "pos": "v.",
+      "ex": "As Graph 1 shows, 70% answered “No” while 30% answered “Yes."
+    },
+    {
+      "en": "result",
+      "ko": "결과",
+      "pos": "n.",
+      "ex": "These are the results of a survey of 250 students at Green Middle School."
+    },
+    {
+      "en": "survey",
+      "ko": "(설문) 조사",
+      "pos": "n.",
+      "ex": "These are the results of a survey of 250 students at Green Middle School."
+    },
+    {
+      "en": "while",
+      "ko": "~하는 동안에",
+      "pos": "conj.",
+      "ex": "As Graph 1 shows, 70% answered “No” while 30% answered “Yes."
+    },
+    {
+      "en": "worry",
+      "ko": "걱정거리 v. 걱정하다",
+      "pos": "n.",
+      "ex": "We then asked the students who answered “No” what their biggest money worry is."
+    },
+    {
+      "en": "enough",
+      "ko": "충분한",
+      "pos": "a.",
+      "ex": "I get a weekly allowance, but I never have enough."
+    },
+    {
+      "en": "allowance",
+      "ko": "용돈",
+      "pos": "n.",
+      "ex": "I spend my allowance going to the movies."
+    },
+    {
+      "en": "lastly",
+      "ko": "마지막으로",
+      "pos": "adv.",
+      "ex": "Lastly, 12% said they spent money on things they didn’t need."
+    },
+    {
+      "en": "spend",
+      "ko": "(돈을) 쓰다",
+      "pos": "v.",
+      "ex": "Money ◈ 언어 형식 • 현재완료 진행형 I think you’ve been spending too much."
+    },
+    {
+      "en": "majority",
+      "ko": "대다수",
+      "pos": "n.",
+      "ex": "What does the survey show about the majority of students?"
+    },
+    {
+      "en": "manage",
+      "ko": "관리하다",
+      "pos": "v.",
+      "ex": "To manage money/to become a smart spender)로도 바꿔 쓸 수 있다."
+    },
+    {
+      "en": "effort",
+      "ko": "노력",
+      "pos": "n.",
+      "ex": "Managing money is not easy, and becoming a smart spender takes effort."
+    },
+    {
+      "en": "spender",
+      "ko": "(돈을) 쓰는 사람",
+      "pos": "n.",
+      "ex": "Managing money is not easy, and becoming a smart spender takes effort."
+    },
+    {
+      "en": "balance",
+      "ko": "균형, 잔액",
+      "pos": "n."
+    },
+    {
+      "en": "weekly",
+      "ko": "매주의, 주 1회의",
+      "pos": "a.",
+      "ex": "I get a weekly allowance, but I never have enough."
+    },
+    {
+      "en": "solve",
+      "ko": "해결하다, 풀다",
+      "pos": "v.",
+      "ex": "I don’t know how to solve this problem."
+    },
+    {
+      "en": "tip",
+      "ko": "조언",
+      "pos": "n."
+    },
+    {
+      "en": "divide",
+      "ko": "나누다",
+      "pos": "v.",
+      "ex": "Divide the money into days."
+    },
+    {
+      "en": "carry",
+      "ko": "가지고 다니다, 나르다",
+      "pos": "v.",
+      "ex": "Don’t carry around all of your weekly allowance."
+    },
+    {
+      "en": "only",
+      "ko": "겨우 (~밖에), ~만",
+      "pos": "a.",
+      "ex": "Then carry only the money you need for each day."
+    },
+    {
+      "en": "each",
+      "ko": "각각의",
+      "pos": "a.",
+      "ex": "Then carry only the money you need for each day."
+    },
+    {
+      "en": "save",
+      "ko": "(돈을) 저축하다, 모으다",
+      "pos": "v.",
+      "ex": "I’ll save 200,000 won, spend 100,000 won on shopping, and …."
+    },
+    {
+      "en": "last",
+      "ko": "지난",
+      "pos": "a.",
+      "ex": "I bought this red skirt last week."
+    },
+    {
+      "en": "few",
+      "ko": "몇몇의",
+      "pos": "a.",
+      "ex": "In the last few weeks, you spent 80% of your allowance and only saved 20%."
+    },
+    {
+      "en": "tight",
+      "ko": "(여유가 없이) 빠듯한",
+      "pos": "a.",
+      "ex": "To save money, you need to have a tighter budget."
+    },
+    {
+      "en": "budget",
+      "ko": "예산",
+      "pos": "n.",
+      "ex": "To save money, you need to have a tighter budget."
+    },
+    {
+      "en": "donate",
+      "ko": "기부하다, 기증하다",
+      "pos": "v.",
+      "ex": "I’ll donate 300,000 won to a charity, spend 200,000 won on a trip, and ."
+    },
+    {
+      "en": "remaining",
+      "ko": "남아있는, 남은",
+      "pos": "a.",
+      "ex": "Save 50%, spend 40%, and donate the remaining 10% to charity."
+    },
+    {
+      "en": "charity",
+      "ko": "자선단체",
+      "pos": "n.",
+      "ex": "I’ll donate 300,000 won to a charity, spend 200,000 won on a trip, and ."
+    },
+    {
+      "en": "follow",
+      "ko": "따르다",
+      "pos": "v.",
+      "ex": "For example, you can follow the 50%-40%-10% rule."
+    },
+    {
+      "en": "even",
+      "ko": "~조차",
+      "pos": "adv.",
+      "ex": "S V: 비록 ~일지라도 ✔although는 양보의 부사절을 이끄는 접속사로 though나 even though로도 바꿔 쓸 수 있다."
+    },
+    {
+      "en": "although",
+      "ko": "비록 ~일지라도",
+      "pos": "conj.",
+      "ex": "If something’s on sale, I buy it although I don’t need it."
+    },
+    {
+      "en": "item",
+      "ko": "(하나의) 물품, 품목",
+      "pos": "n.",
+      "ex": "Don’t buy items that aren’t on the list even if they’re on sale."
+    },
+    {
+      "en": "get a refund",
+      "ko": "환불받다",
+      "pos": "",
+      "ex": "I’d like to get a refund for this bag."
+    },
+    {
+      "en": "get back",
+      "ko": "돌려받다, 돌아오다",
+      "pos": ""
+    },
+    {
+      "en": "take care of",
+      "ko": "~을 처리하다,",
+      "pos": "",
+      "ex": "I’ll take care of it right away."
+    },
+    {
+      "en": "look good on",
+      "ko": "~와 잘 어울리다",
+      "pos": "",
+      "ex": "I like the skirt, but my sister says that the color doesn’t look good on me."
+    },
+    {
+      "en": "have difficulty –ing",
+      "ko": "~하는데 어려움을 겪다",
+      "pos": ""
+    },
+    {
+      "en": "take effort",
+      "ko": "노력을 필요로 하다",
+      "pos": ""
+    },
+    {
+      "en": "be gone",
+      "ko": "사라지다, 없어지다",
+      "pos": ""
+    },
+    {
+      "en": "use up",
+      "ko": "다 써 버리다",
+      "pos": ""
+    },
+    {
+      "en": "most of",
+      "ko": "~의 대부분",
+      "pos": "",
+      "ex": "You used up most of your money at the beginning of the week."
+    },
+    {
+      "en": "at the beginning of",
+      "ko": "~의 초반에",
+      "pos": "",
+      "ex": "You used up most of your money at the beginning of the week."
+    },
+    {
+      "en": "carry around",
+      "ko": "가지고 다니다",
+      "pos": "",
+      "ex": "Don’t carry around all of your allowance."
+    },
+    {
+      "en": "divide A into B",
+      "ko": "A를 B로 나누다",
+      "pos": ""
+    },
+    {
+      "en": "each day",
+      "ko": "매일",
+      "pos": "",
+      "ex": "Then carry only the money you need for each day."
+    },
+    {
+      "en": "by –ing",
+      "ko": "~함으로써",
+      "pos": ""
+    },
+    {
+      "en": "on sale",
+      "ko": "할인 중인",
+      "pos": "",
+      "ex": "I like to buy things on sale."
+    },
+    {
+      "en": "make a list",
+      "ko": "목록을 만들다",
+      "pos": ""
+    },
+    {
+      "en": "even if",
+      "ko": "~에도 불구하고",
+      "pos": "",
+      "ex": "Even if he is rich, I won't marry him."
+    },
+    {
+      "en": "on the spot",
+      "ko": "즉석에서, 즉각",
+      "pos": "",
+      "ex": "Then you won’t buy things on the spot."
+    }
+  ]
+}

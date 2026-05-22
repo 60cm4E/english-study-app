@@ -1,0 +1,557 @@
+{
+  "lessonInfo": {
+    "textbook": "neungyul-kim-15",
+    "lesson": 4,
+    "title": "Lesson 4"
+  },
+  "words": [
+    {
+      "en": "matter",
+      "ko": "문제, 사건",
+      "pos": "n.",
+      "ex": "- 1 - Study Points ◈ Functions • 고민이나 불만족의 원인에 대해 묻기 What’s the matter?"
+    },
+    {
+      "en": "realize",
+      "ko": "깨닫다, 실현하다",
+      "pos": "v.",
+      "ex": "But I just realized that Sujin’s birthday party is on Saturday evening."
+    },
+    {
+      "en": "decision",
+      "ko": "결정, 판단",
+      "pos": "n.",
+      "ex": "That sounds like a difficult decision."
+    },
+    {
+      "en": "miss",
+      "ko": "놓치다",
+      "pos": "v.",
+      "ex": "Grandma, but I don’t want to miss my best friend’s birthday party."
+    },
+    {
+      "en": "happen",
+      "ko": "일어나다, 발생하다",
+      "pos": "v.",
+      "ex": "M: What happened?"
+    },
+    {
+      "en": "stuck",
+      "ko": "갇힌",
+      "pos": "a.",
+      "ex": "They had a fight, and now I’m stuck in the middle."
+    },
+    {
+      "en": "deal",
+      "ko": "거래, 일",
+      "pos": "n.",
+      "ex": "Yes, but it doesn’t sound like a big deal to me."
+    },
+    {
+      "en": "guess",
+      "ko": "추측하다",
+      "pos": "v.",
+      "ex": "I guess they had some kind of misunderstanding."
+    },
+    {
+      "en": "return",
+      "ko": "돌아오다, 반납하다",
+      "pos": "v.",
+      "ex": "I need to go to the library to return some books."
+    },
+    {
+      "en": "presentation",
+      "ko": "발표",
+      "pos": "n.",
+      "ex": "Then I have to meet you to work on our presentation."
+    },
+    {
+      "en": "seem",
+      "ko": "~인 것 같다",
+      "pos": "v.",
+      "ex": "But my brother seemed let down, so I feel bad."
+    },
+    {
+      "en": "sports day",
+      "ko": "운동회",
+      "pos": "n.",
+      "ex": "Sports Day is coming."
+    },
+    {
+      "en": "doubt",
+      "ko": "의심",
+      "pos": "n.",
+      "ex": "I have no doubt that you will take some wonderful pictures."
+    },
+    {
+      "en": "divide",
+      "ko": "나누다, 분리하다",
+      "pos": "v.",
+      "ex": "We’ve divided everyone into three groups."
+    },
+    {
+      "en": "task",
+      "ko": "일, 과업, 과제",
+      "pos": "n.",
+      "ex": "Each group will be responsible for a different task."
+    },
+    {
+      "en": "translate",
+      "ko": "번역하다",
+      "pos": "v.",
+      "ex": "Group A will translate a Korean story into English."
+    },
+    {
+      "en": "edit",
+      "ko": "편집하다, 수정하다",
+      "pos": "v.",
+      "ex": "Group B will make drawings for the book and edit it."
+    },
+    {
+      "en": "copy",
+      "ko": "복사(본), (책 등의) 한 부",
+      "pos": "n."
+    },
+    {
+      "en": "print",
+      "ko": "인쇄하다",
+      "pos": "v."
+    },
+    {
+      "en": "receive",
+      "ko": "받다",
+      "pos": "v."
+    },
+    {
+      "en": "field trip",
+      "ko": "견학, 체험 학습",
+      "pos": "n.",
+      "ex": "I’m so excited about our museum field trip."
+    },
+    {
+      "en": "research",
+      "ko": "조사, 연구 v. 조사하다",
+      "pos": "n.",
+      "ex": "Sejin, are you going to do some research on the museum?"
+    },
+    {
+      "en": "leader",
+      "ko": "리더, 지도자, 대표",
+      "pos": "n.",
+      "ex": "I don’t think a person like me can be called a leader."
+    },
+    {
+      "en": "notice",
+      "ko": "공지",
+      "pos": "n.",
+      "ex": "I noticed it last Friday when we were cleaning the classroom."
+    },
+    {
+      "en": "election",
+      "ko": "선거",
+      "pos": "n.",
+      "ex": "Lesson 4 - 8 - Brian: The election is coming up."
+    },
+    {
+      "en": "representative",
+      "ko": "대표(자)",
+      "pos": "n.",
+      "ex": "Why don't you run for class representative, Yumi?"
+    },
+    {
+      "en": "right",
+      "ko": "적절한",
+      "pos": "a.",
+      "ex": "We’re going to have dinner with Grandma this Saturday, right?"
+    },
+    {
+      "en": "position",
+      "ko": "위치, 자리",
+      "pos": "n.",
+      "ex": "I'm not the right person for that position."
+    },
+    {
+      "en": "quality",
+      "ko": "질, 자질",
+      "pos": "n."
+    },
+    {
+      "en": "leadership",
+      "ko": "지도력, 리더십",
+      "pos": "n.",
+      "ex": "I think you have very good leadership qualities."
+    },
+    {
+      "en": "friendly",
+      "ko": "친절한, 상냥한",
+      "pos": "a.",
+      "ex": "You're really friendly and outgoing."
+    },
+    {
+      "en": "outgoing",
+      "ko": "외향적인, 사교적인",
+      "pos": "a.",
+      "ex": "You're really friendly and outgoing."
+    },
+    {
+      "en": "elect",
+      "ko": "선출하다",
+      "pos": "v.",
+      "ex": "Lesson 4 - 8 - Brian: The election is coming up."
+    },
+    {
+      "en": "run",
+      "ko": "출마하다, 입후보하다",
+      "pos": "v.",
+      "ex": "Why don't you run for class representative, Yumi?"
+    },
+    {
+      "en": "maybe",
+      "ko": "어쩌면, 아마",
+      "pos": "adv.",
+      "ex": "Maybe he was just trying to be nice."
+    },
+    {
+      "en": "vision",
+      "ko": "시력, 비전, 미래상",
+      "pos": "n.",
+      "ex": "All leaders have a vision and good reasoning skills."
+    },
+    {
+      "en": "clear",
+      "ko": "명확한, 뚜렷한",
+      "pos": "a."
+    },
+    {
+      "en": "goal",
+      "ko": "목표",
+      "pos": "n.",
+      "ex": "I look for the most effective ways to achieve our goals."
+    },
+    {
+      "en": "ability",
+      "ko": "능력",
+      "pos": "n."
+    },
+    {
+      "en": "motivate",
+      "ko": "~에게 동기를 주다",
+      "pos": "v."
+    },
+    {
+      "en": "wonder",
+      "ko": "궁금하다, 궁금해하다",
+      "pos": "v.",
+      "ex": "I have no doubt that you will take some wonderful pictures."
+    },
+    {
+      "en": "ensure",
+      "ko": "확실하게 하다",
+      "pos": "v.",
+      "ex": "Ensure (that) each step is done properly 수동태(be+p."
+    },
+    {
+      "en": "valued",
+      "ko": "존중받는, 귀중한",
+      "pos": "a."
+    },
+    {
+      "en": "create",
+      "ko": "창조하다",
+      "pos": "v.",
+      "ex": "Wonjun is a green leader because he creates a positive environment."
+    },
+    {
+      "en": "positive",
+      "ko": "긍정적인",
+      "pos": "a.",
+      "ex": "Wonjun is a green leader because he creates a positive environment."
+    },
+    {
+      "en": "environment",
+      "ko": "환경",
+      "pos": "n.",
+      "ex": "Wonjun is a green leader because he creates a positive environment."
+    },
+    {
+      "en": "logical",
+      "ko": "논리적인",
+      "pos": "a.",
+      "ex": "Logical Analyst) Yellow Leader (Quiet Supporter) Blue Leader (Creative Thinker) 1."
+    },
+    {
+      "en": "analyst",
+      "ko": "분석가",
+      "pos": "n.",
+      "ex": "Logical Analyst) Yellow Leader (Quiet Supporter) Blue Leader (Creative Thinker) 1."
+    },
+    {
+      "en": "reasoning",
+      "ko": "추리, 추론",
+      "pos": "n.",
+      "ex": "All leaders have a vision and good reasoning skills."
+    },
+    {
+      "en": "analyze",
+      "ko": "분석하다",
+      "pos": "v."
+    },
+    {
+      "en": "situation",
+      "ko": "상황",
+      "pos": "n.",
+      "ex": "Each group's unique situation determines the best leadership style."
+    },
+    {
+      "en": "effective",
+      "ko": "효과적인",
+      "pos": "a.",
+      "ex": "She gives many fun and effective solutions to different problems."
+    },
+    {
+      "en": "achieve",
+      "ko": "성취하다, 이루다",
+      "pos": "v.",
+      "ex": "I look for the most effective ways to achieve our goals."
+    },
+    {
+      "en": "hands-off",
+      "ko": "불간섭주의의, 자유방임의",
+      "pos": "a.",
+      "ex": "Hands-Off Managers) • allow others to work on their own • do not try to 3."
+    },
+    {
+      "en": "manager",
+      "ko": "경영자, 관리자",
+      "pos": "n.",
+      "ex": "Hands-Off Managers) • allow others to work on their own • do not try to 3."
+    },
+    {
+      "en": "control",
+      "ko": "통제하다",
+      "pos": "v."
+    },
+    {
+      "en": "strict",
+      "ko": "엄격한",
+      "pos": "a.",
+      "ex": "Orange Leaders (Strict Directors) • make everyone’s 4."
+    },
+    {
+      "en": "director",
+      "ko": "감독관",
+      "pos": "n.",
+      "ex": "Orange Leaders (Strict Directors) • make everyone’s 4."
+    },
+    {
+      "en": "role",
+      "ko": "역할",
+      "pos": "n.",
+      "ex": "British scientist who played an important role in the study of DNA."
+    },
+    {
+      "en": "properly",
+      "ko": "적절히, 제대로",
+      "pos": "adv.",
+      "ex": "Ensure (that) each step is done properly 수동태(be+p."
+    },
+    {
+      "en": "supporter",
+      "ko": "지지자",
+      "pos": "n.",
+      "ex": "Logical Analyst) Yellow Leader (Quiet Supporter) Blue Leader (Creative Thinker) 1."
+    },
+    {
+      "en": "shine",
+      "ko": "빛나다",
+      "pos": "v.",
+      "ex": "The important thing is that the members of my team shine."
+    },
+    {
+      "en": "instead",
+      "ko": "대신에",
+      "pos": "adv.",
+      "ex": "Well, then how about meeting on Thursday instead for our presentation?"
+    },
+    {
+      "en": "meet",
+      "ko": "만나다, (필요∙요구를)충족시키다",
+      "pos": "v.",
+      "ex": "M: Why don’t you all meet together and talk about it?"
+    },
+    {
+      "en": "need",
+      "ko": "필요성, 요구",
+      "pos": "n.",
+      "ex": "I need to go to the library to return some books."
+    },
+    {
+      "en": "creative",
+      "ko": "창조적인, 창의적인",
+      "pos": "a.",
+      "ex": "She is creative and imaginative."
+    },
+    {
+      "en": "thinker",
+      "ko": "사상가",
+      "pos": "n.",
+      "ex": "Logical Analyst) Yellow Leader (Quiet Supporter) Blue Leader (Creative Thinker) 1."
+    },
+    {
+      "en": "approach",
+      "ko": "접근하다",
+      "pos": "v.",
+      "ex": "I enjoy approaching problems in new ways."
+    },
+    {
+      "en": "actually",
+      "ko": "실제로, 정말로",
+      "pos": "adv.",
+      "ex": "Actually, I also have a problem."
+    },
+    {
+      "en": "unique",
+      "ko": "유일무이한, 독특한",
+      "pos": "a.",
+      "ex": "Each group's unique situation determines the best leadership style."
+    },
+    {
+      "en": "determine",
+      "ko": "결정하다, 결심하다",
+      "pos": "v.",
+      "ex": "Each group's unique situation determines the best leadership style."
+    },
+    {
+      "en": "responsibility",
+      "ko": "책임",
+      "pos": "n."
+    },
+    {
+      "en": "community",
+      "ko": "공동체, 지역사회",
+      "pos": "n."
+    },
+    {
+      "en": "confident",
+      "ko": "자신 있는, 확신하는",
+      "pos": "a.",
+      "ex": "Lesson 4 - 15 - After reading everything, I became more confident."
+    },
+    {
+      "en": "discover",
+      "ko": "발견하다, 찾다",
+      "pos": "v.",
+      "ex": "I discovered that I have some of the qualities of a “green leader."
+    },
+    {
+      "en": "pick",
+      "ko": "뽑다",
+      "pos": "v.",
+      "ex": "Pick 고민이나 불만족의 원인에 대해 묻기: What’s the matter?"
+    },
+    {
+      "en": "take sides",
+      "ko": "편을 들다",
+      "pos": "",
+      "ex": "I can’t take sides."
+    },
+    {
+      "en": "work out",
+      "ko": "(일이) 잘 풀리다",
+      "pos": ""
+    },
+    {
+      "en": "let down",
+      "ko": "기대를 저버리다, 실망시",
+      "pos": "",
+      "ex": "But my brother seemed let down, so I feel bad."
+    },
+    {
+      "en": "work on",
+      "ko": "~에 노력을 들이다, 애쓰다",
+      "pos": "",
+      "ex": "Hands-Off Managers) • allow others to work on their own • do not try to 3."
+    },
+    {
+      "en": "be responsible for",
+      "ko": "~에 책임이 있다",
+      "pos": "",
+      "ex": "Each group will be responsible for a different task."
+    },
+    {
+      "en": "be in charge of",
+      "ko": "~을 담당하다, 책임지다",
+      "pos": "",
+      "ex": "Group C will be in charge of sending them to the children."
+    },
+    {
+      "en": "turn out",
+      "ko": "(일·진행·결과가 특정 방식으로)",
+      "pos": "",
+      "ex": "I have no doubt that our project will turn out well."
+    },
+    {
+      "en": "run for",
+      "ko": "~에 입후보하다, 출마하다",
+      "pos": "",
+      "ex": "Why don't you run for class representative, Yumi?"
+    },
+    {
+      "en": "get along",
+      "ko": "잘 지내다, 어울려 지내다",
+      "pos": "",
+      "ex": "You also help people get along."
+    },
+    {
+      "en": "on one’s own",
+      "ko": "혼자서, 자력으로",
+      "pos": ""
+    },
+    {
+      "en": "on time",
+      "ko": "제때에",
+      "pos": ""
+    },
+    {
+      "en": "lead by example",
+      "ko": "솔선수범하다",
+      "pos": "",
+      "ex": "Lead by example: 솔선수범하다, 모범을 보이다 let + 목적어 + 동사원형: ~가 ."
+    },
+    {
+      "en": "come up with",
+      "ko": "떠올리다",
+      "pos": "",
+      "ex": "Meet: (필요/요구를) 충족시키다 Come up with: ~을 내놓다, 떠올리다 Deal with: ~을 다루다, 처리하다 Q3."
+    },
+    {
+      "en": "deal with",
+      "ko": "처리하다, 다루다",
+      "pos": "",
+      "ex": "Meet: (필요/요구를) 충족시키다 Come up with: ~을 내놓다, 떠올리다 Deal with: ~을 다루다, 처리하다 Q3."
+    },
+    {
+      "en": "different from",
+      "ko": "~와 다른",
+      "pos": ""
+    },
+    {
+      "en": "belong to",
+      "ko": "~에 속하다",
+      "pos": "",
+      "ex": "Think & Tell] Think about the groups that you belong to."
+    },
+    {
+      "en": "come up",
+      "ko": "발생하다, 생기다",
+      "pos": "",
+      "ex": "Meet: (필요/요구를) 충족시키다 Come up with: ~을 내놓다, 떠올리다 Deal with: ~을 다루다, 처리하다 Q3."
+    },
+    {
+      "en": "call for",
+      "ko": "~을 필요로 하다,",
+      "pos": "",
+      "ex": "They all call for different leadership styles."
+    }
+  ]
+}

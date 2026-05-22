@@ -1,0 +1,398 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-lee-15",
+    "lesson": 2,
+    "title": "Lesson 2"
+  },
+  "words": [
+    {
+      "en": "yellow dust",
+      "ko": "황사",
+      "pos": "n.",
+      "ex": "The yellow dust is terrible today."
+    },
+    {
+      "en": "terrible",
+      "ko": "심한, 지독한",
+      "pos": "a.",
+      "ex": "The yellow dust is terrible today."
+    },
+    {
+      "en": "cause",
+      "ko": "~을 야기하다",
+      "pos": "v.",
+      "ex": "Yellow dust can cause many health problems."
+    },
+    {
+      "en": "text",
+      "ko": "문자를 보내다",
+      "pos": "v.",
+      "ex": "I’ll text the other team members right now."
+    },
+    {
+      "en": "other",
+      "ko": "다른",
+      "pos": "a.",
+      "ex": "You need to listen carefully to others‘ opinions."
+    },
+    {
+      "en": "member",
+      "ko": "구성원, 일원",
+      "pos": "n.",
+      "ex": "I’ll text the other team members right now."
+    },
+    {
+      "en": "hurt",
+      "ko": "아프다, 다치게 하다",
+      "pos": "v.",
+      "ex": "My neck hurts."
+    },
+    {
+      "en": "careful",
+      "ko": "조심하는, 주의 깊은",
+      "pos": "a.",
+      "ex": "You need to listen carefully to others‘ opinions."
+    },
+    {
+      "en": "text neck",
+      "ko": "거북목 증후군",
+      "pos": "n.",
+      "ex": "Be careful not to get text neck."
+    },
+    {
+      "en": "prevent",
+      "ko": "막다, 예방하다",
+      "pos": "v.",
+      "ex": "Do you know how to prevent it?"
+    },
+    {
+      "en": "stretch",
+      "ko": "늘리다, 뻗다",
+      "pos": "v.",
+      "ex": "You need to stretch your neck often."
+    },
+    {
+      "en": "article",
+      "ko": "기사",
+      "pos": "n.",
+      "ex": "I read about it in an article."
+    },
+    {
+      "en": "global",
+      "ko": "지구의, 세계적인",
+      "pos": "a.",
+      "ex": "Points ◈ 단원 소재: 환경 보호 ◈ 의사소통 기능 • 걱정 표현하기 A: I’m worried about global warming."
+    },
+    {
+      "en": "global warming",
+      "ko": "지구 온난화",
+      "pos": "n.",
+      "ex": "Points ◈ 단원 소재: 환경 보호 ◈ 의사소통 기능 • 걱정 표현하기 A: I’m worried about global warming."
+    },
+    {
+      "en": "melt",
+      "ko": "녹다",
+      "pos": "v.",
+      "ex": "Their homes are melting away and their food is disappearing."
+    },
+    {
+      "en": "save",
+      "ko": "절약하다, 구하다",
+      "pos": "v.",
+      "ex": "Save Polar Bears Slow down global warming!"
+    },
+    {
+      "en": "planet",
+      "ko": "행성",
+      "pos": "n.",
+      "ex": "Minho: Linda, did you see the TV program, The Sick Planet?"
+    },
+    {
+      "en": "movement",
+      "ko": "(사람들이 조직적으로",
+      "pos": "n.",
+      "ex": "Linda: It’s a world movement for the environment."
+    },
+    {
+      "en": "simple",
+      "ko": "간단한, 단순한",
+      "pos": "a.",
+      "ex": "Minho: That’s so simple!"
+    },
+    {
+      "en": "disappear",
+      "ko": "사라지다",
+      "pos": "v.",
+      "ex": "I’m worried about disappearing bees."
+    },
+    {
+      "en": "population",
+      "ko": "인구, 개체수",
+      "pos": "n.",
+      "ex": "About a third of the bee population dies every year."
+    },
+    {
+      "en": "die",
+      "ko": "죽다",
+      "pos": "v.",
+      "ex": "About a third of the bee population dies every year."
+    },
+    {
+      "en": "worse",
+      "ko": "더 나쁜",
+      "pos": "a.",
+      "ex": "This is bad news for bees, but it’s even worse news for people."
+    },
+    {
+      "en": "helpful",
+      "ko": "도움이 되는, 유용한",
+      "pos": "a.",
+      "ex": "Bees are very helpful to humans."
+    },
+    {
+      "en": "honey",
+      "ko": "꿀",
+      "pos": "n.",
+      "ex": "Honey from ancient Egypt can be eaten today."
+    },
+    {
+      "en": "truly",
+      "ko": "정말로",
+      "pos": "adv.",
+      "ex": "Honey is a truly wonderful food."
+    },
+    {
+      "en": "wonderful",
+      "ko": "훌륭한, 굉장한",
+      "pos": "a.",
+      "ex": "Honey is a truly wonderful food."
+    },
+    {
+      "en": "taste",
+      "ko": "~한 맛이 나다",
+      "pos": "v.",
+      "ex": "It is good for our health and tastes great."
+    },
+    {
+      "en": "last",
+      "ko": "오래 가다, 상하지 않다",
+      "pos": "v.",
+      "ex": "I used a plastic bag, a paper cup and a can."
+    },
+    {
+      "en": "ancient",
+      "ko": "고대의",
+      "pos": "a.",
+      "ex": "Honey from ancient Egypt can be eaten today."
+    },
+    {
+      "en": "produce",
+      "ko": "생산하다",
+      "pos": "v.",
+      "ex": "Second, bees help produce many crops such as apples and strawberries."
+    },
+    {
+      "en": "crop",
+      "ko": "농작물",
+      "pos": "n.",
+      "ex": "Second, bees help produce many crops such as apples and strawberries."
+    },
+    {
+      "en": "process",
+      "ko": "과정",
+      "pos": "n.",
+      "ex": "Bees help in the process of pollination."
+    },
+    {
+      "en": "pollination",
+      "ko": "(식물의) 수분, 수분 작용",
+      "pos": "n.",
+      "ex": "Bees help in the process of pollination."
+    },
+    {
+      "en": "move",
+      "ko": "옮기다, 움직이다",
+      "pos": "v.",
+      "ex": "Linda: It’s a world movement for the environment."
+    },
+    {
+      "en": "seed",
+      "ko": "씨, 씨앗",
+      "pos": "n.",
+      "ex": "It is moving pollen from one flower to another to make seeds."
+    },
+    {
+      "en": "pollen",
+      "ko": "꽃가루, 화분",
+      "pos": "n.",
+      "ex": "It is moving pollen from one flower to another to make seeds."
+    },
+    {
+      "en": "fine",
+      "ko": "(알갱이가) 고운, 미세한",
+      "pos": "a.",
+      "ex": "It is a fine yellow powder produced by flowers."
+    },
+    {
+      "en": "powder",
+      "ko": "가루, 분말",
+      "pos": "n.",
+      "ex": "It is a fine yellow powder produced by flowers."
+    },
+    {
+      "en": "reason",
+      "ko": "이유",
+      "pos": "n.",
+      "ex": "One of the reasons is climate change."
+    },
+    {
+      "en": "climate",
+      "ko": "기후",
+      "pos": "n.",
+      "ex": "One of the reasons is climate change."
+    },
+    {
+      "en": "bring",
+      "ko": "초래하다, 일으키다",
+      "pos": "v.",
+      "ex": "PLASTIC BAG FREE DAY • July 3 • Bring your own shopping bag on this day."
+    },
+    {
+      "en": "extremely",
+      "ko": "극도로, 극히",
+      "pos": "adv.",
+      "ex": "Global warming has brought extremely hot and cold weather."
+    },
+    {
+      "en": "weather",
+      "ko": "날씨",
+      "pos": "n.",
+      "ex": "Global warming has brought extremely hot and cold weather."
+    },
+    {
+      "en": "survive",
+      "ko": "살아남다, 생존하다",
+      "pos": "v.",
+      "ex": "Bees cannot survive in these conditions."
+    },
+    {
+      "en": "condition",
+      "ko": "조건, 상태",
+      "pos": "n.",
+      "ex": "Bees cannot survive in these conditions."
+    },
+    {
+      "en": "harmful",
+      "ko": "유해한",
+      "pos": "a.",
+      "ex": "Another reason is the harmful chemicals farmers use on crops."
+    },
+    {
+      "en": "chemical",
+      "ko": "화학 물질",
+      "pos": "n.",
+      "ex": "Another reason is the harmful chemicals farmers use on crops."
+    },
+    {
+      "en": "insect",
+      "ko": "곤충",
+      "pos": "n.",
+      "ex": "These chemicals kill not only bad insects, but also good insects, like bees."
+    },
+    {
+      "en": "plant",
+      "ko": "(나무, 씨앗 등을) 심다",
+      "pos": "v.",
+      "ex": "We can plant more trees for them."
+    },
+    {
+      "en": "provide",
+      "ko": "제공하다, 주다",
+      "pos": "v.",
+      "ex": "This will provide a good environment for bees to live in."
+    },
+    {
+      "en": "environment",
+      "ko": "환경",
+      "pos": "n.",
+      "ex": "Linda: It’s a world movement for the environment."
+    },
+    {
+      "en": "unhealthy",
+      "ko": "건강에 해로운, 유해한",
+      "pos": "a.",
+      "ex": "These chemicals are unhealthy for bees and people."
+    },
+    {
+      "en": "be ready for",
+      "ko": "~할 준비가 되다",
+      "pos": ""
+    },
+    {
+      "en": "in danger",
+      "ko": "위험에 처한",
+      "pos": ""
+    },
+    {
+      "en": "slow down",
+      "ko": "(속도, 진행을) 늦추다",
+      "pos": "",
+      "ex": "Do you know how to slow down global warming?"
+    },
+    {
+      "en": "turn off",
+      "ko": "(전기, 가스 등을) 끄다",
+      "pos": "",
+      "ex": "We need to turn off the lights when we leave the room."
+    },
+    {
+      "en": "melt away",
+      "ko": "녹아 없어지다",
+      "pos": ""
+    },
+    {
+      "en": "take action",
+      "ko": "조치를 취하다",
+      "pos": "",
+      "ex": "We should take action to save the Earth."
+    },
+    {
+      "en": "participate in",
+      "ko": "~에 참여하다",
+      "pos": "",
+      "ex": "Why don’t we participate in Earth Hour?"
+    },
+    {
+      "en": "take part in",
+      "ko": "~에 참여하다",
+      "pos": ""
+    },
+    {
+      "en": "look up",
+      "ko": "(컴퓨터 등에서) 정보를",
+      "pos": ""
+    },
+    {
+      "en": "these days",
+      "ko": "요즘",
+      "pos": "",
+      "ex": "It is really hard to see them these days."
+    },
+    {
+      "en": "in fact",
+      "ko": "실은, 사실상",
+      "pos": "",
+      "ex": "In fact, honey from ancient Egypt can be eaten today!"
+    },
+    {
+      "en": "by oneself",
+      "ko": "혼자서, 홀로",
+      "pos": ""
+    },
+    {
+      "en": "let ~ down",
+      "ko": "~을 실망시키다",
+      "pos": ""
+    }
+  ]
+}

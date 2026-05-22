@@ -1,0 +1,359 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-yoon-15",
+    "lesson": 1,
+    "title": "Lesson 1"
+  },
+  "words": [
+    {
+      "en": "Spanish",
+      "ko": "스페인의",
+      "pos": "a.",
+      "ex": "Have you ever had Spanish food before?"
+    },
+    {
+      "en": "try",
+      "ko": "시도하다, 먹어보다",
+      "pos": "v.",
+      "ex": "I hope you can try it sometime."
+    },
+    {
+      "en": "recipe",
+      "ko": "요리법, 조리법",
+      "pos": "n.",
+      "ex": "For now, I’ll just buy this Spanish recipe book."
+    },
+    {
+      "en": "another",
+      "ko": "다른, 또 하나의",
+      "pos": "a.",
+      "ex": "Have you ever visited another country?"
+    },
+    {
+      "en": "sometime",
+      "ko": "(미래∙과거의) 언젠가",
+      "pos": "adv.",
+      "ex": "I hope you can visit there sometime."
+    },
+    {
+      "en": "chance",
+      "ko": "기회",
+      "pos": "n.",
+      "ex": "I got a chance to see the Northern Lights."
+    },
+    {
+      "en": "train",
+      "ko": "훈련시키다",
+      "pos": "v.",
+      "ex": "In Conversation B: I really liked your book about training dogs."
+    },
+    {
+      "en": "achieve",
+      "ko": "달성하다, 성취하다",
+      "pos": "v.",
+      "ex": "What are you doing to achieve your goal?"
+    },
+    {
+      "en": "goal",
+      "ko": "목표, 골, 득점",
+      "pos": "n.",
+      "ex": "What are you doing to achieve your goal?"
+    },
+    {
+      "en": "local",
+      "ko": "지역의",
+      "pos": "a.",
+      "ex": "I’m doing volunteer work at the local animal house."
+    },
+    {
+      "en": "someday",
+      "ko": "언젠가, 훗날",
+      "pos": "adv.",
+      "ex": "I hope you become a good animal doctor someday."
+    },
+    {
+      "en": "fresh",
+      "ko": "신선한",
+      "pos": "a.",
+      "ex": "The air was so fresh."
+    },
+    {
+      "en": "photographer",
+      "ko": "사진작가, 사진사",
+      "pos": "n.",
+      "ex": "His dream may be to become a food photographer."
+    },
+    {
+      "en": "dream",
+      "ko": "(희망을 담은) 꿈",
+      "pos": "n.",
+      "ex": "Find a Dream and Live It!"
+    },
+    {
+      "en": "realize",
+      "ko": "실현하다, 깨닫다",
+      "pos": "v.",
+      "ex": "Today, I’m going to tell you how I found my dream and realized it."
+    },
+    {
+      "en": "inspire",
+      "ko": "영감을 주다, 고무하다",
+      "pos": "v.",
+      "ex": "I hope my story can inspire you."
+    },
+    {
+      "en": "lead",
+      "ko": "(결과적으로)~에 이르다",
+      "pos": "v.",
+      "ex": "However, I never thought these things could lead to a job."
+    },
+    {
+      "en": "major",
+      "ko": "전공, a. 주요한",
+      "pos": "n.",
+      "ex": "When I had to decide on a major in college, I chose engineering."
+    },
+    {
+      "en": "college",
+      "ko": "대학",
+      "pos": "n.",
+      "ex": "When I had to decide on a major in college, I chose engineering."
+    },
+    {
+      "en": "choose",
+      "ko": "선택하다",
+      "pos": "v."
+    },
+    {
+      "en": "engineering",
+      "ko": "공학(기술)",
+      "pos": "n.",
+      "ex": "When I had to decide on a major in college, I chose engineering."
+    },
+    {
+      "en": "engineer",
+      "ko": "엔지니어, 기술자",
+      "pos": "n.",
+      "ex": "When I had to decide on a major in college, I chose engineering."
+    },
+    {
+      "en": "company",
+      "ko": "회사",
+      "pos": "n.",
+      "ex": "After college, I got a job at an engineering company."
+    },
+    {
+      "en": "stable",
+      "ko": "안정적인",
+      "pos": "a.",
+      "ex": "It was a stable job, but I didn’t know whether I really enjoyed it."
+    },
+    {
+      "en": "whether",
+      "ko": "~인지(아닌지)",
+      "pos": "conj.",
+      "ex": "I didn’t know whether I really enjoyed it."
+    },
+    {
+      "en": "change",
+      "ko": "바뀌다",
+      "pos": "v.",
+      "ex": "Everything changed when I went on vacation to Iceland one winter."
+    },
+    {
+      "en": "Northern Lights",
+      "ko": "북극광, 오로라",
+      "pos": "n.",
+      "ex": "I got a chance to see the Northern Lights."
+    },
+    {
+      "en": "amazing",
+      "ko": "놀라운",
+      "pos": "a."
+    },
+    {
+      "en": "beat",
+      "ko": "(심장이) 고동치다",
+      "pos": "v.",
+      "ex": "For the first time in many years, I could feel my heart beating fast."
+    },
+    {
+      "en": "enter",
+      "ko": "(대회 등에) 참가하다",
+      "pos": "v.",
+      "ex": "I came back, I entered a photo contest with the pictures I took in Iceland."
+    },
+    {
+      "en": "surprisingly",
+      "ko": "놀랍게도",
+      "pos": "adv."
+    },
+    {
+      "en": "suddenly",
+      "ko": "갑자기",
+      "pos": "adv."
+    },
+    {
+      "en": "photography",
+      "ko": "사진기술, 촬영술",
+      "pos": "n.",
+      "ex": "I started to learn more about photography."
+    },
+    {
+      "en": "trial and error",
+      "ko": "시행착오",
+      "pos": "n.",
+      "ex": "Useful Expressions To be an expert, people have to go through trial and error."
+    },
+    {
+      "en": "part-time",
+      "ko": "시간제의, 파트타임의",
+      "pos": "a.",
+      "ex": "I got better, and I began to do some part-time work as a photographer."
+    },
+    {
+      "en": "bold",
+      "ko": "과감한, 대담한",
+      "pos": "a.",
+      "ex": "Then one day, I made a bold decision."
+    },
+    {
+      "en": "quit",
+      "ko": "그만두다, 그만하다",
+      "pos": "v.",
+      "ex": "I quit my job and decided to take pictures for a living."
+    },
+    {
+      "en": "sure",
+      "ko": "확신하는",
+      "pos": "a.",
+      "ex": "I’m sure (that) ~."
+    },
+    {
+      "en": "succeed",
+      "ko": "성공하다",
+      "pos": "v.",
+      "ex": "I wasn’t sure if I could succeed, but I decided to try."
+    },
+    {
+      "en": "professional",
+      "ko": "전문적인, (전문) 직업의",
+      "pos": "a.",
+      "ex": "Now, I’m a professional photographer, and I’m happy."
+    },
+    {
+      "en": "advice",
+      "ko": "조언",
+      "pos": "n.",
+      "ex": "Here’s some advice to help you."
+    },
+    {
+      "en": "case",
+      "ko": "경우",
+      "pos": "n.",
+      "ex": "In my case, it was taking pictures of stars."
+    },
+    {
+      "en": "follow",
+      "ko": "따르다",
+      "pos": "v.",
+      "ex": "First, follow your heart."
+    },
+    {
+      "en": "pursue",
+      "ko": "추구하다, 밀고 나가다",
+      "pos": "v.",
+      "ex": "Pursuing은 To pursue로도 바꿔 쓸 수 있다."
+    },
+    {
+      "en": "through",
+      "ko": "~를 통하여",
+      "pos": "prep.",
+      "ex": "I became a photographer through hard work."
+    },
+    {
+      "en": "courage",
+      "ko": "용기",
+      "pos": "n.",
+      "ex": "You need courage to make decisions that will change your life."
+    },
+    {
+      "en": "afraid",
+      "ko": "두려운",
+      "pos": "a.",
+      "ex": "I was afraid but I took a chance."
+    },
+    {
+      "en": "truly",
+      "ko": "정말로, 진심으로",
+      "pos": "adv.",
+      "ex": "I truly hope you can find a dream, pursue it, and live it!"
+    },
+    {
+      "en": "do volunteer work",
+      "ko": "자원봉사를 하다",
+      "pos": ""
+    },
+    {
+      "en": "in fact",
+      "ko": "사실, 실제",
+      "pos": "",
+      "ex": "In fact, I didn’t have a dream at all."
+    },
+    {
+      "en": "at all",
+      "ko": "전혀",
+      "pos": "",
+      "ex": "In fact, I didn’t have a dream at all."
+    },
+    {
+      "en": "decide on",
+      "ko": "~에 대해 결정하다",
+      "pos": "",
+      "ex": "When I had to decide on a major in college, I chose engineering."
+    },
+    {
+      "en": "go on vacation (to)",
+      "ko": "(~로) 휴가를 가다",
+      "pos": ""
+    },
+    {
+      "en": "for the first time",
+      "ko": "처음으로",
+      "pos": "",
+      "ex": "For the first time in many years, I could feel my heart beating fast."
+    },
+    {
+      "en": "come back",
+      "ko": "돌아오다",
+      "pos": ""
+    },
+    {
+      "en": "win first prize",
+      "ko": "1등상을 받다",
+      "pos": ""
+    },
+    {
+      "en": "make a decision",
+      "ko": "결정을 하다",
+      "pos": "",
+      "ex": "We need to make a decision in the next 10 minutes."
+    },
+    {
+      "en": "for a living",
+      "ko": "생계수단으로",
+      "pos": "",
+      "ex": "I quit my job and decided to take pictures for a living."
+    },
+    {
+      "en": "in one’s case",
+      "ko": "~의 경우에",
+      "pos": ""
+    },
+    {
+      "en": "take a chance",
+      "ko": "기회를 잡다",
+      "pos": ""
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-yoon-15",
+    "lesson": 2,
+    "title": "Lesson 2"
+  },
+  "words": [
+    {
+      "en": "order",
+      "ko": "주문하다 n. 주문",
+      "pos": "v.",
+      "ex": "Big Idea 마음에 위안이 되는 음식 ◈ 의사소통 기능 • 음식 주문하기 1 A: What would you like to order?"
+    },
+    {
+      "en": "ready",
+      "ko": "준비된",
+      "pos": "a.",
+      "ex": "Lesson 2 - 2 - ‣‣ Listen (의사소통) Listen and Talk Get Ready!"
+    },
+    {
+      "en": "total",
+      "ko": "합계, 총액",
+      "pos": "n.",
+      "ex": "M: The total comes to 12 dollars."
+    },
+    {
+      "en": "dish",
+      "ko": "요리, 음식",
+      "pos": "v.",
+      "ex": "Minsu, do the dishes."
+    },
+    {
+      "en": "comfort",
+      "ko": "위안, 위로",
+      "pos": "n.",
+      "ex": "Comfort foods differ around the world."
+    },
+    {
+      "en": "moment",
+      "ko": "순간",
+      "pos": "n.",
+      "ex": "It can also make you think of happy moments from the past."
+    },
+    {
+      "en": "satisfy",
+      "ko": "만족시키다",
+      "pos": "v."
+    },
+    {
+      "en": "heart",
+      "ko": "마음",
+      "pos": "n.",
+      "ex": "It satisfies not only the stomach but also the heart."
+    },
+    {
+      "en": "stomach",
+      "ko": "위, 복부",
+      "pos": "n.",
+      "ex": "It satisfies not only the stomach but also the heart."
+    },
+    {
+      "en": "differ",
+      "ko": "다르다",
+      "pos": "v.",
+      "ex": "Comfort foods differ around the world."
+    },
+    {
+      "en": "international",
+      "ko": "국제적인",
+      "pos": "a.",
+      "ex": "Let’s see what comfort foods our international readers enjoy."
+    },
+    {
+      "en": "reader",
+      "ko": "독자, 구독자",
+      "pos": "n.",
+      "ex": "Let’s see what comfort foods our international readers enjoy."
+    },
+    {
+      "en": "bowl",
+      "ko": "(우묵한) 그릇",
+      "pos": "n.",
+      "ex": "My father made me a bowl of chicken soup so that I could get well."
+    },
+    {
+      "en": "warm",
+      "ko": "따뜻하게 하다",
+      "pos": "v.",
+      "ex": "The hot soup warmed my body, and I slowly started to feel better."
+    },
+    {
+      "en": "tasty",
+      "ko": "맛있는",
+      "pos": "a.",
+      "ex": "It was also very tasty."
+    },
+    {
+      "en": "once",
+      "ko": "언젠가, 한때",
+      "pos": "adv.",
+      "ex": "Once my family went on vacation, and Mom made pancakes for us."
+    },
+    {
+      "en": "cassava",
+      "ko": "카사바(감자와 비슷한 열대성",
+      "pos": "n.",
+      "ex": "I love cassava chips the most."
+    },
+    {
+      "en": "chip",
+      "ko": "칩(얇거나 가늘게 썰어 기름에",
+      "pos": "n.",
+      "ex": "I love cassava chips the most."
+    },
+    {
+      "en": "suddenly",
+      "ko": "갑자기",
+      "pos": "adv.",
+      "ex": "When I started to eat the chips, my stress suddenly disappeared."
+    },
+    {
+      "en": "disappear",
+      "ko": "사라지다",
+      "pos": "v.",
+      "ex": "When I started to eat the chips, my stress suddenly disappeared."
+    },
+    {
+      "en": "crisp",
+      "ko": "바삭바삭한",
+      "pos": "a.",
+      "ex": "The crisp sound of eating chips made me feel better."
+    },
+    {
+      "en": "madeleine",
+      "ko": "마들렌",
+      "pos": "n.",
+      "ex": "Simon from France I have many comfort foods, but I love madeleines the most."
+    },
+    {
+      "en": "sea shell",
+      "ko": "조개껍데기",
+      "pos": "n.",
+      "ex": "A madeleine is a small cake that looks like a sea shell."
+    },
+    {
+      "en": "taste",
+      "ko": "맛이 ~ 하다",
+      "pos": "v.",
+      "ex": "I like Italian food, so I’d like to go to Taste of Italy."
+    },
+    {
+      "en": "especially",
+      "ko": "특별히, 특히",
+      "pos": "adv.",
+      "ex": "I especially like eating her orange madeleines with ⑪a cup of tea."
+    },
+    {
+      "en": "maybe",
+      "ko": "어쩌면, 아마도",
+      "pos": "adv.",
+      "ex": "Maybe madeleines will become a comfort food for you!"
+    },
+    {
+      "en": "special",
+      "ko": "특별한",
+      "pos": "a.",
+      "ex": "I especially like eating her orange madeleines with ⑪a cup of tea."
+    },
+    {
+      "en": "recipe",
+      "ko": "요리법",
+      "pos": "n.",
+      "ex": "Let me share my recipe so that you can make madeleines."
+    },
+    {
+      "en": "peel",
+      "ko": "껍질",
+      "pos": "n.",
+      "ex": "Add the butter and orange peel to the mixture and mix."
+    },
+    {
+      "en": "melt",
+      "ko": "녹이다",
+      "pos": "v.",
+      "ex": "Melt the butter and let it cool."
+    },
+    {
+      "en": "flour",
+      "ko": "밀가루",
+      "pos": "n.",
+      "ex": "Add the flour to the bowl and mix."
+    },
+    {
+      "en": "beat",
+      "ko": "휘젓다, 휘저어 섞다",
+      "pos": "v.",
+      "ex": "Put the eggs, sugar and salt in a bowl and beat."
+    },
+    {
+      "en": "add",
+      "ko": "첨가하다, 추가하다",
+      "pos": "v.",
+      "ex": "Add the flour to the bowl and mix."
+    },
+    {
+      "en": "mix",
+      "ko": "섞다",
+      "pos": "v.",
+      "ex": "Add the flour to the bowl and mix."
+    },
+    {
+      "en": "mixture",
+      "ko": "혼합물, 반죽",
+      "pos": "n.",
+      "ex": "Add the butter and orange peel to the mixture and mix."
+    },
+    {
+      "en": "pour",
+      "ko": "붓다",
+      "pos": "v.",
+      "ex": "Pour the mixture into the madeleine pan."
+    },
+    {
+      "en": "bake",
+      "ko": "(음식을) 굽다",
+      "pos": "v.",
+      "ex": "Bake in the oven for 10 to 15 minutes."
+    },
+    {
+      "en": "come to",
+      "ko": "(합계가) ~이 되다",
+      "pos": "",
+      "ex": "Welcome to Italian Food."
+    },
+    {
+      "en": "a piece of",
+      "ko": "한 조각의 ~, 한 장의 ~",
+      "pos": "",
+      "ex": "I’d like a piece of cake."
+    },
+    {
+      "en": "stressed out",
+      "ko": "스트레스가 쌓인",
+      "pos": "",
+      "ex": "It makes you feel good when you are sad, angry, or stressed out."
+    },
+    {
+      "en": "not only ~ but also ...",
+      "ko": "~뿐만 아니라 ... 도",
+      "pos": ""
+    },
+    {
+      "en": "around the world",
+      "ko": "세계 곳곳에",
+      "pos": "",
+      "ex": "Comfort foods differ around the world."
+    },
+    {
+      "en": "have[catch] a cold",
+      "ko": "감기에 걸리다",
+      "pos": ""
+    },
+    {
+      "en": "every time",
+      "ko": "~ 할 때마다",
+      "pos": "",
+      "ex": "Every time he meets me, he talks about money."
+    },
+    {
+      "en": "similar to",
+      "ko": "~와 비슷한",
+      "pos": ""
+    },
+    {
+      "en": "a bag of",
+      "ko": "~한 봉지[자루]",
+      "pos": "",
+      "ex": "I felt stressed out, my best friend bought me a bag of ___________ ___________."
+    },
+    {
+      "en": "a cup of",
+      "ko": "~한 컵[잔]",
+      "pos": "",
+      "ex": "I especially like eating her orange madeleines with ⑪a cup of tea."
+    },
+    {
+      "en": "be filled with",
+      "ko": "~로 가득 차다",
+      "pos": ""
+    },
+    {
+      "en": "be made with",
+      "ko": "~로 만들어지다",
+      "pos": ""
+    },
+    {
+      "en": "share A with B",
+      "ko": "A를 B와 나누다[공유하다]",
+      "pos": ""
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-yoon-15",
+    "lesson": 3,
+    "title": "Lesson 3"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "What does that mean?",
+        "ko": "",
+        "category": "설명 요청하기"
+      },
+      {
+        "en": "Can you (please) say that again?",
+        "ko": "",
+        "category": "반복 설명 요청하기"
+      },
+      {
+        "en": "Can you please say that again?",
+        "ko": "",
+        "category": "반복 설명 요청하기"
+      },
+      {
+        "en": "Hindi word chāmpo를 부연 설명하는 역할을 하며, 해석은 ‘그런데 그것 은 ’누르다‘라는 의미이다’라고 한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Karel Čapek에 의해서 쓰여졌다’라고 한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Spanish word huracán을 부연 설명하는 역할을 하며, 해석은 ‘그런데 그 것은 마야 신의 이름에서 유래한다’라고 한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Texas, USA의 순서로 썼다.",
+        "ko": "",
+        "category": "가주어 it-진주어 that 구문\n   ✔It은 가주어이고 that 이하가 진주어인 문장으로, 주어 자리에 쓰인 접속사 that절\n이 너무 길어지면 이처럼 뒤로 보내고 주어 자리에는 가주어인 it을 둔다. 이 때 it\n은 따로 해석하지 않는다. It is believed that ~ 은 관용적인 표현으로 자주 사용\n되며 ‘~인 것으로 보인다, 여겨진다’라는 의미를 나타낸다.\n② be invented"
+      },
+      {
+        "en": "It means “It’s raining a lot.”",
+        "ko": "그게 무슨 뜻이니?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "I guess I should.",
+        "ko": "고양이와 개처럼 비가 내린다고? 그게 무슨 뜻이야?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "봐. 고양이와 개처럼 비가 내려.",
+        "ko": "고양이와 개처럼 비가 내린다고? 그게 무슨 뜻이야?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "고양이와 개처럼 비가 내린다고? 그게 무슨 뜻이야?",
+        "ko": "아. 걱정 마. 내 배낭에 우산이 있어.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "‘비가 많이 내려.’라는 뜻이야.",
+        "ko": "아. 걱정 마. 내 배낭에 우산이 있어.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "아. 걱정 마. 내 배낭에 우산이 있어.",
+        "ko": "뭐라고? 다시 한번 말해 줄래?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "수호야, 이 주스는 내게 있어.",
+        "ko": "뭐라고? 다시 한번 말해 줄래?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "뭐라고? 다시 한번 말해 줄래?",
+        "ko": "아. 정말 고마워.",
+        "category": "일반 표현"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "___ does that mean?",
+        "a": "What",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Can you (___) say that again?",
+        "a": "please",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Can you ___ say that again?",
+        "a": "please",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ word chāmpo를 부연 설명하는 역할을 하며, 해석은 ‘그런데 그것 은 ’누르다‘라는 의미이다’라고 한다.",
+        "a": "Hindi",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ Čapek에 의해서 쓰여졌다’라고 한다.",
+        "a": "Karel",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ word huracán을 부연 설명하는 역할을 하며, 해석은 ‘그런데 그 것은 마야 신의 이름에서 유래한다’라고 한다.",
+        "a": "Spanish",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___, USA의 순서로 썼다.",
+        "a": "Texas",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "It means “It’s ___ a lot.”",
+        "a": "raining",
+        "hint": "그게 무슨 뜻이니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I ___ I should.",
+        "a": "guess",
+        "hint": "고양이와 개처럼 비가 내린다고? 그게 무슨 뜻이야?"
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문❷ - 1",
+        "en": "English Words of Foreign Origin 본문3 본 문 분 석 Reading Lesson 3 - 11 - In English, one of the early uses of hurricane was in a play by Shakespeare in 1608. 영어에서는 hurricane이 초기에 사용된 예 중 하나가 1608년에 셰익스피어가 쓴 희곡에서였다. 구문 해설 one of the + 복수명사: ~중의 하나 ✔one of 표현이 문장의 주어 자리에 쓰이면 뒤의 명사의 수와 상관없이 동사는 단 수(was)로만 일치시킨다. 명사 play: 희곡 Q5. What Spanish word does hurricane come from? It comes from the Spanish word huracán. Q6. Who is Huracán in the Mayan creation myth? Huracán is the weather god of wind, storm, and fire, and he is one of the three gods who created humans.",
+        "ko": ""
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "English Words of Foreign Origin 본문3 본 문 분 석 Reading Lesson 3 - 11 - In English, one of the early uses of hurricane was in a play by ___ in 1608.",
+        "a": "Shakespeare",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "영어에서는 ___이 초기에 사용된 예 중 하나가 1608년에 셰익스피어가 쓴 희곡에서였다.",
+        "a": "hurricane",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "구문 해설 ___ of the + 복수명사: ~중의 하나 ✔one of 표현이 문장의 주어 자리에 쓰이면 뒤의 명사의 수와 상관없이 동사는 단 수(was)로만 일치시킨다.",
+        "a": "one",
+        "passage": "r1"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사에 관한 문법 포인트입니다.",
+        "examples": [
+          {
+            "en": "It was ne to tal wth them.",
+            "ko": "그들과 이야기하는 것은 즐거웠다."
+          },
+          {
+            "en": "It’s good for her to do more exerse.",
+            "ko": "그녀가 운동을 더 하는 것은 좋은잘한것이다"
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "A: 그게 무슨 뜻이니?",
+            "ko": "B: 그건 ‘비가 아주 많이 내려.’라는 뜻이야."
+          },
+          {
+            "en": "B: 그건 ‘비가 아주 많이 내려.’라는 뜻이야.",
+            "ko": "• 반복 설명 요청하기"
+          },
+          {
+            "en": "A: 그게 무슨 뜻이니?",
+            "ko": "B: 그건 ‘비가 아주 많이 내려.’라는 뜻이야."
+          },
+          {
+            "en": "B: 그건 ‘비가 아주 많이 내려.’라는 뜻이야.",
+            "ko": "• 반복 설명 요청하기"
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "현재완료",
+        "explanation": "'have/has + 과거분사'로 과거에 시작된 일이 현재까지 영향을 미침을 나타냅니다.",
+        "examples": []
+      },
+      {
+        "id": "g4",
+        "title": "수동태",
+        "explanation": "'be동사 + 과거분사(p.p.)'로 '~되다, ~당하다'의 의미를 나타냅니다.",
+        "examples": []
+      }
+    ],
+    "exercises": [
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "What",
+          "does",
+          "that",
+          "mean"
+        ],
+        "a": "A: What does that mean?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "그건",
+          "‘비가",
+          "아주",
+          "많이",
+          "내려.’라는",
+          "뜻이야"
+        ],
+        "a": "B: 그건 ‘비가 아주 많이 내려.’라는 뜻이야."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "G:",
+          "I",
+          "guess",
+          "I",
+          "should"
+        ],
+        "a": "G: I guess I should."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "G:",
+          "봐.",
+          "고양이와",
+          "개처럼",
+          "비가",
+          "내려"
+        ],
+        "a": "G: 봐. 고양이와 개처럼 비가 내려."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "고양이와",
+          "개처럼",
+          "비가",
+          "내린다고?",
+          "그게",
+          "무슨",
+          "뜻이야"
+        ],
+        "a": "B: 고양이와 개처럼 비가 내린다고? 그게 무슨 뜻이야?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "G:",
+          "‘비가",
+          "많이",
+          "내려.’라는",
+          "뜻이야"
+        ],
+        "a": "G: ‘비가 많이 내려.’라는 뜻이야."
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: ___ does that mean?",
+        "a": "What",
+        "hint": "A: 그게 무슨 뜻이니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "G: I ___ I should.",
+        "a": "guess",
+        "hint": "G: 봐. 고양이와 개처럼 비가 내려."
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ don’t you ~?: ~하는 게 어때?",
+        "a": "Why",
+        "hint": "상대방에게 무언가를 제안하거나 권유할 때 사용하는 표현"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: ___ does that mean?",
+        "a": "What",
+        "hint": "A: 고양이와 개처럼 비가 내려."
+      },
+      {
+        "type": "fill-blank",
+        "q": "Can you ___ that, please? 다시 말씀해주시겠어요?",
+        "a": "repeat",
+        "hint": "Do you mind that again? 다시 말씀해주시겠어요?"
+      },
+      {
+        "type": "multi-choice",
+        "q": "What was the name of the person (that / \nwhich) bought your old car?",
+        "a": "that",
+        "opts": [
+          "that",
+          "which"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "Did you hear about Sam's brother, (that / \nwho) works in the hospital?",
+        "a": "that",
+        "opts": [
+          "that",
+          "who"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "It's true (that / which) some birds can't fly.",
+        "a": "that",
+        "opts": [
+          "that",
+          "which"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "It is true (that / what) he is French.",
+        "a": "that",
+        "opts": [
+          "that",
+          "what"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,506 @@
+{
+  "lessonInfo": {
+    "textbook": "neungyul-kim-15",
+    "lesson": 2,
+    "title": "Lesson 2"
+  },
+  "words": [
+    {
+      "en": "chew",
+      "ko": "씹다",
+      "pos": "v.",
+      "ex": "Have you heard that chewing ice is bad for your teeth?"
+    },
+    {
+      "en": "damage",
+      "ko": "손상을 주다",
+      "pos": "v.",
+      "ex": "It can damage your teeth."
+    },
+    {
+      "en": "sensitive",
+      "ko": "민감한",
+      "pos": "a.",
+      "ex": "It can also make them too sensitive."
+    },
+    {
+      "en": "midnight",
+      "ko": "자정, 밤 열두 시",
+      "pos": "n.",
+      "ex": "I went to bed after midnight, as usual."
+    },
+    {
+      "en": "probably",
+      "ko": "아마도",
+      "pos": "adv.",
+      "ex": "That’s probably what is making you tired."
+    },
+    {
+      "en": "improve",
+      "ko": "향상하다, 개선하다",
+      "pos": "v.",
+      "ex": "Yes, it improves your memory A: 손으로 적는 것이 건강에 좋다는 것을 들어 본 적 있니?"
+    },
+    {
+      "en": "memory",
+      "ko": "기억(력)",
+      "pos": "n.",
+      "ex": "Yes, it improves your memory A: 손으로 적는 것이 건강에 좋다는 것을 들어 본 적 있니?"
+    },
+    {
+      "en": "productive",
+      "ko": "생산적인",
+      "pos": "a."
+    },
+    {
+      "en": "term",
+      "ko": "용어, 학기, 기간",
+      "pos": "n.",
+      "ex": "◈ Functions • 알고 있는지 묻기 Have you heard the term body image?"
+    },
+    {
+      "en": "own",
+      "ko": "자신의",
+      "pos": "a.",
+      "ex": "It means “the way you see your own body."
+    },
+    {
+      "en": "teen",
+      "ko": "십대",
+      "pos": "n.",
+      "ex": "A lot of teens have a negative body image."
+    },
+    {
+      "en": "negative",
+      "ko": "부정적인",
+      "pos": "a.",
+      "ex": "A lot of teens have a negative body image."
+    },
+    {
+      "en": "positive",
+      "ko": "긍정적인",
+      "pos": "a.",
+      "ex": "However, I want you to build a positive body image."
+    },
+    {
+      "en": "accept",
+      "ko": "받아들이다",
+      "pos": "v.",
+      "ex": "Accept your body as it is and give yourself praise every day."
+    },
+    {
+      "en": "compare",
+      "ko": "비교하다",
+      "pos": "v.",
+      "ex": "They think they’re too fat or too thin compared to others."
+    },
+    {
+      "en": "praise",
+      "ko": "칭찬, v. 칭찬하다",
+      "pos": "n.",
+      "ex": "Accept your body as it is and give yourself praise every day."
+    },
+    {
+      "en": "information",
+      "ko": "정보",
+      "pos": "n.",
+      "ex": "It lets me check my health information on my smartphone."
+    },
+    {
+      "en": "step",
+      "ko": "단계, 발걸음",
+      "pos": "n.",
+      "ex": "It shows me all the steps."
+    },
+    {
+      "en": "million",
+      "ko": "100만",
+      "pos": "n.",
+      "ex": "Wow, it’s been watched two million times!"
+    },
+    {
+      "en": "convenient",
+      "ko": "편리한",
+      "pos": "a.",
+      "ex": "It looks very convenient."
+    },
+    {
+      "en": "exercise",
+      "ko": "운동하다",
+      "pos": "v.",
+      "ex": "You don’t have to go out to exercise."
+    },
+    {
+      "en": "carry",
+      "ko": "휴대하다",
+      "pos": "v.",
+      "ex": "I carry it everywhere with me."
+    },
+    {
+      "en": "everywhere",
+      "ko": "어디든",
+      "pos": "adv.",
+      "ex": "I carry it everywhere with me."
+    },
+    {
+      "en": "awesome",
+      "ko": "굉장한",
+      "pos": "a."
+    },
+    {
+      "en": "increase",
+      "ko": "증가시키다",
+      "pos": "v."
+    },
+    {
+      "en": "blood flow",
+      "ko": "혈류",
+      "pos": "n."
+    },
+    {
+      "en": "track",
+      "ko": "추적하다",
+      "pos": "v.",
+      "ex": "This running app can track your running course."
+    },
+    {
+      "en": "weight",
+      "ko": "체중, 무게",
+      "pos": "n.",
+      "ex": "This smart weight scale can measure your body fat."
+    },
+    {
+      "en": "scale",
+      "ko": "체중계",
+      "pos": "n.",
+      "ex": "This smart weight scale can measure your body fat."
+    },
+    {
+      "en": "measure",
+      "ko": "측정하다",
+      "pos": "v.",
+      "ex": "This smart weight scale can measure your body fat."
+    },
+    {
+      "en": "fat",
+      "ko": "살찐, n. 지방",
+      "pos": "a.",
+      "ex": "They think they’re too fat or too thin compared to others."
+    },
+    {
+      "en": "beneficial",
+      "ko": "유익한, 이로운",
+      "pos": "a."
+    },
+    {
+      "en": "diet",
+      "ko": "식사, 식습관",
+      "pos": "n.",
+      "ex": "We all know that a diet containing a variety of foods keeps our bodies healthy."
+    },
+    {
+      "en": "contain",
+      "ko": "포함하다, 함유하다",
+      "pos": "v.",
+      "ex": "We all know that a diet containing a variety of foods keeps our bodies healthy."
+    },
+    {
+      "en": "keep",
+      "ko": "유지하다",
+      "pos": "v.",
+      "ex": "We all know that a diet containing a variety of foods keeps our bodies healthy."
+    },
+    {
+      "en": "healthy",
+      "ko": "건강한",
+      "pos": "a.",
+      "ex": "We all know that a diet containing a variety of foods keeps our bodies healthy."
+    },
+    {
+      "en": "sure",
+      "ko": "확신하는",
+      "pos": "a.",
+      "ex": "This smart weight scale can measure your body fat."
+    },
+    {
+      "en": "nature",
+      "ko": "자연",
+      "pos": "n.",
+      "ex": "Bodies 본문1 본 문 분 석 Reading Lesson 2 - 8 - Nature, however, gives us a big clue."
+    },
+    {
+      "en": "clue",
+      "ko": "단서, 실마리",
+      "pos": "n.",
+      "ex": "Bodies 본문1 본 문 분 석 Reading Lesson 2 - 8 - Nature, however, gives us a big clue."
+    },
+    {
+      "en": "following",
+      "ko": "다음에 오는",
+      "pos": "a.",
+      "ex": "Yes, I’m following this online video."
+    },
+    {
+      "en": "certain",
+      "ko": "특정한",
+      "pos": "a."
+    },
+    {
+      "en": "slice",
+      "ko": "(얇게) 썰다 n. (얇게 썬) 조각",
+      "pos": "v.",
+      "ex": "Lesson 2 - 9 - Slice open a tomato and compare it with the human heart."
+    },
+    {
+      "en": "similar",
+      "ko": "유사한, 닮은",
+      "pos": "a.",
+      "ex": "You will see that they look similar."
+    },
+    {
+      "en": "multiple",
+      "ko": "많은, 다양한",
+      "pos": "a.",
+      "ex": "They both have multiple hollow spaces and are red."
+    },
+    {
+      "en": "hollow",
+      "ko": "속이 빈, 텅 빈",
+      "pos": "a.",
+      "ex": "They both have multiple hollow spaces and are red."
+    },
+    {
+      "en": "researcher",
+      "ko": "연구원, 조사원",
+      "pos": "n."
+    },
+    {
+      "en": "chemical",
+      "ko": "화학 물질, 화학 제품",
+      "pos": "n."
+    },
+    {
+      "en": "blood",
+      "ko": "피, 혈액",
+      "pos": "n.",
+      "ex": "First, sweet potatoes help to lower blood pressure."
+    },
+    {
+      "en": "lower",
+      "ko": "~을 내리다, 낮추다",
+      "pos": "v.",
+      "ex": "In addition, eating tomatoes can lower your risk of heart disease."
+    },
+    {
+      "en": "risk",
+      "ko": "위험(성)",
+      "pos": "n.",
+      "ex": "In addition, eating tomatoes can lower your risk of heart disease."
+    },
+    {
+      "en": "disease",
+      "ko": "질병, 병",
+      "pos": "n.",
+      "ex": "In addition, eating tomatoes can lower your risk of heart disease."
+    },
+    {
+      "en": "shape",
+      "ko": "모양, 형태",
+      "pos": "n.",
+      "ex": "Our Bodies 본문2 본 문 분 석 Reading Lesson 2 - 10 - Look at the shape of a walnut."
+    },
+    {
+      "en": "notice",
+      "ko": "~을 알아차리다",
+      "pos": "v.",
+      "ex": "Do you notice anything?"
+    },
+    {
+      "en": "walnut",
+      "ko": "호두",
+      "pos": "n.",
+      "ex": "Forms • Walnuts also have wrinkles, which the brain has too."
+    },
+    {
+      "en": "divide",
+      "ko": "나누다",
+      "pos": "v.",
+      "ex": "A walnut is divided into two parts, just like the brain."
+    },
+    {
+      "en": "wrinkle",
+      "ko": "주름, v. 주름을 잡다",
+      "pos": "n.",
+      "ex": "Forms • Walnuts also have wrinkles, which the brain has too."
+    },
+    {
+      "en": "study",
+      "ko": "연구 (논문), 공부",
+      "pos": "n.",
+      "ex": "◈ Functions • 알고 있는지 묻기 Have you heard the term body image?"
+    },
+    {
+      "en": "active",
+      "ko": "활동적인, 활발한",
+      "pos": "a.",
+      "ex": "Studies show that walnuts help our brains stay healthy and active."
+    },
+    {
+      "en": "prevent",
+      "ko": "예방하다, 막다",
+      "pos": "v.",
+      "ex": "Yes, it prevents deep sleep."
+    },
+    {
+      "en": "vision",
+      "ko": "시력, 시각",
+      "pos": "n.",
+      "ex": "A, which improves your vision."
+    },
+    {
+      "en": "process",
+      "ko": "처리하다 n. 과정",
+      "pos": "v.",
+      "ex": "It helps your eyes process light and send a clear image to the brain."
+    },
+    {
+      "en": "anyway",
+      "ko": "그래도, 어쨌든",
+      "pos": "adv.",
+      "ex": "But try slicing one anyway."
+    },
+    {
+      "en": "inside",
+      "ko": "안(쪽)",
+      "pos": "n.",
+      "ex": "You can see that the inside looks a little like a human cell."
+    },
+    {
+      "en": "cell",
+      "ko": "세포",
+      "pos": "n.",
+      "ex": "Have you heard that using a cell phone before bed is bad for your health?"
+    },
+    {
+      "en": "ginger",
+      "ko": "생강",
+      "pos": "n.",
+      "ex": "Lesson 2 - 13 - Now, let’s move on to ginger."
+    },
+    {
+      "en": "stomach",
+      "ko": "위, 배, 복부",
+      "pos": "n.",
+      "ex": "Doesn’t it look like a stomach?"
+    },
+    {
+      "en": "mirror",
+      "ko": "반영하다, 잘 보여주다",
+      "pos": "v."
+    },
+    {
+      "en": "interestingly",
+      "ko": "흥미롭게도",
+      "pos": "adv.",
+      "ex": "Interestingly, there are many other such foods."
+    },
+    {
+      "en": "be bad for",
+      "ko": "~에 나쁘다",
+      "pos": ""
+    },
+    {
+      "en": "as usual",
+      "ko": "늘 그렇듯이",
+      "pos": "",
+      "ex": "I went to bed after midnight, as usual."
+    },
+    {
+      "en": "on the other hand",
+      "ko": "반면에, 다른 한편으로",
+      "pos": ""
+    },
+    {
+      "en": "from now on",
+      "ko": "이제부터, 앞으로",
+      "pos": "",
+      "ex": "From now on, try to⑬ go to bed earlier."
+    },
+    {
+      "en": "compared to",
+      "ko": "~와 비교하여",
+      "pos": "",
+      "ex": "They think they’re too fat or too thin compared to others."
+    },
+    {
+      "en": "work out",
+      "ko": "운동하다",
+      "pos": ""
+    },
+    {
+      "en": "by oneself",
+      "ko": "혼자서, 혼자 힘으로",
+      "pos": ""
+    },
+    {
+      "en": "a variety of",
+      "ko": "다양한",
+      "pos": "",
+      "ex": "We all know that a diet containing a variety of foods keeps our bodies healthy."
+    },
+    {
+      "en": "be good for",
+      "ko": "~에 좋다",
+      "pos": "",
+      "ex": "For this reason, ginger can be good for your stomach."
+    },
+    {
+      "en": "compare A with B",
+      "ko": "A와 B를 비교하다",
+      "pos": ""
+    },
+    {
+      "en": "in addition",
+      "ko": "게다가, 덧붙여",
+      "pos": "",
+      "ex": "In addition, eating tomatoes can lower your risk of heart disease."
+    },
+    {
+      "en": "be divided into",
+      "ko": "~로 나누어지다",
+      "pos": ""
+    },
+    {
+      "en": "move on to",
+      "ko": "~로 넘어가다",
+      "pos": "",
+      "ex": "Lesson 2 - 13 - Now, let’s move on to ginger."
+    },
+    {
+      "en": "come to mind",
+      "ko": "생각이 떠오르다",
+      "pos": ""
+    },
+    {
+      "en": "prevent A from –ing",
+      "ko": "A가 ~하는 것을 막다",
+      "pos": ""
+    },
+    {
+      "en": "come from",
+      "ko": "~에서 나오다, 비롯되다",
+      "pos": ""
+    },
+    {
+      "en": "throw up",
+      "ko": "토하다",
+      "pos": ""
+    },
+    {
+      "en": "for this reason",
+      "ko": "이러한 이유로",
+      "pos": "",
+      "ex": "For this reason, ginger can be good for your stomach."
+    }
+  ]
+}

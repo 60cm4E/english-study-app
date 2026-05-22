@@ -1,0 +1,490 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-lee-15",
+    "lesson": 4,
+    "title": "Lesson 4"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "How do you feel about ~?",
+        "ko": "",
+        "category": "의견 묻기"
+      },
+      {
+        "en": "Listen and Choose G: Brian, did you hear the news?",
+        "ko": "",
+        "category": "의견 묻기"
+      },
+      {
+        "en": "I’m with you on that.",
+        "ko": "",
+        "category": "동의하기"
+      },
+      {
+        "en": "Since ✔Since는 본문에서 이유를 나타내는 접속사로 쓰여 ‘~하기 때문에’란 뜻을 나타낸 다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Since는 접속사 Because나 As 등으로도 바꿔 쓸 수 있고 뒤로는 주어(every single muscle)와 동사(hurt)를 갖춘 완전한 절을 이끈다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "It took less time to finish his hole은 ‘구덩이를 끝내는 데 시간이 덜 걸렸다’라는 뜻으로 주어로 쓰인 It은 따로 해석하지 않는다.",
+        "ko": "",
+        "category": "The 비교급+주어+동사, the 비교급+주어+동사\n   ✔<The 비교급+주어+동사, the 비교급+주어+동사> 구문은 ‘~하면 할수록, 더 ...하다’\n라는 뜻으로, ‘더 많이 Stanley가 파면 팔수록, 그는 더 강해져 갔다’라고 해석한다.\n② It + takes + 시간 + to부정사"
+      },
+      {
+        "en": "Since는 접속사 Because나 As 등으로도 바꿔 쓸 수 있고 뒤로는 주어(it)와 동 사(was)를 갖춘 완전한 절을 이끈다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Since는 접속사 _____________나 As 등으로도 바꿔 쓸 수 있고 뒤로는 주어 (every single muscle)와 동사(hurt)를 갖춘 완전한 절을 이끈다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "How do you feel about the single food diet?",
+        "ko": "너는 한 가지 음식만 먹는 다이어트에 관해 어떻게",
+        "category": "일반 표현"
+      },
+      {
+        "en": "I think it’s easy but unhealthy.",
+        "ko": "너는 한 가지 음식만 먹는 다이어트에 관해 어떻게",
+        "category": "일반 표현"
+      },
+      {
+        "en": "너는 한 가지 음식만 먹는 다이어트에 관해 어떻게",
+        "ko": "나는 그것이 쉽지만 건강에 좋지 않다고 생각해.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "I think reading books on a smartphone is",
+        "ko": "나는 스마트폰으로 책을 읽는 것이 좋다고 생각해.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "나는 스마트폰으로 책을 읽는 것이 좋다고 생각해.",
+        "ko": "네 말에 동의해.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "Great. How did you come here from the airport?",
+        "ko": "안녕, Amy. 한국에 온 것을 환영해.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "I came here by subway.",
+        "ko": "안녕, Amy. 한국에 온 것을 환영해.",
+        "category": "일반 표현"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "How do you feel ___ ~?",
+        "a": "about",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ and Choose G: Brian, did you hear the news?",
+        "a": "Listen",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ ✔Since는 본문에서 이유를 나타내는 접속사로 쓰여 ‘~하기 때문에’란 뜻을 나타낸 다.",
+        "a": "Since",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Since는 접속사 ___나 As 등으로도 바꿔 쓸 수 있고 뒤로는 주어(every single muscle)와 동사(hurt)를 갖춘 완전한 절을 이끈다.",
+        "a": "Because",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "It took less time to ___ his hole은 ‘구덩이를 끝내는 데 시간이 덜 걸렸다’라는 뜻으로 주어로 쓰인 It은 따로 해석하지 않는다.",
+        "a": "finish",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Since는 접속사 ___나 As 등으로도 바꿔 쓸 수 있고 뒤로는 주어(it)와 동 사(was)를 갖춘 완전한 절을 이끈다.",
+        "a": "Because",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Since는 접속사 _____________나 As 등으로도 바꿔 쓸 수 있고 뒤로는 주어 (every ___ muscle)와 동사(hurt)를 갖춘 완전한 절을 이끈다.",
+        "a": "single",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "How do you feel about the ___ food diet?",
+        "a": "single",
+        "hint": "너는 한 가지 음식만 먹는 다이어트에 관해 어떻게"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I think it’s easy but ___.",
+        "a": "unhealthy",
+        "hint": "너는 한 가지 음식만 먹는 다이어트에 관해 어떻게"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I think reading books on a ___ is",
+        "a": "smartphone",
+        "hint": "나는 스마트폰으로 책을 읽는 것이 좋다고 생각해."
+      },
+      {
+        "type": "fill-blank",
+        "q": "Great. How did you come here from the ___?",
+        "a": "airport",
+        "hint": "안녕, Amy. 한국에 온 것을 환영해."
+      },
+      {
+        "type": "fill-blank",
+        "q": "I came here by ___.",
+        "a": "subway",
+        "hint": "안녕, Amy. 한국에 온 것을 환영해."
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - 1",
+        "en": "A: How do you feel about the single food diet? B: 나는 그것이 쉽지만 건강에 좋지 않다고 생각해. B: I’m with you on that. Stanley는 많이 파면 팔수록, 더 힘이 세져 갔다. It couldn’t be real gold since it was too light.",
+        "ko": "A: 너는 한 가지 음식만 먹는 다이어트에 관해 어떻게 • 동의하기 A: 나는 스마트폰으로 책을 읽는 것이 좋다고 생각해. • 접속사 since 그것은 너무 가벼웠기 때문에 진짜 금일 리가 없었다."
+      },
+      {
+        "id": "r2",
+        "title": "본문 - 2",
+        "en": "G: I came here by subway. B: Right. It will be very helpful. B: Sure. I’ll try my best. B: Sure. I’ll try my best. A: 너는 인공 지능 로봇에 관해 어떻게 생각하니?",
+        "ko": "소년: 안녕, Amy. 한국에 온 것을 환영해. 소녀: Brian, 너 그 소식 들었니? A: 내가 어려운 질문을 하나 해도 될까? A: 내가 어려운 질문을 하나 해도 될까? B: 나는 그것이 유용하지만 무섭다고 생각해."
+      },
+      {
+        "id": "r3",
+        "title": "본문 - 3",
+        "en": "What‘s your opinion about ~? Do you have any opinions on/about ~? B: What did you like most about it? G: Maybe you’re right. Thanks, Tom. B: I think it’s good. We can read anytime.",
+        "ko": "’~에 대한 너의 의견은 무엇이니?‘ ’너는 ~에 대해 어떤 의견이 있니?‘ 소년: 너는 영화가 재미있었니? 소년: 얘, Jessica. 넌 왜 늘 에너지 음료를 마시니? A: 너는 스마트폰으로 책을 읽는 것에 관해 어떻게 생각하니?"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "A: How do you feel about the ___ food diet?",
+        "a": "single",
+        "passage": "r1"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 너는 한 가지 음식만 먹는 다이어트에 관해 어떻게 • 동의하기 A: 나는 스마트폰으로 책을 읽는 것이 ...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "G: I came here by ___.",
+        "a": "subway",
+        "passage": "r2"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: ___.",
+        "a": "Right",
+        "passage": "r2"
+      },
+      {
+        "type": "fill-blank",
+        "q": "It will be very ___.",
+        "a": "helpful",
+        "passage": "r2"
+      },
+      {
+        "type": "true-false",
+        "q": "소년: 안녕, Amy. 한국에 온 것을 환영해. 소녀: Brian, 너 그 소식 들었니? A: 내가 어려운 ...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "What‘s your ___ about ~?",
+        "a": "opinion",
+        "passage": "r3"
+      },
+      {
+        "type": "fill-blank",
+        "q": "Do you have any ___ on/about ~?",
+        "a": "opinions",
+        "passage": "r3"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: What did you like most ___ it?",
+        "a": "about",
+        "passage": "r3"
+      },
+      {
+        "type": "true-false",
+        "q": "’~에 대한 너의 의견은 무엇이니?‘ ’너는 ~에 대해 어떤 의견이 있니?‘ 소년: 너는 영화가 재미있었니?...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사가 동사, 형용사, 부사를 수식하는 부사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "B: I don’t need to worry about what to wear.",
+            "ko": "A: 너는 교복을 입는 것에 관해 어떻게 생각하니?"
+          },
+          {
+            "en": "B: It's a lot of wor to tae are of them.",
+            "ko": "A: 너는 애완동물을 기르는 것에 관해 어떻게 생각하니?"
+          },
+          {
+            "en": "Q5. What dd eah boy have to do every day?",
+            "ko": "▲구문 UP 수동태"
+          },
+          {
+            "en": "Eah boy had to dg one hole every day.",
+            "ko": "▲구문 UP 수동태"
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "B: I think it’s easy but unhealthy.",
+            "ko": "A: 내가 어려운 질문을 하나 해도 될까?"
+          },
+          {
+            "en": "A: 내가 어려운 질문을 하나 해도 될까?",
+            "ko": "B: 물론이지. 최선을 다할게."
+          },
+          {
+            "en": "B: 물론이지. 최선을 다할게.",
+            "ko": "A: 너는 한 가지 음식만 먹는 다이어트에 관해 어떻게 생"
+          },
+          {
+            "en": "Q3. 운동화는 누구의 것이었나요?",
+            "ko": "- 운동화는 유명한 야구 선수인 Clyde"
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "현재완료",
+        "explanation": "'have/has + 과거분사'로 과거에 시작된 일이 현재까지 영향을 미침을 나타냅니다.",
+        "examples": [
+          {
+            "en": "It has been two years since I left Korea. 한국을 떠난 지 2년이 되었다.",
+            "ko": "2. ~ 때문에, ~이므로(= because)"
+          },
+          {
+            "en": "We won't go on a picnic since it's raining. 비가 와서 우리는 소풍을 가지 않을 거야.",
+            "ko": "cf) since는 전치사나 부사로도 쓰이기도 한다."
+          }
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "수동태",
+        "explanation": "'be동사 + 과거분사(p.p.)'로 '~되다, ~당하다'의 의미를 나타냅니다.",
+        "examples": [
+          {
+            "en": "Sne she was tred, she too some rest.",
+            "ko": "그녀는 피곤했기 때문에 휴식을 취했다."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "How",
+          "do",
+          "you",
+          "feel",
+          "about",
+          "the",
+          "sngle",
+          "food",
+          "det"
+        ],
+        "a": "A: How do you feel about the sngle food det?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "I",
+          "thn",
+          "t’s",
+          "easy",
+          "but",
+          "unhealthy"
+        ],
+        "a": "B: I thn t’s easy but unhealthy."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "나는",
+          "그것이",
+          "쉽지만",
+          "건강에",
+          "좋지",
+          "않다고",
+          "생각해"
+        ],
+        "a": "B: 나는 그것이 쉽지만 건강에 좋지 않다고 생각해."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "I’m",
+          "wth",
+          "you",
+          "on",
+          "that"
+        ],
+        "a": "B: I’m wth you on that."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "나는",
+          "스마트폰으로",
+          "책을",
+          "읽는",
+          "것이",
+          "좋다고",
+          "생각해"
+        ],
+        "a": "A: 나는 스마트폰으로 책을 읽는 것이 좋다고 생각해."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "Stanley는",
+          "많이",
+          "파면",
+          "팔수록,",
+          "더",
+          "힘이",
+          "세져",
+          "갔다"
+        ],
+        "a": "Stanley는 많이 파면 팔수록, 더 힘이 세져 갔다."
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: How do you feel ___ the sngle food det?",
+        "a": "about",
+        "hint": "A: 너는 한 가지 음식만 먹는 다이어트에 관해 어떻게"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: I thn t’s easy but ___.",
+        "a": "unhealthy",
+        "hint": "A: 너는 한 가지 음식만 먹는 다이어트에 관해 어떻게"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: I’m ___ you on that.",
+        "a": "wth",
+        "hint": "A: 나는 스마트폰으로 책을 읽는 것이 좋다고 생각해."
+      },
+      {
+        "type": "fill-blank",
+        "q": "___는 많이 파면 팔수록, 더 힘이 세져 갔다.",
+        "a": "Stanley",
+        "hint": "• 접속사 since"
+      },
+      {
+        "type": "fill-blank",
+        "q": "It ___’t be real gold sne t was too lght.",
+        "a": "ouldn",
+        "hint": "그것은 너무 가벼웠기 때문에 진짜 금일 리가 없었다."
+      },
+      {
+        "type": "error-correction",
+        "q": "B: I don’t need worrying about what to wear.",
+        "a": "to worry",
+        "wrong": "worrying",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "Eah boy had _______________________ing every day.",
+        "a": "to _______________________",
+        "wrong": "_______________________ing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "Sne he was s, he ouldn’t go shooling.",
+        "a": "to shool",
+        "wrong": "shooling",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "Sne the sunlght was very strong, she had wearing her hat.",
+        "a": "to wear",
+        "wrong": "wearing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "multi-choice",
+        "q": "I couldn't hand in my homework (though / \nsince) I had lost my bag.",
+        "a": "though",
+        "opts": [
+          "though",
+          "since"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "Sarah’s been sick (since / because of) Friday.",
+        "a": "since",
+        "opts": [
+          "since",
+          "because of"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "The baseball match was cancelled (because of \n/ since) the heavy rain.",
+        "a": "because of",
+        "opts": [
+          "because of",
+          "since"
+        ]
+      }
+    ]
+  }
+}

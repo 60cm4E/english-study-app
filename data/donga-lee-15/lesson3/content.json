@@ -1,0 +1,464 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-lee-15",
+    "lesson": 3,
+    "title": "Lesson 3"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "What do you want me to do?",
+        "ko": "",
+        "category": "원하는 행동 묻기"
+      },
+      {
+        "en": "Make sure ~을 사용한다.",
+        "ko": "",
+        "category": "당부하기"
+      },
+      {
+        "en": "Make sure는 ‘반드시 ~해라, 꼭 ~해라’라는 뜻으로 뒤에는 주어와 동사를 갖춘 절 형태가 온다.",
+        "ko": "",
+        "category": "당부하기"
+      },
+      {
+        "en": "Make sure 다음에는 접속사 that이 생략되어 있다.",
+        "ko": "",
+        "category": "당부하기"
+      },
+      {
+        "en": "Make sure ~는 ‘반드시 ~해라, 꼭 ~해라’라 는 뜻으로, 상대방에게 강한 당부를 나타낸다.",
+        "ko": "",
+        "category": "당부하기"
+      },
+      {
+        "en": "It ~ that 강조구문 ✔It과 that 사이에 목적어인 a better tomorrow를 넣어 강조하고 있는 문장으로, ‘~ 하는 것은 바로 더 나은 내일이었다’라고 해석한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "It과 that 사이에 목적어를 가 져다 썼기 때문에 that 다음에는 목적어가 없는 문장이 이어지고 있다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "It ~ that 강조구문 ✔It과 that 사이에 ___________인 a better tomorrow를 넣어 강조하고 있는 문장으로, ‘~하는 것은 바로 더 나은 내일이었다’라고 해석한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "It과 that 사이에 목적어를 가져다 썼기 때문에 that 다음에는 목적어가 없는 문장이 이어지고 있다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Please put the clothes into the box.",
+        "ko": "내가 무엇을 하길 원하니?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "내가 무엇을 하길 원하니?",
+        "ko": "옷들을 상자에 넣어 줘.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "옷들을 상자에 넣어 줘.",
+        "ko": "반드시 문을 잠그렴.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "Make sure you lock the doors.",
+        "ko": "반드시 문을 잠그렴.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "Okay, I will.",
+        "ko": "반드시 문을 잠그렴.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "반드시 문을 잠그렴.",
+        "ko": "알았어, 그럴게.",
+        "category": "일반 표현"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "___ do you want me to do?",
+        "a": "What",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ sure ~을 사용한다.",
+        "a": "Make",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ sure는 ‘반드시 ~해라, 꼭 ~해라’라는 뜻으로 뒤에는 주어와 동사를 갖춘 절 형태가 온다.",
+        "a": "Make",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ sure 다음에는 접속사 that이 생략되어 있다.",
+        "a": "Make",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ sure ~는 ‘반드시 ~해라, 꼭 ~해라’라 는 뜻으로, 상대방에게 강한 당부를 나타낸다.",
+        "a": "Make",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "It ~ that 강조구문 ✔It과 that 사이에 목적어인 a better ___를 넣어 강조하고 있는 문장으로, ‘~ 하는 것은 바로 더 나은 내일이었다’라고 해석한다.",
+        "a": "tomorrow",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "It ~ that 강조구문 ✔It과 that 사이에 ___________인 a better ___를 넣어 강조하고 있는 문장으로, ‘~하는 것은 바로 더 나은 내일이었다’라고 해석한다.",
+        "a": "tomorrow",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Please put the ___ into the box.",
+        "a": "clothes",
+        "hint": "내가 무엇을 하길 원하니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "Make sure you lock the ___.",
+        "a": "doors",
+        "hint": "반드시 문을 잠그렴."
+      },
+      {
+        "type": "fill-blank",
+        "q": "___, I will.",
+        "a": "Okay",
+        "hint": "반드시 문을 잠그렴."
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - 1",
+        "en": "A: What do you want me to do? A: Make sure you lock the doors. The project manager had us meet at 9 a.m. It was a better tomorrow that we painted. G: Please write the address on the boxes.",
+        "ko": "A: 내가 무엇을 하길 원하니? A: 반드시 문을 잠그렴. 프로젝트 책임자는 우리를 오전 9시에 만나게 했다. 우리가 그린 것은 바로 더 나은 내일이었다. 소년: 이 상자와 책들은 다 무엇에 쓰려는 거니?"
+      },
+      {
+        "id": "r2",
+        "title": "본문 - 2",
+        "en": "A: Sure. What do you want me to do? B: 나는 내일 이사를 위해 짐을 싸고 있어. 나를 도와 줄래? Make sure 다음에는 접속사 that이 생략되어 있다. B: Yes. Make sure you lock the doors. A: 네, 그럴게요. 그 밖에 더 있으세요?",
+        "ko": "A: 무엇을 하고 있니? A: 물론이지. 내가 무엇을 하길 원하니? 접속사 when: ~할 때 A: 집에 갈 시간이에요. 당부하기: 상대방이 잊어버리지 않도록 중요한 일에 대해 강"
+      },
+      {
+        "id": "r3",
+        "title": "본문 - 3",
+        "en": "Tony: Okay. I’ll do my best. Tony: 안녕하세요. 저는 여기에 봉사 활동을 하러 왔어요. Tony: 맞아요. 오늘 제가 무엇을 하길 원하세요? Tony: 알겠어요. 지금 들어가야 하나요? Tony: 네. 유념해야 할 것이 있나요?",
+        "ko": "여자: 안녕하세요. 무엇을 도와드릴까요? 여자: 오, 당신이 Tony군요. 여자: 녹음실에서 시각 장애인들을 위해 이 책을 읽어 주 여자: 그래요. 7번 방으로 들어가 주세요. 여자: 네. 꼭 천천히 그리고 명확하게 읽어 주세요."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "A: ___ do you want me to do?",
+        "a": "What",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Make sure you lock the ___.",
+        "a": "doors",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "The ___ manager had us meet at 9 a.m.",
+        "a": "project",
+        "passage": "r1"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 내가 무엇을 하길 원하니? A: 반드시 문을 잠그렴. 프로젝트 책임자는 우리를 오전 9시에 만나게 했다...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: ___.",
+        "a": "Sure",
+        "passage": "r2"
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ do you want me to do?",
+        "a": "What",
+        "passage": "r2"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 무엇을 하고 있니? A: 물론이지. 내가 무엇을 하길 원하니? 접속사 when: ~할 때 A: 집에...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "___: Okay.",
+        "a": "Tony",
+        "passage": "r3"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’ll do my ___.",
+        "a": "best",
+        "passage": "r3"
+      },
+      {
+        "type": "fill-blank",
+        "q": "___: 안녕하세요.",
+        "a": "Tony",
+        "passage": "r3"
+      },
+      {
+        "type": "true-false",
+        "q": "여자: 안녕하세요. 무엇을 도와드릴까요? 여자: 오, 당신이 Tony군요. 여자: 녹음실에서 시각 장애인들을...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사가 앞의 명사를 꾸며주는 형용사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "B: I want to give the dog a bath.",
+            "ko": "A: 너는 무엇을 하길 원하니?"
+          },
+          {
+            "en": "A: 너는 무엇을 하길 원하니?",
+            "ko": "B: 나는 개를 목욕시키고 싶어."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "John이 Judy를 만난 곳은 바로 공원이었다.",
+            "ko": "It ~ that 강조 구문에서 강조하는 말이 사람인 경우 that은 who(m), 장소를 나타내"
+          },
+          {
+            "en": "It was last winter that[when] I visited Spain.",
+            "ko": "(내가 스페인을 방문했던 때는 바로 지난겨울이었다.)"
+          },
+          {
+            "en": "B: Okay, I will.",
+            "ko": "A: 반드시 문을 잠그렴."
+          },
+          {
+            "en": "A: 반드시 문을 잠그렴.",
+            "ko": "B: 알았어, 그럴게."
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "현재완료",
+        "explanation": "'have/has + 과거분사'로 과거에 시작된 일이 현재까지 영향을 미침을 나타냅니다.",
+        "examples": []
+      },
+      {
+        "id": "g4",
+        "title": "수동태",
+        "explanation": "'be동사 + 과거분사(p.p.)'로 '~되다, ~당하다'의 의미를 나타냅니다.",
+        "examples": [
+          {
+            "en": "Q1. 호민이는 지난달에 어디를 방문했나요?",
+            "ko": "- 그는 여수에 있는 벽화 마을을 방문했습"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "What",
+          "do",
+          "you",
+          "want",
+          "me",
+          "to",
+          "do"
+        ],
+        "a": "A: What do you want me to do?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "lease",
+          "put",
+          "the",
+          "lothes",
+          "nto",
+          "the",
+          "box"
+        ],
+        "a": "B: lease put the lothes nto the box."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "내가",
+          "무엇을",
+          "하길",
+          "원하니"
+        ],
+        "a": "A: 내가 무엇을 하길 원하니?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "옷들을",
+          "상자에",
+          "넣어",
+          "줘"
+        ],
+        "a": "B: 옷들을 상자에 넣어 줘."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "Mae",
+          "sure",
+          "you",
+          "lo",
+          "the",
+          "doors"
+        ],
+        "a": "A: Mae sure you lo the doors."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "The",
+          "projet",
+          "manager",
+          "had",
+          "us",
+          "meet",
+          "at",
+          "9",
+          "a.m"
+        ],
+        "a": "The projet manager had us meet at 9 a.m."
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: ___ do you want me to do?",
+        "a": "What",
+        "hint": "A: 내가 무엇을 하길 원하니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: lease put the ___ nto the box.",
+        "a": "lothes",
+        "hint": "A: 내가 무엇을 하길 원하니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Mae sure you lo the ___.",
+        "a": "doors",
+        "hint": "A: 반드시 문을 잠그렴."
+      },
+      {
+        "type": "fill-blank",
+        "q": "The projet ___ had us meet at 9 a.m.",
+        "a": "manager",
+        "hint": "프로젝트 책임자는 우리를 오전 9시에 만나게 했다."
+      },
+      {
+        "type": "fill-blank",
+        "q": "It was a better ___ that we panted.",
+        "a": "tomorrow",
+        "hint": "우리가 그린 것은 바로 더 나은 내일이었다."
+      },
+      {
+        "type": "error-correction",
+        "q": "Q3. Why dd they dede panting somethng ute?",
+        "a": "to pant",
+        "wrong": "panting",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "Jm: It s every year that they plan planting trees.",
+        "a": "to plant",
+        "wrong": "planting",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "We got a mehan reparing the elevator.",
+        "a": "to repar",
+        "wrong": "reparing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "multi-choice",
+        "q": "He (get / had) his children follow the rules.",
+        "a": "get",
+        "opts": [
+          "get",
+          "had"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "The dog (gets / helps) him cross the road.",
+        "a": "gets",
+        "opts": [
+          "gets",
+          "helps"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "My mother (had / helped) me to study English.",
+        "a": "had",
+        "opts": [
+          "had",
+          "helped"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "The teacher always makes us (be / been) quiet.",
+        "a": "be",
+        "opts": [
+          "be",
+          "been"
+        ]
+      }
+    ]
+  }
+}

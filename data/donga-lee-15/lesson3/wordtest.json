@@ -1,0 +1,371 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-lee-15",
+    "lesson": 3,
+    "title": "Lesson 3"
+  },
+  "words": [
+    {
+      "en": "pack",
+      "ko": "(짐을) 싸다, 포장하다",
+      "pos": "v.",
+      "ex": "I’m packing the books for the donation center."
+    },
+    {
+      "en": "donation",
+      "ko": "기부, 기증",
+      "pos": "n.",
+      "ex": "I’m packing the books for the donation center."
+    },
+    {
+      "en": "address",
+      "ko": "주소",
+      "pos": "n.",
+      "ex": "Please write the address on the boxes."
+    },
+    {
+      "en": "mess",
+      "ko": "엉망인 상태",
+      "pos": "n.",
+      "ex": "Listen and Check B: What is this mess?"
+    },
+    {
+      "en": "bake",
+      "ko": "굽다",
+      "pos": "v.",
+      "ex": "It was yesterday that I baked my first cookie."
+    },
+    {
+      "en": "nursing home",
+      "ko": "양로원",
+      "pos": "n.",
+      "ex": "I usually volunteer at the nursing home."
+    },
+    {
+      "en": "each",
+      "ko": "각자의, 각각의",
+      "pos": "a.",
+      "ex": "Three cookies in each box."
+    },
+    {
+      "en": "feed",
+      "ko": "먹이를 주다",
+      "pos": "v.",
+      "ex": "Make sure you feed the dog after you have dinner."
+    },
+    {
+      "en": "careful",
+      "ko": "조심하는, 주의 깊은",
+      "pos": "a.",
+      "ex": "Second, be careful when you use a knife."
+    },
+    {
+      "en": "blind",
+      "ko": "시각 장애의",
+      "pos": "a.",
+      "ex": "Woman: Please read this book for the blind in the recording room."
+    },
+    {
+      "en": "recording",
+      "ko": "기록, 녹음",
+      "pos": "n.",
+      "ex": "Woman: Please read this book for the blind in the recording room."
+    },
+    {
+      "en": "slowly",
+      "ko": "천천히, 느리게",
+      "pos": "adv.",
+      "ex": "Make sure you read slowly and clearly."
+    },
+    {
+      "en": "clearly",
+      "ko": "분명하게",
+      "pos": "adv.",
+      "ex": "Make sure you read slowly and clearly."
+    },
+    {
+      "en": "wall painting",
+      "ko": "벽화",
+      "pos": "n.",
+      "ex": "Many people like to take pictures in front of wall paintings."
+    },
+    {
+      "en": "wing",
+      "ko": "날개",
+      "pos": "n.",
+      "ex": "The wings are pretty, aren’t they?"
+    },
+    {
+      "en": "neighborhood",
+      "ko": "(도시∙마을 내의) 동네, 지역",
+      "pos": "n.",
+      "ex": "They make old neighborhoods bright and new."
+    },
+    {
+      "en": "bright",
+      "ko": "밝은, 빛나는",
+      "pos": "a.",
+      "ex": "They make old neighborhoods bright and new."
+    },
+    {
+      "en": "village",
+      "ko": "마을",
+      "pos": "n.",
+      "ex": "Last month, I visited a village with wall paintings in Yeosu."
+    },
+    {
+      "en": "suggest",
+      "ko": "제안하다",
+      "pos": "v.",
+      "ex": "I suggested this idea at the next club meeting, and the members loved it."
+    },
+    {
+      "en": "meeting",
+      "ko": "회의",
+      "pos": "n.",
+      "ex": "I suggested this idea at the next club meeting, and the members loved it."
+    },
+    {
+      "en": "member",
+      "ko": "구성원, 회원",
+      "pos": "n.",
+      "ex": "I suggested this idea at the next club meeting, and the members loved it."
+    },
+    {
+      "en": "find",
+      "ko": "찾다",
+      "pos": "v."
+    },
+    {
+      "en": "teen",
+      "ko": "십 대의 n. 십대",
+      "pos": "a.",
+      "ex": "Lesson 3 - 6 - We found a teen volunteer project on the Internet."
+    },
+    {
+      "en": "volunteer",
+      "ko": "자원의, 자발적인",
+      "pos": "a.",
+      "ex": "The volunteers are reading a story to the children."
+    },
+    {
+      "en": "apply",
+      "ko": "신청하다, 지원하다",
+      "pos": "v."
+    },
+    {
+      "en": "select",
+      "ko": "선발[선정, 선택]하다",
+      "pos": "v.",
+      "ex": "We applied for it, and two weeks later, our club was selected!"
+    },
+    {
+      "en": "finally",
+      "ko": "마침내, 결국",
+      "pos": "adv.",
+      "ex": "Lesson 3 - 7 - The day of the project finally came."
+    },
+    {
+      "en": "manager",
+      "ko": "운영자, 관리자",
+      "pos": "n.",
+      "ex": "The project manager had us meet at 9 a."
+    },
+    {
+      "en": "site",
+      "ko": "현장, 장소",
+      "pos": "n.",
+      "ex": "Last month, I visited a village with wall paintings in Yeosu."
+    },
+    {
+      "en": "poor",
+      "ko": "형편없는, 가난한",
+      "pos": "a.",
+      "ex": "The wall was in very poor condition."
+    },
+    {
+      "en": "condition",
+      "ko": "상태, 조건",
+      "pos": "n.",
+      "ex": "The wall was in very poor condition."
+    },
+    {
+      "en": "strange",
+      "ko": "낯선, 이상한",
+      "pos": "a.",
+      "ex": "There were strange writings and drawings on some parts."
+    },
+    {
+      "en": "drawing",
+      "ko": "그림",
+      "pos": "n.",
+      "ex": "There were strange writings and drawings on some parts."
+    },
+    {
+      "en": "part",
+      "ko": "부분, 일부",
+      "pos": "n.",
+      "ex": "There were strange writings and drawings on some parts."
+    },
+    {
+      "en": "remove",
+      "ko": "제거하다, 없애다",
+      "pos": "v.",
+      "ex": "They removed the posters."
+    },
+    {
+      "en": "decide",
+      "ko": "결정하다",
+      "pos": "v.",
+      "ex": "Why did they decide to paint something cute?"
+    },
+    {
+      "en": "elementary school",
+      "ko": "초등학교",
+      "pos": "n.",
+      "ex": "Because the wall was near an elementary school."
+    },
+    {
+      "en": "choose",
+      "ko": "고르다, 선택하다",
+      "pos": "v.",
+      "ex": "Enjoy the concert, Mom."
+    },
+    {
+      "en": "spot",
+      "ko": "(특정한) 장소, 지점",
+      "pos": "n.",
+      "ex": "I chose my spot and started to paint my favorite movie character."
+    },
+    {
+      "en": "character",
+      "ko": "등장인물, 성격",
+      "pos": "n.",
+      "ex": "I chose my spot and started to paint my favorite movie character."
+    },
+    {
+      "en": "background",
+      "ko": "(풍경, 무대, 그림의) 배경",
+      "pos": "n.",
+      "ex": "Minsu painted some flowers and Jiwon did some background drawings."
+    },
+    {
+      "en": "finish",
+      "ko": "끝내다, 마치다",
+      "pos": "v.",
+      "ex": "After we finished, we got together and shared the day’s experiences."
+    },
+    {
+      "en": "share",
+      "ko": "(감정, 생각, 경험 등을)",
+      "pos": "v.",
+      "ex": "After we finished, we got together and shared the day’s experiences."
+    },
+    {
+      "en": "experience",
+      "ko": "경험",
+      "pos": "n.",
+      "ex": "After we finished, we got together and shared the day’s experiences."
+    },
+    {
+      "en": "real",
+      "ko": "진짜의, 현실적인",
+      "pos": "a.",
+      "ex": "Lesson 3 - 4 - Real Life Talk Woman: Good morning."
+    },
+    {
+      "en": "land",
+      "ko": "내려앉다, 착륙하다",
+      "pos": "v.",
+      "ex": "He said, “My flower is so real that a bee landed on it."
+    },
+    {
+      "en": "hard",
+      "ko": "어려운, 힘든",
+      "pos": "a.",
+      "ex": "I said, “Drawing on a wall was much harder than drawing on paper."
+    },
+    {
+      "en": "agree",
+      "ko": "동의하다",
+      "pos": "v.",
+      "ex": "We all agreed that our wall painting wasn’t perfect."
+    },
+    {
+      "en": "perfect",
+      "ko": "완벽한",
+      "pos": "a.",
+      "ex": "We all agreed that our wall painting wasn’t perfect."
+    },
+    {
+      "en": "matter",
+      "ko": "중요하다 n. 문제",
+      "pos": "v.",
+      "ex": "But it didn’t matter."
+    },
+    {
+      "en": "give ~ a hand",
+      "ko": "~에게 도움을 주다",
+      "pos": ""
+    },
+    {
+      "en": "make sure",
+      "ko": "반드시 ~하다, ~을 확실",
+      "pos": "",
+      "ex": "Make sure you lock the doors."
+    },
+    {
+      "en": "sit around",
+      "ko": "~에 둘러앉다",
+      "pos": ""
+    },
+    {
+      "en": "keep in mind",
+      "ko": "~을 명심하다",
+      "pos": "",
+      "ex": "Is there anything to keep in mind?"
+    },
+    {
+      "en": "do one's best",
+      "ko": "최선을 다하다",
+      "pos": ""
+    },
+    {
+      "en": "in front of",
+      "ko": "~의 앞에",
+      "pos": "",
+      "ex": "This is me in front of the wall painting."
+    },
+    {
+      "en": "take a picture",
+      "ko": "사진을 찍다",
+      "pos": ""
+    },
+    {
+      "en": "apply for",
+      "ko": "~에 지원하다",
+      "pos": ""
+    },
+    {
+      "en": "paint over",
+      "ko": "~에 덧칠을 하다",
+      "pos": ""
+    },
+    {
+      "en": "divide into",
+      "ko": "~으로 나누다",
+      "pos": ""
+    },
+    {
+      "en": "get together",
+      "ko": "모이다",
+      "pos": "",
+      "ex": "Word Power get together up along with on • Let’s get together in a few days."
+    },
+    {
+      "en": "be proud of",
+      "ko": "~을 자랑스러워하다",
+      "pos": ""
+    }
+  ]
+}

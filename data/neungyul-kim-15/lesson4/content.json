@@ -1,0 +1,450 @@
+{
+  "lessonInfo": {
+    "textbook": "neungyul-kim-15",
+    "lesson": 4,
+    "title": "Lesson 4"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "What’s the matter?",
+        "ko": "",
+        "category": "고민이나 불만족의 원인에 대해 묻기"
+      },
+      {
+        "en": "What happened?",
+        "ko": "",
+        "category": "고민이나 불만족의 원인에 대해 묻기"
+      },
+      {
+        "en": "I have no doubt that ~은 ‘나 는 ~라고 확신 한다’라는 뜻으로 무언가에 대한 확신 을 나타낼 때 사용한다.",
+        "ko": "",
+        "category": "확실성 정도 표현하기"
+      },
+      {
+        "en": "I have no doubt that ~은 ‘나 는 ~라고 확신 한다’라는 뜻으로 that 다음에는 주어 와 동사를 갖춘 절 형태가 온다.",
+        "ko": "",
+        "category": "확실성 정도 표현하기"
+      },
+      {
+        "en": "Grammar✚ 조동사가 포함된 수동태 1.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "It can't be delayed.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "It _________________________.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Okay, Mom. I’d love to see Grandma, but I",
+        "ko": "엄마, 우리에게 문제가 생겼어요.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "That’s a good idea. They’re both good friends",
+        "ko": "안녕하세요, Smith 선생님. 저에게 문제가 생겼어요.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "That would help me out so much! Thanks for",
+        "ko": "안녕, Mandy. 무슨 일이야?",
+        "category": "감사"
+      },
+      {
+        "en": "I need to prepare for an exam this Thursday,",
+        "ko": "무슨 일이야?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "It seems that you must choose between the",
+        "ko": "무슨 일이야?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "나는 이번 주 목요일에 시험 준비를 해야 하는데, 또",
+        "ko": "두 가지 중에 선택을 해야만 할 것 같네.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "나는 이번 주 금요일에 친구의 생일 파티에 가야 하는",
+        "ko": "두 가지 중에 선택을 해야만 할 것 같네.",
+        "category": "일반 표현"
+      },
+      {
+        "en": "I want to take photos for Sports Day.",
+        "ko": "운동회가 다가오고 있어. 너는 어떻게 돕고 싶니?",
+        "category": "일반 표현"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "What’s the ___?",
+        "a": "matter",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "What ___?",
+        "a": "happened",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I have no ___ that ~은 ‘나 는 ~라고 확신 한다’라는 뜻으로 무언가에 대한 확신 을 나타낼 때 사용한다.",
+        "a": "doubt",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I have no ___ that ~은 ‘나 는 ~라고 확신 한다’라는 뜻으로 that 다음에는 주어 와 동사를 갖춘 절 형태가 온다.",
+        "a": "doubt",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___✚ 조동사가 포함된 수동태 1.",
+        "a": "Grammar",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "It can't be ___.",
+        "a": "delayed",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Okay, Mom. I’d love to see ___, but I",
+        "a": "Grandma",
+        "hint": "엄마, 우리에게 문제가 생겼어요."
+      },
+      {
+        "type": "fill-blank",
+        "q": "That’s a good idea. They’re both good ___",
+        "a": "friends",
+        "hint": "안녕하세요, Smith 선생님. 저에게 문제가 생겼어요."
+      },
+      {
+        "type": "fill-blank",
+        "q": "That would help me out so much! ___ for",
+        "a": "Thanks",
+        "hint": "안녕, Mandy. 무슨 일이야?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I need to prepare for an exam this ___,",
+        "a": "Thursday",
+        "hint": "무슨 일이야?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "It seems that you must choose ___ the",
+        "a": "between",
+        "hint": "무슨 일이야?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I want to take ___ for Sports Day.",
+        "a": "photos",
+        "hint": "운동회가 다가오고 있어. 너는 어떻게 돕고 싶니?"
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - 1",
+        "en": "M: I understand. I hope everything works out. A: 두 가지 중에 선택을 해야만 할 것 같네. G1: That’s right. I think we’re ready. A: 우리 반을 위해 너는 무엇을 하고 싶니? B: I want to make a class newspaper.",
+        "ko": "남자: 준수야, 괜찮니? 무슨 일이야? 고민이나 불만족의 원인에 대해 묻기: 상대방이 불만족하거나 소년: 우리의 박물관 견학이 정말 기대돼. B: 나는 학생 연락처 목록을 만들고 싶어. A: 우리 반을 위해 너는 무엇을 하고 싶니?"
+      },
+      {
+        "id": "r2",
+        "title": "본문 - 2",
+        "en": "Brian(B): 선거가 다가오고 있어. 반 대표에 입후보하는 게 어때, 유미야? It can't be delayed. 그것은 미뤄질 수 없다. He may be fired. 그는 해고될지도 모른다. You should be elected as a chairman. 너는 반장으로 선출되어야 한다. The apples will be picked in fall. 그 사과들은 가을에 수확될 것이다.",
+        "ko": "유미(유): 말도 안 돼. 나는 그 자리에 적절한 사람이 아니야. 나는 입후보하는 것 • may[might] be+과거분사(p.p.): ~될지도 모른다 • should be+과거분사(p.p.): ~되어져야 한다 • will be+과거분사(p.p.): ~될 것이다 2. 조동사가 있는 수동태의 부정형은 <조동사+not+be+과거분사>의 형태로 쓴다."
+      },
+      {
+        "id": "r3",
+        "title": "본문 - 3",
+        "en": "Q1. Why does Brian think that Yumi has good leadership qualities? Q2. In Yumi’s opinion, what qualities should leaders have? Q3. When do purple leaders give advice? Q3. 보라색 리더들은 언제 조언을 해 주나요? She made her son a doctor.",
+        "ko": "Q1. Brian은 왜 유미가 좋은 지도력 자질 ▲구문 UP 주격관계대명사 ▲구문 UP 사역동사 - 그들은 필요할 때만 조언을 한다. 그녀는 아들을 의사로 만들었다."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "M: I ___.",
+        "a": "understand",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I hope ___ works out.",
+        "a": "everything",
+        "passage": "r1"
+      },
+      {
+        "type": "true-false",
+        "q": "남자: 준수야, 괜찮니? 무슨 일이야? 고민이나 불만족의 원인에 대해 묻기: 상대방이 불만족하거나 소년: 우...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "___(B): 선거가 다가오고 있어.",
+        "a": "Brian",
+        "passage": "r2"
+      },
+      {
+        "type": "fill-blank",
+        "q": "It can't be ___.",
+        "a": "delayed",
+        "passage": "r2"
+      },
+      {
+        "type": "true-false",
+        "q": "유미(유): 말도 안 돼. 나는 그 자리에 적절한 사람이 아니야. 나는 입후보하는 것 • may[might]...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "Why does Brian think that Yumi has good ___ qualities?",
+        "a": "leadership",
+        "passage": "r3"
+      },
+      {
+        "type": "true-false",
+        "q": "Q1. Brian은 왜 유미가 좋은 지도력 자질 ▲구문 UP 주격관계대명사 ▲구문 UP 사역동사 - 그들...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사가 앞의 명사를 꾸며주는 형용사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "B: I want to mae a lass newspaper.",
+            "ko": "A: 우리 반을 위해 너는 무엇을 하고 싶니?"
+          },
+          {
+            "en": "B: I want to now f[whether] I wll get taller.",
+            "ko": "여우: 네가 이 음식을 좋아하는지 궁금한걸."
+          },
+          {
+            "en": "I am just onsderng whether to buy or not.",
+            "ko": "살까 말까 숙고 중이다."
+          },
+          {
+            "en": "Whether you le t or not, I‘m gong to buy t. 네가 좋아하든 아니든, 나는 그것을 살 거야.",
+            "ko": "다음 문장을 바르게 해석하시오."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "What’s the matter?",
+            "ko": "무슨 일이야?"
+          },
+          {
+            "en": "M: I understand. I hope everything works out.",
+            "ko": "남자: 준수야, 괜찮니? 무슨 일이야?"
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "현재완료",
+        "explanation": "'have/has + 과거분사'로 과거에 시작된 일이 현재까지 영향을 미침을 나타냅니다.",
+        "examples": []
+      },
+      {
+        "id": "g4",
+        "title": "수동태",
+        "explanation": "'be동사 + 과거분사(p.p.)'로 '~되다, ~당하다'의 의미를 나타냅니다.",
+        "examples": [
+          {
+            "en": "I don't now whether[f] they were nvted.",
+            "ko": "나는 그들이 초대를 받았는지 모르겠다."
+          },
+          {
+            "en": "She laughed at me. I was laughed at by her.",
+            "ko": "그녀는 나를 놀렸다. 나는 그녀에게 놀림을 당했다."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "word-order",
+        "words": [
+          "What",
+          "should",
+          "I",
+          "do?:",
+          "나",
+          "어떻게",
+          "해야",
+          "하나요"
+        ],
+        "a": "What should I do?: 나 어떻게 해야 하나요?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "M:",
+          "I",
+          "understand.",
+          "I",
+          "hope",
+          "everythng",
+          "wors",
+          "out"
+        ],
+        "a": "M: I understand. I hope everythng wors out."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "Why",
+          "don’t",
+          "you",
+          "+",
+          "동사원형?:",
+          "~하는",
+          "게",
+          "어때"
+        ],
+        "a": "Why don’t you + 동사원형?: ~하는 게 어때?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "How/What",
+          "about",
+          "+",
+          "-ng?:",
+          "~하는",
+          "게",
+          "어때"
+        ],
+        "a": "How/What about + -ng?: ~하는 게 어때?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "두",
+          "가지",
+          "중에",
+          "선택을",
+          "해야만",
+          "할",
+          "것",
+          "같네"
+        ],
+        "a": "A: 두 가지 중에 선택을 해야만 할 것 같네."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "Why",
+          "the",
+          "long",
+          "fae"
+        ],
+        "a": "Why the long fae?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "What’s the ___?",
+        "a": "matter",
+        "hint": "무슨 일이야?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ should I do?: 나 어떻게 해야 하나요?",
+        "a": "What",
+        "hint": "상대방에게 조언이나 충고를 구할 때 사용하는 표현으로,"
+      },
+      {
+        "type": "fill-blank",
+        "q": "M: I ___. I hope everythng wors out.",
+        "a": "understand",
+        "hint": "남자: 준수야, 괜찮니? 무슨 일이야?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ don’t you + 동사원형?: ~하는 게 어때?",
+        "a": "Why",
+        "hint": "상대방에게 조언이나 제안을 할 때 사용하는 표현으로"
+      },
+      {
+        "type": "fill-blank",
+        "q": "How/What ___ + -ng?: ~하는 게 어때?",
+        "a": "about",
+        "hint": "병렬구조: do ~ + and + help ~"
+      },
+      {
+        "type": "error-correction",
+        "q": "Ths rng annot be sold anyoneing.",
+        "a": "to anyone",
+        "wrong": "anyoneing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "multi-choice",
+        "q": "This item (used / be / can) in a variety of ways.",
+        "a": "used",
+        "opts": [
+          "used",
+          "be / can"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "The elevator (will / fixed / this afternoon / be).",
+        "a": "will",
+        "opts": [
+          "will",
+          "fixed / this afternoon / be"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "These books (be / by next Tuesday / must / returned).",
+        "a": "be",
+        "opts": [
+          "be",
+          "by next Tuesday / must / returned"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "I asked (if / what) she could help me.",
+        "a": "if",
+        "opts": [
+          "if",
+          "what"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-lee-15",
+    "lesson": 1,
+    "title": "Lesson 1"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "I’ve been great.",
+        "ko": "",
+        "category": "안부 묻고 답하기"
+      },
+      {
+        "en": "Not so good.",
+        "ko": "",
+        "category": "안부 묻고 답하기"
+      },
+      {
+        "en": "How have you been?",
+        "ko": "",
+        "category": "안부 묻고 답하기"
+      },
+      {
+        "en": "I’ve been ~을 사용하여 답했다.",
+        "ko": "",
+        "category": "안부 묻고 답하기"
+      },
+      {
+        "en": "I’m happy to hear that.",
+        "ko": "",
+        "category": "기쁨 표현하기"
+      },
+      {
+        "en": "I’m sorry to hear that.",
+        "ko": "",
+        "category": "유감 표현하기"
+      },
+      {
+        "en": "I’ve been good.",
+        "ko": "",
+        "category": "안부 묻고 답하기"
+      },
+      {
+        "en": "It은 가주어이고 to choose가 진주어인 구문으로 이 때 for us는 to choose의 의 미상의 주어이다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "It)가 다를 때 to부정사 앞에 ‘for+목적격’으로 의미상의 주어를 표시해준다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Grammar✚ 관계대명사 what 보통의 관계대명사 that, which, who가 이끄는 관계대명사절이 선행사를 수식하는 형 용사 절인데 반해, 선행사를 포함하는 관계대명사 what이 이끄는 절은 명사절이므로 what이 이끄는 절은 문장에서 주어, 보어, 목적어로 쓰일 수 있다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "What he did was wrong.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "It은 가주어이고 _______________가 진주어인 구문으로 이 때 for us는 to choose의 의미상의 주어이다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "It)가 다를 때 to부정사 앞에 ‘for+___________’으로 의미상의 주어를 표시해준다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "I’ve been good.",
+        "ko": "어떻게 지냈니?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "I came in first in the marathon.",
+        "ko": "나는 마라톤 경주에서 일등으로 들어왔어.",
+        "category": "일반 표현"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "I’ve been ___.",
+        "a": "great",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Not so ___.",
+        "a": "good",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ have you been?",
+        "a": "How",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’m ___ to hear that.",
+        "a": "happy",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’m ___ to hear that.",
+        "a": "sorry",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’ve been ___.",
+        "a": "good",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "It은 가주어이고 to ___가 진주어인 구문으로 이 때 for us는 to choose의 의 미상의 주어이다.",
+        "a": "choose",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___✚ 관계대명사 what 보통의 관계대명사 that, which, who가 이끄는 관계대명사절이 선행사를 수식하는 형 용사 절인데 반해, 선행사를 포함하는 관계대명사 what이 이끄는 절은 명사절이므로 what이 이끄는 절은 문장에서 주어, 보어, 목적어로 쓰일 수 있다.",
+        "a": "Grammar",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "What he did was ___.",
+        "a": "wrong",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "It은 가주어이고 _______________가 진주어인 구문으로 이 때 for us는 to ___의 의미상의 주어이다.",
+        "a": "choose",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I’ve been ___.",
+        "a": "good",
+        "hint": "어떻게 지냈니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I came in first in the ___.",
+        "a": "marathon",
+        "hint": "나는 마라톤 경주에서 일등으로 들어왔어."
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - 1",
+        "en": "A: How have you been? A: I came in first in the marathon. B: Not so good. I have a bad cold. B: I’ve been good. How is everything? B: 잘 지냈어. 너는 어떻게 지내니?",
+        "ko": "A: 어떻게 지냈니? A: 나는 마라톤 경주에서 일등으로 들어왔어. 소년: Amy, 어떻게 지냈니? A: 미나야, 어떻게 지냈니? → A: 아주 좋아. 나의 새 학급 친구들이 친절해."
+      },
+      {
+        "id": "r2",
+        "title": "본문 - 2",
+        "en": "A: Mike, how have you been? B: 잘 지냈어. 너는 어떻게 지내니? G: Our team had the best teamwork. B: Yeah. We played really well as a team. A: Bob, you look happy.",
+        "ko": "A: Mike, 어떻게 지냈니? A: 잘 지내. 새 수업들이 흥미진진해. 소년: Susan, 너 신이 나 보이네. 좋은 소식이 있니? 소녀: Andy, 농구 경기는 어땠니? A: Bob, 너 행복해 보여."
+      },
+      {
+        "id": "r3",
+        "title": "본문 - 3",
+        "en": "B: 나는 마라톤 경주에서 1등으로 들어왔어. B: I had a fight with my friend. A: Jim, you look happy. I’m pleased to hear that. Minho: You still have my number, right?",
+        "ko": "A: 그 말을 들으니 기뻐. B: 나는 친구와 싸웠어. A: Jim, 너 행복해 보여. That’s terrible! ’안됐구나!‘ 민호: Linda! 너구나? 오랜만이야."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "A: ___ have you been?",
+        "a": "How",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: I came in first in the ___.",
+        "a": "marathon",
+        "passage": "r1"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: Not so ___.",
+        "a": "good",
+        "passage": "r1"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 어떻게 지냈니? A: 나는 마라톤 경주에서 일등으로 들어왔어. 소년: Amy, 어떻게 지냈니? A: 미...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: ___, how have you been?",
+        "a": "Mike",
+        "passage": "r2"
+      },
+      {
+        "type": "true-false",
+        "q": "A: Mike, 어떻게 지냈니? A: 잘 지내. 새 수업들이 흥미진진해. 소년: Susan, 너 신이 나 보...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: I had a fight with my ___.",
+        "a": "friend",
+        "passage": "r3"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Jim, you look ___.",
+        "a": "happy",
+        "passage": "r3"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 그 말을 들으니 기뻐. B: 나는 친구와 싸웠어. A: Jim, 너 행복해 보여. That’s terr...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사가 동사, 형용사, 부사를 수식하는 부사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "B: I’m happy to hear that.",
+            "ko": "A: 나는 마라톤 경주에서 일등으로 들어왔어."
+          },
+          {
+            "en": "It’s good to see you.: 만나서 반가워.",
+            "ko": "상대방을 오랜만에 만났을 때 하는 인사로, 이 때 to see는"
+          },
+          {
+            "en": "B: I’m happy to hear that.",
+            "ko": "소년: Susan, 너 신이 나 보이네. 좋은 소식이 있니?"
+          },
+          {
+            "en": "A: I’m happy to hear that.",
+            "ko": "A: Bob, 너 행복해 보여."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "His front tooth fell out of itself.",
+            "ko": "그의 앞니가 저절로 빠졌다."
+          },
+          {
+            "en": "We finally made what we wanted!",
+            "ko": "우리는 결국 우리가 원했던 것을 만들었어요!"
+          },
+          {
+            "en": "We finally made what we wanted!",
+            "ko": "우리는 결국 우리가 원했던 것을 만들었어요!"
+          },
+          {
+            "en": "B: I’ve been good.",
+            "ko": "A: 어떻게 지냈니?"
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "현재완료",
+        "explanation": "'have/has + 과거분사'로 과거에 시작된 일이 현재까지 영향을 미침을 나타냅니다.",
+        "examples": [
+          {
+            "en": "A: That’s great. I’m happy to hear that.",
+            "ko": "A: 어떻게 지냈니?"
+          },
+          {
+            "en": "A: 어떻게 지냈니?",
+            "ko": "B: 잘 지냈어."
+          },
+          {
+            "en": "A: 방학은 어땠니?",
+            "ko": "B: 좋았어. 나는 중국으로 여행을 갔었어."
+          },
+          {
+            "en": "B: 좋았어. 나는 중국으로 여행을 갔었어.",
+            "ko": "A: 멋지다. 그 말을 들으니 기쁘구나."
+          }
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "수동태",
+        "explanation": "'be동사 + 과거분사(p.p.)'로 '~되다, ~당하다'의 의미를 나타냅니다.",
+        "examples": []
+      }
+    ],
+    "exercises": [
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "How",
+          "have",
+          "you",
+          "been"
+        ],
+        "a": "A: How have you been?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "I’ve",
+          "been",
+          "good"
+        ],
+        "a": "B: I’ve been good."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "I",
+          "ame",
+          "n",
+          "frst",
+          "n",
+          "the",
+          "marathon"
+        ],
+        "a": "A: I ame n frst n the marathon."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "I’m",
+          "happy",
+          "to",
+          "hear",
+          "that"
+        ],
+        "a": "B: I’m happy to hear that."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "나는",
+          "마라톤",
+          "경주에서",
+          "일등으로",
+          "들어왔어"
+        ],
+        "a": "A: 나는 마라톤 경주에서 일등으로 들어왔어."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "Not",
+          "so",
+          "good.",
+          "I",
+          "have",
+          "a",
+          "bad",
+          "old"
+        ],
+        "a": "B: Not so good. I have a bad old."
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: ___ have you been?",
+        "a": "How",
+        "hint": "A: 어떻게 지냈니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: I’ve been ___.",
+        "a": "good",
+        "hint": "A: 어떻게 지냈니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: I ame n frst n the ___.",
+        "a": "marathon",
+        "hint": "A: 나는 마라톤 경주에서 일등으로 들어왔어."
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: I’m ___ to hear that.",
+        "a": "happy",
+        "hint": "A: 나는 마라톤 경주에서 일등으로 들어왔어."
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: Not so ___. I have a bad old.",
+        "a": "good",
+        "hint": "소년: Amy, 어떻게 지냈니?"
+      },
+      {
+        "type": "error-correction",
+        "q": "B: I’m happy hearing that.",
+        "a": "to hear",
+        "wrong": "hearing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "I ddn’t now + (that) you plaied the pano.",
+        "a": "played",
+        "wrong": "plaied",
+        "exp": "자음+y → yed (y 앞이 모음이면 그대로)"
+      },
+      {
+        "type": "error-correction",
+        "q": "B: Yeah. We plaied really well as a team.",
+        "a": "played",
+        "wrong": "plaied",
+        "exp": "자음+y → yed (y 앞이 모음이면 그대로)"
+      },
+      {
+        "type": "error-correction",
+        "q": "A: I’m happy hearing that.",
+        "a": "to hear",
+        "wrong": "hearing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "multi-choice",
+        "q": "Is it difficult (for / to) solve the problem?",
+        "a": "for",
+        "opts": [
+          "for",
+          "to"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "It was foolish (of / for) you to do so.",
+        "a": "of",
+        "opts": [
+          "of",
+          "for"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "It is very wise of (she / her) to accept his offer.",
+        "a": "she",
+        "opts": [
+          "she",
+          "her"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "It's important (for / of) students to sleep well.",
+        "a": "for",
+        "opts": [
+          "for",
+          "of"
+        ]
+      }
+    ]
+  }
+}

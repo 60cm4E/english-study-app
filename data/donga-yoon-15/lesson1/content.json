@@ -1,0 +1,522 @@
+{
+  "lessonInfo": {
+    "textbook": "donga-yoon-15",
+    "lesson": 1,
+    "title": "Lesson 1"
+  },
+  "communication": {
+    "keyExpressions": [
+      {
+        "en": "Have you ever ~?",
+        "ko": "",
+        "category": "경험 묻고 답하기"
+      },
+      {
+        "en": "Yes, I have.",
+        "ko": "",
+        "category": "경험 묻고 답하기"
+      },
+      {
+        "en": "I hope (that) ~.",
+        "ko": "",
+        "category": "희망 표현하기"
+      },
+      {
+        "en": "Have you + 과거분사 ~?",
+        "ko": "",
+        "category": "경험 묻고 답하기"
+      },
+      {
+        "en": "Have you ever thought of ~?",
+        "ko": "",
+        "category": "경험 묻고 답하기"
+      },
+      {
+        "en": "Show and Tell [e.",
+        "ko": "",
+        "category": "희망 표현하기"
+      },
+      {
+        "en": "I)와 동사(enjoyed)를 갖춘 완전한 명사절을 이끈다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Everything changed when I went on vacation to Iceland one winter.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Northern Lights는 ‘오로라를 볼 기회’라고 해석한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "I)와 동사(could succeed) 를 갖춘 완전한 명사절을 이끈다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "I wasn’t sure if ~는 ‘~인지 아닌지 확신하지 못했다’라는 의미이다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Everything changed when I ____________________ to Iceland one winter.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Northern Lights는 ‘____________________’ 라고 해석한다.",
+        "ko": "",
+        "category": "목표어법"
+      },
+      {
+        "en": "Have you ever visited Jeju-do?",
+        "ko": "너는 제주도에 가 봤니?",
+        "category": "일반 표현"
+      },
+      {
+        "en": "Yes, I have. / No, I haven’t.",
+        "ko": "너는 제주도에 가 봤니?",
+        "category": "일반 표현"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "Have you ___ ~?",
+        "a": "ever",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___, I have.",
+        "a": "Yes",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I ___ (that) ~.",
+        "a": "hope",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Have you ever ___ of ~?",
+        "a": "thought",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ and Tell [e.",
+        "a": "Show",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I)와 동사(___)를 갖춘 완전한 명사절을 이끈다.",
+        "a": "enjoyed",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ changed when I went on vacation to Iceland one winter.",
+        "a": "Everything",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ Lights는 ‘오로라를 볼 기회’라고 해석한다.",
+        "a": "Northern",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I)와 동사(could ___) 를 갖춘 완전한 명사절을 이끈다.",
+        "a": "succeed",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "I ___’t sure if ~는 ‘~인지 아닌지 확신하지 못했다’라는 의미이다.",
+        "a": "wasn",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ changed when I ____________________ to Iceland one winter.",
+        "a": "Everything",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "___ Lights는 ‘____________________’ 라고 해석한다.",
+        "a": "Northern",
+        "hint": ""
+      },
+      {
+        "type": "fill-blank",
+        "q": "Have you ever ___ Jeju-do?",
+        "a": "visited",
+        "hint": "너는 제주도에 가 봤니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "Yes, I have. / No, I ___’t.",
+        "a": "haven",
+        "hint": "너는 제주도에 가 봤니?"
+      }
+    ]
+  },
+  "reading": {
+    "passages": [
+      {
+        "id": "r1",
+        "title": "본문 - 1",
+        "en": "A: Have you ever visited Jeju-do? B: 응, 가 봤어. / 아니, 안 가 봤어. I hope you can visit there sometime. Find a Dream and Live It! I didn’t know whether I really enjoyed it.",
+        "ko": "A: 너는 제주도에 가 봤니? • 희망 표현하기 네가 언젠가 그곳에 방문할 수 있기를 바라. 꿈을 찾고 실현하세요! 나는 내가 그것을 정말로 즐기는지는 알 수 없었다."
+      },
+      {
+        "id": "r2",
+        "title": "본문 - 2",
+        "en": "I got a chance to see the Northern Lights. G: 너는 전에 스페인 음식을 먹어 본 적이 있니? B: 너는 다른 나라에 가 본 적이 있니? G: 달에 관한 이 책을 읽어 봐. 정말 재미있어. B: Yes. How about you?",
+        "ko": "나는 오로라를 볼 기회가 있었다. G: 응, 먹어 봤어. 네가 언젠가 먹어 볼 수 있길 바라. 정 B: 응, 난 프랑스에 가 봤어. 네가 언젠가 다른 나라를 여 B: 알아. 나는 그걸 이미 읽었어. G: 나는 이 CD를 살 거야. 피아노 곡 듣는 걸 아주 좋아하"
+      },
+      {
+        "id": "r3",
+        "title": "본문 - 3",
+        "en": "B: 나도 그래. 나는 피아노 연주도 즐겨 해. G: 음, 나는 피아노 치는 법을 배운 적이 없어. A: 나는 그곳에 다시 가 보고 싶어. A: I've eaten insects. Have you ever eaten insects? B: 응, 있어. 그것들은 사실 맛있어.",
+        "ko": "G: 정말? 그럼 너는 피아노를 칠 수 있어? B: 그거 재미있어. 네가 배울 기회가 있길 바라. A: 그 섬은 아름다워. 네가 언젠가 그곳에 가 볼 수 있 A: 나는 곤충을 먹어 본 적이 있어. 너는 곤충을 먹어 본 A: 나는 언젠가 그것들을 다시 먹어 보고 싶어."
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "q": "A: Have you ever ___ Jeju-do?",
+        "a": "visited",
+        "passage": "r1"
+      },
+      {
+        "type": "true-false",
+        "q": "A: 너는 제주도에 가 봤니? • 희망 표현하기 네가 언젠가 그곳에 방문할 수 있기를 바라. 꿈을 찾고 실현...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I got a chance to see the ___ Lights.",
+        "a": "Northern",
+        "passage": "r2"
+      },
+      {
+        "type": "true-false",
+        "q": "나는 오로라를 볼 기회가 있었다. G: 응, 먹어 봤어. 네가 언젠가 먹어 볼 수 있길 바라. 정 B: 응,...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      },
+      {
+        "type": "true-false",
+        "q": "G: 정말? 그럼 너는 피아노를 칠 수 있어? B: 그거 재미있어. 네가 배울 기회가 있길 바라. A: 그 ...",
+        "a": true,
+        "exp": "본문 내용과 일치"
+      }
+    ]
+  },
+  "grammar": {
+    "points": [
+      {
+        "id": "g1",
+        "title": "to부정사",
+        "explanation": "to부정사가 앞의 명사를 꾸며주는 형용사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "Find a Dream and Live It!",
+            "ko": "꿈을 찾고 실현하세요!"
+          },
+          {
+            "en": "I didn’t know whether I really enjoyed it.",
+            "ko": "나는 내가 그것을 정말로 즐기는지는 알 수 없었다."
+          },
+          {
+            "en": "I got a chance to see the Northern Lights.",
+            "ko": "나는 오로라를 볼 기회가 있었다."
+          }
+        ]
+      },
+      {
+        "id": "g2",
+        "title": "관계대명사",
+        "explanation": "'관계대명사'는 두 문장을 하나로 연결하는 접속사+대명사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "I never thought + (that) these thngs ould lead to a job.",
+            "ko": "In fact: 사실은, 실은"
+          },
+          {
+            "en": "What maes your heart beat fast?",
+            "ko": "Q1. David Parker의 직업은 무엇인가요?"
+          },
+          {
+            "en": "Q5. What was Davd arer’s bold deson?",
+            "ko": "▲구문 UP 접속사 if"
+          },
+          {
+            "en": "Thn about + what you le to do and what maes you happy.",
+            "ko": "의문사+주어+동사 의문사+동사"
+          }
+        ]
+      },
+      {
+        "id": "g3",
+        "title": "현재완료",
+        "explanation": "'have/has + 과거분사'로 과거에 시작된 일이 현재까지 영향을 미침을 나타냅니다.",
+        "examples": [
+          {
+            "en": "G: 달에 관한 이 책을 읽어 봐. 정말 재미있어.",
+            "ko": "B: 알아. 나는 그걸 이미 읽었어."
+          },
+          {
+            "en": "B: 알아. 나는 그걸 이미 읽었어.",
+            "ko": "G: 읽었다고? 영화는 어때? 그 책에 관한 영화도 본 적이"
+          },
+          {
+            "en": "G: 달에 관한 이 책을 읽어 봐. 정말 재미있어.",
+            "ko": "B: 알아. 나는 그걸 이미 읽었어."
+          }
+        ]
+      },
+      {
+        "id": "g4",
+        "title": "분사",
+        "explanation": "현재분사(-ing)와 과거분사(-ed)가 명사를 수식하는 형용사 역할을 합니다.",
+        "examples": [
+          {
+            "en": "A: Have you ever vsted Jeju-do?",
+            "ko": "A: 너는 제주도에 가 봤니?"
+          },
+          {
+            "en": "I ddn’t now whether I really enjoyed t.",
+            "ko": "나는 내가 그것을 정말로 즐기는지는 알 수 없었다."
+          },
+          {
+            "en": "G: Well, I’ve never learned how to play.",
+            "ko": "G: 나는 이 CD를 살 거야. 피아노 곡 듣는 걸 아주 좋아하"
+          },
+          {
+            "en": "I’ve never learned how to play.",
+            "ko": "to부정사의 형용사적 용법: to learn은 앞의 명사 a chance를"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "error-correction",
+        "q": "I think Junho is interesting in cooking and taking pictures.",
+        "a": "interested",
+        "wrong": "interesting",
+        "exp": "감정을 느끼는 주체는 과거분사 -ed"
+      },
+      {
+        "type": "error-correction",
+        "q": "I think Junho is interesting in cooking.",
+        "a": "interested",
+        "wrong": "interesting",
+        "exp": "감정을 느끼는 주체는 과거분사 -ed"
+      },
+      {
+        "type": "error-correction",
+        "q": "I think Junho is interesting in caring for animals and taking pictures.",
+        "a": "interested",
+        "wrong": "interesting",
+        "exp": "감정을 느끼는 주체는 과거분사 -ed"
+      },
+      {
+        "type": "error-correction",
+        "q": "I think Sue is interesting in traveling and making movies.",
+        "a": "interested",
+        "wrong": "interesting",
+        "exp": "감정을 느끼는 주체는 과거분사 -ed"
+      },
+      {
+        "type": "error-correction",
+        "q": "I think Sue is interesting in making movies.",
+        "a": "interested",
+        "wrong": "interesting",
+        "exp": "감정을 느끼는 주체는 과거분사 -ed"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "Have",
+          "you",
+          "ever",
+          "vsted",
+          "Jeju-do"
+        ],
+        "a": "A: Have you ever vsted Jeju-do?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "Yes,",
+          "I",
+          "have.",
+          "/",
+          "No,",
+          "I",
+          "haven’t"
+        ],
+        "a": "B: Yes, I have. / No, I haven’t."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "A:",
+          "너는",
+          "제주도에",
+          "가",
+          "봤니"
+        ],
+        "a": "A: 너는 제주도에 가 봤니?"
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "B:",
+          "응,",
+          "가",
+          "봤어.",
+          "/",
+          "아니,",
+          "안",
+          "가",
+          "봤어"
+        ],
+        "a": "B: 응, 가 봤어. / 아니, 안 가 봤어."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "I",
+          "hope",
+          "you",
+          "an",
+          "vst",
+          "there",
+          "sometme"
+        ],
+        "a": "I hope you an vst there sometme."
+      },
+      {
+        "type": "word-order",
+        "words": [
+          "Fnd",
+          "a",
+          "Dream",
+          "and",
+          "Lve",
+          "It"
+        ],
+        "a": "Fnd a Dream and Lve It!"
+      },
+      {
+        "type": "fill-blank",
+        "q": "A: Have you ever ___ Jeju-do?",
+        "a": "vsted",
+        "hint": "A: 너는 제주도에 가 봤니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "B: Yes, I have. / No, I ___’t.",
+        "a": "haven",
+        "hint": "A: 너는 제주도에 가 봤니?"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I hope you an vst there ___.",
+        "a": "sometme",
+        "hint": "네가 언젠가 그곳에 방문할 수 있기를 바라."
+      },
+      {
+        "type": "fill-blank",
+        "q": "Fnd a ___ and Lve It!",
+        "a": "Dream",
+        "hint": "꿈을 찾고 실현하세요!"
+      },
+      {
+        "type": "fill-blank",
+        "q": "I ddn’t now ___ I really enjoyed t.",
+        "a": "whether",
+        "hint": "나는 내가 그것을 정말로 즐기는지는 알 수 없었다."
+      },
+      {
+        "type": "error-correction",
+        "q": "G: Well, I’ve never learned how playing.",
+        "a": "to play",
+        "wrong": "playing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "B: It’s fun. I hope you’ll have a hane learning.",
+        "a": "to learn",
+        "wrong": "learning",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "I’ve never learned how playing.",
+        "a": "to play",
+        "wrong": "playing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "error-correction",
+        "q": "B: No, I have never been Ulleungdoing.",
+        "a": "to Ulleungdo",
+        "wrong": "Ulleungdoing",
+        "exp": "to부정사: to + 동사원형"
+      },
+      {
+        "type": "multi-choice",
+        "q": "I asked (if / what) she could help me.",
+        "a": "if",
+        "opts": [
+          "if",
+          "what"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "I'm not sure (if / that) I could go or not.",
+        "a": "if",
+        "opts": [
+          "if",
+          "that"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "I can't decide (if / whether) to buy a bicycle.",
+        "a": "if",
+        "opts": [
+          "if",
+          "whether"
+        ]
+      },
+      {
+        "type": "multi-choice",
+        "q": "I don’t know (if / whether) to agree.",
+        "a": "if",
+        "opts": [
+          "if",
+          "whether"
+        ]
+      }
+    ]
+  }
+}
